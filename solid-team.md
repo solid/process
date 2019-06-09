@@ -114,7 +114,7 @@ Solid Team members may resign their position at any time.
 
 Solid Team members may take sick leave or pregnancy leave and an election will take place to appoint an interim individual. 
 
-If a Solid Team member not on a leave of absence drops out of touch and cannot be contacted, then the rest of the Solid Team may vote to initiate an Solid Team election as described. 
+If a Solid Team member not on a leave of absence drops out of touch and cannot be contacted for several weeks without notification, then the rest of the Solid Team may vote to initiate an Solid Team election as described. 
 
 Whenever there is a vacancy during the regular Solid Team term, an election will take place as described above to appoint a replacement to serve out the rest of the term.
 
