@@ -126,7 +126,7 @@ There are two forms of no-confidence votes: those targeting a single member, and
 
 ## Conflicts of Interest
 
-Solid Team members are trusted to act in the best interests of Solid rather than themselves or their employers, the mere appearance of any one company dominating Solid development could itself be harmful and erode trust . In order to avoid any appearance of conflict of interest, at most 2 members of the Solid Team can work for any single employer. This does not apply for the first appointment of the first Solid Team because there is a single dominant employer working on Solid at the time. 
+Solid Team members are trusted to act in the best interests of Solid rather than themselves or their employers, the mere appearance of any one company dominating Solid development could itself be harmful and erode trust. In order to avoid any appearance of conflict of interest, at most 2 members of the Solid Team can work for any single employer. This does not apply for the first appointment of the first Solid Team because there is a single dominant employer working on Solid at the time. 
 
 In a Solid Team election, if 3 of the top 5 vote-getters work for the same employer, then whichever of them ranked lowest is disqualified and the 6th-ranking candidate moves up into 5th place; this is repeated until a valid Solid Team is formed.
 
