@@ -1,1 +1,5 @@
-The Solid project was started by Tim Berners-Lee, who has served as the Solid Leader from inception. If there is a difference of opinion, parties are encouraged to talk to find a compromise. The Solid Specification Repository Manager is responsible for processing the suggestion to a change to the Solid specifications and deciding on the route forward. The repository manager of the repository to which the suggestion pertains to will be responsible for merging and closing the pull request or issue.  If a compromise cannot be met the Solid Leader will make the final judgement.
+The Solid project was started by Tim Berners-Lee, who has served as the Solid Leader from inception. 
+
+Originally, if there was a difference of opinion, parties were encouraged to talk to find a compromise. The Solid MIT academic group were responsible for processing suggestions to a change to the Solid specifications and deciding on the route forward.
+
+If a compromise could not be found between the parties the Solid Leader would make the final judgement.
