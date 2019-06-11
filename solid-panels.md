@@ -28,6 +28,19 @@ Interoperability of data across applications is crucial to the core value propos
 
 Nominees for this panel must have extensive background in Solid patterns of use, and experience developing applications with linked data models. They should also have working knowledge of data shapes (via ShEx and/or SHACL).
 
+#### Community Panel
+
+The purpose of the Community Panel is to establish a diverse group of individuals representative of the different stakeholder groups in the Solid Community, from developers and pod providers to users and experts in the field. The Community Panel becomes a vehicle for consultation by the Solid Team or other Solid Panels when community perspective is needed as part of decision making.
+
+Nominees for this panel must be at least one of the following:
+- Solid Team Member
+- former MIT Solid Project Team Member
+- Active Identity Provider
+- Active Pod Provider
+- Active Solid Application Developer
+- Active Solid User - who show a minimum engagement of having a WebID, Pod, and use at least one Solid app
+- Experts in a field relevant to Solid 
+
 ### Archived Solid Panels
 
 No Solid Panels have been closed and subsequently archived yet.
