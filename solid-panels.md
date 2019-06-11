@@ -16,11 +16,11 @@ The purpose of the Specification Panel is to ensure that the Solid Specification
 
 #### Security Panel
 
-The purpose of the Security Panel is to ensure that the Solid security model is well-documented, comprehensive, and constantly evolving, as well as to provide security-related advice and guidance to other panels, and to the Solid Team. The first proposed initiative, to be started immediately, is for this panel to commence with the creation of an in-depth documentation of the Solid security model.
+The purpose of the Security Panel is to ensure that the Solid security model is well-documented, comprehensive, and constantly evolving, as well as to provide security-related advice and guidance to other panels, and to the Solid Team. The first proposed project, to be started immediately, is for this panel to commence with the creation of an in-depth documentation of the Solid security model.
 
 #### Interoperability Panel
 
-Interoperability of data across applications is crucial to the core value proposition of Solid. The purpose of the Interoperability Panel is to ensure that Solid is always capable of delivering robust interoperability, and that tooling and resources are available to foster the same. The first proposed initiative, to be started immediately, is for the panel to commence with a proposal for data discovery by client applications in a Solid Pod.
+Interoperability of data across applications is crucial to the core value proposition of Solid. The purpose of the Interoperability Panel is to ensure that Solid is always capable of delivering robust interoperability, and that tooling and resources are available to foster the same. The first proposed project, to be started immediately, is for the panel to commence with a proposal for data discovery by client applications in a Solid Pod.
 
 ### Archived Solid Panels
 
@@ -38,7 +38,7 @@ The Solid Team may consult one or more Panels for advice on occasion when an int
 
 Every Solid Panel is expected to actively contribute to the evolution of Solid in a way that supports the Solid Roadmap and the healthy growth of the Solid Ecosystem. Panel members are expected to act as custodians of Solid, within and outside of the community.
 
-Every Panel will have a stated purpose that can be mapped directly to the Solid Roadmap, and the Solid Team may task that Panel with specific initiatives to be completed as part of the fulfillment of its mandate. For example, the Specification Panel could be tasked with an initiative to complete the next major version of the Solid Specification.
+Every Panel will have a stated purpose that can be mapped directly to the Solid Roadmap, and the Solid Team may task that Panel with specific projects to be completed as part of the fulfillment of its mandate. For example, the Specification Panel could be tasked with an project to complete the next major version of the Solid Specification.
 
 ### Decision Making
 
@@ -54,7 +54,7 @@ An individual can be nominated to a Panel by:
 - A member of another Panel
 - Self-nomination
 
-An individual's experience and skillset must clearly align with the Panel they are nominated to. Positive contribution to existing Solid project initiatives is weighed heavily in their favor, but not required.
+An individual's experience and skillset must clearly align with the Panel they are nominated to. Positive contribution to existing Solid project work is weighed heavily in their favor, but not required.
 
 Panel members must be approved by a majority vote of the Panel (if already established), and a majority vote of the Solid Team. An individual may belong to more than one Panel. A Solid Team member may participate as a member of a Panel.
 
