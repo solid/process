@@ -14,13 +14,19 @@ The following Solid Panels have been proposed and are currently pending a majori
 
 The purpose of the Specification Panel is to ensure that the Solid Specification is complete, robust, and evolves in alignment with the Solid Roadmap, and to provide advice and guidance to those looking to create specification compliant implementations. The first proposed project, to be started immediately, is for this panel to commence with the creation of the v1.0 Solid Specification.
 
+Nominees for this panel are required to have extensive background and experience in creating, curating, and applying the existing Solid Specification, and/or one or more of the standards that the existing Solid Specification incorporates.
+
 #### Security Panel
 
 The purpose of the Security Panel is to ensure that the Solid security model is well-documented, comprehensive, and constantly evolving, as well as to provide security-related advice and guidance to other panels, and to the Solid Team. The first proposed project, to be started immediately, is for this panel to commence with the creation of an in-depth documentation of the Solid security model.
 
+Nominees for this panel are required to have demonstrable background in some combination of application security (server-side or client side), network security, system/device security, and/or data privacy. They must also have a working knowledge of Solid and a clear understanding of its patterns of use.
+
 #### Interoperability Panel
 
 Interoperability of data across applications is crucial to the core value proposition of Solid. The purpose of the Interoperability Panel is to ensure that Solid is always capable of delivering robust interoperability, and that tooling and resources are available to foster the same. The first proposed project, to be started immediately, is for the panel to commence with a proposal for data discovery by client applications in a Solid Pod.
+
+Nominees for this panel must have extensive background in Solid patterns of use, and experience developing applications with linked data models. They should also have working knowledge of data shapes (via ShEx and/or SHACL).
 
 ### Archived Solid Panels
 
