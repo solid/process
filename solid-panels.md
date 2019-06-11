@@ -1,48 +1,73 @@
-# Solid Panel Mandate
+# Solid Panels
 
-The Solid Panel (also referred to as Solid community) are individuals and groups who are using or working on implementing Solid who may be occasionally consulted for their opinion on a specific project by the Solid Team. 
+Solid Panels are individual groups focused on a specific technical or non-technical domain that are sanctioned by the Solid Team. For example, a Security Panel could be tasked with evaluation and advancement of the Solid security model. A Specification Panel could be tasked with evolution of the Solid Specification. Proposed, Active, and Archived Solid Panels are listed below.
 
-## Solid Panel Nomination 
+### Active Solid Panels
 
-The criteria to apply to be on the Solid Panel include: 
-* Solid Team Member
-* former [MIT Solid Project Team Member](https://solid.mit.edu) 
-* Active Identity provider  
-* Active Pod provider
-* Active Solid app providers 
-* Active Solid Users who show a minimum engagement of having a WebID, Pod, and use at least one Solid app regularly and actively
-* Experts in a field relevant to Solid 
+No Solid Panels have been activated yet.
 
-As soon as there is a Solid Test Suite it will be a requirement for identity providers, Pod providers, and Solid app providers to pass the Solid test to be able to participate in the Solid Panel. 
+### Proposed Solid Panels
 
-Applicants need to get a GitHub account to apply to join the Solid Panel. To apply the applicant must submit a pull request to the Solid Panel listing and add their name, contact details, and how they fulfil the criteria. If all Solid Team members except the Solid Leader review the pull request positively then the applicant becomes a formal Solid Panellist. If a Solid Team member abstains from approving or expresses some hesitation, then the applicant must be approved by the Solid Leader to formally become a Solid Panellist. 
+The following Solid Panels have been proposed and are currently pending a majority vote by the Solid Team. The proposed names, initial projects, and mandates may be subject to change prior to voting.
 
-## Solid Panel Removal 
+#### Solid Specification Panel
 
-Solid Panellists may resign their position at any time. 
+The purpose of the Specification Panel is to ensure that the Solid Specification is complete, robust, and evolves in alignment with the Solid Roadmap, and to provide advice and guidance to those looking to create specification compliant implementations. The first proposed project, to be started immediately, is for this panel to commence with the creation of the v1.0 Solid Specification.
 
-If a Solid Panellist drops out of touch and cannot be contacted for several weeks without notification, then they may be removed from the Solid Panel. 
+#### Security Panel
 
-In exceptional circumstances, it may be necessary to remove someone from the Solid Panel against their will. (For example: egregious and ongoing code of conduct violations.) This can be accomplished by a pull request reviewed by all  Solid Team members except the Solid Leader. If a Solid Team member abstains from approving or expresses some hesitation, then the removal of the Solid applicant must be reviewed by the Solid Leader to be formally removed. 
+The purpose of the Security Panel is to ensure that the Solid security model is well-documented, comprehensive, and constantly evolving, as well as to provide security-related advice and guidance to other panels, and to the Solid Team. The first proposed initiative, to be started immediately, is for this panel to commence with the creation of an in-depth documentation of the Solid security model.
 
-## Conflicts of Interest
+#### Interoperability Panel
 
-Solid Team members are trusted to act in the best interests of Solid rather than themselves or their employers, the mere appearance of any one company dominating Solid development could itself be harmful and erode trust. In order to avoid any appearance of conflict of interest, at most 30% of the Solid Panel can work for any single employer. Solid Panellist applicants who apply when there is already 30% of the Solid Panel working for their employee will be put on hold until there are more applications from other employers or there are Solid Panellist resignations.  
+Interoperability of data across applications is crucial to the core value proposition of Solid. The purpose of the Interoperability Panel is to ensure that Solid is always capable of delivering robust interoperability, and that tooling and resources are available to foster the same. The first proposed initiative, to be started immediately, is for the panel to commence with a proposal for data discovery by client applications in a Solid Pod.
 
-## Solid Panellist Descriptions 
+### Archived Solid Panels
 
-Each Solid Panellists has a description of 1) how much skin in the game they have in relation to Solid 2) what their areas of expertise are. 
+No Solid Panels have been closed and subsequently archived yet.
 
-Solid Skin in the game is classified as: 
-•	Active Identity provider  
-•	Active Pod provider
-•	Active Solid app providers 
-•	Active Solid Users who show a minimum engagement of having a WebID, Pod, and use at least one Solid app regularly and actively
+## Solid Panel Governance
 
-Areas of expertise include but are not limited to: 
-•	Historical Solid Development: Those who were actively involved in the Solid MIT academic project or heavily affiliated during the early development of Solid 
-•	Security
-•	Interoperability 
-•	Data Ethics 
+A new Panel is sanctioned by a majority vote of the Solid Team. Requests for the formation of a new Panel may be submitted to any member of the Solid Team. To be considered, a Panel must be able to demonstrate a clear and substantial benefit to the Solid Mission, and must maintain that trajectory to remain active. Benefit and trajectory are measured by the Solid Team. Not all Panels will be expected to persist indefinitely.
 
-For each area of expertise associated to a Solid Panellist the academic or experience training to qualify that individual with that expertise must be stated. 
+All Solid Panel members need to demonstrate a firm grasp of the philosophy of the Solid Project and the Solid Roadmap. They must demonstrate a track record of being constructive and collaborative, and a willingness to dedicate time to advance the Solid Mission through their work on the Panel.
+
+The Solid Team may consult one or more Panels for advice on occasion when an internal Solid Team vote is not sufficient. Sufficiency is judged by the Solid Team. The Solid Team can request a vote on issues that they feel are important to open up to one or more Solid panels.
+
+### Panel Mandate
+
+Every Solid Panel is expected to actively contribute to the evolution of Solid in a way that supports the Solid Roadmap and the healthy growth of the Solid Ecosystem. Panel members are expected to act as custodians of Solid, within and outside of the community.
+
+Every Panel will have a stated purpose that can be mapped directly to the Solid Roadmap, and the Solid Team may task that Panel with specific initiatives to be completed as part of the fulfillment of its mandate. For example, the Specification Panel could be tasked with an initiative to complete the next major version of the Solid Specification.
+
+### Decision Making
+
+Solid Panels are expected to use this [Decision Making Process](decision-making.md), to be transparent in work being conducted under their mandate, and to provide regular status updates through established channels.
+
+Solid Panels should always strive to operate in a manner that aims for consensus without the need for formalized voting. When voting is necessary, stalemates are resolved by a majority vote of the Solid Team. The Solid Team reserves the right to raise any decisions made or in-process within a Panel to a vote by the Solid Team.
+
+### Panel Nominations
+
+An individual can be nominated to a Panel by:
+- A Solid Team Member
+- A member of the Panel in question
+- A member of another Panel
+- Self-nomination
+
+An individual's experience and skillset must clearly align with the Panel they are nominated to. Positive contribution to existing Solid project initiatives is weighed heavily in their favor, but not required.
+
+Panel members must be approved by a majority vote of the Panel (if already established), and a majority vote of the Solid Team. An individual may belong to more than one Panel. A Solid Team member may participate as a member of a Panel.
+
+### Vacancies
+
+A Solid Panel member may resign their position at any time. Whenever there is a vacancy in a Solid Panel, a new Panel member may be nominated and selected through the [Panel Nomination](#panel-nominations) mechanism detailed in this document.
+
+### Conflicts of Interest
+
+Solid Panel members are trusted to act in the best interests of Solid rather than themselves or their employers. Violation may result in removal from the panel through a vote of no confidence.
+
+### Vote of No Confidence
+
+In exceptional circumstances, a Panel may need to be dissolved by a majority vote of the Solid Team.
+
+It may also be necessary to remove someone from a Solid Panel against their will. For example, due to egregious and ongoing code of conduct violations. Removal of a Solid Panel member must be supported by a majority vote of the Solid Panel in question. The Solid Team also reserves the right to remove a Panel member, or to veto the removal of a Panel member, through a majority vote of the Solid Team.
