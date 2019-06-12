@@ -1,10 +1,12 @@
 # Solid Team
 
-The Solid Team are dedicated stewards of the Solid Project, tasked with realizing the Solid Mission by supporting the fulfillment of the Solid Roadmap.
+The Solid Team are dedicated stewards of the Solid Project, tasked with realizing the Solid Mission by supporting the realization of the Solid Roadmap.
 
 The Solid Team fulfills [roles and responsibilities](#roles-and-responsibilities) necessary to realize the Solid mission and provide an effective means of governance. Individuals occupying these roles were appointed by and serve at the pleasure of the Solid Leader.
 
 The Solid Team has the great responsibility to exercise their authority when necessary to ensure the viability and integrity of Solid, while at the same time fostering a collaborative, transparent, and supportive environment for contribution. The Solid Leader heads the Solid Team and can veto decisions and adjust direction as they see fit.
+
+## Team Members
 
 | Individual            | Role                              |
 | --------------------- | --------------------------------- |
@@ -29,6 +31,22 @@ The mandate of the Solid Team includes but is not limited to:
 * __Solid Website__ - Curation and Management of the [Solid Website](https://www.solidproject.org).
 * __Solid Brand__ - Definition and evolution of the Solid Brand, including any associated brand assets.
 * __Solid Communication Channels__ - Sanction and oversight of official Solid project communication mediums, such as chatrooms, forums, mailing lists, and message boards.
+
+## Rationale
+
+*Why is a Solid Team necessary?*
+
+Solid is a relatively young project with a ton of promise. It has garnered incredible interest and support, from many in academia to some of the largest organizations in the world. However, this adoption will not continue if Solid doesn't consistently live up to its potential by advancing its mission. This requires consistent care and feeding every day, driven by an ability to make key decisions that squarely align with the Solid Roadmap.
+
+Consequently, it is imperative that a small, dedicated group be in a position to organize and focus the efforts of those willing and qualified to contribute. They must do so in a manner that moves us forward at a nimble pace. They must make decisions based on their complete understanding and commitment to the furtherance of the Solid Roadmap.
+
+Organized contribution is orchestrated through sanctioned [Solid Panels](solid-panels.md) in the form of projects. More spurious contribution is also expected and always encouraged. The Solid Team acts in a supervisory role to ensure this work is constructive, and on a trajectory that supports and advances the Solid Roadmap. This guidance, which may sometimes involve decisions, is essential to ensure that work is active, relevant, and consistent with the Solid Mission.
+
+Any time a decision is made, there are some that will not agree. This is the nature of a having a diverse community of people with strong beliefs. It is a good problem to have. That said, arbiters must be there to make informed decisions on behalf of Solid, using information collected from both domain experts, and the community at large. Otherwise, issues would turn into long running arguments that stagnate. Everyone that believes in Solid loses when Solid can't move forward.
+
+This is not a guarantee that all decisions will be correct. It is in fact an acknowledgement that some will not. Still, it is better to make advances and learn from the setbacks, than to remain frozen and never move forward at all. The former is healthy, the latter is not.
+
+In short, the Solid Team exists to guide and channel the collective energies of a diverse community of individuals and organizations to realize the Solid Roadmap.
 
 ## Roles and Responsibilities
 
