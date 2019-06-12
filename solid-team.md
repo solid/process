@@ -82,7 +82,7 @@ All Solid Team members have admin rights on all Solid repositories, managed prop
 
 __Kjetil Kjernsmo__ - Compliance Test Suite, Solid Specification, Research, Documentation
 
-__Ruben Verborgh__ - Solid Specification, Research, Documentation, Developer Experience
+__Ruben Verborgh__ - Solid Specification, Solid Roadmap, Research, Documentation, Developer Experience
 
 __Justin Bingham__ - Solid Roadmap, Solid Specification, Research, Website and Forum, Developer Experience
 
