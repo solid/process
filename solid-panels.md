@@ -39,11 +39,23 @@ Nominees for this panel must be at least one of the following:
 - Active Pod Provider
 - Active Solid Application Developer
 - Active Solid User - who show a minimum engagement of having a WebID, Pod, and use at least one Solid app
-- Experts in a field relevant to Solid 
+- Experts in a field relevant to Solid
 
 ### Archived Solid Panels
 
 No Solid Panels have been closed and subsequently archived yet.
+
+## Rationale
+
+*Why do we need Solid Panels?*
+
+It is our collective responsibility to evolve Solid into a mature, world class set of standards and technologies that are stable, versatile, and reliable. Solid must work perfectly whether it's powering one personal pod, or driving an ecosystem with millions of pods and thousands of applications.
+
+To realize this we need in-depth focus, research, and collaboration in very specific subject domains. This requires us to join together subject matter experts who can bring an equally deep level of expertise to the table in those specific areas. There is no single person that can cover the diversity of technologies and subject areas related to Solid. Furthermore, no single expert in one domain can cover all perspectives. Solid Panels are our answer to this.
+
+The role of the Solid Team is to ensure that we're organizing the right people around the right problems, at the right time. Following that, to make sure that they are working together constructively, actively, and in a way that supports the Solid Roadmap. In cases where progress is stalled, impasses reached, or where decisions are made that could have adverse impact on the advancement of the Solid Roadmap, the Solid Team may need to intervene to keep things on track.
+
+Ultimately, Solid Panels are where the organized work gets done, and are instrumental in advancing the Solid Roadmap.
 
 ## Solid Panel Governance
 
