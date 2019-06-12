@@ -53,6 +53,8 @@ It is our collective responsibility to evolve Solid into a mature, world class s
 
 To realize this we need in-depth focus, research, and collaboration in very specific subject domains. This requires us to join together subject matter experts who can bring an equally deep level of expertise to the table in those specific areas. There is no single person that can cover the diversity of technologies and subject areas related to Solid. Furthermore, no single expert in one domain can cover all perspectives. Solid Panels are our answer to this.
 
+Furthermore, we need a way to take this combined expertise in a given subject area, and mobilize it. We use projects to focus the members of a given panel on deliverables that move the needle for Solid.
+
 The Solid Team's role in all of this is to ensure that we're organizing the right people around the right problems, at the right time. Following that, to make sure that they are working together constructively, actively, and in a way that supports the Solid Roadmap. In cases where progress is stalled, impasses reached, or where decisions are made that could have adverse impact on the advancement of the Solid Roadmap, the Solid Team may need to intervene to keep things on track.
 
 Ultimately, Solid Panels are where the organized work gets done, and are instrumental in advancing the Solid Roadmap.
