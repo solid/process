@@ -1,10 +1,12 @@
 This document defines the culture of how decisions are made about Solid, and [records how this has changed over time](https://github.com/solid/culture/blob/master/history.md). 
 
-Currently, [Solid decision making](https://github.com/solid/culture/blob/master/decision-making.md) is based around the [Solid Team](https://github.com/solid/culture/blob/master/solid-team.md) who may also consult the [Solid Panel](https://github.com/solid/culture/blob/master/history.md) (also referred to as Solid Community) for direction via a vote on occasion. 
+Currently, [Solid decision making](https://github.com/solid/culture/blob/master/decision-making.md) is based around the [Solid Team](https://github.com/solid/culture/blob/master/solid-team.md) who make decisions by majority vote. [Solid Panels](https://github.com/solid/culture/blob/master/solid-panels.md), composed of experts, publish public reports with their advice around options to consider and the implications of each of these options. To Solid Team may consult the Solid Community, composed of individuals with skin in the game, for direction via a vote on occasion.
 
-You are encouraged to read the [code of conduct](https://github.com/solid/culture/pull/5). 
+The Solid Team, Panels, and Community are encouraged to read the [code of conduct](https://github.com/solid/culture/pull/5). 
 
 Solid decision making should be written collaboratively in public over several weeks on the Solid GitHub account and communicated clearly at the weekly W3C Solid Community Group meetings before being presented to the Solid Leader for final approval. The Solid Leader needs to approve any decision-making processes via completing the final merge for it to be legitimate.
+
+When there are 1000 individual in the Solid Community their votes will become binding and checks and balances on the Solid Team such as votes of no confidence will be installed. The first Solid Team is appointed directly by the Solid Leader. After five years there will be an election to vote for the Solid Team candidates.
 
 # References
 
