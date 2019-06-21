@@ -1,8 +1,8 @@
 # Solid Team Mandate
 
-The Solid Team are dedicated trusted stewards of Solid fulfilling defined [roles and responsibilities](solid-team.md#solid-team-roles-and-responsibilities). 
+The Solid Team are dedicated trusted stewards of Solid fulfilling defined [roles and responsibilities](solid-team.md#solid-team-roles-and-responsibilities). The Solid Team has broad authority, which they seek to exercise as rarely as possible, when necessary to ensure the viability and integrity of Solid, while at the same time fostering a collaborative, transparent, and supportive environment for contribution.
 
-The Solid Team has broad authority, which they seek to exercise as rarely as possible, when necessary to ensure the viability and integrity of Solid, while at the same time fostering a collaborative, transparent, and supportive environment for contribution. The Solid Leader heads the Solid Team and can veto decisions and adjust direction as they see fit. 
+The Solid Leader heads the Solid Team and can veto decisions and adjust direction as they see fit. 
 
 Solid Team members have admin rights on all Solid repositories, managed properties and assets, and communication channels. They are expected both to participate in regular community group meetings and to maintain availability for project-specific collaboration as needed.
 
@@ -118,16 +118,3 @@ If a Solid Team member not on a leave of absence drops out of touch and cannot b
 
 Whenever there is a vacancy during the regular Solid Team term, an election will take place as described above to appoint a replacement to serve out the rest of the term.
 
-In exceptional circumstances, it may be necessary to remove someone from the Solid Team against their will. (For example: egregious and ongoing code of conduct violations.) This can be accomplished by a Solid Panel vote, but unlike other votes, this requires at least a two-thirds majority.
-
-A no-confidence vote is triggered when a Solid Panel member calls for one publically on an appropriate project communication channel, and ten other Solid Panel members second the proposal. The vote lasts for two weeks. Solid Panel members vote for or against. If at least two thirds of voters express a lack of confidence, then the vote succeeds.
-
-There are two forms of no-confidence votes: those targeting a single member, and those targeting the Solid Team as a whole. The initial call for a no-confidence vote must specify which type is intended. If a single-member vote succeeds, then that member is removed from the Solid Team and the resulting vacancy can be handled in the usual way. If a whole-Solid Team vote succeeds, the Solid Team is dissolved and a new Solid Team election is triggered immediately.
-
-## Conflicts of Interest
-
-Solid Team members are trusted to act in the best interests of Solid rather than themselves or their employers, the mere appearance of any one company dominating Solid development could itself be harmful and erode trust. In order to avoid any appearance of conflict of interest, at most 2 members of the Solid Team can work for any single employer. This does not apply for the first appointment of the first Solid Team because there is a single dominant employer working on Solid at the time. 
-
-In a Solid Team election, if 3 of the top 5 vote-getters work for the same employer, then whichever of them ranked lowest is disqualified and the 6th-ranking candidate moves up into 5th place; this is repeated until a valid Solid Team is formed.
-
-During a Solid Team term, if changing circumstances cause this rule to be broken (for instance, due to a Solid Team member changing employment), then one or more Solid Team members must resign to remedy the issue, and the resulting vacancies can then be filled as normal election.
