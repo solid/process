@@ -1,10 +1,14 @@
-This document defines the culture of how decisions are made about Solid, and [records how this has changed over time](https://github.com/solid/culture/blob/master/history.md). 
+This document defines the culture of how decisions are made about Solid, and records how this has changed over time. 
 
-Currently, [Solid decision making](https://github.com/solid/culture/blob/master/decision-making.md) is based around the [Solid Team](https://github.com/solid/culture/blob/master/solid-team.md) who may also consult the [Solid Panel](https://github.com/solid/culture/blob/master/history.md) (also referred to as Solid Community) for direction via a vote on occasion. 
+The Solid project was started by Tim Berners-Lee, who has served as the Solid Leader from inception as a MIT academic project in 2015. The Solid MIT academic group were responsible for processing suggestions to a change to the Solid specifications and deciding on the route forward. Originally, if there was a difference of opinion, parties were encouraged to talk to find a compromise. If a compromise could not be found between the parties the Solid Leader would make the final judgement.
 
-You are encouraged to read the [code of conduct](https://github.com/solid/culture/pull/5). 
+Since Tim Berners-Lee co-founded inrupt in 2017 the group working on Solid has increased in number and therefore also in complexity around differnces of opinion and finding consensus. 
 
-Solid decision making should be written collaboratively in public over several weeks on the Solid GitHub account and communicated clearly at the weekly W3C Solid Community Group meetings before being presented to the Solid Leader for final approval. The Solid Leader needs to approve any decision-making processes via completing the final merge for it to be legitimate.
+Mitzi László was hired by inrupt in 2018 and appointed as Solid Manager by Tim Berners-Lee and set up this culture repository as a hub of conversation around how those working on Solid would like to work together.  
+
+Solid decision making should be written collaboratively in public over several weeks on the Solid GitHub account and communicated clearly at the weekly W3C Solid Community Group meetings before being presented to the Solid Leader for final approval. Co-creation is essential for all individuals involved to come to a legitimate agreement on how to work together on this open source initiative. 
+
+The Solid Leader needs to approve any decision-making processes via completing the final merge for it to be legitimate.
 
 # References
 
