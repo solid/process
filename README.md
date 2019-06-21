@@ -1,6 +1,6 @@
 This document defines the culture of how decisions are made about Solid, and records how this has changed over time. 
 
-Currently, [Solid decision making](https://github.com/solid/culture/blob/master/decision-making.md) is based around the [Solid Team](https://github.com/solid/culture/blob/master/solid-team.md) who make decisions by majority vote. [Solid Panels](https://github.com/solid/culture/blob/master/solid-panels.md), composed of experts, publish public reports with their advice around options to consider and the implications of each of these options. To Solid Team may consult the Solid Community, composed of individuals with skin in the game, for direction via a vote on occasion.
+[Solid decision making](https://github.com/solid/culture/blob/master/decision-making.md) is based around the [Solid Team](https://github.com/solid/culture/blob/master/solid-team.md) who make decisions by majority vote. [Solid Panels](https://github.com/solid/culture/blob/master/solid-panels.md), composed of experts, publish public reports with their advice around options to consider and the implications of each of these options. To Solid Team may consult the Solid Community, composed of individuals with skin in the game, for direction via a vote on occasion.
 
 The Solid Team, Panels, and Community are encouraged to read the [code of conduct](https://github.com/solid/culture/pull/5). 
 
