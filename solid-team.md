@@ -31,6 +31,8 @@ The mandate of the Solid Team includes but is not limited to:
 * __Solid Website__ - Curation and Management of the [Solid Website](https://www.solidproject.org).
 * __Solid Communication Channels__ - Sanction and oversight of official Solid project communication mediums, such as chatrooms, forums, mailing lists, and message boards.
 
+The Solid Team cannot modify governance processes without the explicit approval of the Solid Leader, Tim Berners-Lee. As the Solid Leader, Tim Berners-Lee reserves the right to change governance processes at any time. The Solid Team may vote to have a governance change be reviewed by the Solid Leader, Tim Berners-Lee. The Community Panel may also vote to have a governance change be reviewed by the Solid Leader, Tim Berners-Lee.
+
 ## Rationale
 
 *Why is a Solid Team necessary?*
@@ -93,13 +95,13 @@ Solid Team members may resign their position at any time. As the Solid Leader, T
 
 Solid Team members may take a leave of absence for sickness, child care, or for another reason deemed legitimate by a majority of the Solid Team. In these cases an interim individual may be nominated.
 
-If a Solid Team member not on a leave of absence drops out of touch and cannot be contacted or fails to contribute positively for a month or longer, then the rest of the Solid Team may vote to remove that team member and nominate another to replace them.
+If a Solid Team member not on a leave of absence drops out of touch and cannot be contacted or fails to contribute positively for a month or longer, then they may be subject to a [Vote of No Confidence](#vote-of-no-confidence).
 
 ### Team Nominations
 
-The Solid Team may decide by majority vote to expand the size of the team. It may also need to fill a vacancy on the team. In either case, this nomination process will be used to propose new team members for addition to the team.
+As the Solid Leader, Tim Berners-Lee may decide to expand the size of the team. There may also be a need to fill a vacancy on the team. In either case, this nomination process will be used to propose new team members for addition to the team.
 
-Any Solid Team member may nominate someone for addition to the team. Team members are accepted only through majority vote of the current Solid Team, with explicit approval by the Solid Leader, Tim Berners-Lee. Tim Berners-Lee reserves the right to nominate and immediately add a new Solid Team member at any time.
+Team members are nominated and explicitly approved by the Solid Leader, Tim Berners-Lee. Tim Berners-Lee reserves the right to nominate and immediately add a new Solid Team member at any time.
 
 The Solid Team should reflect the diversity of individuals and organizations in the Solid Ecosystem. Candidates nominated for consideration must be able to demonstrate substantial and beneficent contribution to the Solid ecosystem.
 
@@ -109,4 +111,4 @@ Solid Team members are trusted to act in the best interests of Solid rather than
 
 ### Vote of No Confidence
 
-In exceptional circumstances, it may be necessary to remove someone from the Solid Team against their will. For example, due to egregious and ongoing code of conduct violations. A majority vote of no confidence by the Solid Team for a given Solid Team member will go up for review by the Solid Leader, Tim Berners-Lee. Tim Berners-Lee reserves the right to remove any Solid Team member at any time.
+In exceptional circumstances, it may be necessary to remove someone from the Solid Team against their will. For example, due to egregious and ongoing code of conduct violations. A majority vote of no confidence in a given Solid Team Member by the Solid Team, or by the Solid Community Panel, will go up for review by the Solid Leader, Tim Berners-Lee. Tim Berners-Lee reserves the right to remove any Solid Team member at any time.
