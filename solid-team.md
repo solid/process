@@ -2,9 +2,9 @@
 
 The Solid Team are dedicated stewards of the Solid Project, tasked with realizing the Solid Mission by supporting the realization of the Solid Roadmap.
 
-The Solid Team fulfills [roles and responsibilities](#roles-and-responsibilities) necessary to realize the Solid mission and provide an effective means of governance. Individuals occupying these roles were appointed by and serve at the pleasure of the Solid Leader.
+The Solid Team fulfills [roles and responsibilities](#roles-and-responsibilities) necessary to realize the Solid mission and provide an effective means of governance. Individuals occupying these roles were appointed by and follow the direction of the Solid Leader, Tim Berners-Lee.
 
-The Solid Team has the great responsibility to exercise their authority when necessary to ensure the viability and integrity of Solid, while at the same time fostering a collaborative, transparent, and supportive environment for contribution. The Solid Leader heads the Solid Team and can veto decisions and adjust direction as they see fit.
+The Solid Team has the great responsibility to exercise their authority when necessary to ensure the viability and integrity of Solid, while at the same time fostering a collaborative, transparent, and supportive environment for contribution. As the Solid Leader, Tim Berners-Lee heads the Solid Team and can veto decisions and adjust direction as he sees fit.
 
 ## Team Members
 
@@ -29,22 +29,21 @@ The mandate of the Solid Team includes but is not limited to:
 * __Solid Awareness__ - Fostering awareness and use of Solid across geographic, economic, industrial, and academic verticals.
 * __Solid Compliance__ - Creation and curation of the [Solid Test Suite](https://github.com/solid/test-suite), which any Solid specification compliant server must pass to be considered a fully compliant implementation.
 * __Solid Website__ - Curation and Management of the [Solid Website](https://www.solidproject.org).
-* __Solid Brand__ - Definition and evolution of the Solid Brand, including any associated brand assets.
 * __Solid Communication Channels__ - Sanction and oversight of official Solid project communication mediums, such as chatrooms, forums, mailing lists, and message boards.
 
 ## Rationale
 
 *Why is a Solid Team necessary?*
 
-Solid is a relatively young project with a ton of promise. It has garnered incredible interest and support, from many in academia to some of the largest organizations in the world. However, this adoption will not continue if Solid doesn't consistently live up to its potential by advancing its mission. This requires consistent care and feeding every day, driven by an ability to make key decisions that squarely align with the Solid Roadmap.
+Solid is a relatively young project with a ton of promise. It has garnered incredible interest and support, from many in academia to some of the largest organizations in the world. However, this adoption will not continue if Solid doesn't consistently live up to its potential by delivering standards that power usable software. This requires consistent care and feeding every day, driven by an ability to make key decisions that squarely align with the Solid Roadmap.
 
-Consequently, it is imperative that a small, dedicated group be in a position to organize and focus the efforts of those willing and qualified to contribute. They must do so in a manner that moves us forward at a nimble pace. They must make decisions based on their complete understanding and commitment to the furtherance of the Solid Roadmap.
+Consequently, it is imperative that a small, dedicated group be in a position to organize and focus the efforts of those willing to contribute. They must do so efficiently enough to meet the expectations of our community and ecosystem at large. They must make decisions based on their complete understanding and commitment to the furtherance of the Solid Roadmap.
 
-Organized contribution is orchestrated through sanctioned [Solid Panels](solid-panels.md) in the form of projects. More spurious contribution is also expected and always encouraged. The Solid Team acts in a supervisory role to ensure this work is constructive, and on a trajectory that supports and advances the Solid Roadmap. This guidance, which may sometimes involve decisions, is essential to ensure that work is active, relevant, and consistent with the Solid Mission.
+Organized contribution is orchestrated through sanctioned [Solid Panels](solid-panels.md) in the form of projects. More spontaneous contribution is also expected and always encouraged. The Solid Team acts in a supervisory role to ensure this work is constructive, and on a trajectory that supports and advances the Solid Roadmap. This guidance, which may sometimes involve decisions, is essential to ensure that work is active, relevant, and consistent with the Solid Mission.
 
 Any time a decision is made, there are some that will not agree. This is the nature of a having a diverse community of people with strong beliefs. It is a good problem to have. That said, arbiters must be there to make informed decisions on behalf of Solid, using information collected from both domain experts, and the community at large. Otherwise, issues would turn into long running arguments that stagnate. Everyone that believes in Solid loses when Solid can't move forward.
 
-This is not a guarantee that all decisions will be correct. It is in fact an acknowledgement that some will not. Still, it is better to make advances and learn from the setbacks, than to remain frozen and never move forward at all. The former is healthy, the latter is not.
+This is not a guarantee that all decisions will be correct. It is in fact an acknowledgement that some will not. Still, it is better to make advances and learn from the setbacks, than to remain frozen and never move forward at all. The former is healthy, the latter will inhibit Solid's impact.
 
 In short, the Solid Team exists to guide and channel the collective energies of a diverse community of individuals and organizations to realize the Solid Roadmap.
 
@@ -57,7 +56,7 @@ Here we identify the Solid Team roles as well any responsibilities associated wi
 - [Solid Team Member](#solid-team-member)
 
 ### Solid Leader
-The Solid Leader defines the governing mission and vision of Solid, along with key factors for success, which are manifested in the Solid Roadmap. The Solid Leader is the de-facto head of Solid, as well as the leading member of the Solid Team.
+The Solid Leader defines the governing mission and vision of Solid, along with key factors for success, which are manifested in the Solid Roadmap. Tim Berners-Lee is the Solid Leader. He is the de-facto head of Solid, as well as the leading member of the Solid Team.
 
 If there are differences of opinion, the Solid Leader has the final say on the way forward. The Solid Leader has unique veto power, and can override the decisions of the Solid Team.
 
@@ -92,15 +91,15 @@ __Justin Bingham__ - Solid Roadmap, Solid Specification, Research, Website and F
 
 Transparency in the decision making process is important. Decisions will be documented along with the rationale and considerations taken into account around a given decision. The Solid Team always strives to operate in a manner that aims for team consensus without the need for formalized voting.
 
-For any substantial decisions where consensus cannot be reached, the Solid Team votes. The Solid Leader can always veto the voting outcome. Every Solid Team member must either vote or explicitly abstain. Passing requires a strict majority of non-abstaining Solid Team members. Stalemates are resolved by the Solid Leader.
+For any substantial decisions where consensus cannot be reached, the Solid Team votes. As the Solid Leader, Tim Berners-Lee can always veto the voting outcome. Every Solid Team member must either vote or explicitly abstain. Passing requires a strict majority of non-abstaining Solid Team members. Stalemates are resolved by the Solid Leader, Tim Berners-Lee.
 
 The Solid Team utilizes this [Decision Making Process](decision-making.md).
 
 ### Vacancies
 
-Solid Team members may resign their position at any time. They may also be removed by a majority vote of the rest of the Solid Team. The Solid Leader reserves the right to remove any Solid Team member at any time. Whenever there is a vacancy on the Solid Team, a new team member will be nominated and selected through the [Team Nomination](#team-nominations) mechanism articulated in this document.
+Solid Team members may resign their position at any time. As the Solid Leader, Tim Berners-Lee reserves the right to remove any Solid Team member at any time. Whenever there is a vacancy on the Solid Team, a new team member will be nominated and selected through the [Team Nomination](#team-nominations) mechanism articulated in this document.
 
-Solid Team members may take a leave of absence for sickness, pregnancy, or for another reason deemed legitimate by a majority of the Solid Team. In these cases an interim individual may be nominated.
+Solid Team members may take a leave of absence for sickness, child care, or for another reason deemed legitimate by a majority of the Solid Team. In these cases an interim individual may be nominated.
 
 If a Solid Team member not on a leave of absence drops out of touch and cannot be contacted or fails to contribute positively for a month or longer, then the rest of the Solid Team may vote to remove that team member and nominate another to replace them.
 
@@ -108,7 +107,7 @@ If a Solid Team member not on a leave of absence drops out of touch and cannot b
 
 The Solid Team may decide by majority vote to expand the size of the team. It may also need to fill a vacancy on the team. In either case, this nomination process will be used to propose new team members for addition to the team.
 
-Any Solid Team member may nominate someone for addition to the team. Team members are accepted only through majority vote of the current Solid Team, with explicit approval by the Solid Leader.
+Any Solid Team member may nominate someone for addition to the team. Team members are accepted only through majority vote of the current Solid Team, with explicit approval by the Solid Leader, Tim Berners-Lee. Tim Berners-Lee reserves the right to nominate and immediately add a new Solid Team member at any time.
 
 The Solid Team should reflect the diversity of individuals and organizations in the Solid Ecosystem. Candidates nominated for consideration must be able to demonstrate substantial and beneficent contribution to the Solid ecosystem.
 
@@ -118,4 +117,4 @@ Solid Team members are trusted to act in the best interests of Solid rather than
 
 ### Vote of No Confidence
 
-In exceptional circumstances, it may be necessary to remove someone from the Solid Team against their will. For example, due to egregious and ongoing code of conduct violations. Removal of a Solid Team member must be supported by a majority vote of the Solid Team, with explicit approval by the Solid Leader.
+In exceptional circumstances, it may be necessary to remove someone from the Solid Team against their will. For example, due to egregious and ongoing code of conduct violations. A majority vote of no confidence by the Solid Team for a given Solid Team member will go up for review by the Solid Leader, Tim Berners-Lee. Tim Berners-Lee reserves the right to remove any Solid Team member at any time.
