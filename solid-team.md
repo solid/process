@@ -35,7 +35,7 @@ The mandate of the Solid Team includes but is not limited to:
 
 *Why is a Solid Team necessary?*
 
-Solid is a relatively young project with a ton of promise. It has garnered incredible interest and support, from many in academia to some of the largest organizations in the world. However, this adoption will not continue if Solid doesn't consistently live up to its potential by delivering standards that power usable software. This requires consistent care and feeding every day, driven by an ability to make key decisions that squarely align with the Solid Roadmap.
+Solid is a relatively young project with a lot of promise. It has garnered incredible interest and support, from many in academia to some of the largest organizations in the world. However, this adoption will not continue if Solid doesn't consistently live up to its potential by delivering standards that power usable software. This requires consistent care and feeding every day, driven by an ability to make key decisions that squarely align with the Solid Roadmap.
 
 Consequently, it is imperative that a small, dedicated group be in a position to organize and focus the efforts of those willing to contribute. They must do so efficiently enough to meet the expectations of our community and ecosystem at large. They must make decisions based on their complete understanding and commitment to the furtherance of the Solid Roadmap.
 
