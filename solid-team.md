@@ -87,14 +87,6 @@ __Justin Bingham__ - Solid Roadmap, Solid Specification, Research, Website and F
 
 ## Solid Team Governance
 
-### Decision Making
-
-Transparency in the decision making process is important. Decisions will be documented along with the rationale and considerations taken into account around a given decision. The Solid Team always strives to operate in a manner that aims for team consensus without the need for formalized voting.
-
-For any substantial decisions where consensus cannot be reached, the Solid Team votes. As the Solid Leader, Tim Berners-Lee can always veto the voting outcome. Every Solid Team member must either vote or explicitly abstain. Passing requires a strict majority of non-abstaining Solid Team members. Stalemates are resolved by the Solid Leader, Tim Berners-Lee.
-
-The Solid Team utilizes this [Decision Making Process](decision-making.md).
-
 ### Vacancies
 
 Solid Team members may resign their position at any time. As the Solid Leader, Tim Berners-Lee reserves the right to remove any Solid Team member at any time. Whenever there is a vacancy on the Solid Team, a new team member will be nominated and selected through the [Team Nomination](#team-nominations) mechanism articulated in this document.

@@ -1,4 +1,20 @@
-# Decision Making Process
+# Decision Making
+
+## Solid Team
+
+Transparency in the decision making process is important. Decisions will be documented along with the rationale and considerations taken into account around a given decision. The Solid Team always strives to operate in a manner that aims for team consensus without the need for formalized voting.
+
+For any substantial decisions where consensus cannot be reached, the Solid Team votes. As the Solid Leader, Tim Berners-Lee can always veto the voting outcome. Every Solid Team member must either vote or explicitly abstain. Passing requires a strict majority of non-abstaining Solid Team members. Stalemates are resolved by the Solid Leader, Tim Berners-Lee.
+
+The Solid Team utilizes this [Decision Making Process](#decision-making-process).
+
+## Solid Panels
+
+Solid Panels are expected to use this [Decision Making Process](#decision-making-process), to be transparent in work being conducted under their mandate, and to provide regular status updates through established channels.
+
+Solid Panels should always strive to operate in a manner that aims for consensus without the need for formalized voting. When voting is necessary, stalemates are resolved by a majority vote of the Solid Team. The Solid Team reserves the right to raise any decisions made or in-process within a Panel to a vote by the Solid Team.
+
+## Decision Making Process
 
 We employ a framework for making decisions on the Solid Team and across Solid Panels. As a general rule, this framework should be applied to any substantial choices at a Team or Panel level to ensure informed and thoughtful decisions.
 

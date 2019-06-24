@@ -73,12 +73,6 @@ Every Solid Panel is expected to actively contribute to the evolution of Solid i
 
 Every Panel will have a stated purpose that can be mapped directly to the Solid Roadmap, and the Solid Team may task that Panel with specific projects to be completed as part of the fulfillment of its mandate. For example, the Specification Panel could be tasked with an project to complete the next major version of the Solid Specification.
 
-### Decision Making
-
-Solid Panels are expected to use this [Decision Making Process](decision-making.md), to be transparent in work being conducted under their mandate, and to provide regular status updates through established channels.
-
-Solid Panels should always strive to operate in a manner that aims for consensus without the need for formalized voting. When voting is necessary, stalemates are resolved by a majority vote of the Solid Team. The Solid Team reserves the right to raise any decisions made or in-process within a Panel to a vote by the Solid Team.
-
 ### Panel Nominations
 
 An individual can be nominated to a Panel by:
