@@ -22,7 +22,7 @@ A list of Solid Panels is maintained at [solid-panels.md](solid-panels.md). This
 
 ## Stakeholders
 
-Stakeholders are those affected by normative changes to the Solid Specification or Solid Roadmap. There are two types of Stakeholders; [Solid Users](#solid-users) and [Solid Implementers](#solid-implementers). It is important to consider them both when proposing changes.
+Stakeholders are those affected by normative changes to the Solid Specification or Solid Roadmap. There are two types of Stakeholders; [Solid Users](#solid-users) and [Solid Implementers](#solid-implementers). It is important to consider them both when proposing changes, but adhering to the W3C [priority of constituencies](https://www.w3.org/TR/html-design-principles/#priority-of-constituencies) is encouraged. A Stakeholder may be both a user and an implementer.
 
 Stakeholders who have opted to identify themselves publicly are listed at [stakeholders.md](stakeholders.md). Anyone may decide to identify themselves publicly as a Solid Stakeholder, but it is not mandatory. Identified stakeholders may be consulted for feedback as part of the editorial process.
 
@@ -44,13 +44,20 @@ Anyone may submit a proposal to alter this process. These proposals will not be 
 Anyone may propose improvements to the Solid Specification, Solid Roadmap, or Supporting Documentation. Here are some examples of different ways to contribute:
 
 - Submit a pull request or issue on the [Solid Specification repository](https://github.com/solid/solid-spec) in GitHub
-- Write an email to the Solid Authorization Panel mailing list about a change you'd like to see in Web Access Control
-- Make a suggestion on the W3C Community Group mailing list to form a new Solid Panel, or join an existing Solid Panel
+- Make a suggestion to the Solid Authorization Panel chat room about a change you'd like to see in Web Access Control
+- Make a suggestion on the Solid W3C Community Group mailing list to form a new Solid Panel, or join an existing Solid Panel
 - Propose an item for the W3C Solid Community Group call
 
 Proposals for substantive changes to the Solid Specification, Solid Roadmap, or Supporting Documentation go through an editorial review process. A change is considered substantive when it alters the normative text of the Solid Specification or the Solid Roadmap.
 
 Any proposal must be realistic and reasonable to implement, preferably with example implementations, and demonstrable support from Implementers.
+
+Any proposal should also be accompanied with a reasonable explanation of the need for the proposed change. For example:
+
+- Removing something that failed to be adopted by implementers for legitimate reasons
+- Proposing a simpler design that is able to address the same use case
+- Adding a new capability that provides one or more identifiable benefits
+- A change that resolves one or more identified issues in real-world use
 
 A draft proposal often involves community discussion before being formally presented for review. After these discussions have occurred and a draft proposal has reached a sufficient level of maturity, it should be presented as a candidate proposal, asking Stakeholders and Panels if there are any major objections.
 
@@ -60,19 +67,19 @@ When there are objections, notify the Solid Panels and Stakeholders about the fi
 
 Candidate proposals to the Solid Specification, Solid Roadmap, or Supporting Documentation submitted for review go through an editorial process before they are accepted.
 
-Editors are appointed directly by [Tim Berners-Lee](https://github.com/timbl) as Solid Leader. Editors are listed at [editors.md](editors.md) along with their contact details and affiliations. Anyone may request to be an editor. Editor requests are not reviewed by other editors. They are reviewed directly by [Tim Berners-Lee](https://github.com/timbl), the Solid Leader.
+Editors are appointed directly by the Solid Leader. Editors are listed at [editors.md](editors.md) along with their contact details and affiliations. Anyone may request to be an editor. Editor requests are not reviewed by other editors. They are reviewed directly by the Solid Leader.
 
 Candidate proposals and the results of any vote related to the same need to be put forward to the editors for review. For the proposal to be accepted, three editors need to actively approve with no editors actively rejecting. Editors may abstain. A proposal must be open for at least one week before final acceptance. If an editor does not vote by the end of that week it will be assumed that the editor abstained.
 
-The Solid Manager, who is also an editor, is appointed by [Tim Berners-Lee](https://github.com/timbl) as Solid Leader. The Solid Manager is responsible for formalizing the outcome of the vote.
+The Solid Manager, who is also an editor, is appointed by the Solid Leader. The Solid Manager is responsible for formalizing the outcome of the vote.
 
 ### Administration
 
 Administrators are granted privileged access to control the tools, systems, and services used for advancing the Solid Specification, Solid Roadmap, and Supporting Documentation. This includes the [Solid GitHub](https://github.com/solid) organization, [Solid Gitter](https://gitter.im/solid/home) channels, the [Solid Forum](https://forum.solidproject.org), and the [Solid Website](https://www.solidproject.org).
 
-Administrators will be appointed directly by [Tim Berners-Lee](https://github.com/timbl) as Solid Leader. Administrators are listed at [administrators.md](administrators.md) along with their contact details and affiliations. Anyone may request to be an administrator. Administrator requests are not reviewed by other Administrators. They are reviewed only by [Tim Berners-Lee](https://github.com/timbl), the Solid Leader.
+Administrators will be appointed directly the Solid Leader. Administrators are listed at [administrators.md](administrators.md) along with their contact details and affiliations. Anyone may request to be an administrator. Administrator requests are not reviewed by other Administrators. They are reviewed only by the Solid Leader.
 
-The Solid Manager, who is also an editor and an administrator, is appointed by [Tim Berners-Lee](https://github.com/timbl) as Solid Leader and is responsible for implementing the Solid vision of the Solid Leader. This may include ensuring that the process is implemented correctly and the outcome is communicated accurately and efficiently.
+The Solid Manager, who is also an editor and an administrator, is appointed by the Solid Leader and is responsible for implementing the Solid vision of the Solid Leader. This may include ensuring that the process is implemented correctly and the outcome is communicated accurately and efficiently.
 
 # References
 
