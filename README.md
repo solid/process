@@ -22,16 +22,16 @@ A list of Solid Panels is maintained at [solid-panels.md](solid-panels.md). This
 
 ## Stakeholders
 
-Stakeholders are those affected by normative changes to the Solid Specification or Solid Roadmap. There are two types of Stakeholders; [Solid Users](#solid-users) and [Solid Implementers](#solid-implementers). It is important to consider them both when proposing changes, but adhering to the W3C [priority of constituencies](https://www.w3.org/TR/html-design-principles/#priority-of-constituencies) is encouraged. A Stakeholder may be both a user and an implementer.
+Stakeholders are those affected by normative changes to the Solid Specification, Solid Roadmap, or Supporting Documentation. There are two types of Stakeholders; [Solid Users](#solid-users) and [Solid Implementers](#solid-implementers). It is important to consider them both when proposing changes, and adhering to the W3C [priority of constituencies](https://www.w3.org/TR/html-design-principles/#priority-of-constituencies) is encouraged. A Stakeholder may be both a user and an implementer.
 
 Stakeholders who have opted to identify themselves publicly are listed at [stakeholders.md](stakeholders.md). Anyone may decide to identify themselves publicly as a Solid Stakeholder, but it is not mandatory. Identified stakeholders may be consulted for feedback as part of the editorial process.
 
 ### Solid Users
 
-Solid Users are individuals, companies, or organizations who have access to data stored in a Solid pod.
+Solid Users are individuals, companies, or organizations who access data stored in a Solid Pod.
 
 ### Implementers
-Solid Implementers are companies or organizations who are implementing the Solid Specification. A Solid Implementer may be an Identity Provider, Pod Provider, or Application Provider.
+Solid Implementers are companies or organizations who are implementing the Solid Specification. A Solid Implementer may be any combination of Identity Provider, Pod Provider, and Application Provider.
 
 ## Process for Changes
 
@@ -58,8 +58,9 @@ Any proposal should also be accompanied with a reasonable explanation of the nee
 - Proposing a simpler design that is able to address the same use case
 - Adding a new capability that provides one or more identifiable benefits
 - A change that resolves one or more identified issues in real-world use
+- Removing ambiguity or confusion
 
-A draft proposal often involves community discussion before being formally presented for review. After these discussions have occurred and a draft proposal has reached a sufficient level of maturity, it should be presented as a candidate proposal, asking Stakeholders and Panels if there are any major objections.
+A draft proposal often involves public discussion before being formally presented for review. After these discussions have occurred and a draft proposal has reached a sufficient level of maturity, it should be presented as a candidate proposal, asking Stakeholders and Panels if there are any major objections.
 
 When there are objections, notify the Solid Panels and Stakeholders about the final proposal with an invitation to vote. If there are options, detail them along with the implications of the options. The final proposal needs to be open for one week to give others a chance to vote. To show your support for a proposal write +1. To show your disapproval for a proposal write -1 along with a detailed reason for the disapproval and a suggestion for a preferred alternative. To abstain type 0 when you have no opinion. If you do not vote by the end of the week it will be assumed that you abstain. At the end of the week anyone may publish an overview of the vote results per Solid Panel and Stakeholder.
 
