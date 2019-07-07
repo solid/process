@@ -1,18 +1,33 @@
-Below is a listing of Solid Stakeholders.
+# Solid Stakeholders
 
-Anyone can register as a Solid Stakeholder by submitting a request to the Solid W3C community group mailing list, or my making a pull request directly to this document. It is not mandatory to register.
+Below is a listing of [Solid Stakeholders](README.md#stakeholders). Stakeholders are those affected by normative changes to the Solid Specification, Solid Roadmap, or Supporting Documentation.
+
+Stakeholders who have opted to identify themselves publicly are listed below. Anyone may decide to identify themselves publicly as a Solid Stakeholder, but it is not mandatory. Identified stakeholders may be consulted for feedback as part of the editorial process.
+
+Dishonest submissions, or submissions which violate the [Code of Conduct](code-of-conduct.md) are subject to removal.
 
 ## Stakeholders
 
 ### Identity Providers
 
-#### Example Identity Provider
-This is an example of an Identity Provider.
-#### Communication channel
-- Link to join mailing list goes here
-- Link to public chat goes here
-- Any other public communication link goes here
+| Name      | URL      |
+| --------- | ---------- |
+| [Solid Community](https://solid.community) | [https://solid.community](https://solid.community) |
 
-#### Panelists
-- Panelist Name <[email@example.org](mailto:email@example.org)>
-- Panelist Name <[email@example.org](mailto:email@example.org)>
+### Pod Providers
+
+| Name      | URL      |
+| --------- | ---------- |
+| [Solid Community](https://solid.community) | [https://solid.community](https://solid.community) |
+
+### Application Providers
+
+| Name      | URL      |
+| --------- | ---------- |
+| [Solid Project](https://github.com/solid) | [https://solidproject.org](https://solidproject.org) |
+
+### Users
+
+| Name      | WebID      |
+| --------- | ---------- |
+| [Tim Berners-Lee](https://github.com/timbl) | [WebID](https://www.w3.org/People/Berners-Lee/card#i) |

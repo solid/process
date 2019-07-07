@@ -1,12 +1,14 @@
-Below is a listing of the Solid Panels, including descriptions of the goal and scope of each Solid Panel, as well as any associated public communication channels.
+# Solid Panels
 
-Anyone can create a Solid Panel by submitting a request to the Solid W3C community group mailing list, or my making a pull request directly to this document.
+Below is a listing of [Solid Panels](README.md#solid-panels). Solid Panels are groups of individuals focused on a specific problem or domain relevant to Solid, with an aim to propose changes to the Solid Specification, Solid Roadmap, and/or Supporting Documentation. Anyone may join a panel or suggest a new panel.
 
-## Panels
+Anyone can create a Solid Panel by submitting a request to the Solid W3C community group mailing list, or by making a pull request directly to this document.
 
-### Example Panel
+This listing helps people find panels they may want to participate in, and helps editors find panels to consult as part of the editorial process.
+
+## Example Panel
 This is an example that people can use as a template for submitting their own panels. A description of the panel, including its focus and goal should go here.
-#### Communication channel
+### Communication channels
 - Link to join mailing list goes here
 - Link to public chat goes here
 - Any other public communication link goes here
