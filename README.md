@@ -18,7 +18,7 @@ Solid Panels are groups of individuals focused on a specific problem or domain r
 
 Domains may be technical, non-technical, or some combination of the two. For example, a Security Panel could focus on the evaluation and advancement of the Solid security model.
 
-A list of Solid Panels is maintained at [solid-panels.md](solid-panels.md). This listing helps people find panels they may want to participate in, and helps editors find panels to consult as part of the editorial process.
+A list of Solid Panels is maintained at [panels.md](panels.md). This listing helps people find panels they may want to participate in, and helps editors find panels to consult as part of the editorial process.
 
 ## Stakeholders
 
