@@ -37,7 +37,7 @@ Solid Implementers are companies or organizations who are implementing the Solid
 
 This section details how changes to the Solid Specification, Solid Roadmap, or Supporting Documentation may be drafted, proposed, and accepted.
 
-Anyone may submit a proposal to alter this process. These proposals will not be reviewed by the editors. They will be reviewed only by [Tim Berners-Lee](https://github.com/timbl), the Solid Leader.
+Anyone may submit a proposal to alter this process. These proposals will not be reviewed by the editors. They will be reviewed only by [Tim Berners-Lee](https://github.com/timbl), who is the Solid Director.
 
 ### Drafting proposals
 
@@ -70,9 +70,9 @@ Candidate proposals and the results of any vote related to the same need to be p
 
 ### Becoming an Editor
 
-Editors are appointed directly by the Solid Leader. Editors are listed at [editors.md](editors.md) along with their contact details and affiliations. Anyone may submit a request to be an editor. These requests are not reviewed by other editors. They are reviewed directly by the Solid Leader.
+Editors are appointed directly by the Solid Director. Editors are listed at [editors.md](editors.md) along with their contact details and affiliations. Anyone may submit a request to be an editor. These requests are not reviewed by other editors. They are reviewed directly by the Solid Director.
 
-The Solid Manager, who is also an editor, is appointed by the Solid Leader. The Solid Manager is responsible for formalizing the outcome of any votes.
+The Solid Manager, who is also an editor, is appointed by the Solid Director. The Solid Manager is responsible for formalizing the outcome of any votes.
 
 ## Administration
 
@@ -80,9 +80,9 @@ Administrators are granted privileged access to control the tools, systems, and 
 
 ### Becoming an Administrator
 
-Administrators are appointed directly the Solid Leader. Administrators are listed at [administrators.md](administrators.md) along with their contact details and affiliations. Anyone may request to be an administrator. Administrator requests are not reviewed by other Administrators. They are reviewed only by the Solid Leader.
+Administrators are appointed directly the Solid Director. Administrators are listed at [administrators.md](administrators.md) along with their contact details and affiliations. Anyone may request to be an administrator. Administrator requests are not reviewed by other Administrators. They are reviewed only by the Solid Director.
 
-The Solid Manager, who is also an administrator, is appointed by the Solid Leader and is responsible for implementing the vision of the Solid Leader.
+The Solid Manager, who is also an administrator, is appointed by the Solid Director and is responsible for implementing the vision of the Solid Director.
 
 # References
 
