@@ -33,7 +33,7 @@ Solid Users are individuals, companies, or organizations who access data stored 
 ### Implementers
 Solid Implementers are companies or organizations who are implementing the Solid Specification. A Solid Implementer may be any combination of Identity Provider, Pod Provider, and Application Provider.
 
-## Process for Changes
+## How to Make Changes
 
 This section details how changes to the Solid Specification, Solid Roadmap, or Supporting Documentation may be drafted, proposed, and accepted.
 
@@ -54,11 +54,9 @@ Any proposal must be realistic and reasonable to implement, preferably with exam
 
 Any proposal should also be accompanied with a reasonable explanation of the need for the proposed change. For example:
 
-- Removing something that failed to be adopted by implementers for legitimate reasons
-- Proposing a simpler design that is able to address the same use case
-- Adding a new capability that provides one or more identifiable benefits
-- A change that resolves one or more identified issues in real-world use
-- Removing ambiguity or confusion
+- Adding a new capability that satisfies one or more new use cases, or to reflect a new capability already incorporated consistently into multiple implementations.
+- Removing something because it was never adopted by Implementers for legitimate reasons, or because there has been a collective shift in focus away from that feature and it no longer makes sense to keep it.
+- Changing something to a simpler design that is able to address the same use case(s) with less complexity, or a change that resolves one or more identified issues in real-world use.
 
 A draft proposal often involves public discussion before being formally presented for review. After these discussions have occurred and a draft proposal has reached a sufficient level of maturity, it should be presented as a candidate proposal, asking Stakeholders and Panels if there are any major objections.
 
@@ -68,19 +66,23 @@ When there are objections, notify the Solid Panels and Stakeholders about the fi
 
 Candidate proposals to the Solid Specification, Solid Roadmap, or Supporting Documentation submitted for review go through an editorial process before they are accepted.
 
-Editors are appointed directly by the Solid Leader. Editors are listed at [editors.md](editors.md) along with their contact details and affiliations. Anyone may request to be an editor. Editor requests are not reviewed by other editors. They are reviewed directly by the Solid Leader.
-
 Candidate proposals and the results of any vote related to the same need to be put forward to the editors for review. For the proposal to be accepted, three editors need to actively approve with no editors actively rejecting. Editors may abstain. A proposal must be open for at least one week before final acceptance. If an editor does not vote by the end of that week it will be assumed that the editor abstained.
 
-The Solid Manager, who is also an editor, is appointed by the Solid Leader. The Solid Manager is responsible for formalizing the outcome of the vote.
+### Becoming an Editor
 
-### Administration
+Editors are appointed directly by the Solid Leader. Editors are listed at [editors.md](editors.md) along with their contact details and affiliations. Anyone may submit a request to be an editor. These requests are not reviewed by other editors. They are reviewed directly by the Solid Leader.
+
+The Solid Manager, who is also an editor, is appointed by the Solid Leader. The Solid Manager is responsible for formalizing the outcome of any votes.
+
+## Administration
 
 Administrators are granted privileged access to control the tools, systems, and services used for advancing the Solid Specification, Solid Roadmap, and Supporting Documentation. This includes the [Solid GitHub](https://github.com/solid) organization, [Solid Gitter](https://gitter.im/solid/home) channels, the [Solid Forum](https://forum.solidproject.org), and the [Solid Website](https://www.solidproject.org).
 
-Administrators will be appointed directly the Solid Leader. Administrators are listed at [administrators.md](administrators.md) along with their contact details and affiliations. Anyone may request to be an administrator. Administrator requests are not reviewed by other Administrators. They are reviewed only by the Solid Leader.
+### Becoming an Administrator
 
-The Solid Manager, who is also an editor and an administrator, is appointed by the Solid Leader and is responsible for implementing the Solid vision of the Solid Leader. This may include ensuring that the process is implemented correctly and the outcome is communicated accurately and efficiently.
+Administrators are appointed directly the Solid Leader. Administrators are listed at [administrators.md](administrators.md) along with their contact details and affiliations. Anyone may request to be an administrator. Administrator requests are not reviewed by other Administrators. They are reviewed only by the Solid Leader.
+
+The Solid Manager, who is also an administrator, is appointed by the Solid Leader and is responsible for implementing the vision of the Solid Leader.
 
 # References
 
@@ -91,5 +93,5 @@ Solid culture documentation was put together with inspiration and learnings from
 * Elinor Ostrom (2005) [Understanding Institutional Diversity](https://www.wtf.tw/ref/ostrom_2005.pdf).
 * Chales M Schweik and Meelis Kitsting (2010) [Applying Elinor Ostrom’s Rule Classification Framework to the Analysis of Open Source Software Commons. Transnational Corporations Review](http://www.tnc-online.net/pic/2010032809124697.pdf)
 * Sean McDonald (2019) [Reclaiming Data Trusts. CIGO](https://www.cigionline.org/articles/reclaiming-data-trusts)
-* Aymeric Augustin (xxxx) [Django](https://docs.djangoproject.com/en/dev/internals/organization/)
+* Aymeric Augustin [Django](https://docs.djangoproject.com/en/dev/internals/organization/)
 * https://tc39.github.io/process-document/
