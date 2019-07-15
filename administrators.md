@@ -5,3 +5,4 @@ Below is a listing of [Solid Administrators](README.md#administration). Administ
 | Name      | WebID      |
 | --------- | ---------- |
 | [Tim Berners-Lee](https://github.com/timbl) | [WebID](https://www.w3.org/People/Berners-Lee/card#i) |
+| [Mitzi László](https://github.com/Mitzi-Laszlo) | [WebID](https://mitzilaszlo.solid.community/profile/card#me)|
