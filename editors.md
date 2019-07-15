@@ -5,3 +5,4 @@ Below is a listing of Solid Editors. See [Reviewing Proposals](README.md#reviewi
 | Name      | WebID      |
 | --------- | ---------- |
 | [Tim Berners-Lee](https://github.com/timbl) | [WebID](https://www.w3.org/People/Berners-Lee/card#i) |
+| [Sarven Capadisli](https://github.com/csarven) | [WebID](http://csarven.ca/#i) |
