@@ -5,3 +5,5 @@ Below is a listing of Solid Editors. See [Reviewing Proposals](README.md#reviewi
 | Name      | WebID      |
 | --------- | ---------- |
 | [Tim Berners-Lee](https://github.com/timbl) | [WebID](https://www.w3.org/People/Berners-Lee/card#i) |
+| [Mitzi László](https://github.com/Mitzi-Laszlo) | [WebID](https://mitzilaszlo.solid.community/profile/card#me)|
+
