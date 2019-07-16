@@ -19,6 +19,7 @@ This panel is tasked with:
 - Ruben Verborgh
 - Kjetil Kjernsmo
 - Sarven Capadisli
+- Justin Bingham
 
 ----
 
