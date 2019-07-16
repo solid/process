@@ -16,3 +16,12 @@ This is an example that people can use as a template for submitting their own pa
 #### Panelists
 - Panelist Name <[email@example.org](mailto:email@example.org)>
 - Panelist Name <[email@example.org](mailto:email@example.org)>
+
+## Solid Teaching Material Panel
+The Solid Teaching Material Panel has the aim to produce content to be able to effectively teach people to build Solid identity providers, Pods, and apps. 
+
+### Communication channels
+- [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
+
+#### Panelists
+- 
