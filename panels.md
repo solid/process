@@ -34,4 +34,5 @@ The Solid Teaching Material Panel has the aim to produce content to be able to e
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 
 #### Panelists
+ - Vincent Tunru <[vincentt@inrupt.com](mailto:vincentt@inrupt.com)> 
 - 
