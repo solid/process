@@ -16,3 +16,12 @@ This is an example that people can use as a template for submitting their own pa
 #### Panelists
 - Panelist Name <[email@example.org](mailto:email@example.org)>
 - Panelist Name <[email@example.org](mailto:email@example.org)>
+
+## Internationalisation Panel
+To ensure internationalisation is taken into consideration during the Solid design. 
+
+### Communication channels
+- [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
+
+#### Panelists
+- 
