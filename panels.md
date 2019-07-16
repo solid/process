@@ -16,3 +16,12 @@ This is an example that people can use as a template for submitting their own pa
 #### Panelists
 - Panelist Name <[email@example.org](mailto:email@example.org)>
 - Panelist Name <[email@example.org](mailto:email@example.org)>
+
+## Outreach Panel
+How to technically link to other initiatives to build positive win-win collaborations. 
+
+### Communication channels
+- [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
+
+#### Panelists
+- 
