@@ -67,6 +67,18 @@ To create a structure for the document at https://github.com/solid/specification
 - Sarven Capadisli
 - Justin Bingham
 
+## Identity Panel
+Discussions and specs for expanding the capabilities of Solid's WebID identity
+system, including user profiles,
+[Decentralized Identifiers (DIDs)](https://w3c-ccg.github.io/did-spec/), and
+related standards.
+
+### Communication channels
+- [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
+
+### Panelists
+ - Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> 
+
 ## Query Panel
 Discussion, specs and recommendations for implementing querying mechanisms
 beyond LDP, such as Sparql, 
@@ -77,4 +89,4 @@ GraphQL and others.
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 
 ### Panelists
-- Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)>
+ - Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> 
