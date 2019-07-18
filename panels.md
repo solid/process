@@ -47,7 +47,7 @@ To ensure internationalisation is taken into consideration during the Solid desi
 -
 
 ## Accessibility Panel
-How to ensure that the technical decisions are taking accesibility considerations into account.
+How to ensure that the technical decisions are taking accessibility considerations into account.
 
 ### Communication channels
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
@@ -81,6 +81,25 @@ related standards.
 - Michiel de Jong
 - Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)>
 
+## Authentication Panel
+Discussion and specs relating to Authentication and Auth Delegation protocols,
+including:
+
+* [WebID-OIDC](https://github.com/solid/webid-oidc-spec) auth delegation
+  protocol
+* WebID-TLS legacy protocol
+* Username + password recommendations for local authentication
+* [WebAuthentication](https://www.w3.org/TR/webauthn/) (proposed future
+    integration)
+* DID Authentication (proposed future integration)
+* HTTP Signatures (proposed future integration)
+
+### Communication channels
+- [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
+
+### Panelists
+- Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)>
+
 ## Query Panel
 Discussion, specs and recommendations for implementing querying mechanisms
 beyond LDP, such as Sparql,
@@ -102,7 +121,7 @@ How do apps request access to specific containers, shapes, and/or realms of a us
 ### Panelists
 - Michiel de Jong
 
- ## Explaining the Vision Panel
+## Explaining the Vision Panel
 Taking the suggestions on https://github.com/solid/information/issues/180 to produce a proposal for explaining the Solid vision, mission, and values on https://github.com/solid/information/pull/202
 
 ### Communication channels
