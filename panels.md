@@ -18,8 +18,10 @@ This is an example that people can use as a template for submitting their own pa
 - Panelist Name <[email@example.org](mailto:email@example.org)>
 - Panelist Name <[email@example.org](mailto:email@example.org)>
 
+
 ## Outreach Panel
 How to technically link to other initiatives to build positive win-win collaborations. 
+
 
 ### Communication channels
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
@@ -35,4 +37,12 @@ The Solid Teaching Material Panel has the aim to produce content to be able to e
 
 #### Panelists
  - Vincent Tunru <[vincentt@inrupt.com](mailto:vincentt@inrupt.com)> 
-- 
+
+## Internationalisation Panel
+To ensure internationalisation is taken into consideration during the Solid design. 
+
+### Communication channels
+- [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
+
+#### Panelists
+ - 
