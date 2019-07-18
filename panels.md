@@ -18,8 +18,9 @@ This is an example that people can use as a template for submitting their own pa
 - Panelist Name <[email@example.org](mailto:email@example.org)>
 - Panelist Name <[email@example.org](mailto:email@example.org)>
 
-## Outreach Panel
-How to technically link to other initiatives to build positive win-win collaborations.
+## External Interop and Outreach Panel
+How to technically link to other initiatives to build positive win-win
+collaborations.
 
 ### Communication channels
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
@@ -34,7 +35,7 @@ The Solid Teaching Material Panel has the aim to produce content to be able to e
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 
 ### Panelists
- - Vincent Tunru <[vincentt@inrupt.com](mailto:vincentt@inrupt.com)> 
+ - Vincent Tunru <[vincentt@inrupt.com](mailto:vincentt@inrupt.com)>
 
 ## Internationalisation Panel
 To ensure internationalisation is taken into consideration during the Solid design.
@@ -43,7 +44,7 @@ To ensure internationalisation is taken into consideration during the Solid desi
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 
 ### Panelists
-- 
+-
 
 ## Accessibility Panel
 How to ensure that the technical decisions are taking accesibility considerations into account.
@@ -52,7 +53,7 @@ How to ensure that the technical decisions are taking accesibility consideration
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 
 ### Panelists
-- 
+-
 
 ## Specification Entry Document Panel
 To create a structure for the document at https://github.com/solid/specification/, and the division in documents it links to and well as translating the community consensus regarding the application of the specifications mentioned in this document into a clear, unambiguous and implementable text.
@@ -78,11 +79,11 @@ related standards.
 
 ### Panelists
 - Michiel de Jong
-- Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> 
+- Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)>
 
 ## Query Panel
 Discussion, specs and recommendations for implementing querying mechanisms
-beyond LDP, such as Sparql, 
+beyond LDP, such as Sparql,
 [Triple Pattern Fragments (TPF)](http://linkeddatafragments.org/in-depth/),
 GraphQL and others.
 
@@ -90,8 +91,8 @@ GraphQL and others.
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 
 ### Panelists
- - Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> 
- 
+ - Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)>
+
 ## App Authorization
 How do apps request access to specific containers, shapes, and/or realms of a user's data.
 
@@ -101,11 +102,11 @@ How do apps request access to specific containers, shapes, and/or realms of a us
 ### Panelists
 - Michiel de Jong
 
- ## Explaining the Vision Panel 
-Taking the suggestions on https://github.com/solid/information/issues/180 to produce a proposal for explaining the Solid vision, mission, and values on https://github.com/solid/information/pull/202 
+ ## Explaining the Vision Panel
+Taking the suggestions on https://github.com/solid/information/issues/180 to produce a proposal for explaining the Solid vision, mission, and values on https://github.com/solid/information/pull/202
 
 ### Communication channels
-- https://github.com/solid/information/pull/202 
+- https://github.com/solid/information/pull/202
 
 ### Panelists
 - Dan Wilkinson
