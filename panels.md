@@ -78,3 +78,15 @@ related standards.
 
 ### Panelists
  - Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> 
+
+## Query Panel
+Discussion, specs and recommendations for implementing querying mechanisms
+beyond LDP, such as Sparql, 
+[Triple Pattern Fragments (TPF)](http://linkeddatafragments.org/in-depth/),
+GraphQL and others.
+
+### Communication channels
+- [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
+
+### Panelists
+ - Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> 
