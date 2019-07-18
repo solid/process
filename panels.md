@@ -110,7 +110,7 @@ GraphQL and others.
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 
 ### Panelists
- - Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)>
+- Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)>
 
 ## App Authorization
 How do apps request access to specific containers, shapes, and/or realms of a user's data.
@@ -130,3 +130,15 @@ Taking the suggestions on https://github.com/solid/information/issues/180 to pro
 ### Panelists
 - Dan Wilkinson
 - Mitzi László
+
+## Cryptography (Signing and Encryption) Panel
+Discussion and specs related to performing decentralized Key Management,
+Cryptographic Signatures (including integration with
+[Verifiable Credentials](https://w3c.github.io/vc-data-model/)), and at-rest
+data Encryption on Solid servers.
+
+### Communication channels
+- [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
+
+### Panelists
+- Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)>
