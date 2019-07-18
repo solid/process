@@ -19,41 +19,41 @@ This is an example that people can use as a template for submitting their own pa
 - Panelist Name <[email@example.org](mailto:email@example.org)>
 
 ## Outreach Panel
-How to technically link to other initiatives to build positive win-win collaborations. 
+How to technically link to other initiatives to build positive win-win collaborations.
 
 ### Communication channels
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 
 #### Panelists
-- 
+-
 
 ## Solid Teaching Material Panel
-The Solid Teaching Material Panel has the aim to produce content to be able to effectively teach people to build Solid identity providers, Pods, and apps. 
+The Solid Teaching Material Panel has the aim to produce content to be able to effectively teach people to build Solid identity providers, Pods, and apps.
 
 ### Communication channels
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 
 #### Panelists
- - Vincent Tunru <[vincentt@inrupt.com](mailto:vincentt@inrupt.com)> 
+ - Vincent Tunru <[vincentt@inrupt.com](mailto:vincentt@inrupt.com)>
 
 ## Internationalisation Panel
-To ensure internationalisation is taken into consideration during the Solid design. 
+To ensure internationalisation is taken into consideration during the Solid design.
 
 ### Communication channels
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 
 #### Panelists
- - 
- 
+ -
+
 ## Accessibility Panel
-How to ensure that the technical decisions are taking accesibility considerations into account. 
+How to ensure that the technical decisions are taking accesibility considerations into account.
 
 ### Communication channels
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 
 #### Panelists
- - 
- 
+ -
+
 ## Specification Entry Document Panel
 To create a structure for the document at https://github.com/solid/specification/, and the division in documents it links to and well as translating the community consensus regarding the application of the specifications mentioned in this document into a clear, unambiguous and implementable text.
 
@@ -66,3 +66,15 @@ To create a structure for the document at https://github.com/solid/specification
 - Kjetil Kjernsmo
 - Sarven Capadisli
 - Justin Bingham
+
+## Query Panel
+Discussion, specs and recommendations for implementing querying mechanisms
+beyond LDP, such as Sparql, 
+[Triple Pattern Fragments (TPF)](http://linkeddatafragments.org/in-depth/),
+GraphQL and others.
+
+### Communication channels
+- [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
+
+### Panelists
+- Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)>
