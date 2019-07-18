@@ -14,7 +14,7 @@ This is an example that people can use as a template for submitting their own pa
 - Link to public chat goes here
 - Any other public communication link goes here
 
-#### Panelists
+### Panelists
 - Panelist Name <[email@example.org](mailto:email@example.org)>
 - Panelist Name <[email@example.org](mailto:email@example.org)>
 
@@ -33,8 +33,8 @@ The Solid Teaching Material Panel has the aim to produce content to be able to e
 ### Communication channels
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 
-#### Panelists
- - Vincent Tunru <[vincentt@inrupt.com](mailto:vincentt@inrupt.com)>
+### Panelists
+ - Vincent Tunru <[vincentt@inrupt.com](mailto:vincentt@inrupt.com)> 
 
 ## Internationalisation Panel
 To ensure internationalisation is taken into consideration during the Solid design.
@@ -42,8 +42,8 @@ To ensure internationalisation is taken into consideration during the Solid desi
 ### Communication channels
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 
-#### Panelists
- -
+### Panelists
+- 
 
 ## Accessibility Panel
 How to ensure that the technical decisions are taking accesibility considerations into account.
@@ -51,8 +51,8 @@ How to ensure that the technical decisions are taking accesibility consideration
 ### Communication channels
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 
-#### Panelists
- -
+### Panelists
+- 
 
 ## Specification Entry Document Panel
 To create a structure for the document at https://github.com/solid/specification/, and the division in documents it links to and well as translating the community consensus regarding the application of the specifications mentioned in this document into a clear, unambiguous and implementable text.
@@ -61,7 +61,7 @@ To create a structure for the document at https://github.com/solid/specification
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 - [the solid/specification repository](https://github.com/solid/specification/)
 
-#### Panelists
+### Panelists
 - Ruben Verborgh
 - Kjetil Kjernsmo
 - Sarven Capadisli
@@ -77,7 +77,8 @@ related standards.
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 
 ### Panelists
- - Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> 
+- Michiel de Jong
+- Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> 
 
 ## Query Panel
 Discussion, specs and recommendations for implementing querying mechanisms
@@ -90,3 +91,12 @@ GraphQL and others.
 
 ### Panelists
  - Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> 
+ 
+ ## App Authorization
+How do apps request access to specific containers, shapes, and/or realms of a user's data.
+
+### Communication channels
+- [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
+
+### Panelists
+- Michiel de Jong
