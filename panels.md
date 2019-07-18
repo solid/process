@@ -8,6 +8,7 @@ This listing helps people find panels they may want to participate in, and helps
 
 ## Example Panel
 This is an example that people can use as a template for submitting their own panels. A description of the panel, including its focus and goal should go here.
+
 ### Communication channels
 - Link to join mailing list goes here
 - Link to public chat goes here
@@ -17,6 +18,33 @@ This is an example that people can use as a template for submitting their own pa
 - Panelist Name <[email@example.org](mailto:email@example.org)>
 - Panelist Name <[email@example.org](mailto:email@example.org)>
 
+## Outreach Panel
+How to technically link to other initiatives to build positive win-win collaborations. 
+
+### Communication channels
+- [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
+
+#### Panelists
+- 
+
+## Solid Teaching Material Panel
+The Solid Teaching Material Panel has the aim to produce content to be able to effectively teach people to build Solid identity providers, Pods, and apps. 
+
+### Communication channels
+- [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
+
+#### Panelists
+ - Vincent Tunru <[vincentt@inrupt.com](mailto:vincentt@inrupt.com)> 
+
+## Internationalisation Panel
+To ensure internationalisation is taken into consideration during the Solid design. 
+
+### Communication channels
+- [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
+
+#### Panelists
+ - 
+ 
 ## Accessibility Panel
 How to ensure that the technical decisions are taking accesibility considerations into account. 
 
@@ -24,4 +52,4 @@ How to ensure that the technical decisions are taking accesibility consideration
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 
 #### Panelists
-- 
+ - 
