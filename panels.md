@@ -84,7 +84,6 @@ related standards.
 ## Authentication Panel
 Discussion and specs relating to Authentication and Auth Delegation protocols,
 including:
-
 * [WebID-OIDC](https://github.com/solid/webid-oidc-spec) auth delegation
   protocol
 * WebID-TLS legacy protocol
@@ -110,7 +109,8 @@ GraphQL and others.
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 
 ### Panelists
-- Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)>
+ - Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)>
+ - Aaron Coburn <[acoburn@apache.org](mailto:acoburn@apache.org)>
 
 ## App Authorization
 How do apps request access to specific containers, shapes, and/or realms of a user's data.
@@ -120,6 +120,7 @@ How do apps request access to specific containers, shapes, and/or realms of a us
 
 ### Panelists
 - Michiel de Jong
+- Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)>
 
 ## Explaining the Vision Panel
 Taking the suggestions on https://github.com/solid/information/issues/180 to produce a proposal for explaining the Solid vision, mission, and values on https://github.com/solid/information/pull/202
@@ -130,6 +131,23 @@ Taking the suggestions on https://github.com/solid/information/issues/180 to pro
 ### Panelists
 - Dan Wilkinson
 - Mitzi László
+
+## Data Interoperability
+Ensuring the interoperability of data as it is read and written by different
+users and/or applications. Topics of discussion will include vocabularies,
+shapes, footprints, and the mechanisms through which these work together to
+provide consistent and safe access and manipulation of data in a pod by
+different agents and/or users.
+
+### Communication channels
+- [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
+
+### Panelists
+- Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)>
+- Justin Bingham
+- Eric Prud'hommeaux
+- Max Dor
+- James Schoening
 
 ## Cryptography (Signing and Encryption) Panel
 Discussion and specs related to performing decentralized Key Management,
