@@ -130,3 +130,19 @@ Taking the suggestions on https://github.com/solid/information/issues/180 to pro
 ### Panelists
 - Dan Wilkinson
 - Mitzi László
+
+## Data Interoperability
+Ensuring the interoperability of data as it is read and written by different
+users and/or applications. Topics of discussion will include vocabularies,
+shapes, footprints, and the mechanisms through which these work together to
+provide consistent and safe access and manipulation of data in a pod by
+different agents and/or users.
+
+### Communication channels
+- [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
+
+### Panelists
+- Justin Bingham
+- Eric Prud'hommeaux
+- Max Dor
+- James Schoening
