@@ -84,7 +84,6 @@ related standards.
 ## Authentication Panel
 Discussion and specs relating to Authentication and Auth Delegation protocols,
 including:
-
 * [WebID-OIDC](https://github.com/solid/webid-oidc-spec) auth delegation
   protocol
 * WebID-TLS legacy protocol
@@ -144,7 +143,20 @@ different agents and/or users.
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 
 ### Panelists
+- Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)>
 - Justin Bingham
 - Eric Prud'hommeaux
 - Max Dor
 - James Schoening
+
+## Cryptography (Signing and Encryption) Panel
+Discussion and specs related to performing decentralized Key Management,
+Cryptographic Signatures (including integration with
+[Verifiable Credentials](https://w3c.github.io/vc-data-model/)), and at-rest
+data Encryption on Solid servers.
+
+### Communication channels
+- [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
+
+### Panelists
+- Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)>
