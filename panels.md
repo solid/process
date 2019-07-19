@@ -111,6 +111,7 @@ GraphQL and others.
 
 ### Panelists
  - Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)>
+ - Aaron Coburn <[acoburn@apache.org](mailto:acoburn@apache.org)>
 
 ## App Authorization
 How do apps request access to specific containers, shapes, and/or realms of a user's data.
