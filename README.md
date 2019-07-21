@@ -48,7 +48,7 @@ Anyone may propose improvements to the Solid Specification, Solid Roadmap, or Su
 - Make a suggestion on the Solid W3C Community Group mailing list to form a new Solid Panel, or join an existing Solid Panel
 - Propose an item for the W3C Solid Community Group call
 
-Proposals for substantive changes to the Solid Specification, Solid Roadmap, or Supporting Documentation go through an editorial review process. A change is considered substantive when it alters the normative text of the Solid Specification or the Solid Roadmap.
+Proposals for changes to the Solid Specification, Solid Roadmap, or Supporting Documentation go through an editorial review process. Proposals that include substantive changes which significantly alter the normative text of the Solid Specification or the Solid Roadmap go through a more comprehensive editorial review.
 
 Any proposal must be realistic and reasonable to implement, preferably with example implementations, and demonstrable support from Implementers.
 
@@ -64,9 +64,15 @@ When there are objections, notify the Solid Panels and Stakeholders about the fi
 
 ### Reviewing proposals
 
-Candidate proposals to the Solid Specification, Solid Roadmap, or Supporting Documentation submitted for review go through an editorial process before they are accepted.
+Candidate Proposals to change the Solid Specification, Solid Roadmap, or Supporting Documentation must be submitted for editorial review before they are accepted, along with the results of any votes taken while the proposal was being drafted.
 
-Candidate proposals and the results of any vote related to the same need to be put forward to the editors for review. For the proposal to be accepted, three editors need to actively approve with no editors actively rejecting. Editors may abstain. A proposal must be open for at least one week before final acceptance. If an editor does not vote by the end of that week it will be assumed that the editor abstained.
+An editor determines whether a Candidate Proposal includes a substantive change and marks it accordingly.
+
+Candidate Proposals with substantive changes require three editors to actively approve the proposal with no editors actively rejecting. Editors may abstain. Candidate Proposals with substantive changes must remain open for at least one week before final acceptance. If an editor does not vote by the end of that week it will be assumed that the editor abstained.
+
+Candidate Proposals without substantive changes require one editor to actively approve the proposal with no editors actively rejecting. Editors may abstain. Candidate Proposals without substantive changes must remain open for at least twenty-four hours before final acceptance. If an editor does not vote by the end of that twenty-four hour period it will be assumed that the editor abstained.
+
+Once a Candidate Proposal has successfully passed editorial review and the specified wait-time has elapsed, it may be merged by an editor, or by one of its authors if they have appropriate permission to do so.
 
 ### Becoming an Editor
 
