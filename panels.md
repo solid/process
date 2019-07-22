@@ -80,6 +80,7 @@ related standards.
 ### Panelists
 - Michiel de Jong
 - Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)>
+- Paul Worrall <[paul.worrall@interition.net][mailto:paul.worrall@interition.net]>
 
 ## Authentication Panel
 Discussion and specs relating to Authentication and Auth Delegation protocols,
@@ -98,6 +99,7 @@ including:
 
 ### Panelists
 - Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)>
+- Paul Worrall <[paul.worrall@interition.net][mailto:paul.worrall@interition.net]>
 
 ## Query Panel
 Discussion, specs and recommendations for implementing querying mechanisms
@@ -131,6 +133,7 @@ Taking the suggestions on https://github.com/solid/information/issues/180 to pro
 ### Panelists
 - Dan Wilkinson
 - Mitzi László
+- <[paul.worrall@interition.net][mailto:paul.worrall@interition.net]>
 
 ## Data Interoperability
 Ensuring the interoperability of data as it is read and written by different
@@ -160,3 +163,4 @@ data Encryption on Solid servers.
 
 ### Panelists
 - Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)>
+- <[paul.worrall@interition.net][mailto:paul.worrall@interition.net]>
