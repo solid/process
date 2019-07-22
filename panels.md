@@ -18,7 +18,7 @@ This is an example that people can use as a template for submitting their own pa
 - Panelist Name <[email@example.org](mailto:email@example.org)>
 - Panelist Name <[email@example.org](mailto:email@example.org)>
 
-## Table of Contents
+## Index of Panels
 
 * [Accessibility Panel](#accessibility-panel)
 * [App Authorization Panel](#app-authorization)
