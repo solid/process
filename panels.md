@@ -96,14 +96,15 @@ related standards.
 ### Panelists
 - Michiel de Jong
 - Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)>
-- Paul Worrall <[paul.worrall@interition.net][mailto:paul.worrall@interition.net]>
+- Paul Worrall <[paul.worrall@interition.net](mailto:paul.worrall@interition.net)>
 
 ## Authentication Panel
 Discussion and specs relating to Authentication and Auth Delegation protocols,
 including:
 * [WebID-OIDC](https://github.com/solid/webid-oidc-spec) auth delegation
   protocol
-* WebID-TLS legacy protocol
+* [WebID-TLS](http://www.w3.org/2005/Incubator/webid/spec/tls) auth delegation 
+  protocol
 * Username + password recommendations for local authentication
 * [WebAuthentication](https://www.w3.org/TR/webauthn/) (proposed future
     integration)
@@ -182,4 +183,4 @@ data Encryption on Solid servers.
 
 ### Panelists
 - Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)>
-- <[paul.worrall@interition.net][mailto:paul.worrall@interition.net]>
+- Paul Worrall <[paul.worrall@interition.net](mailto:paul.worrall@interition.net)>
