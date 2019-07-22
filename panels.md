@@ -115,7 +115,8 @@ including:
 
 ### Panelists
 - Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)>
-- Paul Worrall <[paul.worrall@interition.net][mailto:paul.worrall@interition.net]>
+- Paul Worrall <[paul.worrall@interition.net](mailto:paul.worrall@interition.net)> 
+- Michael Thornburgh <[mthornbu@adobe.com](mailto:mthornbu@adobe.com)>
 
 ## Query Panel
 Discussion, specs and recommendations for implementing querying mechanisms
@@ -139,6 +140,7 @@ How do apps request access to specific containers, shapes, and/or realms of a us
 ### Panelists
 - Michiel de Jong
 - Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)>
+- Michael Thornburgh <[mthornbu@adobe.com](mailto:mthornbu@adobe.com)>
 
 ## Explaining the Vision Panel
 Taking the suggestions on https://github.com/solid/information/issues/180 to produce a proposal for explaining the Solid vision, mission, and values on https://github.com/solid/information/pull/202
