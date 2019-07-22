@@ -150,8 +150,8 @@ Taking the suggestions on https://github.com/solid/information/issues/180 to pro
 
 ### Panelists
 - Dan Wilkinson
-- Mitzi László
-- <[paul.worrall@interition.net][mailto:paul.worrall@interition.net]>
+- Mitzi László <[email@mitzilaszlo.org](mailto:email@mitzilaszlo.org)>
+- Paul Worrall <[paul.worrall@interition.net](mailto:paul.worrall@interition.net)>
 
 ## Data Interoperability
 Ensuring the interoperability of data as it is read and written by different
