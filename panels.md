@@ -130,6 +130,7 @@ GraphQL and others.
 ### Panelists
  - Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)>
  - Aaron Coburn <[acoburn@apache.org](mailto:acoburn@apache.org)>
+ - Ruben Verborgh
 
 ## App Authorization
 How do apps request access to specific containers, shapes, and/or realms of a user's data.
@@ -152,6 +153,7 @@ Taking the suggestions on https://github.com/solid/information/issues/180 to pro
 - Dan Wilkinson
 - Mitzi László <[email@mitzilaszlo.org](mailto:email@mitzilaszlo.org)>
 - Paul Worrall <[paul.worrall@interition.net](mailto:paul.worrall@interition.net)>
+- Ruben Verborgh
 
 ## Data Interoperability
 Ensuring the interoperability of data as it is read and written by different
@@ -170,6 +172,7 @@ different agents and/or users.
 - Max Dor
 - James Schoening
 - [Jose Emilio Labra Gayo](http://labra.weso.es)
+- Ruben Verborgh
 
 ## Cryptography (Signing and Encryption) Panel
 Discussion and specs related to performing decentralized Key Management,
