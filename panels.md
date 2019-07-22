@@ -94,7 +94,6 @@ related standards.
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 
 ### Panelists
-- Michiel de Jong
 - Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)>
 - Paul Worrall <[paul.worrall@interition.net](mailto:paul.worrall@interition.net)>
 
