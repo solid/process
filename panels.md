@@ -51,6 +51,7 @@ The Solid Teaching Material Panel has the aim to produce content to be able to e
 
 ### Panelists
  - Vincent Tunru <[vincentt@inrupt.com](mailto:vincentt@inrupt.com)>
+ - [Jose Emilio Labra Gayo](http://labra.weso.es)
 
 ## Internationalisation Panel
 To ensure internationalisation is taken into consideration during the Solid design.
@@ -166,6 +167,7 @@ different agents and/or users.
 - Eric Prud'hommeaux
 - Max Dor
 - James Schoening
+- [Jose Emilio Labra Gayo](http://labra.weso.es)
 
 ## Cryptography (Signing and Encryption) Panel
 Discussion and specs related to performing decentralized Key Management,
