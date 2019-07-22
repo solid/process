@@ -18,6 +18,21 @@ This is an example that people can use as a template for submitting their own pa
 - Panelist Name <[email@example.org](mailto:email@example.org)>
 - Panelist Name <[email@example.org](mailto:email@example.org)>
 
+## Table of Contents
+
+* [Accessibility Panel](#accessibility-panel)
+* [App Authorization Panel](#app-authorization)
+* [Authentication Panel](#authentication-panel)
+* [Cryptography (Signing and Encryption) Panel](#cryptography-signing-and-encryption-panel)
+* [Data Interoperability Panel](#data-interoperability)
+* [Explaining the Vision Panel](#explaining-the-vision-panel)
+* [External Interop and Outreach Panel](#external-interop-and-outreach-panel)
+* [Identity Panel](#identity-panel)
+* [Internationalisation Panel](#internationalisation-panel)
+* [Query Panel](#query-panel)
+* [Specification Entry Document Panel](#specification-entry-document-panel)
+* [Teaching Materials Panel](#solid-teaching-material-panel)
+
 ## External Interop and Outreach Panel
 How to technically link to other initiatives to build positive win-win
 collaborations.
