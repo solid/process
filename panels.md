@@ -210,3 +210,12 @@ Included the test suite in the Solid specification.
 - [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk)
 - [Konobi](https://github.com/orgs/solid/people/konobi)
 - [Michiel de Jong](https://github.com/orgs/solid/people/michielbdejong)
+
+## Website Panel
+Write proposals for solidproject.org
+
+### Communication channels
+- [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
+
+### Panelists
+- [Mitzi László](https://github.com/Mitzi-Laszlo)
