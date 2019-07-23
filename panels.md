@@ -204,4 +204,9 @@ Included the test suite in the Solid specification.
 - [Solid Spec Gitter Channel](https://gitter.im/solid/solid-spec)
 
 ### Panelists
-- 
+- [Aaron Coburn](https://github.com/orgs/solid/people/acoburn)
+- [Elf-Pavlik](https://github.com/orgs/solid/people/elf-pavlik)
+- [Jackson Morgan](https://github.com/orgs/solid/people/jaxoncreed)
+- [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk)
+- [Konobi](https://github.com/orgs/solid/people/konobi)
+- [Michiel de Jong](https://github.com/orgs/solid/people/michielbdejong)
