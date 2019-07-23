@@ -188,3 +188,13 @@ data Encryption on Solid servers.
 ### Panelists
 - Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)>
 - Paul Worrall <[paul.worrall@interition.net](mailto:paul.worrall@interition.net)>
+
+## Test Suite Panel
+Included the test suite in the Solid specification. 
+
+### Communication channels
+- [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
+- [Solid Spec Gitter Channel](https://gitter.im/solid/solid-spec)
+
+### Panelists
+- 
