@@ -53,6 +53,10 @@ The Solid Teaching Material Panel has the aim to produce content to be able to e
  - Vincent Tunru <[vincentt@inrupt.com](mailto:vincentt@inrupt.com)>
  - [Jose Emilio Labra Gayo](http://labra.weso.es)
  - King Wang <[kingwang@hsfranchise.com](mailto:kingwang@hsfranchise.com)>
+ - [Raul R Pearson](https://github.com/orgs/solid/people/raulrpearson)
+ - [Arne Hassel](https://github.com/orgs/solid/people/megoth)
+ - [Jackson Morgan](https://github.com/orgs/solid/people/jaxoncreed)
+ - [Dan Wilkinson](https://github.com/orgs/solid/people/danwilkinsoncreative)
 
 ## Internationalisation Panel
 To ensure internationalisation is taken into consideration during the Solid design.
