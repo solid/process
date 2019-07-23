@@ -62,6 +62,8 @@ To ensure internationalisation is taken into consideration during the Solid desi
 
 ### Panelists
  - King Wang <[kingwang@hsfranchise.com](mailto:kingwang@hsfranchise.com)>
+ - Philip Laszkowicz
+ - elf Pavlik
 
 ## Accessibility Panel
 How to ensure that the technical decisions are taking accessibility considerations into account.
