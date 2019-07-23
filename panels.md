@@ -201,7 +201,7 @@ Included the test suite in the Solid specification.
 
 ### Communication channels
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
-- [Solid Spec Gitter Channel](https://gitter.im/solid/solid-spec)
+- [Test Suite Gitter Channel](https://gitter.im/solid/test-suite)
 
 ### Panelists
 - [Aaron Coburn](https://github.com/orgs/solid/people/acoburn)
