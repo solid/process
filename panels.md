@@ -4,10 +4,10 @@ Below is a listing of [Solid Panels](README.md#solid-panels). Solid Panels are g
 
 Anyone can create a Solid Panel by submitting a request to the Solid W3C community group mailing list, or by making a pull request directly to this document.
 
-This listing helps people find panels they may want to participate in, and helps editors find panels to consult as part of the editorial process.
+This listing helps people find panels in which they may want to participate, and helps editors find panels to consult as part of the editorial process.
 
 ## Example Panel
-This is an example that people can use as a template for submitting their own panels. A description of the panel, including its focus and goal should go here.
+This is an example that people can use as a template for submitting their own panels. A description of the panel, including its focus and goal, should go here.
 
 ### Communication channels
 - Link to join mailing list goes here
@@ -122,9 +122,9 @@ including:
 
 ## Query Panel
 Discussion, specs and recommendations for implementing querying mechanisms
-beyond LDP, such as Sparql,
+beyond LDP, such as SPARQL,
 [Triple Pattern Fragments (TPF)](http://linkeddatafragments.org/in-depth/),
-GraphQL and others.
+GraphQL, and others.
 
 ### Communication channels
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
