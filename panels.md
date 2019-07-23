@@ -52,6 +52,7 @@ The Solid Teaching Material Panel has the aim to produce content to be able to e
 ### Panelists
  - Vincent Tunru <[vincentt@inrupt.com](mailto:vincentt@inrupt.com)>
  - [Jose Emilio Labra Gayo](http://labra.weso.es)
+ - King Wang <[kingwang@hsfranchise.com](mailto:kingwang@hsfranchise.com)>
 
 ## Internationalisation Panel
 To ensure internationalisation is taken into consideration during the Solid design.
@@ -60,7 +61,7 @@ To ensure internationalisation is taken into consideration during the Solid desi
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 
 ### Panelists
--
+ - King Wang <[kingwang@hsfranchise.com](mailto:kingwang@hsfranchise.com)>
 
 ## Accessibility Panel
 How to ensure that the technical decisions are taking accessibility considerations into account.
@@ -83,6 +84,7 @@ To create a structure for the document at https://github.com/solid/specification
 - Kjetil Kjernsmo
 - Sarven Capadisli
 - Justin Bingham
+ - King Wang <[kingwang@hsfranchise.com](mailto:kingwang@hsfranchise.com)>
 
 ## Identity Panel
 Discussions and specs for expanding the capabilities of Solid's WebID identity
