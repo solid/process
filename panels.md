@@ -72,7 +72,8 @@ How to ensure that the technical decisions are taking accessibility consideratio
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 
 ### Panelists
--
+- Sina Bahram
+- elf Pavlik
 
 ## Specification Entry Document Panel
 To create a structure for the document at https://github.com/solid/specification/, and the division in documents it links to and well as translating the community consensus regarding the application of the specifications mentioned in this document into a clear, unambiguous and implementable text.
