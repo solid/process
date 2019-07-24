@@ -4,6 +4,7 @@ Personal threats or discriminatory threats towards arbitrary groups on Solid git
 
 Repeated and sustained straying from the [defined aims of the Solid gitter channels](https://github.com/solid/information#connect) may result in a ban of those individuals straying from those defined aims by the Solid Manager.
 
+## General Expectations
 Below are some general expectations around how participants of the Solid community are encouraged to behave.
 
 Participants in the Solid community are expected to behave professionally and respectfully. This community is committed to maintain a positive and constructive community while helping to build Solid. This commitment calls for a community where participants behave according to the rules of the following Code of Conduct:
@@ -15,6 +16,7 @@ Participants in the Solid community are expected to behave professionally and re
 - Do not insult or put down other participants. Harassment (whether verbal, physical or sexual) and other exclusionary behavior is not acceptable.
 - Disagreements, both social and technical, happen all the time. Whenever inappropriate behaviors are observed members of the community should strive to bring the discussion back to a more professional level. In most cases misunderstandings and disagreements can be resolved informally. Do not hesitate to [contact](mailto:manager@solidproject.org) the Solid Manager if you feel that your concerns are not being sufficiently addressed. We hope that most concerns can be solved this way. However, if one person believes another's behavior is inappropriate (inconsistent with the Code of Conduct or the good working of the group), and ordinary communication between them is not possible, escalation of the issue can take place by [contacting](mailto:manager@solidproject.org) the Solid Manager. They may temporarily or permanently ban an individual from participating in activities, e.g. in a chat, mail or in Git for acting against the Code of Conduct.
 
+## Best Practices
 Best practices for the Solid Community include:
 
 - Contribute! Help Solid be the best it can be. Work together constructively toward the good working of the technology.
@@ -29,13 +31,14 @@ Best practices for the Solid Community include:
 - Maintain an open mindset and encourage others to do the same. There might be things you or others haven't heard about yet, so be open to send and receive pointers to more info.
 - There are multiple ways of achieving the same goals, but when you build something new, check what already exists so we can better understand and help you with your contribution.
 
+## Reporting a Code of Conduct Concern
 To report a code of conduct concern you may:
 - [Submit an issue](https://github.com/solid/culture/issues/new) to the solid/culture GitHub repository
 - Contact the Solid Manager via gitter
 - Email [manager@solidproject.org](mailto:manager@solidproject.org)
 - Write to the [solid/chat](https://gitter.im/solid/chat) room on gitter with your concern
 
-Based on:
+## Based on:
 - https://www.w3.org/Consortium/cepc/  (and an as-of-yet unpublished “Best
   Practices for Working Groups”)
 - https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/
