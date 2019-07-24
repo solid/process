@@ -20,6 +20,8 @@ Domains may be technical, non-technical, or some combination of the two. For exa
 
 A list of Solid Panels is maintained at [panels.md](panels.md). This listing helps people find panels they may want to participate in, and helps editors find panels to consult as part of the editorial process.
 
+Panels can ask for a Solid GitHub repository specifically for the Panel to which all members of the Panel will get 'maintain' permission level.
+
 ## Stakeholders
 
 Stakeholders are those affected by normative changes to the Solid Specification, Solid Roadmap, or Supporting Documentation. There are two types of Stakeholders; [Solid Users](#solid-users) and [Solid Implementers](#solid-implementers). It is important to consider them both when proposing changes, and adhering to the W3C [priority of constituencies](https://www.w3.org/TR/html-design-principles/#priority-of-constituencies) is encouraged. A Stakeholder may be both a user and an implementer.
@@ -74,15 +76,21 @@ Editors are appointed directly by the Solid Director. Editors are listed at [edi
 
 The Solid Manager, who is also an editor, is appointed by the Solid Director. The Solid Manager is responsible for formalizing the outcome of any votes.
 
+Editors are 'members' of the Solid GitHub and have 'triage' permision level on all respositoris in the Solid GitHub. 
+
 ## Administration
 
 Administrators are granted privileged access to control the tools, systems, and services used for advancing the Solid Specification, Solid Roadmap, and Supporting Documentation. This includes the [Solid GitHub](https://github.com/solid) organization, [Solid Gitter](https://gitter.im/solid/home) channels, the [Solid Forum](https://forum.solidproject.org), and the [Solid Website](https://www.solidproject.org).
+
+Administrators are 'owners' of the Solid GitHub and have 'admin' permission level on all repositories in the Solid GitHub. 
 
 ### Becoming an Administrator
 
 Administrators are appointed directly the Solid Director. Administrators are listed at [administrators.md](administrators.md) along with their contact details and affiliations. Anyone may request to be an administrator. Administrator requests are not reviewed by other Administrators. They are reviewed only by the Solid Director.
 
 The Solid Manager, who is also an administrator, is appointed by the Solid Director and is responsible for implementing the vision of the Solid Director.
+
+Individuals who are not listed as and administrator, editor, panelist, or who are not the the Solid Director, or Solid Manager will not be listed in 'people' or 'teams' on the Solid GitHub and will have regular public access to the Solid GitHub. 
 
 # References
 
