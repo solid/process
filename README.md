@@ -37,7 +37,7 @@ Solid Implementers are companies or organizations who are implementing the Solid
 
 This section details how changes to the Solid Specification, Solid Roadmap, or Supporting Documentation may be drafted, proposed, and accepted.
 
-Anyone may submit a proposal to alter this process. These proposals will not be reviewed by the editors. They will be reviewed only by [Tim Berners-Lee](https://github.com/timbl), who is the Solid Director.
+Anyone may submit a proposal to alter this process. These proposals will not be reviewed by the editors. They will be reviewed only by [Tim Berners-Lee](https://github.com/timbl), who is the Solid Director. The person who starts a process proposal is responsible for actively and publicly sharing it with panels and stakeholders over a minimum time period of two weeks to gather feedback, which they need to demonstrate incorporating, along with publicly sharing the reasoning for the final result before submitting the process proposal for approval. In the interim the last approved process will be used.
 
 ### Drafting proposals
 
