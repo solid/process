@@ -90,7 +90,7 @@ To create a structure for the document at https://github.com/solid/specification
 - Ruben Verborgh
 - Kjetil Kjernsmo
 - Sarven Capadisli
-- Justin Bingham
+- [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)>
  - King Wang <[kingwang@hsfranchise.com](mailto:kingwang@hsfranchise.com)>
 
 ## Identity Panel
@@ -105,13 +105,14 @@ related standards.
 ### Panelists
 - Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)>
 - Paul Worrall <[paul.worrall@interition.net](mailto:paul.worrall@interition.net)>
+- [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)>
 
 ## Authentication Panel
 Discussion and specs relating to Authentication and Auth Delegation protocols,
 including:
 * [WebID-OIDC](https://github.com/solid/webid-oidc-spec) auth delegation
   protocol
-* [WebID-TLS](http://www.w3.org/2005/Incubator/webid/spec/tls) auth delegation 
+* [WebID-TLS](http://www.w3.org/2005/Incubator/webid/spec/tls) auth delegation
   protocol
 * Username + password recommendations for local authentication
 * [WebAuthentication](https://www.w3.org/TR/webauthn/) (proposed future
@@ -124,8 +125,9 @@ including:
 
 ### Panelists
 - Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)>
-- Paul Worrall <[paul.worrall@interition.net](mailto:paul.worrall@interition.net)> 
+- Paul Worrall <[paul.worrall@interition.net](mailto:paul.worrall@interition.net)>
 - Michael Thornburgh <[mthornbu@adobe.com](mailto:mthornbu@adobe.com)>
+- [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)>
 
 ## Query Panel
 Discussion, specs and recommendations for implementing querying mechanisms
@@ -151,6 +153,7 @@ How do apps request access to specific containers, shapes, and/or realms of a us
 - Michiel de Jong
 - Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)>
 - Michael Thornburgh <[mthornbu@adobe.com](mailto:mthornbu@adobe.com)>
+- [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)>
 
 ## Explaining the Vision Panel
 Taking the suggestions on https://github.com/solid/information/issues/180 to produce a proposal for explaining the Solid vision, mission, and values on https://github.com/solid/information/pull/202
@@ -163,6 +166,7 @@ Taking the suggestions on https://github.com/solid/information/issues/180 to pro
 - Mitzi László <[email@mitzilaszlo.org](mailto:email@mitzilaszlo.org)>
 - Paul Worrall <[paul.worrall@interition.net](mailto:paul.worrall@interition.net)>
 - Ruben Verborgh
+- [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)>
 
 ## Data Interoperability
 Ensuring the interoperability of data as it is read and written by different
@@ -176,7 +180,7 @@ different agents and/or users.
 
 ### Panelists
 - Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)>
-- Justin Bingham
+- [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)>
 - Eric Prud'hommeaux
 - Max Dor
 - James Schoening
@@ -195,9 +199,10 @@ data Encryption on Solid servers.
 ### Panelists
 - Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)>
 - Paul Worrall <[paul.worrall@interition.net](mailto:paul.worrall@interition.net)>
+- [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)>
 
 ## Test Suite Panel
-Included the test suite in the Solid specification. 
+Included the test suite in the Solid specification.
 
 ### Communication channels
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
@@ -219,3 +224,4 @@ Write proposals for solidproject.org
 
 ### Panelists
 - [Mitzi László](https://github.com/Mitzi-Laszlo)
+- [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)>
