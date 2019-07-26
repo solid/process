@@ -1,12 +1,12 @@
 ## Background
 
-This repository details how changes to the Solid Specification, Solid Roadmap, and Supporting Documentation may be proposed and accepted.
+This repository details how changes to the [Solid Specification](https://github.com/solid/specification), [Solid Roadmap](https://github.com/solid/Roadmap), and [Supporting Documentation](https://github.com/solid/information/blob/master/documentation/documentation.md) may be proposed and accepted.
 
-Anyone may participate in this process. Please read the [Code of Conduct](code-of-conduct.md) before doing so.
+Anyone may participate in [this process](https://github.com/solid/culture). Please read the [Code of Conduct](code-of-conduct.md) before doing so.
 
 ## Contributors
 
-Any individual that has been involved in proposals to improve the Solid Specification, Solid Roadmap, or any Supporting Documentation, has provided a valuable service to the Solid Project and is encouraged to continue.
+Any individual that has been involved in proposals to improve the [Solid Specification](https://github.com/solid/specification), [Solid Roadmap](https://github.com/solid/Roadmap), and [Supporting Documentation](https://github.com/solid/information/blob/master/documentation/documentation.md), has provided a valuable service to the [Solid Project](https://www.solidproject.org) and is encouraged to continue.
 
 All manner of contributions are important - whether identifying problems, asking questions, or proposing normative changes.
 
@@ -14,7 +14,7 @@ There are many topics, problems, or ideas best tackled by a group of people with
 
 ### Solid Panels
 
-Solid Panels are groups of individuals focused on a specific problem or domain relevant to Solid, with an aim to propose changes to the Solid Specification, Solid Roadmap, and/or Supporting Documentation. Anyone may join a panel or suggest a new panel.
+Solid Panels are groups of individuals focused on a specific problem or domain relevant to Solid, with an aim to propose changes to the [Solid Specification](https://github.com/solid/specification), [Solid Roadmap](https://github.com/solid/Roadmap), and/or [Supporting Documentation](https://github.com/solid/information/blob/master/documentation/documentation.md). Anyone may join a panel or suggest a new panel.
 
 Domains may be technical, non-technical, or some combination of the two. For example, a Security Panel could focus on the evaluation and advancement of the Solid security model.
 
@@ -22,7 +22,7 @@ A list of Solid Panels is maintained at [panels.md](panels.md). This listing hel
 
 ## Stakeholders
 
-Stakeholders are those affected by normative changes to the Solid Specification, Solid Roadmap, or Supporting Documentation. There are two types of Stakeholders; [Solid Users](#solid-users) and [Solid Implementers](#solid-implementers). It is important to consider them both when proposing changes, and adhering to the W3C [priority of constituencies](https://www.w3.org/TR/html-design-principles/#priority-of-constituencies) is encouraged. A Stakeholder may be both a user and an implementer.
+Stakeholders are those affected by normative changes to the [Solid Specification](https://github.com/solid/specification), [Solid Roadmap](https://github.com/solid/Roadmap), or [Supporting Documentation](https://github.com/solid/information/blob/master/documentation/documentation.md). There are two types of Stakeholders; [Solid Users](#solid-users) and [Solid Implementers](#solid-implementers). It is important to consider them both when proposing changes, and adhering to the W3C [priority of constituencies](https://www.w3.org/TR/html-design-principles/#priority-of-constituencies) is encouraged. A Stakeholder may be both a user and an implementer.
 
 Stakeholders who have opted to identify themselves publicly are listed at [stakeholders.md](stakeholders.md). Anyone may decide to identify themselves publicly as a Solid Stakeholder, but it is not mandatory. Identified stakeholders may be consulted for feedback as part of the editorial process.
 
@@ -31,24 +31,24 @@ Stakeholders who have opted to identify themselves publicly are listed at [stake
 Solid Users are individuals, companies, or organizations who access data stored in a Solid Pod.
 
 ### Implementers
-Solid Implementers are companies or organizations who are implementing the Solid Specification. A Solid Implementer may be any combination of Identity Provider, Pod Provider, and Application Provider.
+Solid Implementers are companies or organizations who are implementing the [Solid Specification](https://github.com/solid/specification). A Solid Implementer may be any combination of Identity Provider, Pod Provider, and Application Provider.
 
 ## How to Make Changes
 
-This section details how changes to the Solid Specification, Solid Roadmap, or Supporting Documentation may be drafted, proposed, and accepted.
+This section details how changes to the [Solid Specification](https://github.com/solid/specification), [Solid Roadmap](https://github.com/solid/Roadmap), and [Supporting Documentation](https://github.com/solid/information/blob/master/documentation/documentation.md) may be drafted, proposed, and accepted.
 
 Anyone may submit a proposal to alter this process. These proposals will not be reviewed by the editors. They will be reviewed only by [Tim Berners-Lee](https://github.com/timbl), who is the Solid Director.
 
 ### Drafting proposals
 
-Anyone may propose improvements to the Solid Specification, Solid Roadmap, or Supporting Documentation. Here are some examples of different ways to contribute:
+Anyone may propose improvements to the [Solid Specification](https://github.com/solid/specification), [Solid Roadmap](https://github.com/solid/Roadmap), or [Supporting Documentation](https://github.com/solid/information/blob/master/documentation/documentation.md). Here are some examples of different ways to contribute:
 
 - Submit a pull request or issue on the [Solid Specification repository](https://github.com/solid/solid-spec) in GitHub
 - Make a suggestion to the Solid Authorization Panel chat room about a change you'd like to see in Web Access Control
 - Make a suggestion on the Solid W3C Community Group mailing list to form a new Solid Panel, or join an existing Solid Panel
 - Propose an item for the W3C Solid Community Group call
 
-Proposals for substantive changes to the Solid Specification, Solid Roadmap, or Supporting Documentation go through an editorial review process. A change is considered substantive when it alters the normative text of the Solid Specification or the Solid Roadmap.
+Proposals for substantive changes to the [Solid Specification](https://github.com/solid/specification), [Solid Roadmap](https://github.com/solid/Roadmap), or [Supporting Documentation](https://github.com/solid/information/blob/master/documentation/documentation.md) go through an editorial review process. A change is considered substantive when it alters the normative text of the Solid Specification or the Solid Roadmap.
 
 Any proposal must be realistic and reasonable to implement, preferably with example implementations, and demonstrable support from Implementers.
 
@@ -64,7 +64,7 @@ When there are objections, notify the Solid Panels and Stakeholders about the fi
 
 ### Reviewing proposals
 
-Candidate proposals to the Solid Specification, Solid Roadmap, or Supporting Documentation submitted for review go through an editorial process before they are accepted.
+Candidate proposals to the [Solid Specification](https://github.com/solid/specification), [Solid Roadmap](https://github.com/solid/Roadmap), or [Supporting Documentation](https://github.com/solid/information/blob/master/documentation/documentation.md) submitted for review go through an editorial process before they are accepted.
 
 Candidate proposals and the results of any vote related to the same need to be put forward to the editors for review. For the proposal to be accepted, three editors need to actively approve with no editors actively rejecting. Editors may abstain. A proposal must be open for at least one week before final acceptance. If an editor does not vote by the end of that week it will be assumed that the editor abstained.
 
@@ -76,7 +76,7 @@ The Solid Manager, who is also an editor, is appointed by the Solid Director. Th
 
 ## Administration
 
-Administrators are granted privileged access to control the tools, systems, and services used for advancing the Solid Specification, Solid Roadmap, and Supporting Documentation. This includes the [Solid GitHub](https://github.com/solid) organization, [Solid Gitter](https://gitter.im/solid/home) channels, the [Solid Forum](https://forum.solidproject.org), and the [Solid Website](https://www.solidproject.org).
+Administrators are granted privileged access to control the tools, systems, and services used for advancing the [Solid Specification](https://github.com/solid/specification), [Solid Roadmap](https://github.com/solid/Roadmap), and [Supporting Documentation](https://github.com/solid/information/blob/master/documentation/documentation.md). This includes the [Solid GitHub](https://github.com/solid) organization, [Solid Gitter](https://gitter.im/solid/home) channels, the [Solid Forum](https://forum.solidproject.org), and the [Solid Website](https://www.solidproject.org).
 
 ### Becoming an Administrator
 
