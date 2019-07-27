@@ -30,6 +30,7 @@ This is an example that people can use as a template for submitting their own pa
 * [Identity Panel](#identity-panel)
 * [Internationalisation Panel](#internationalisation-panel)
 * [Query Panel](#query-panel)
+* [Privacy and Individuals Rights Protection Panel](#privacy-and-individuals-rights-protection-panel)
 * [Specification Entry Document Panel](#specification-entry-document-panel)
 * [Teaching Materials Panel](#solid-teaching-material-panel)
 
@@ -208,3 +209,23 @@ Write proposals for solidproject.org
 ### Panelists
 - [Mitzi László](https://github.com/Mitzi-Laszlo)
 - [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
+
+## Privacy and Individuals Rights Protection Panel
+The focus of this panel is to ensure Privacy is always kept in mind in the various proposals of the project across all panels, and that individuals' rights are inherently protected in the Solid ecosystem.
+
+It will do so by:
+- Leading Privacy discussions and initiatives.
+- Reviewing the proposals of other panels for anything Privacy related, and provide guidance to them if requested.
+- Researching how the technical side of the project (specification, implementations):
+  - Can affect the Privacy of individuals; Per example by unexpectedly leaking information in the protocol itself.
+  - Affect their rights; Per example by making it difficult for them to find privacy policies or delete remote content.
+  - Lead to any kind of harm to the individual; Per example, by allowing a malicious individual to publish private content unchecked.
+- Ensuring practical guides are produced for individuals and Data Privacy Officers alike, allowing them to know how to deal with their legal rights and obligations respectively.
+- Making sure laws like GDPR are directly taken into account when designing new feature / product / software.
+
+### Communication channels
+- [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
+
+### Panelists
+- [Max Dor](https://github.com/maxidorius) (@maxidorius)
+
