@@ -20,7 +20,7 @@ Domains may be technical, non-technical, or some combination of the two. For exa
 
 A list of Solid Panels is maintained at [panels.md](panels.md). This listing helps people find panels they may want to participate in, and helps editors find panels to consult as part of the editorial process.
 
-Panels can ask for a Solid GitHub repository specifically for the Panel to which all members of the Panel will get 'maintain' permission level.
+Panels may request to have a repository created within the [Solid Github Organization](https://github.com/solid) specifically for use by that panel and its members. Panel repository names must use a "-panel" suffix. For example, a security panel repository would be named "security-panel". All panel members will receive a [_Maintain Permissions_](https://help.github.com/en/articles/repository-permission-levels-for-an-organization#permission-levels-for-repositories-owned-by-an-organization) on the panel repository. Panel repositories that are inactive for more than six months may be archived by Solid Administrators.
 
 ## Stakeholders
 
@@ -76,21 +76,19 @@ Editors are appointed directly by the Solid Director. Editors are listed at [edi
 
 The Solid Manager, who is also an editor, is appointed by the Solid Director. The Solid Manager is responsible for formalizing the outcome of any votes.
 
-Editors are 'members' of the Solid GitHub and have 'triage' permision level on all respositoris in the Solid GitHub. 
+Editors belong to the [Editors team](https://github.com/orgs/solid/teams/editors) in the [Solid GitHub Organization](https://github.com/solid) and have [_Maintain Permissions_](https://help.github.com/en/articles/repository-permission-levels-for-an-organization#permission-levels-for-repositories-owned-by-an-organization) on all repositories therein.
 
 ## Administration
 
 Administrators are granted privileged access to control the tools, systems, and services used for advancing the Solid Specification, Solid Roadmap, and Supporting Documentation. This includes the [Solid GitHub](https://github.com/solid) organization, [Solid Gitter](https://gitter.im/solid/home) channels, the [Solid Forum](https://forum.solidproject.org), and the [Solid Website](https://www.solidproject.org).
 
-Administrators are 'owners' of the Solid GitHub and have 'admin' permission level on all repositories in the Solid GitHub. 
+Administrators belong to the [Administrators team](https://github.com/orgs/solid/teams/administrators) in the [Solid GitHub Organization](https://github.com/solid) and have [_Admin Permissions_](https://help.github.com/en/articles/repository-permission-levels-for-an-organization#permission-levels-for-repositories-owned-by-an-organization) on all repositories therein. Administrators have [_Owner Permissions_](https://help.github.com/en/articles/permission-levels-for-an-organization#permission-levels-for-an-organization) for the [Solid GitHub Organization](https://github.com/solid).
 
 ### Becoming an Administrator
 
 Administrators are appointed directly the Solid Director. Administrators are listed at [administrators.md](administrators.md) along with their contact details and affiliations. Anyone may request to be an administrator. Administrator requests are not reviewed by other Administrators. They are reviewed only by the Solid Director.
 
 The Solid Manager, who is also an administrator, is appointed by the Solid Director and is responsible for implementing the vision of the Solid Director.
-
-Individuals who are not listed as and administrator, editor, panelist, or who are not the the Solid Director, or Solid Manager will not be listed in 'people' or 'teams' on the Solid GitHub and will have regular public access to the Solid GitHub. 
 
 # References
 
