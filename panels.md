@@ -122,6 +122,7 @@ Discussion and specs relating to Authentication and Auth Delegation protocols, i
 - Paul Worrall <[paul.worrall@interition.net](mailto:paul.worrall@interition.net)>
 - Michael Thornburgh <[mthornbu@adobe.com](mailto:mthornbu@adobe.com)>
 - [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
+- [Jackson Morgan](https://github.com/jaxoncreed)
 
 ## Query Panel
 Discussion, specs and recommendations for implementing querying mechanisms beyond LDP, such as SPARQL, [Triple Pattern Fragments (TPF)](http://linkeddatafragments.org/in-depth/), GraphQL, and others.
@@ -145,6 +146,7 @@ How do apps request access to specific containers, shapes, and/or realms of a us
 - Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
 - Michael Thornburgh <[mthornbu@adobe.com](mailto:mthornbu@adobe.com)>
 - [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
+- [Jackson Morgan](https://github.com/jaxoncreed)
 
 ## Explaining the Vision Panel
 Taking the suggestions on https://github.com/solid/information/issues/180 to produce a proposal for explaining the Solid vision, mission, and values on https://github.com/solid/information/pull/202
