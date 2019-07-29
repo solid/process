@@ -223,6 +223,7 @@ It will do so by:
 
 ### Communication channels
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
+- [Panel repository](https://github.com/solid/privacy-and-individuals-rights-protection-panel/tree/master) 
 
 ### Panelists
 - [Max Dor](https://github.com/maxidorius) (@maxidorius)
