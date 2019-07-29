@@ -169,7 +169,7 @@ Ensuring the interoperability of data as it is read and written by different use
 - Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
 - [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
 - Eric Prud'hommeaux
-- Max Dor
+- [Max Dor](https://github.com/maxidorius) (@maxidorius)
 - James Schoening
 - [Jose Emilio Labra Gayo](http://labra.weso.es) (@labra)
 - Ruben Verborgh (@RubenVerborgh)
