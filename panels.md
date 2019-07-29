@@ -154,7 +154,6 @@ Taking the suggestions on https://github.com/solid/information/issues/180 to pro
 
 ### Panelists
 - Dan Wilkinson
-- Mitzi László <[email@mitzilaszlo.org](mailto:email@mitzilaszlo.org)>
 - Paul Worrall <[paul.worrall@interition.net](mailto:paul.worrall@interition.net)>
 - Ruben Verborgh (@RubenVerborgh)
 - [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
@@ -207,7 +206,6 @@ Write proposals for solidproject.org
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 
 ### Panelists
-- [Mitzi László](https://github.com/Mitzi-Laszlo)
 - [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
 
 ## Privacy and Individuals Rights Protection Panel
