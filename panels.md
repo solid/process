@@ -144,6 +144,7 @@ Discussion, specs and recommendations for implementing querying mechanisms beyon
  - Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
  - Aaron Coburn <[acoburn@apache.org](mailto:acoburn@apache.org)>
  - Ruben Verborgh (@RubenVerborgh)
+ - Kjetil Kjernsmo <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
 
 ## App Authorization
 How do apps request access to specific containers, shapes, and/or realms of a user's data.
@@ -191,6 +192,7 @@ Ensuring the interoperability of data as it is read and written by different use
 - James Schoening
 - [Jose Emilio Labra Gayo](http://labra.weso.es) (@labra)
 - Ruben Verborgh (@RubenVerborgh)
+- Kjetil Kjernsmo <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
 
 ## Cryptography (Signing and Encryption) Panel
 Discussion and specs related to performing decentralized Key Management, Cryptographic Signatures (including integration with [Verifiable Credentials](https://w3c.github.io/vc-data-model/)), and at-rest data Encryption on Solid servers.
@@ -202,6 +204,7 @@ Discussion and specs related to performing decentralized Key Management, Cryptog
 - Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
 - Paul Worrall <[paul.worrall@interition.net](mailto:paul.worrall@interition.net)>
 - [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
+- Kjetil Kjernsmo <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
 
 ## Test Suite Panel
 Included the test suite in the Solid specification.
