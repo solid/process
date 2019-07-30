@@ -166,7 +166,7 @@ Ensuring the interoperability of data as it is read and written by different use
 
 ### Communication channels
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
-- [data-interoperability](https://github.com/solid/data-interoperability)
+- [solid-namespace](https://github.com/solid/solid-namespace)
 
 ### Panelists
 - Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
