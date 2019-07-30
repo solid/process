@@ -72,8 +72,6 @@ Candidate proposals and the results of any vote related to the same need to be p
 
 Editors are appointed directly by the Solid Director. Editors are listed at [editors.md](editors.md) along with their contact details and affiliations. Anyone may submit a request to be an editor. These requests are not reviewed by other editors. They are reviewed directly by the Solid Director.
 
-The Solid Manager, who is also an editor, is appointed by the Solid Director. The Solid Manager is responsible for formalizing the outcome of any votes.
-
 ## Administration
 
 Administrators are granted privileged access to control the tools, systems, and services used for advancing the Solid Specification, Solid Roadmap, and Supporting Documentation. This includes the [Solid GitHub](https://github.com/solid) organization, [Solid Gitter](https://gitter.im/solid/home) channels, the [Solid Forum](https://forum.solidproject.org), and the [Solid Website](https://www.solidproject.org).
@@ -82,7 +80,9 @@ Administrators are granted privileged access to control the tools, systems, and 
 
 Administrators are appointed directly the Solid Director. Administrators are listed at [administrators.md](administrators.md) along with their contact details and affiliations. Anyone may request to be an administrator. Administrator requests are not reviewed by other Administrators. They are reviewed only by the Solid Director.
 
-The Solid Manager, who is also an administrator, is appointed by the Solid Director and is responsible for implementing the vision of the Solid Director.
+The Solid Director approves process proposals and role applications in the form of pull requests on [this repository](https://github.com/solid/culture) except in [panels.md](https://github.com/solid/culture/blob/master/panels.md) and [stakeholders.md](https://github.com/solid/culture/blob/master/stakeholders.md). 
+
+The Solid Manager is appointed by the Solid Director and implements the approved process with the individuals appointed to roles as specified in this repository. 
 
 # References
 
