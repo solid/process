@@ -33,6 +33,8 @@ This is an example that people can use as a template for submitting their own pa
 * [Privacy and Individuals Rights Protection Panel](#privacy-and-individuals-rights-protection-panel)
 * [Specification Entry Document Panel](#specification-entry-document-panel)
 * [Teaching Materials Panel](#solid-teaching-material-panel)
+* [Privacy and Individuals Rights Protection Panel](#Privacy-and-Individuals-Rights-Protection-Panel) 
+
 
 ## External Interop and Outreach Panel
 How to technically link to other initiatives to build positive win-win
@@ -117,6 +119,12 @@ Discussion and specs relating to Authentication and Auth Delegation protocols, i
 
 ### Communication channels
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
+- [oidc-rs](https://github.com/solid/oidc-rs)
+- [keychain](https://github.com/solid/keychain)
+- [jose](https://github.com/solid/jose)
+- [oidc-web](https://github.com/solid/oidc-web)
+- [kvplus-files](https://github.com/solid/kvplus-files)
+- [solid-auth-tls](https://github.com/solid/solid-auth-tls)
 
 ### Panelists
 - Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
@@ -130,6 +138,7 @@ Discussion, specs and recommendations for implementing querying mechanisms beyon
 
 ### Communication channels
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
+- [solid-tpf](https://github.com/solid/solid-tpf) 
 
 ### Panelists
  - Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
@@ -141,6 +150,12 @@ How do apps request access to specific containers, shapes, and/or realms of a us
 
 ### Communication channels
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
+- [acl-check](https://github.com/solid/acl-check)
+- [oidc-op](https://github.com/solid/oidc-op)
+- [oidc-rp](https://github.com/solid/oidc-rp)
+- [solid-multi-rp-client](https://github.com/solid/solid-multi-rp-client)
+- [solid-permissions](https://github.com/solid/solid-permissions)
+- [wac-allow](https://github.com/solid/wac-allow)
 
 ### Panelists
 - Michiel de Jong
@@ -232,3 +247,36 @@ It will do so by:
 ### Panelists
 - [Max Dor](https://github.com/maxidorius) (@maxidorius)
 
+## Client Side Libraries Panel
+(aim to be inserted here) 
+
+### Communication channels
+- [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
+- [react-components](https://github.com/solid/react-components)
+- [query-ldflex](https://github.com/solid/query-ldflex)
+- [ldp-glob](https://github.com/solid/ldp-glob)
+- [solid-cli](https://github.com/solid/solid-cli)
+- [solid-inbox](https://github.com/solid/solid-inbox)
+- [solid-client](https://github.com/solid/solid-client)
+- [solid-web-client](https://github.com/solid/solid-web-client)
+- [solid-notifications](https://github.com/solid/solid-notifications)
+
+### Panelists
+- Ruben Verborgh (@RubenVerborgh)
+
+## Apps Panel
+(aim to be inserted here) 
+
+### Communication channels
+- [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
+- [profile-viewer-react](https://github.com/solid/profile-viewer-react)
+- [ldflex-playground](https://github.com/solid/ldflex-playground)
+- [solid-connections-ui](https://github.com/solid/solid-connections-ui)
+- [solid-signup](https://github.com/solid/solid-signup)
+- [solid-profile-ui](https://github.com/solid/solid-profile-ui)
+- [solid-dashboard-ui](https://github.com/solid/solid-dashboard-ui)
+- [solid-signup-ui](https://github.com/solid/solid-signup-ui)
+- [Solid signin-ui](https://github.com/solid/solid-signin-ui)
+
+### Panelists
+- Ruben Verborgh (@RubenVerborgh)
