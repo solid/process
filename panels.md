@@ -153,6 +153,7 @@ Discussion, specs and recommendations for implementing querying mechanisms beyon
  - Aaron Coburn <[acoburn@apache.org](mailto:acoburn@apache.org)>
  - Ruben Verborgh (@RubenVerborgh)
  - Kjetil Kjernsmo <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
+ - Jeff Zucker <[dubzed@gmail.com](mailto:dubzed@gmail.com)> (@jeff-zucker)
 
 ## App Authorization
 How do apps request access to specific containers, shapes, and/or realms of a user's data.
@@ -285,6 +286,7 @@ It will do so by:
 
 ### Panelists
 - Ruben Verborgh (@RubenVerborgh)
+- Jeff Zucker <[dubzed@gmail.com](mailto:dubzed@gmail.com)> (@jeff-zucker)
 
 ## Apps Panel
 (aim to be inserted here) 
