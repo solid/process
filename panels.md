@@ -41,6 +41,7 @@ How to technically link to other initiatives to build positive win-win
 collaborations.
 
 ### Communication channels
+- [dedicated forum thread](https://forum.solidproject.org/t/external-interop-and-outreach-panel/2080) 
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 - [external-interop](https://github.com/solid/external-interop)
 
@@ -51,6 +52,7 @@ collaborations.
 The Solid Teaching Material Panel has the aim to produce content to be able to effectively teach people to build Solid identity providers, Pods, and apps.
 
 ### Communication channels
+- [dedicated forum thread](https://forum.solidproject.org/t/solid-teaching-material-panel/2081) 
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 
 ### Panelists
@@ -66,6 +68,7 @@ The Solid Teaching Material Panel has the aim to produce content to be able to e
 To ensure internationalisation is taken into consideration during the Solid design.
 
 ### Communication channels
+- [dedicated forum thread](https://forum.solidproject.org/t/internationalisation-panel/2082) 
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 
 ### Panelists
@@ -77,6 +80,7 @@ To ensure internationalisation is taken into consideration during the Solid desi
 How to ensure that the technical decisions are taking accessibility considerations into account.
 
 ### Communication channels
+- [dedicated forum thread](https://forum.solidproject.org/t/accessibility-panel/2083) 
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 
 ### Panelists
@@ -87,6 +91,7 @@ How to ensure that the technical decisions are taking accessibility consideratio
 To create a structure for the document at https://github.com/solid/specification/, and the division in documents it links to and well as translating the community consensus regarding the application of the specifications mentioned in this document into a clear, unambiguous and implementable text.
 
 ### Communication channels
+- [dedicated forum thread](https://forum.solidproject.org/t/specification-entry-document-panel/2084) 
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 - [the solid/specification repository](https://github.com/solid/specification/)
 
@@ -101,6 +106,7 @@ To create a structure for the document at https://github.com/solid/specification
 Discussions and specs for expanding the capabilities of Solid's WebID identity system, including user profiles, [Decentralized Identifiers (DIDs)](https://w3c-ccg.github.io/did-spec/), and related standards.
 
 ### Communication channels
+- [dedicated forum thread](https://forum.solidproject.org/t/identity-panel/2085) 
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 
 ### Panelists
@@ -118,6 +124,7 @@ Discussion and specs relating to Authentication and Auth Delegation protocols, i
 * HTTP Signatures (proposed future integration)
 
 ### Communication channels
+- [dedicated forum thread](https://forum.solidproject.org/t/authentication-panel/2086) 
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 - [oidc-rs](https://github.com/solid/oidc-rs)
 - [keychain](https://github.com/solid/keychain)
@@ -137,6 +144,7 @@ Discussion and specs relating to Authentication and Auth Delegation protocols, i
 Discussion, specs and recommendations for implementing querying mechanisms beyond LDP, such as SPARQL, [Triple Pattern Fragments (TPF)](http://linkeddatafragments.org/in-depth/), GraphQL, and others.
 
 ### Communication channels
+- [dedicated forum thread](https://forum.solidproject.org/t/query-panel/2087) 
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 - [solid-tpf](https://github.com/solid/solid-tpf) 
 
@@ -150,6 +158,7 @@ Discussion, specs and recommendations for implementing querying mechanisms beyon
 How do apps request access to specific containers, shapes, and/or realms of a user's data.
 
 ### Communication channels
+- [dedicated forum thread](https://forum.solidproject.org/t/app-authorisation/2088) 
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 - [acl-check](https://github.com/solid/acl-check)
 - [oidc-op](https://github.com/solid/oidc-op)
@@ -169,6 +178,7 @@ How do apps request access to specific containers, shapes, and/or realms of a us
 Taking the suggestions on https://github.com/solid/information/issues/180 to produce a proposal for explaining the Solid vision, mission, and values on https://github.com/solid/information/pull/202
 
 ### Communication channels
+- [dedicated forum thread](https://forum.solidproject.org/t/explaining-the-vision-panel/2089) 
 - https://github.com/solid/information/pull/202
 
 ### Panelists
@@ -181,6 +191,7 @@ Taking the suggestions on https://github.com/solid/information/issues/180 to pro
 Ensuring the interoperability of data as it is read and written by different users and/or applications. Topics of discussion will include vocabularies, shapes, footprints, and the mechanisms through which these work together to provide consistent and safe access and manipulation of data in a pod by different agents and/or users.
 
 ### Communication channels
+- [dedicated forum thread](https://forum.solidproject.org/t/data-interoperability/2090) 
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 - [solid-namespace](https://github.com/solid/solid-namespace)
 
@@ -198,6 +209,7 @@ Ensuring the interoperability of data as it is read and written by different use
 Discussion and specs related to performing decentralized Key Management, Cryptographic Signatures (including integration with [Verifiable Credentials](https://w3c.github.io/vc-data-model/)), and at-rest data Encryption on Solid servers.
 
 ### Communication channels
+- [dedicated forum thread](https://forum.solidproject.org/t/cryptography-signing-and-encryption-panel/2091) 
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 
 ### Panelists
@@ -211,6 +223,7 @@ Discussion and specs related to performing decentralized Key Management, Cryptog
 Included the test suite in the Solid specification.
 
 ### Communication channels
+- [dedicated forum thread](https://forum.solidproject.org/t/test-suite-panel/2092) 
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 - [Test Suite Gitter Channel](https://gitter.im/solid/test-suite)
 
@@ -226,6 +239,7 @@ Included the test suite in the Solid specification.
 Write proposals for solidproject.org
 
 ### Communication channels
+- [dedicated forum thread](https://forum.solidproject.org/t/website-panel/2093)
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 
 ### Panelists
@@ -245,6 +259,7 @@ It will do so by:
 - Making sure laws like GDPR are directly taken into account when designing new feature / product / software.
 
 ### Communication channels
+- [dedicated forum thread](https://forum.solidproject.org/t/privacy-and-individuals-rights-protection-panel/2094)
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 - [Panel repository](https://github.com/solid/privacy-and-individuals-rights-protection-panel/tree/master) 
 
@@ -255,6 +270,7 @@ It will do so by:
 (aim to be inserted here) 
 
 ### Communication channels
+- [dedicated forum thread](https://forum.solidproject.org/t/client-side-libraries-panel/2095)
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 - [react-components](https://github.com/solid/react-components)
 - [query-ldflex](https://github.com/solid/query-ldflex)
@@ -272,6 +288,7 @@ It will do so by:
 (aim to be inserted here) 
 
 ### Communication channels
+- [dedicated forum thread](https://forum.solidproject.org/t/apps-panel/2096)
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 - [profile-viewer-react](https://github.com/solid/profile-viewer-react)
 - [ldflex-playground](https://github.com/solid/ldflex-playground)
