@@ -159,6 +159,7 @@ How do apps request access to specific containers, shapes, and/or realms of a us
 
 ### Communication channels
 - [App Authorisation Gitter Channel](https://gitter.im/solid/app-authorization-panel)
+- [App Authorisation Repository](https://github.com/solid/app-authorization-panel/issues/) 
 - [dedicated forum thread](https://forum.solidproject.org/t/app-authorisation/2088) 
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 - [acl-check](https://github.com/solid/acl-check)
