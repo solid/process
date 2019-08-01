@@ -205,6 +205,7 @@ Discussion and specs related to performing decentralized Key Management, Cryptog
 - Paul Worrall <[paul.worrall@interition.net](mailto:paul.worrall@interition.net)>
 - [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
 - Kjetil Kjernsmo <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
+- Rob McColl <[rob@nix.software](mailto:rob@nix.software)> (@robmccoll)
 
 ## Test Suite Panel
 Included the test suite in the Solid specification.
