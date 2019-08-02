@@ -15,8 +15,8 @@ This is an example that people can use as a template for submitting their own pa
 - Any other public communication link goes here
 
 ### Panelists
-- Panelist Name <[email@example.org](mailto:email@example.org)> (@githubhandle)
-- Panelist Name <[email@example.org](mailto:email@example.org)> (@githubhandle)
+- [Panellist Name](link to github profile] <[email@example.org](mailto:email@example.org)> 
+- [Panellist Name](link to github profile] <[email@example.org](mailto:email@example.org)> 
 
 ## Index of Panels
 
