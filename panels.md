@@ -195,6 +195,7 @@ Related conversations to take into consideration:
 ### Communication channels
 - [dedicated forum thread](https://forum.solidproject.org/t/explaining-the-vision-panel/2089) 
 - [GitHub team discussion board](https://github.com/orgs/solid/teams/explaining-the-vision-panel/discussions)
+- [Explaining the Visions Solid Github Repository](https://github.com/solid/Explaining-the-Vision-Panel) 
 
 ### Panelists
 - [Dan Wilkinson](https://github.com/danwilkinsoncreative) <[dan@get-even.co.uk](mailto:dan@get-even.co.uk)>
