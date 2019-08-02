@@ -178,17 +178,29 @@ How do apps request access to specific containers, shapes, and/or realms of a us
 - [Jackson Morgan](https://github.com/jaxoncreed)
 
 ## Explaining the Vision Panel
-Taking the suggestions on https://github.com/solid/information/issues/180 to produce a proposal for explaining the Solid vision, mission, and values on https://github.com/solid/information/pull/202
+Taking the suggestions on the channels listed below to produce proposals explaining [what is Solid](https://github.com/solid/roadmap/blob/master/what-is-solid.md) and the [Solid vision, mission, and values](https://github.com/solid/roadmap/blob/master/solid-mission-vision-values.md). 
+
+Related conversations to take into consideration: 
+* https://github.com/solid/information/pull/202
+* https://github.com/solid/information/issues/180 
+* https://github.com/solid/roadmap/pull/1
+* https://github.com/solid/roadmap/pull/3
+* https://github.com/solid/roadmap/pull/4
+* https://github.com/solid/roadmap/pull/5
+* https://github.com/solid/roadmap/pull/6
+* https://github.com/solid/roadmap/pull/7
+* https://github.com/solid/roadmap/pull/8
+* https://github.com/solid/roadmap/pull/9
 
 ### Communication channels
 - [dedicated forum thread](https://forum.solidproject.org/t/explaining-the-vision-panel/2089) 
-- https://github.com/solid/information/pull/202
+- [GitHub team discussion board](https://github.com/orgs/solid/teams/explaining-the-vision-panel/discussions)
 
 ### Panelists
-- Dan Wilkinson
-- Paul Worrall <[paul.worrall@interition.net](mailto:paul.worrall@interition.net)>
-- Ruben Verborgh (@RubenVerborgh)
-- [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
+- [Dan Wilkinson](https://github.com/danwilkinsoncreative) <[dan@get-even.co.uk](mailto:dan@get-even.co.uk)>
+- [Paul Worrall](https://github.com/pjworrall) <[paul.worrall@interition.net](mailto:paul.worrall@interition.net)>
+- [Ruben Verborgh](https://github.com/RubenVerborgh) <[ruben.verborgh@ugent.be](mailto:ruben.verborgh@ugent.be)>
+- [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com(mailto:justin.bingham@janeirodigital.com)> 
 
 ## Data Interoperability
 Ensuring the interoperability of data as it is read and written by different users and/or applications. Topics of discussion will include vocabularies, shapes, footprints, and the mechanisms through which these work together to provide consistent and safe access and manipulation of data in a pod by different agents and/or users.
