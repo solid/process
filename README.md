@@ -74,11 +74,11 @@ Candidate Proposals without substantive changes require one Editor assigned to t
 
 ### Becoming an Editor
 
-Editors appointments and their respective assignments are made by the Solid Director. The Editorial Team is comprised of all the Editors appointed by the Solid Director, who are listed at [editors.md](editors.md), along with their assignments, contact details, and affiliations. Anyone may submit a request to be an Editor. These requests are not reviewed by other Editors. They are reviewed directly by the Solid Director. These requests expire after two months.
+Editor appointments and their respective assignments are made by the Solid Director. The Editorial Team is comprised of all the Editors appointed by the Solid Director, who are listed at [editors.md](editors.md), along with their assignments, contact details, and affiliations. Anyone may submit a request to be an Editor. These requests are not reviewed by other Editors. They are reviewed only by the Solid Director. These requests expire after two months.
 
 The Solid Manager, who is also an editor, is appointed by the Solid Director. The Solid Manager is responsible for formalizing the outcome of any votes.
 
-Editors belong to the [Editorial Team](https://github.com/orgs/solid/teams/editors) in the [Solid GitHub Organization](https://github.com/solid). Individual Editors have [_Maintain Permissions_](https://help.github.com/en/articles/repository-permission-levels-for-an-organization#permission-levels-for-repositories-owned-by-an-organization) on the repositories that they are specifically assigned to. All members of the Editorial Team have [_Write_Permissions_](https://help.github.com/en/articles/repository-permission-levels-for-an-organization#permission-levels-for-repositories-owned-by-an-organization) on all repositories listed in [editors.md](editors.md).
+Editors belong to the [Editorial Team](https://github.com/orgs/solid/teams/editors) in the [Solid GitHub Organization](https://github.com/solid). Individual Editors have [_Maintain Permissions_](https://help.github.com/en/articles/repository-permission-levels-for-an-organization#permission-levels-for-repositories-owned-by-an-organization) on the repositories they are assigned to. All members of the Editorial Team have [_Write Permissions_](https://help.github.com/en/articles/repository-permission-levels-for-an-organization#permission-levels-for-repositories-owned-by-an-organization) on all repositories listed in [editors.md](editors.md).
 
 ## Administration
 
@@ -88,7 +88,7 @@ Administrators belong to the [Administrators Team](https://github.com/orgs/solid
 
 ### Becoming an Administrator
 
-Administrators are appointed directly the Solid Director. Administrators are listed at [administrators.md](administrators.md) along with their contact details and affiliations. Anyone may request to be an administrator. Administrator requests are not reviewed by other Administrators. They are reviewed only by the Solid Director. These requests expire after two months.
+Administrators are appointed by the Solid Director. Administrators are listed at [administrators.md](administrators.md) along with their contact details and affiliations. Anyone may request to be an Administrator. Administrator requests are not reviewed by other Administrators. They are reviewed only by the Solid Director. These requests expire after two months.
 
 The Solid Manager, who is also an administrator, is appointed by the Solid Director and is responsible for implementing the vision of the Solid Director.
 
