@@ -48,8 +48,6 @@ Anyone may propose improvements to the Solid Specification, Solid Roadmap, or Su
 - Make a suggestion on the Solid W3C Community Group mailing list to form a new Solid Panel, or join an existing Solid Panel
 - Propose an item for the W3C Solid Community Group call
 
-Proposals for changes to the Solid Specification, Solid Roadmap, or Supporting Documentation go through an editorial review process. Proposals that include substantive changes which significantly alter the normative text of the Solid Specification or the Solid Roadmap go through a more comprehensive editorial review.
-
 Any proposal must be realistic and reasonable to implement, preferably with example implementations, and demonstrable support from Implementers.
 
 Any proposal should also be accompanied with a reasonable explanation of the need for the proposed change. For example:
@@ -66,17 +64,15 @@ When there are objections, notify the Solid Panels and Stakeholders about the fi
 
 Candidate Proposals to change the Solid Specification, Solid Roadmap, or Supporting Documentation must be submitted for editorial review before they are accepted, along with the results of any votes taken while the proposal was being drafted.
 
-An editor determines whether a Candidate Proposal includes a substantive change and marks it accordingly. If there is any disagreement among editors, the Candidate Proposal will be automatically marked as including a substantive change.
+An Editor determines whether a Candidate Proposal includes a substantive change and marks it accordingly. If there is any disagreement among Editors, the Candidate Proposal will be automatically marked as including a substantive change.
 
-Candidate Proposals with substantive changes require three editors to actively approve the proposal with no editors actively rejecting. Editors may abstain. Candidate Proposals with substantive changes must remain open for at least one week before final acceptance. If an editor does not vote by the end of that week it will be assumed that the editor abstained.
+Candidate Proposals with substantive changes require three Editors who are assigned to the material being modified to actively approve the proposal, with no Editors from the Editorial Group actively rejecting. If there are less than three Editors assigned to the material being modified, then other Editors from the Editorial Group may participate.  Editors may abstain. Candidate Proposals with substantive changes must remain open for at least one week before final acceptance. If an Editor does not vote by the end of that week it will be assumed that they abstained. Once the Candidate Proposal has successfully passed editorial review and the specified wait-time has elapsed, it may be merged by an assigned Editor.
 
-Candidate Proposals without substantive changes require one editor to actively approve the proposal with no editors actively rejecting. Editors may abstain. Candidate Proposals without substantive changes must remain open for at least twenty-four hours before final acceptance. If an editor does not vote by the end of that twenty-four hour period it will be assumed that the editor abstained.
-
-Once a Candidate Proposal has successfully passed editorial review and the specified wait-time has elapsed, it may be merged by an editor, or by one of its authors if they have appropriate permission to do so.
+Candidate Proposals without substantive changes require one Editor assigned to the material being modified to actively approve the proposal, with no Editors from the Editorial Group actively rejecting, and may be merged immediately by an assigned Editor. An assigned Editor has the right to revert a non-substantive change.
 
 ### Becoming an Editor
 
-Editors are appointed directly by the Solid Director. Editors are listed at [editors.md](editors.md) along with their contact details and affiliations. Anyone may submit a request to be an editor. These requests are not reviewed by other editors. They are reviewed directly by the Solid Director.
+Editors appointments and their respective assignments are made by the Solid Director. The Editorial Group is comprised of all the Editors appointed by the Solid Director, who are listed at [editors.md](editors.md), along with their assignments, contact details, and affiliations. Anyone may submit a request to be an Editor. These requests are not reviewed by other Editors. They are reviewed directly by the Solid Director. These requests expire after two months.
 
 The Solid Manager, who is also an editor, is appointed by the Solid Director. The Solid Manager is responsible for formalizing the outcome of any votes.
 
@@ -86,7 +82,7 @@ Administrators are granted privileged access to control the tools, systems, and 
 
 ### Becoming an Administrator
 
-Administrators are appointed directly the Solid Director. Administrators are listed at [administrators.md](administrators.md) along with their contact details and affiliations. Anyone may request to be an administrator. Administrator requests are not reviewed by other Administrators. They are reviewed only by the Solid Director.
+Administrators are appointed directly the Solid Director. Administrators are listed at [administrators.md](administrators.md) along with their contact details and affiliations. Anyone may request to be an administrator. Administrator requests are not reviewed by other Administrators. They are reviewed only by the Solid Director. These requests expire after two months.
 
 The Solid Manager, who is also an administrator, is appointed by the Solid Director and is responsible for implementing the vision of the Solid Director.
 
