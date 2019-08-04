@@ -22,7 +22,9 @@ This is an example that people can use as a template for submitting their own pa
 
 * [Accessibility Panel](#accessibility-panel)
 * [App Authorization Panel](#app-authorization)
+* [Apps Panel](#apps-panel)
 * [Authentication Panel](#authentication-panel)
+* [Client Side Libraries Panel](#client-side-libraries-panel)
 * [Cryptography (Signing and Encryption) Panel](#cryptography-signing-and-encryption-panel)
 * [Data Interoperability Panel](#data-interoperability)
 * [Explaining the Vision Panel](#explaining-the-vision-panel)
