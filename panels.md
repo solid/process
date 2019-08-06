@@ -202,6 +202,7 @@ Related conversations to take into consideration:
 - [Paul Worrall](https://github.com/pjworrall) <[paul.worrall@interition.net](mailto:paul.worrall@interition.net)>
 - [Ruben Verborgh](https://github.com/RubenVerborgh) <[ruben.verborgh@ugent.be](mailto:ruben.verborgh@ugent.be)>
 - [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com(mailto:justin.bingham@janeirodigital.com)> 
+- Kjetil Kjernsmo <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
 
 ## Data Interoperability
 Ensuring the interoperability of data as it is read and written by different users and/or applications. Topics of discussion will include vocabularies, shapes, footprints, and the mechanisms through which these work together to provide consistent and safe access and manipulation of data in a pod by different agents and/or users.
