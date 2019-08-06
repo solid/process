@@ -34,7 +34,7 @@ This is an example that people can use as a template for submitting their own pa
 * [Specification Entry Document Panel](#specification-entry-document-panel)
 * [Teaching Materials Panel](#solid-teaching-material-panel)
 * [Privacy and Individuals Rights Protection Panel](#Privacy-and-Individuals-Rights-Protection-Panel) 
-
+* [Caching Panel](#caching-panel)
 
 ## External Interop and Outreach Panel
 How to technically link to other initiatives to build positive win-win
