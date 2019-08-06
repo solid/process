@@ -319,3 +319,17 @@ It will do so by:
 
 ### Panelists
 - Ruben Verborgh (@RubenVerborgh)
+
+
+## Caching Panel
+
+Ensure that caching mechanisms, both currently standardized and future standards are employed within Solid.
+
+### Communication channels
+- [dedicated forum thread](https://forum.solidproject.org/t/caching-panel/2115)
+- [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
+
+### Panelists
+
+- [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) (@kjetilk)
+
