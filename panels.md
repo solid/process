@@ -63,6 +63,7 @@ The Solid Teaching Material Panel has the aim to produce content to be able to e
  - [Arne Hassel](https://github.com/orgs/solid/people/megoth) (@megoth)
  - [Jackson Morgan](https://github.com/orgs/solid/people/jaxoncreed) (@jaxoncreed)
  - [Dan Wilkinson](https://github.com/orgs/solid/people/danwilkinsoncreative) (@danwilkinsoncreative)
+ - Kartika Tulusan @artificialgods_gitlab  
 
 ## Internationalisation Panel
 To ensure internationalisation is taken into consideration during the Solid design.
