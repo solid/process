@@ -38,12 +38,13 @@ This is an example that people can use as a template for submitting their own pa
 
 ## External Interop and Outreach Panel
 How to technically link to other initiatives to build positive win-win
-collaborations.
+collaborations. You can find a list of similar initiatives to Solid with a comparision description [here](https://github.com/solid/information/blob/master/initiatives.md). 
 
 ### Communication channels
 - [dedicated forum thread](https://forum.solidproject.org/t/external-interop-and-outreach-panel/2080) 
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 - [external-interop](https://github.com/solid/external-interop)
+
 
 ### Panelists
 - Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
