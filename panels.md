@@ -22,6 +22,7 @@ This is an example that people can use as a template for submitting their own pa
 
 * [Accessibility Panel](#accessibility-panel)
 * [App Authorization Panel](#app-authorization)
+* [Artificial Intelligence Panel](#artificial-intelligence-panel)
 * [Authentication Panel](#authentication-panel)
 * [Cryptography (Signing and Encryption) Panel](#cryptography-signing-and-encryption-panel)
 * [Data Interoperability Panel](#data-interoperability)
@@ -322,9 +323,15 @@ It will do so by:
 ### Panelists
 - Ruben Verborgh (@RubenVerborgh)
 
+## Artificial Intelligence Panel
+To discuss Artificial Intelligence for Solid
+
+### Communication channels
+- [dedicated forum thread](https://forum.solidproject.org/t/website-panel/2093)
+
+### Panelists
 
 ## Caching Panel
-
 Ensure that caching mechanisms, both currently standardized and future standards are employed within Solid.
 
 ### Communication channels
@@ -332,6 +339,4 @@ Ensure that caching mechanisms, both currently standardized and future standards
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 
 ### Panelists
-
 - [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) (@kjetilk)
-
