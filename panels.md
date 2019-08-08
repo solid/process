@@ -22,6 +22,7 @@ This is an example that people can use as a template for submitting their own pa
 
 * [Accessibility Panel](#accessibility-panel)
 * [App Authorization Panel](#app-authorization)
+* [Artificial Intelligence Panel](#artificial-intelligence-panel)
 * [Authentication Panel](#authentication-panel)
 * [Cryptography (Signing and Encryption) Panel](#cryptography-signing-and-encryption-panel)
 * [Data Interoperability Panel](#data-interoperability)
@@ -35,22 +36,23 @@ This is an example that people can use as a template for submitting their own pa
 * [Specification Entry Document Panel](#specification-entry-document-panel)
 * [Teaching Materials Panel](#solid-teaching-material-panel)
 * [Privacy and Individuals Rights Protection Panel](#Privacy-and-Individuals-Rights-Protection-Panel) 
-
+* [Caching Panel](#caching-panel)
 
 ## External Interop and Outreach Panel
 How to technically link to other initiatives to build positive win-win
-collaborations.
+collaborations. You can find a list of similar initiatives to Solid with a comparision description [here](https://github.com/solid/information/blob/master/initiatives.md). 
 
 ### Communication channels
 - [dedicated forum thread](https://forum.solidproject.org/t/external-interop-and-outreach-panel/2080) 
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 - [external-interop](https://github.com/solid/external-interop)
 
+
 ### Panelists
 - Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
 
 ## Solid Teaching Material Panel
-The Solid Teaching Material Panel has the aim to produce content to be able to effectively teach people to build Solid identity providers, Pods, and apps.
+The Solid Teaching Material Panel has the aim to produce content to be able to effectively teach people to build Solid identity providers, Pods, and apps. The Solid teaching material can be found in [this file](https://github.com/solid/information/tree/master/documentation). [Documentation.md](https://github.com/solid/information/blob/master/documentation/documentation.md) is a place that gives an overview of all the content in this file and links to it. 
 
 ### Communication channels
 - [dedicated forum thread](https://forum.solidproject.org/t/solid-teaching-material-panel/2081) 
@@ -64,6 +66,7 @@ The Solid Teaching Material Panel has the aim to produce content to be able to e
  - [Arne Hassel](https://github.com/orgs/solid/people/megoth) (@megoth)
  - [Jackson Morgan](https://github.com/orgs/solid/people/jaxoncreed) (@jaxoncreed)
  - [Dan Wilkinson](https://github.com/orgs/solid/people/danwilkinsoncreative) (@danwilkinsoncreative)
+ - Kartika Tulusan @artificialgods_gitlab  
 
 ## Internationalisation Panel
 To ensure internationalisation is taken into consideration during the Solid design.
@@ -194,6 +197,7 @@ Related conversations to take into consideration:
 * https://github.com/solid/roadmap/pull/9
 
 ### Communication channels
+- most converstation about "What is Solid" is here https://github.com/solid/Explaining-the-Vision-Panel/issues/1#issuecomment-518300433
 - [dedicated forum thread](https://forum.solidproject.org/t/explaining-the-vision-panel/2089) 
 - [GitHub team discussion board](https://github.com/orgs/solid/teams/explaining-the-vision-panel/discussions)
 - [Explaining the Visions Solid Github Repository](https://github.com/solid/Explaining-the-Vision-Panel) 
@@ -203,6 +207,7 @@ Related conversations to take into consideration:
 - [Paul Worrall](https://github.com/pjworrall) <[paul.worrall@interition.net](mailto:paul.worrall@interition.net)>
 - [Ruben Verborgh](https://github.com/RubenVerborgh) <[ruben.verborgh@ugent.be](mailto:ruben.verborgh@ugent.be)>
 - [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com(mailto:justin.bingham@janeirodigital.com)> 
+- Kjetil Kjernsmo <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
 
 ## Data Interoperability
 Ensuring the interoperability of data as it is read and written by different users and/or applications. Topics of discussion will include vocabularies, shapes, footprints, and the mechanisms through which these work together to provide consistent and safe access and manipulation of data in a pod by different agents and/or users.
@@ -329,3 +334,20 @@ To discuss Natural Language Processing for Solid
 
 ### Panelists
 
+## Artificial Intelligence Panel
+To discuss Artificial Intelligence for Solid
+
+### Communication channels
+- [dedicated forum thread](https://forum.solidproject.org/t/website-panel/2093)
+
+### Panelists
+
+## Caching Panel
+Ensure that caching mechanisms, both currently standardized and future standards are employed within Solid.
+
+### Communication channels
+- [dedicated forum thread](https://forum.solidproject.org/t/caching-panel/2115)
+- [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
+
+### Panelists
+- [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) (@kjetilk)
