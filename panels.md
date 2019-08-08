@@ -146,6 +146,7 @@ Discussion and specs relating to Authentication and Auth Delegation protocols, i
 - Michael Thornburgh <[mthornbu@adobe.com](mailto:mthornbu@adobe.com)>
 - [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
 - [Jackson Morgan](https://github.com/jaxoncreed)
+- [Aaron Coburn](https://github.com/acoburn) <[acoburn@apache.org](mailto:acoburn@apache.org)>
 
 ## Query Panel
 Discussion, specs and recommendations for implementing querying mechanisms beyond LDP, such as SPARQL, [Triple Pattern Fragments (TPF)](http://linkeddatafragments.org/in-depth/), GraphQL, and others.
