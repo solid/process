@@ -49,7 +49,7 @@ collaborations.
 - Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
 
 ## Solid Teaching Material Panel
-The Solid Teaching Material Panel has the aim to produce content to be able to effectively teach people to build Solid identity providers, Pods, and apps.
+The Solid Teaching Material Panel has the aim to produce content to be able to effectively teach people to build Solid identity providers, Pods, and apps. The Solid teaching material can be found in [this file](https://github.com/solid/information/tree/master/documentation). [Documentation.md](https://github.com/solid/information/blob/master/documentation/documentation.md) is a place that gives an overview of all the content in this file and links to it. 
 
 ### Communication channels
 - [dedicated forum thread](https://forum.solidproject.org/t/solid-teaching-material-panel/2081) 
