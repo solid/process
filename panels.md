@@ -52,6 +52,7 @@ collaborations. You can find a list of similar initiatives to Solid with a compa
 
 ### Panelists
 - Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
+- David H. Mason <[vid_github_solid_outreach@zooid.org](mailto:vid_github_solid_outreach@zooid.org)> (@vid)
 
 ## Solid Teaching Material Panel
 The Solid Teaching Material Panel has the aim to produce content to be able to effectively teach people to build Solid identity providers, Pods, and apps. The Solid teaching material can be found in [this file](https://github.com/solid/information/tree/master/documentation). [Documentation.md](https://github.com/solid/information/blob/master/documentation/documentation.md) is a place that gives an overview of all the content in this file and links to it. 
