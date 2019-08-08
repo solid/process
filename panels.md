@@ -30,6 +30,7 @@ This is an example that people can use as a template for submitting their own pa
 * [External Interop and Outreach Panel](#external-interop-and-outreach-panel)
 * [Identity Panel](#identity-panel)
 * [Internationalisation Panel](#internationalisation-panel)
+* [Natural Language Processing Panel](#natural-language-processing-panel)
 * [Query Panel](#query-panel)
 * [Privacy and Individuals Rights Protection Panel](#privacy-and-individuals-rights-protection-panel)
 * [Specification Entry Document Panel](#specification-entry-document-panel)
@@ -323,6 +324,15 @@ It will do so by:
 
 ### Panelists
 - Ruben Verborgh (@RubenVerborgh)
+
+## Natural Language Processing Panel
+To discuss Natural Language Processing for Solid
+
+### Communication channels
+- [dedicated forum thread](https://forum.solidproject.org/t/website-panel/2093)
+- [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
+
+### Panelists
 
 ## Artificial Intelligence Panel
 To discuss Artificial Intelligence for Solid
