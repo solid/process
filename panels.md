@@ -196,6 +196,7 @@ Related conversations to take into consideration:
 * https://github.com/solid/roadmap/pull/9
 
 ### Communication channels
+- most converstation about "What is Solid" is here https://github.com/solid/Explaining-the-Vision-Panel/issues/1#issuecomment-518300433
 - [dedicated forum thread](https://forum.solidproject.org/t/explaining-the-vision-panel/2089) 
 - [GitHub team discussion board](https://github.com/orgs/solid/teams/explaining-the-vision-panel/discussions)
 - [Explaining the Visions Solid Github Repository](https://github.com/solid/Explaining-the-Vision-Panel) 
