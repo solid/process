@@ -74,7 +74,7 @@ To discuss Artificial Intelligence for Solid
 - [artificial intelligence panel repository](https://github.com/solid/Artificial-Intelligence-Panel)
 
 ### Panelists
-* [Tom](https://github.com/sideshowtom) (@sideshowtom) 
+* [Tom](https://github.com/sideshowtom) <[sideshowtom@yahoo.com](mailto:sideshowtom@yahoo.com)> (@sideshowtom) 
 
 ## Authentication Panel
 Discussion and specs relating to Authentication and Auth Delegation protocols, including:
@@ -222,7 +222,7 @@ To discuss Natural Language Processing for Solid
 - [Natural Language Processing Panel Repository](https://github.com/solid/natural-language-processing-panel)
 
 ### Panelists
-* [Tom](https://github.com/sideshowtom) (@sideshowtom)
+* [Tom](https://github.com/sideshowtom) <[sideshowtom@yahoo.com](mailto:sideshowtom@yahoo.com)> (@sideshowtom) 
 
 ## Privacy and Individuals Rights Protection Panel
 The focus of this panel is to ensure Privacy is always kept in mind in the various proposals of the project across all panels, and that individuals' rights are inherently protected in the Solid ecosystem.
