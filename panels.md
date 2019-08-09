@@ -15,8 +15,8 @@ This is an example that people can use as a template for submitting their own pa
 - Any other public communication link goes here
 
 ### Panelists
-- [Panellist Name](link to github profile) <[email@example.org](mailto:email@example.org)> 
-- [Panellist Name](link to github profile) <[email@example.org](mailto:email@example.org)> 
+- [Panellist Name](link to github profile) <[email@example.org](mailto:email@example.org)> (@github handle)
+- [Panellist Name](link to github profile) <[email@example.org](mailto:email@example.org)> (@github handle)
 
 ## Index of Panels
 * [Accessibility Panel](#accessibility-panel)
@@ -38,7 +38,6 @@ This is an example that people can use as a template for submitting their own pa
 * [Specification Entry Document Panel](#specification-entry-document-panel)
 * [Teaching Materials Panel](#teaching-material-panel)
 * [Test Suite Panel](#test-suite-panel)
-* [Website Panel](#website-panel)
 
 ## Accessibility Panel
 How to ensure that the technical decisions are taking accessibility considerations into account.
@@ -49,7 +48,7 @@ How to ensure that the technical decisions are taking accessibility consideratio
 
 ### Panelists
 - [Sina Bahram](https://github.com/spudthebud) <[sina@sinabahram.com](mailto:sina@sinabahram.com)> 
-- [elf Pavlik](https://github.com/elf-pavlik) <[elf-pavlik@hackers4peace.net](mailto:elf-pavlik@hackers4peace.net)> 
+- [elf Pavlik](https://github.com/elf-pavlik) <[elf-pavlik@hackers4peace.net](mailto:elf-pavlik@hackers4peace.net)> (@elf-pavlik)
 
 ## App Authorization
 How do apps request access to specific containers, shapes, and/or realms of a user's data.
@@ -72,7 +71,7 @@ How do apps request access to specific containers, shapes, and/or realms of a us
 - [Dmitri Zagidulin](https://github.com/dmitrizagidulin) <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> 
 - [Michael Thornburgh](https://github.com/zenomt) <[mthornbu@adobe.com](mailto:mthornbu@adobe.com)>
 - [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> 
-- [Jackson Morgan](https://github.com/jaxoncreed) <[jackson@o.team](mailto:jackson@o.team)> 
+- [Jackson Morgan](https://github.com/jaxoncreed) <[jackson@o.team](mailto:jackson@o.team)> (@jaxoncreed)
 
 ## Apps Panel
 (aim to be inserted here) 
@@ -330,65 +329,19 @@ The Solid Teaching Material Panel has the aim to produce content to be able to e
  - [Dan Wilkinson](https://github.com/orgs/solid/people/danwilkinsoncreative) (@danwilkinsoncreative)
  - Kartika Tulusan @artificialgods_gitlab  
  
- ## Test Suite Panel
-Included the test suite in the Solid specification.
+## Test Suite Panel
+Include the test suite in the Solid specification.
 
 ### Communication channels
+- [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 - [dedicated forum thread](https://forum.solidproject.org/t/test-suite-panel/2092) 
-- [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 - [Test Suite Gitter Channel](https://gitter.im/solid/test-suite)
+- [Test Suite Repository](https://github.com/solid/test-suite)
 
 ### Panelists
-- Aaron Coburn <[acoburn@apache.org](mailto:acoburn@apache.org)>
-- [Elf-Pavlik](https://github.com/orgs/solid/people/elf-pavlik) (@elf-pavlik)
-- [Jackson Morgan](https://github.com/orgs/solid/people/jaxoncreed)
-- [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) (@kjetilk)
-- [Konobi](https://github.com/orgs/solid/people/konobi)
-- [Michiel de Jong](https://github.com/orgs/solid/people/michielbdejong)
-
-## Website Panel
-Write proposals for solidproject.org
-
-### Communication channels
-- [dedicated forum thread](https://forum.solidproject.org/t/website-panel/2093)
-- [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
-
-### Panelists
-- [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- [Aaron Coburn](https://github.com/acoburn) <[acoburn@apache.org](mailto:acoburn@apache.org)> (@acoburn)
+- [elf Pavlik](https://github.com/elf-pavlik) <[elf-pavlik@hackers4peace.net](mailto:elf-pavlik@hackers4peace.net)> (@elf-pavlik)
+- [Jackson Morgan](https://github.com/jaxoncreed) <[jacksonm@inrupt.com](mailto:jacksonm@inrupt.com)> (@jaxoncreed)
+- [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
+- [Scott McWhirter](https://github.com/orgs/solid/people/konobi) <[scott@konobi.co.uk](mailto:scott@konobi.co.uk)> (@konobi)
+- [Michiel de Jong](https://github.com/orgs/solid/people/michielbdejong) <[michieldj@inrupt.com](mailto:michieldj@inrupt.com)> (@michielbdejong)
