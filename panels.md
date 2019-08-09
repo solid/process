@@ -15,8 +15,8 @@ This is an example that people can use as a template for submitting their own pa
 - Any other public communication link goes here
 
 ### Panelists
-- [Panellist Name](link to github profile] <[email@example.org](mailto:email@example.org)> 
-- [Panellist Name](link to github profile] <[email@example.org](mailto:email@example.org)> 
+- [Panellist Name](link to github profile) <[email@example.org](mailto:email@example.org)> 
+- [Panellist Name](link to github profile) <[email@example.org](mailto:email@example.org)> 
 
 ## Index of Panels
 * [Accessibility Panel](#accessibility-panel)
@@ -47,8 +47,8 @@ How to ensure that the technical decisions are taking accessibility consideratio
 - [dedicated forum thread](https://forum.solidproject.org/t/accessibility-panel/2083) 
 
 ### Panelists
-- [Sina Bahram](https://github.com/spudthebud] <[sina@sinabahram.com](mailto:sina@sinabahram.com)> 
-- [elf Pavlik](https://github.com/elf-pavlik] <[elf-pavlik@hackers4peace.net](mailto:elf-pavlik@hackers4peace.net)> 
+- [Sina Bahram](https://github.com/spudthebud) <[sina@sinabahram.com](mailto:sina@sinabahram.com)> 
+- [elf Pavlik](https://github.com/elf-pavlik) <[elf-pavlik@hackers4peace.net](mailto:elf-pavlik@hackers4peace.net)> 
 
 ## App Authorization
 How do apps request access to specific containers, shapes, and/or realms of a user's data.
@@ -67,13 +67,11 @@ How do apps request access to specific containers, shapes, and/or realms of a us
 - [wac-allow](https://github.com/solid/wac-allow)
 
 ### Panelists
-- [Michiel de Jong](https://github.com/michielbdejong] <[michiel@unhosted.org](mailto:michiel@unhosted.org)> 
-
--  
-- Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
-- Michael Thornburgh <[mthornbu@adobe.com](mailto:mthornbu@adobe.com)>
-- [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
-- [Jackson Morgan](https://github.com/jaxoncreed)
+- [Michiel de Jong](https://github.com/michielbdejong) <[michiel@unhosted.org](mailto:michiel@unhosted.org)> 
+- [Dmitri Zagidulin](https://github.com/dmitrizagidulin) <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> 
+- [Michael Thornburgh](https://github.com/zenomt) <[mthornbu@adobe.com](mailto:mthornbu@adobe.com)>
+- [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> 
+- [Jackson Morgan](https://github.com/jaxoncreed) <[jackson@o.team](mailto:jackson@o.team)> 
 
 ## External Interop and Outreach Panel
 How to technically link to other initiatives to build positive win-win
@@ -85,8 +83,8 @@ collaborations. You can find a list of similar initiatives to Solid with a compa
 - [external-interop](https://github.com/solid/external-interop)
 
 ### Panelists
-- Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
-- David H. Mason <[vid_github_solid_outreach@zooid.org](mailto:vid_github_solid_outreach@zooid.org)> (@vid)
+- [Dmitri Zagidulin](https://github.com/dmitrizagidulin) <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> 
+- [David H. Mason](https://github.com/vid) <[vid_github_solid_outreach@zooid.org](mailto:vid_github_solid_outreach@zooid.org)>
 
 ## Solid Teaching Material Panel
 The Solid Teaching Material Panel has the aim to produce content to be able to effectively teach people to build Solid identity providers, Pods, and apps. The Solid teaching material can be found in [this file](https://github.com/solid/information/tree/master/documentation). [Documentation.md](https://github.com/solid/information/blob/master/documentation/documentation.md) is a place that gives an overview of all the content in this file and links to it. 
