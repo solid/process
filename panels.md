@@ -249,8 +249,8 @@ To ensure internationalisation is taken into consideration during the Solid desi
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 
 ### Panelists
- - King Wang <[kingwang@hsfranchise.com](mailto:kingwang@hsfranchise.com)>
- - Philip Laszkowicz <[phil@fillip.pro](mailto:phil@fillip.pro)> (@siilme)
+- [King Wang](https://github.com/kingwang88) <[kingwang@hsfranchise.com](mailto:kingwang@hsfranchise.com)> (@kingwang88)
+- Philip Laszkowicz <[phil@fillip.pro](mailto:phil@fillip.pro)> (@siilme)
 - [elf Pavlik](https://github.com/elf-pavlik) <[elf-pavlik@hackers4peace.net](mailto:elf-pavlik@hackers4peace.net)> (@elf-pavlik)
 
 ## Natural Language Processing Panel
@@ -324,7 +324,7 @@ The Solid Teaching Material Panel has the aim to produce content to be able to e
 ### Panelists
 - [Vincent Tunru](https://github.com/Vinnl) <[vincentt@inrupt.com](mailto:vincentt@inrupt.com)> (@Vinnl)
 - [Jose Emilio Labra Gayo](http://labra.weso.es) <[jelabra@gmail.com](mailto:jelabra@gmail.com)> (@labra)
-- King Wang <[kingwang@hsfranchise.com](mailto:kingwang@hsfranchise.com)>
+- [King Wang](https://github.com/kingwang88) <[kingwang@hsfranchise.com](mailto:kingwang@hsfranchise.com)> (@kingwang88)
 - [Raul R Pearson](https://github.com/orgs/solid/people/raulrpearson) (@raulrpearson)
 - [Arne Hassel](https://github.com/orgs/solid/people/megoth) <[arneh@inrupt.com](mailto:arneh@inrupt.com)> (@megoth)
 - [Jackson Morgan](https://github.com/jaxoncreed) <[jacksonm@inrupt.com](mailto:jacksonm@inrupt.com)> (@jaxoncreed)
