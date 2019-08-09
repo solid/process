@@ -39,11 +39,13 @@ This is an example that people can use as a template for submitting their own pa
 * [Teaching Materials Panel](#teaching-material-panel)
 * [Test Suite Panel](#test-suite-panel)
 
+All Panels can be reached on [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
+
 ## Accessibility Panel
 How to ensure that the technical decisions are taking accessibility considerations into account.
 
 ### Communication channels
-- [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
+- [accessibility panel repository](https://github.com/solid/Accessibility-Panel)
 - [dedicated forum thread](https://forum.solidproject.org/t/accessibility-panel/2083) 
 
 ### Panelists
@@ -54,16 +56,9 @@ How to ensure that the technical decisions are taking accessibility consideratio
 How do apps request access to specific containers, shapes, and/or realms of a user's data.
 
 ### Communication channels
-- [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
+- [app authorisation repository](https://github.com/solid/app-authorization-panel/issues/) 
 - [dedicated forum thread](https://forum.solidproject.org/t/app-authorisation/2088) 
-- [App Authorisation Gitter Channel](https://gitter.im/solid/app-authorization-panel)
-- [App Authorisation Repository](https://github.com/solid/app-authorization-panel/issues/) 
-- [acl-check](https://github.com/solid/acl-check)
-- [oidc-op](https://github.com/solid/oidc-op)
-- [oidc-rp](https://github.com/solid/oidc-rp)
-- [solid-multi-rp-client](https://github.com/solid/solid-multi-rp-client)
-- [solid-permissions](https://github.com/solid/solid-permissions)
-- [wac-allow](https://github.com/solid/wac-allow)
+- [app authorisation gitter channel](https://gitter.im/solid/app-authorization-panel)
 
 ### Panelists
 - [Michiel de Jong](https://github.com/michielbdejong) <[michieldj@inrupt.com](mailto:michieldj@inrupt.com)> (@michielbdejong)
@@ -77,15 +72,7 @@ How do apps request access to specific containers, shapes, and/or realms of a us
 
 ### Communication channels
 - [dedicated forum thread](https://forum.solidproject.org/t/apps-panel/2096)
-- [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
-- [profile-viewer-react](https://github.com/solid/profile-viewer-react)
-- [ldflex-playground](https://github.com/solid/ldflex-playground)
-- [solid-connections-ui](https://github.com/solid/solid-connections-ui)
-- [solid-signup](https://github.com/solid/solid-signup)
-- [solid-profile-ui](https://github.com/solid/solid-profile-ui)
-- [solid-dashboard-ui](https://github.com/solid/solid-dashboard-ui)
-- [solid-signup-ui](https://github.com/solid/solid-signup-ui)
-- [Solid signin-ui](https://github.com/solid/solid-signin-ui)
+- [apps panel repository](https://github.com/solid/apps-panel) 
 
 ### Panelists
 - [Ruben Verborgh](https://github.com/RubenVerborgh) <[Ruben.Verborgh@UGent.be](mailto:Ruben.Verborgh@UGent.be)>(@RubenVerborgh)
@@ -94,7 +81,8 @@ How do apps request access to specific containers, shapes, and/or realms of a us
 To discuss Artificial Intelligence for Solid
 
 ### Communication channels
-- [dedicated forum thread](https://forum.solidproject.org/t/website-panel/2093)
+- [dedicated forum thread](https://forum.solidproject.org/t/artificial-intelligence-panel/2122)
+- [artificial intelligence panel repository](https://github.com/solid/Artificial-Intelligence-Panel)
 
 ### Panelists
 * [Tom](https://github.com/sideshowtom) (@sideshowtom) 
@@ -110,13 +98,7 @@ Discussion and specs relating to Authentication and Auth Delegation protocols, i
 
 ### Communication channels
 - [dedicated forum thread](https://forum.solidproject.org/t/authentication-panel/2086) 
-- [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
-- [oidc-rs](https://github.com/solid/oidc-rs)
-- [keychain](https://github.com/solid/keychain)
-- [jose](https://github.com/solid/jose)
-- [oidc-web](https://github.com/solid/oidc-web)
-- [kvplus-files](https://github.com/solid/kvplus-files)
-- [solid-auth-tls](https://github.com/solid/solid-auth-tls)
+- [authentication panel repository](https://github.com/solid/authentication-panel) 
 
 ### Panelists
 - [Dmitri Zagidulin](https://github.com/dmitrizagidulin) <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
@@ -131,7 +113,7 @@ Ensure that caching mechanisms, both currently standardized and future standards
 
 ### Communication channels
 - [dedicated forum thread](https://forum.solidproject.org/t/caching-panel/2115)
-- [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
+- [caching panel repository](https://github.com/solid/caching-panel)
 
 ### Panelists
 - [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
@@ -141,15 +123,7 @@ Ensure that caching mechanisms, both currently standardized and future standards
 
 ### Communication channels
 - [dedicated forum thread](https://forum.solidproject.org/t/client-side-libraries-panel/2095)
-- [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
-- [react-components](https://github.com/solid/react-components)
-- [query-ldflex](https://github.com/solid/query-ldflex)
-- [ldp-glob](https://github.com/solid/ldp-glob)
-- [solid-cli](https://github.com/solid/solid-cli)
-- [solid-inbox](https://github.com/solid/solid-inbox)
-- [solid-client](https://github.com/solid/solid-client)
-- [solid-web-client](https://github.com/solid/solid-web-client)
-- [solid-notifications](https://github.com/solid/solid-notifications)
+- [client side libraries panel repository](https://github.com/solid/client-side-libraries-panel)
 
 ### Panelists
 - [Ruben Verborgh](https://github.com/RubenVerborgh) <[Ruben.Verborgh@UGent.be](mailto:Ruben.Verborgh@UGent.be)>(@RubenVerborgh)
@@ -160,7 +134,7 @@ Discussion and specs related to performing decentralized Key Management, Cryptog
 
 ### Communication channels
 - [dedicated forum thread](https://forum.solidproject.org/t/cryptography-signing-and-encryption-panel/2091) 
-- [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
+- [Cryptography (Signing and Encryption) Panel Repository](https://github.com/solid/cryptography-signing-and-encryption-panel)
 
 ### Panelists
 - [Dmitri Zagidulin](https://github.com/dmitrizagidulin) <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
