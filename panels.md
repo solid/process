@@ -97,6 +97,7 @@ To discuss Artificial Intelligence for Solid
 - [dedicated forum thread](https://forum.solidproject.org/t/website-panel/2093)
 
 ### Panelists
+* [Tom](https://github.com/sideshowtom) (@sideshowtom) 
 
 ## Authentication Panel
 Discussion and specs relating to Authentication and Auth Delegation protocols, including:
