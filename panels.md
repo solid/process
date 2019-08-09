@@ -259,6 +259,7 @@ To discuss Natural Language Processing for Solid
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 
 ### Panelists
+* [Tom](https://github.com/sideshowtom) (@sideshowtom)
 
 ## Privacy and Individuals Rights Protection Panel
 The focus of this panel is to ensure Privacy is always kept in mind in the various proposals of the project across all panels, and that individuals' rights are inherently protected in the Solid ecosystem.
