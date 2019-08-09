@@ -312,7 +312,7 @@ To create a structure for the document at https://github.com/solid/specification
 - [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
 - [Sarven Capadisli](https://github.com/csarven) <[csarven@inrupt.com](mailto:csarven@inrupt.com)> (@csarven)
 - [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
-- King Wang <[kingwang@hsfranchise.com](mailto:kingwang@hsfranchise.com)>
+- [King Wang](https://github.com/kingwang88) <[kingwang@hsfranchise.com](mailto:kingwang@hsfranchise.com)> (@kingwang88)
 
 ## Teaching Material Panel
 The Solid Teaching Material Panel has the aim to produce content to be able to effectively teach people to build Solid identity providers, Pods, and apps. The Solid teaching material can be found in [this file](https://github.com/solid/information/tree/master/documentation). [Documentation.md](https://github.com/solid/information/blob/master/documentation/documentation.md) is a place that gives an overview of all the content in this file and links to it. 
