@@ -19,12 +19,12 @@ This is an example that people can use as a template for submitting their own pa
 - [Panellist Name](link to github profile] <[email@example.org](mailto:email@example.org)> 
 
 ## Index of Panels
-
 * [Accessibility Panel](#accessibility-panel)
 * [App Authorization Panel](#app-authorization)
 * [Apps Panel](#apps-panel)
 * [Artificial Intelligence Panel](#artificial-intelligence-panel)
 * [Authentication Panel](#authentication-panel)
+* [Caching Panel](#caching-panel)
 * [Client Side Libraries Panel](#client-side-libraries-panel)
 * [Cryptography (Signing and Encryption) Panel](#cryptography-signing-and-encryption-panel)
 * [Data Interoperability Panel](#data-interoperability)
@@ -33,12 +33,47 @@ This is an example that people can use as a template for submitting their own pa
 * [Identity Panel](#identity-panel)
 * [Internationalisation Panel](#internationalisation-panel)
 * [Natural Language Processing Panel](#natural-language-processing-panel)
-* [Query Panel](#query-panel)
 * [Privacy and Individuals Rights Protection Panel](#privacy-and-individuals-rights-protection-panel)
+* [Privacy and Individuals Rights Protection Panel](#Privacy-and-Individuals-Rights-Protection-Panel) 
+* [Query Panel](#query-panel)
 * [Specification Entry Document Panel](#specification-entry-document-panel)
 * [Teaching Materials Panel](#solid-teaching-material-panel)
-* [Privacy and Individuals Rights Protection Panel](#Privacy-and-Individuals-Rights-Protection-Panel) 
-* [Caching Panel](#caching-panel)
+
+## Accessibility Panel
+How to ensure that the technical decisions are taking accessibility considerations into account.
+
+### Communication channels
+- [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
+- [dedicated forum thread](https://forum.solidproject.org/t/accessibility-panel/2083) 
+
+### Panelists
+- [Sina Bahram](https://github.com/spudthebud] <[sina@sinabahram.com](mailto:sina@sinabahram.com)> 
+- [elf Pavlik](https://github.com/elf-pavlik] <[elf-pavlik@hackers4peace.net](mailto:elf-pavlik@hackers4peace.net)> 
+
+## App Authorization
+How do apps request access to specific containers, shapes, and/or realms of a user's data.
+
+### Communication channels
+- [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
+- [dedicated forum thread](https://forum.solidproject.org/t/app-authorisation/2088) 
+- [App Authorisation Gitter Channel](https://gitter.im/solid/app-authorization-panel)
+- [App Authorisation Repository](https://github.com/solid/app-authorization-panel/issues/) 
+
+- [acl-check](https://github.com/solid/acl-check)
+- [oidc-op](https://github.com/solid/oidc-op)
+- [oidc-rp](https://github.com/solid/oidc-rp)
+- [solid-multi-rp-client](https://github.com/solid/solid-multi-rp-client)
+- [solid-permissions](https://github.com/solid/solid-permissions)
+- [wac-allow](https://github.com/solid/wac-allow)
+
+### Panelists
+- [Michiel de Jong](https://github.com/michielbdejong] <[michiel@unhosted.org](mailto:michiel@unhosted.org)> 
+
+-  
+- Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
+- Michael Thornburgh <[mthornbu@adobe.com](mailto:mthornbu@adobe.com)>
+- [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
+- [Jackson Morgan](https://github.com/jaxoncreed)
 
 ## External Interop and Outreach Panel
 How to technically link to other initiatives to build positive win-win
@@ -48,7 +83,6 @@ collaborations. You can find a list of similar initiatives to Solid with a compa
 - [dedicated forum thread](https://forum.solidproject.org/t/external-interop-and-outreach-panel/2080) 
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 - [external-interop](https://github.com/solid/external-interop)
-
 
 ### Panelists
 - Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
@@ -83,16 +117,7 @@ To ensure internationalisation is taken into consideration during the Solid desi
  - Philip Laszkowicz
  - elf Pavlik (@elf-pavlik)
 
-## Accessibility Panel
-How to ensure that the technical decisions are taking accessibility considerations into account.
 
-### Communication channels
-- [dedicated forum thread](https://forum.solidproject.org/t/accessibility-panel/2083) 
-- [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
-
-### Panelists
-- Sina Bahram
-- elf Pavlik (@elf-pavlik)
 
 ## Specification Entry Document Panel
 To create a structure for the document at https://github.com/solid/specification/, and the division in documents it links to and well as translating the community consensus regarding the application of the specifications mentioned in this document into a clear, unambiguous and implementable text.
@@ -163,27 +188,6 @@ Discussion, specs and recommendations for implementing querying mechanisms beyon
  - Kjetil Kjernsmo <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
  - Jeff Zucker <[dubzed@gmail.com](mailto:dubzed@gmail.com)> (@jeff-zucker)
 
-## App Authorization
-How do apps request access to specific containers, shapes, and/or realms of a user's data.
-
-### Communication channels
-- [App Authorisation Gitter Channel](https://gitter.im/solid/app-authorization-panel)
-- [App Authorisation Repository](https://github.com/solid/app-authorization-panel/issues/) 
-- [dedicated forum thread](https://forum.solidproject.org/t/app-authorisation/2088) 
-- [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
-- [acl-check](https://github.com/solid/acl-check)
-- [oidc-op](https://github.com/solid/oidc-op)
-- [oidc-rp](https://github.com/solid/oidc-rp)
-- [solid-multi-rp-client](https://github.com/solid/solid-multi-rp-client)
-- [solid-permissions](https://github.com/solid/solid-permissions)
-- [wac-allow](https://github.com/solid/wac-allow)
-
-### Panelists
-- Michiel de Jong
-- Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
-- Michael Thornburgh <[mthornbu@adobe.com](mailto:mthornbu@adobe.com)>
-- [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
-- [Jackson Morgan](https://github.com/jaxoncreed)
 
 ## Explaining the Vision Panel
 Taking the suggestions on the channels listed below to produce proposals explaining [what is Solid](https://github.com/solid/roadmap/blob/master/what-is-solid.md) and the [Solid vision, mission, and values](https://github.com/solid/roadmap/blob/master/solid-mission-vision-values.md). 
