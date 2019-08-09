@@ -162,11 +162,11 @@ Discussion and specs related to performing decentralized Key Management, Cryptog
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 
 ### Panelists
-- Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
-- Paul Worrall <[paul.worrall@interition.net](mailto:paul.worrall@interition.net)>
+- [Dmitri Zagidulin](https://github.com/dmitrizagidulin) <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
+- [Paul Worrall](https://github.com/pjworrall) <[paulw@inrupt.com](mailto:paulw@inrupt.com)> (@pjworrall)
 - [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
-- Kjetil Kjernsmo <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
-- Rob McColl <[rob@nix.software](mailto:rob@nix.software)> (@robmccoll)
+- [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
+- [Rob McColl](https://github.com/robmccoll) <[rob@nix.software](mailto:rob@nix.software)> (@robmccoll)
 
 ## Data Interoperability
 Ensuring the interoperability of data as it is read and written by different users and/or applications. Topics of discussion will include vocabularies, shapes, footprints, and the mechanisms through which these work together to provide consistent and safe access and manipulation of data in a pod by different agents and/or users.
@@ -179,12 +179,12 @@ Ensuring the interoperability of data as it is read and written by different use
 ### Panelists
 - Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
 - [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
-- Eric Prud'hommeaux
-- [Max Dor](https://github.com/maxidorius) (@maxidorius)
-- James Schoening
-- [Jose Emilio Labra Gayo](http://labra.weso.es) (@labra)
-- Ruben Verborgh (@RubenVerborgh)
-- Kjetil Kjernsmo <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
+- [Eric Prud'hommeaux](https://github.com/ericprud) <[eric@w3.org](mailto:eric@w3.org)> (@ericprud)
+- [Max Dor](https://github.com/maxidorius) <[max@dorius.io](mailto:max@dorius.io)> (@maxidorius) 
+- James Schoening <[james.r.schoening.civ@mail.mil](mailto:james.r.schoening.civ@mail.mil)> (@jimschoening_gitlab)
+- [Jose Emilio Labra Gayo](http://labra.weso.es) <[jelabra@gmail.com](mailto:jelabra@gmail.com)> (@labra)
+- [Ruben Verborgh](https://github.com/RubenVerborgh) <[Ruben.Verborgh@UGent.be](mailto:Ruben.Verborgh@UGent.be>(@RubenVerborgh)
+- [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
 
 ## Explaining the Vision Panel
 Taking the suggestions on the channels listed below to produce proposals explaining [what is Solid](https://github.com/solid/roadmap/blob/master/what-is-solid.md) and the [Solid vision, mission, and values](https://github.com/solid/roadmap/blob/master/solid-mission-vision-values.md). 
@@ -208,11 +208,11 @@ Related conversations to take into consideration:
 - [Explaining the Visions Solid Github Repository](https://github.com/solid/Explaining-the-Vision-Panel) 
 
 ### Panelists
-- [Dan Wilkinson](https://github.com/danwilkinsoncreative) <[dan@get-even.co.uk](mailto:dan@get-even.co.uk)>
-- [Paul Worrall](https://github.com/pjworrall) <[paul.worrall@interition.net](mailto:paul.worrall@interition.net)>
-- [Ruben Verborgh](https://github.com/RubenVerborgh) <[ruben.verborgh@ugent.be](mailto:ruben.verborgh@ugent.be)>
-- [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com(mailto:justin.bingham@janeirodigital.com)> 
-- Kjetil Kjernsmo <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
+- [Dan Wilkinson](https://github.com/danwilkinsoncreative) <[dan@get-even.co.uk](mailto:dan@get-even.co.uk)> (@danwilkinsoncreative)
+- [Paul Worrall](https://github.com/pjworrall) <[paulw@inrupt.com](mailto:paulw@inrupt.com)> (@pjworrall)
+- [Ruben Verborgh](https://github.com/RubenVerborgh) <[Ruben.Verborgh@UGent.be](mailto:Ruben.Verborgh@UGent.be>(@RubenVerborgh)
+- [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com(mailto:justin.bingham@janeirodigital.com)> (@justinwb)
+- [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
 
 ## External Interop and Outreach Panel
 How to technically link to other initiatives to build positive win-win
@@ -224,8 +224,8 @@ collaborations. You can find a list of similar initiatives to Solid with a compa
 - [external-interop](https://github.com/solid/external-interop)
 
 ### Panelists
-- [Dmitri Zagidulin](https://github.com/dmitrizagidulin) <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> 
-- [David H. Mason](https://github.com/vid) <[vid_github_solid_outreach@zooid.org](mailto:vid_github_solid_outreach@zooid.org)>
+- [Dmitri Zagidulin](https://github.com/dmitrizagidulin) <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
+- [David H. Mason](https://github.com/vid) <[vid_github_solid_outreach@zooid.org](mailto:vid_github_solid_outreach@zooid.org)> (@vid)
 
 ## Identity Panel
 Discussions and specs for expanding the capabilities of Solid's WebID identity system, including user profiles, [Decentralized Identifiers (DIDs)](https://w3c-ccg.github.io/did-spec/), and related standards.
