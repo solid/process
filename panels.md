@@ -21,7 +21,6 @@ This is an example that people can use as a template for submitting their own pa
 ## Index of Panels
 * [Accessibility Panel](#accessibility-panel)
 * [App Authorization Panel](#app-authorization)
-* [Apps Panel](#apps-panel)
 * [Artificial Intelligence Panel](#artificial-intelligence-panel)
 * [Authentication Panel](#authentication-panel)
 * [Caching Panel](#caching-panel)
@@ -66,16 +65,6 @@ How do apps request access to specific containers, shapes, and/or realms of a us
 - [Michael Thornburgh](https://github.com/zenomt) <[mthornbu@adobe.com](mailto:mthornbu@adobe.com)> (@zenomt)
 - [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
 - [Jackson Morgan](https://github.com/jaxoncreed) <[jacksonm@inrupt.com](mailto:jacksonm@inrupt.com)> (@jaxoncreed)
-
-## Apps Panel
-(aim to be inserted here) 
-
-### Communication channels
-- [dedicated forum thread](https://forum.solidproject.org/t/apps-panel/2096)
-- [apps panel repository](https://github.com/solid/apps-panel) 
-
-### Panelists
-- [Ruben Verborgh](https://github.com/RubenVerborgh) <[Ruben.Verborgh@UGent.be](mailto:Ruben.Verborgh@UGent.be)>(@RubenVerborgh)
 
 ## Artificial Intelligence Panel
 To discuss Artificial Intelligence for Solid
