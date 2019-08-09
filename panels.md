@@ -47,7 +47,7 @@ How to ensure that the technical decisions are taking accessibility consideratio
 - [dedicated forum thread](https://forum.solidproject.org/t/accessibility-panel/2083) 
 
 ### Panelists
-- [Sina Bahram](https://github.com/spudthebud) <[sina@sinabahram.com](mailto:sina@sinabahram.com)> 
+- [Sina Bahram](https://github.com/spudthebud) <[sina@sinabahram.com](mailto:sina@sinabahram.com)> (@spudthebud)
 - [elf Pavlik](https://github.com/elf-pavlik) <[elf-pavlik@hackers4peace.net](mailto:elf-pavlik@hackers4peace.net)> (@elf-pavlik)
 
 ## App Authorization
@@ -58,7 +58,6 @@ How do apps request access to specific containers, shapes, and/or realms of a us
 - [dedicated forum thread](https://forum.solidproject.org/t/app-authorisation/2088) 
 - [App Authorisation Gitter Channel](https://gitter.im/solid/app-authorization-panel)
 - [App Authorisation Repository](https://github.com/solid/app-authorization-panel/issues/) 
-
 - [acl-check](https://github.com/solid/acl-check)
 - [oidc-op](https://github.com/solid/oidc-op)
 - [oidc-rp](https://github.com/solid/oidc-rp)
@@ -67,11 +66,11 @@ How do apps request access to specific containers, shapes, and/or realms of a us
 - [wac-allow](https://github.com/solid/wac-allow)
 
 ### Panelists
-- [Michiel de Jong](https://github.com/michielbdejong) <[michiel@unhosted.org](mailto:michiel@unhosted.org)> 
-- [Dmitri Zagidulin](https://github.com/dmitrizagidulin) <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> 
-- [Michael Thornburgh](https://github.com/zenomt) <[mthornbu@adobe.com](mailto:mthornbu@adobe.com)>
-- [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> 
-- [Jackson Morgan](https://github.com/jaxoncreed) <[jackson@o.team](mailto:jackson@o.team)> (@jaxoncreed)
+- [Michiel de Jong](https://github.com/michielbdejong) <[michieldj@inrupt.com](mailto:michieldj@inrupt.com)> (@michielbdejong)
+- [Dmitri Zagidulin](https://github.com/dmitrizagidulin) <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
+- [Michael Thornburgh](https://github.com/zenomt) <[mthornbu@adobe.com](mailto:mthornbu@adobe.com)> (@zenomt)
+- [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
+- [Jackson Morgan](https://github.com/jaxoncreed) <[jacksonm@inrupt.com](mailto:jacksonm@inrupt.com)> (@jaxoncreed)
 
 ## Apps Panel
 (aim to be inserted here) 
@@ -89,7 +88,7 @@ How do apps request access to specific containers, shapes, and/or realms of a us
 - [Solid signin-ui](https://github.com/solid/solid-signin-ui)
 
 ### Panelists
-- Ruben Verborgh (@RubenVerborgh)
+- [Ruben Verborgh](https://github.com/RubenVerborgh) <[Ruben.Verborgh@UGent.be](mailto:Ruben.Verborgh@UGent.be>(@RubenVerborgh)
 
 ## Artificial Intelligence Panel
 To discuss Artificial Intelligence for Solid
@@ -119,12 +118,12 @@ Discussion and specs relating to Authentication and Auth Delegation protocols, i
 - [solid-auth-tls](https://github.com/solid/solid-auth-tls)
 
 ### Panelists
-- Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
-- Paul Worrall <[paul.worrall@interition.net](mailto:paul.worrall@interition.net)>
-- Michael Thornburgh <[mthornbu@adobe.com](mailto:mthornbu@adobe.com)>
+- [Dmitri Zagidulin](https://github.com/dmitrizagidulin) <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
+- [Paul Worrall](https://github.com/pjworrall) <[paulw@inrupt.com](mailto:paulw@inrupt.com)> (@pjworrall)
+- [Michael Thornburgh](https://github.com/zenomt) <[mthornbu@adobe.com](mailto:mthornbu@adobe.com)> (@zenomt)
 - [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
-- [Jackson Morgan](https://github.com/jaxoncreed)
-- [Aaron Coburn](https://github.com/acoburn) <[acoburn@apache.org](mailto:acoburn@apache.org)>
+- [Jackson Morgan](https://github.com/jaxoncreed) <[jacksonm@inrupt.com](mailto:jacksonm@inrupt.com)> (@jaxoncreed)
+- [Aaron Coburn](https://github.com/acoburn) <[aaronc@inrupt.com](mailto:aaronc@inrupt.com)> (@acoburn)
 
 ## Caching Panel
 Ensure that caching mechanisms, both currently standardized and future standards are employed within Solid.
@@ -134,7 +133,7 @@ Ensure that caching mechanisms, both currently standardized and future standards
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 
 ### Panelists
-- [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) (@kjetilk)
+- [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
 
 ## Client Side Libraries Panel
 (aim to be inserted here) 
@@ -152,8 +151,8 @@ Ensure that caching mechanisms, both currently standardized and future standards
 - [solid-notifications](https://github.com/solid/solid-notifications)
 
 ### Panelists
-- Ruben Verborgh (@RubenVerborgh)
-- Jeff Zucker <[dubzed@gmail.com](mailto:dubzed@gmail.com)> (@jeff-zucker)
+- [Ruben Verborgh](https://github.com/RubenVerborgh) <[Ruben.Verborgh@UGent.be](mailto:Ruben.Verborgh@UGent.be>(@RubenVerborgh)
+- [Jeff Zucker](https://github.com/jeff-zucker) <[dubzed@gmail.com](mailto:dubzed@gmail.com)> (@jeff-zucker)
 
 ## Cryptography (Signing and Encryption) Panel
 Discussion and specs related to performing decentralized Key Management, Cryptographic Signatures (including integration with [Verifiable Credentials](https://w3c.github.io/vc-data-model/)), and at-rest data Encryption on Solid servers.
