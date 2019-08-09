@@ -250,7 +250,7 @@ To ensure internationalisation is taken into consideration during the Solid desi
 
 ### Panelists
 - [King Wang](https://github.com/kingwang88) <[kingwang@hsfranchise.com](mailto:kingwang@hsfranchise.com)> (@kingwang88)
-- Philip Laszkowicz <[phil@fillip.pro](mailto:phil@fillip.pro)> (@siilme)
+- [Philip Laszkowicz](https://github.com/HelloFillip) <[phil@fillip.pro](mailto:phil@fillip.pro)> (@HelloFillip)
 - [elf Pavlik](https://github.com/elf-pavlik) <[elf-pavlik@hackers4peace.net](mailto:elf-pavlik@hackers4peace.net)> (@elf-pavlik)
 
 ## Natural Language Processing Panel
