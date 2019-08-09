@@ -148,7 +148,6 @@ Ensuring the interoperability of data as it is read and written by different use
 
 ### Communication channels
 - [dedicated forum thread](https://forum.solidproject.org/t/data-interoperability/2090) 
-- [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 - [solid-namespace](https://github.com/solid/solid-namespace)
 
 ### Panelists
@@ -178,10 +177,10 @@ Related conversations to take into consideration:
 * https://github.com/solid/roadmap/pull/9
 
 ### Communication channels
-- most converstation about "What is Solid" is here https://github.com/solid/Explaining-the-Vision-Panel/issues/1#issuecomment-518300433
 - [dedicated forum thread](https://forum.solidproject.org/t/explaining-the-vision-panel/2089) 
 - [GitHub team discussion board](https://github.com/orgs/solid/teams/explaining-the-vision-panel/discussions)
 - [Explaining the Visions Solid Github Repository](https://github.com/solid/Explaining-the-Vision-Panel) 
+- most converstation about "What is Solid" is here https://github.com/solid/Explaining-the-Vision-Panel/issues/1#issuecomment-518300433
 
 ### Panelists
 - [Dan Wilkinson](https://github.com/danwilkinsoncreative) <[dan@get-even.co.uk](mailto:dan@get-even.co.uk)> (@danwilkinsoncreative)
@@ -196,8 +195,7 @@ collaborations. You can find a list of similar initiatives to Solid with a compa
 
 ### Communication channels
 - [dedicated forum thread](https://forum.solidproject.org/t/external-interop-and-outreach-panel/2080) 
-- [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
-- [external-interop](https://github.com/solid/external-interop)
+- [external-interop repository](https://github.com/solid/external-interop)
 
 ### Panelists
 - [Dmitri Zagidulin](https://github.com/dmitrizagidulin) <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
@@ -208,7 +206,7 @@ Discussions and specs for expanding the capabilities of Solid's WebID identity s
 
 ### Communication channels
 - [dedicated forum thread](https://forum.solidproject.org/t/identity-panel/2085) 
-- [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
+- [identity panel repository](https://github.com/solid/identity-panel) 
 
 ### Panelists
 - [Dmitri Zagidulin](https://github.com/dmitrizagidulin) <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
@@ -220,7 +218,7 @@ To ensure internationalisation is taken into consideration during the Solid desi
 
 ### Communication channels
 - [dedicated forum thread](https://forum.solidproject.org/t/internationalisation-panel/2082) 
-- [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
+- [internationalisation panel repository](https://github.com/solid/internationalisation-panel)
 
 ### Panelists
 - [King Wang](https://github.com/kingwang88) <[kingwang@hsfranchise.com](mailto:kingwang@hsfranchise.com)> (@kingwang88)
@@ -231,8 +229,8 @@ To ensure internationalisation is taken into consideration during the Solid desi
 To discuss Natural Language Processing for Solid
 
 ### Communication channels
-- [dedicated forum thread](https://forum.solidproject.org/t/website-panel/2093)
-- [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
+- [dedicated forum thread](https://forum.solidproject.org/t/natural-language-processing-panel/2123)
+- [Natural Language Processing Panel Repository](https://github.com/solid/natural-language-processing-panel)
 
 ### Panelists
 * [Tom](https://github.com/sideshowtom) (@sideshowtom)
@@ -252,8 +250,7 @@ It will do so by:
 
 ### Communication channels
 - [dedicated forum thread](https://forum.solidproject.org/t/privacy-and-individuals-rights-protection-panel/2094)
-- [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
-- [Panel repository](https://github.com/solid/privacy-and-individuals-rights-protection-panel/tree/master) 
+- [Privacy and Individuals Rights Protection Panel repository](https://github.com/solid/privacy-and-individuals-rights-protection-panel/tree/master) 
 
 ### Panelists
 - [Max Dor](https://github.com/maxidorius) <[max@dorius.io](mailto:max@dorius.io)> (@maxidorius) 
@@ -263,7 +260,6 @@ Discussion, specs and recommendations for implementing querying mechanisms beyon
 
 ### Communication channels
 - [dedicated forum thread](https://forum.solidproject.org/t/query-panel/2087) 
-- [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 - [solid-tpf](https://github.com/solid/solid-tpf) 
 
 ### Panelists
@@ -278,8 +274,7 @@ To create a structure for the document at https://github.com/solid/specification
 
 ### Communication channels
 - [dedicated forum thread](https://forum.solidproject.org/t/specification-entry-document-panel/2084) 
-- [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
-- [the solid/specification repository](https://github.com/solid/specification/)
+- [Specification Entry Document Panel repository](https://github.com/solid/specification-entry-document-panel)
 
 ### Panelists
 - [Ruben Verborgh](https://github.com/RubenVerborgh) <[Ruben.Verborgh@UGent.be](mailto:Ruben.Verborgh@UGent.be)>(@RubenVerborgh)
@@ -293,7 +288,7 @@ The Solid Teaching Material Panel has the aim to produce content to be able to e
 
 ### Communication channels
 - [dedicated forum thread](https://forum.solidproject.org/t/solid-teaching-material-panel/2081) 
-- [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
+- [Teaching Material Panel Repository](https://github.com/solid/teaching-material-panel)
 
 ### Panelists
 - [Vincent Tunru](https://github.com/Vinnl) <[vincentt@inrupt.com](mailto:vincentt@inrupt.com)> (@Vinnl)
@@ -309,10 +304,9 @@ The Solid Teaching Material Panel has the aim to produce content to be able to e
 Include the test suite in the Solid specification.
 
 ### Communication channels
-- [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 - [dedicated forum thread](https://forum.solidproject.org/t/test-suite-panel/2092) 
-- [Test Suite Gitter Channel](https://gitter.im/solid/test-suite)
 - [Test Suite Repository](https://github.com/solid/test-suite)
+- [Test Suite Gitter Channel](https://gitter.im/solid/test-suite)
 
 ### Panelists
 - [Aaron Coburn](https://github.com/acoburn) <[aaronc@inrupt.com](mailto:aaronc@inrupt.com)> (@acoburn)
