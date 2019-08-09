@@ -76,7 +76,7 @@ Candidate Proposals without substantive changes require one Editor assigned to t
 
 ## Editorial Structure
 
-Editor appointments and their respective assignments are made by the Solid Director. The Editorial Team is comprised of all the Editors appointed by the Solid Director, who are listed at [editors.md](editors.md), along with their assignments, contact details, and affiliations. Anyone may submit a request to be an Editor. These requests are not reviewed by other Editors. They are reviewed only by the Solid Director. These requests expire after two months.
+Editor appointments and their respective assignments are made by the Solid Director. The Editorial Team is comprised of all the Editors appointed by the Solid Director, who are listed at [editors.md](editors.md), along with their assignments, contact details, and affiliations. Anyone may apply to be an Editor, and must include one or more requested editorial assignments as part of their application. These requests are not reviewed by other Editors. They are reviewed only by the Solid Director. Editor applications that can demonstrate the support of a relevant panel or group of community members will be favorably considered. These requests expire after two months.
 
 The Solid Manager, who is also an editor, is appointed by the Solid Director. The Solid Manager is responsible for formalizing the outcome of any votes.
 
@@ -96,7 +96,7 @@ Administrators belong to the [Administrators Team](https://github.com/orgs/solid
 
 ### Becoming an Administrator
 
-Administrators are appointed by the Solid Director. Administrators are listed at [administrators.md](administrators.md) along with their contact details and affiliations. Anyone may request to be an Administrator. Administrator requests are not reviewed by other Administrators. They are reviewed only by the Solid Director. These requests expire after two months.
+Administrators are appointed by the Solid Director. Administrators are listed at [administrators.md](administrators.md) along with their contact details and affiliations. Anyone may apply to be an Administrator. Administrator applications are not reviewed by other Administrators. They are reviewed only by the Solid Director. These requests expire after two months.
 
 The Solid Manager, who is also an administrator, is appointed by the Solid Director and is responsible for implementing the vision of the Solid Director.
 
