@@ -235,9 +235,9 @@ Discussions and specs for expanding the capabilities of Solid's WebID identity s
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 
 ### Panelists
-- Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
-- Paul Worrall <[paul.worrall@interition.net](mailto:paul.worrall@interition.net)>
-- [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
+- [Dmitri Zagidulin](https://github.com/dmitrizagidulin) <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
+- [Paul Worrall](https://github.com/pjworrall) <[paulw@inrupt.com](mailto:paulw@inrupt.com)> (@pjworrall)
+- [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com(mailto:justin.bingham@janeirodigital.com)> (@justinwb)
 
 ## Internationalisation Panel
 To ensure internationalisation is taken into consideration during the Solid design.
@@ -248,8 +248,8 @@ To ensure internationalisation is taken into consideration during the Solid desi
 
 ### Panelists
  - King Wang <[kingwang@hsfranchise.com](mailto:kingwang@hsfranchise.com)>
- - Philip Laszkowicz
- - elf Pavlik (@elf-pavlik)
+ - Philip Laszkowicz <[ phil@fillip.pro](mailto: phil@fillip.pro)> (@siilme)
+- [elf Pavlik](https://github.com/elf-pavlik) <[elf-pavlik@hackers4peace.net](mailto:elf-pavlik@hackers4peace.net)> (@elf-pavlik)
 
 ## Natural Language Processing Panel
 To discuss Natural Language Processing for Solid
@@ -279,7 +279,7 @@ It will do so by:
 - [Panel repository](https://github.com/solid/privacy-and-individuals-rights-protection-panel/tree/master) 
 
 ### Panelists
-- [Max Dor](https://github.com/maxidorius) (@maxidorius)
+- [Max Dor](https://github.com/maxidorius) <[max@dorius.io](mailto:max@dorius.io)> (@maxidorius) 
 
 ## Query Panel
 Discussion, specs and recommendations for implementing querying mechanisms beyond LDP, such as SPARQL, [Triple Pattern Fragments (TPF)](http://linkeddatafragments.org/in-depth/), GraphQL, and others.
@@ -290,11 +290,11 @@ Discussion, specs and recommendations for implementing querying mechanisms beyon
 - [solid-tpf](https://github.com/solid/solid-tpf) 
 
 ### Panelists
- - Dmitri Zagidulin <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
- - Aaron Coburn <[acoburn@apache.org](mailto:acoburn@apache.org)>
- - Ruben Verborgh (@RubenVerborgh)
- - Kjetil Kjernsmo <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
- - Jeff Zucker <[dubzed@gmail.com](mailto:dubzed@gmail.com)> (@jeff-zucker)
+- [Dmitri Zagidulin](https://github.com/dmitrizagidulin) <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
+ - [Aaron Coburn](https://github.com/acoburn) <[aaronc@inrupt.com](mailto:aaronc@inrupt.com)> (@acoburn)
+- [Ruben Verborgh](https://github.com/RubenVerborgh) <[Ruben.Verborgh@UGent.be](mailto:Ruben.Verborgh@UGent.be>(@RubenVerborgh)
+- [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
+- [Jeff Zucker](https://github.com/jeff-zucker) <[dubzed@gmail.com](mailto:dubzed@gmail.com)> (@jeff-zucker)
 
 ## Specification Entry Document Panel
 To create a structure for the document at https://github.com/solid/specification/, and the division in documents it links to and well as translating the community consensus regarding the application of the specifications mentioned in this document into a clear, unambiguous and implementable text.
@@ -305,11 +305,11 @@ To create a structure for the document at https://github.com/solid/specification
 - [the solid/specification repository](https://github.com/solid/specification/)
 
 ### Panelists
-- Ruben Verborgh (@RubenVerborgh)
-- Kjetil Kjernsmo (@kjetilk)
-- Sarven Capadisli (@csarven)
+- [Ruben Verborgh](https://github.com/RubenVerborgh) <[Ruben.Verborgh@UGent.be](mailto:Ruben.Verborgh@UGent.be>(@RubenVerborgh)
+- [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
+- [Sarven Capadisli](https://github.com/csarven] <[csarven@inrupt.com](mailto:csarven@inrupt.com)> (@csarven)
 - [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
- - King Wang <[kingwang@hsfranchise.com](mailto:kingwang@hsfranchise.com)>
+- King Wang <[kingwang@hsfranchise.com](mailto:kingwang@hsfranchise.com)>
 
 ## Teaching Material Panel
 The Solid Teaching Material Panel has the aim to produce content to be able to effectively teach people to build Solid identity providers, Pods, and apps. The Solid teaching material can be found in [this file](https://github.com/solid/information/tree/master/documentation). [Documentation.md](https://github.com/solid/information/blob/master/documentation/documentation.md) is a place that gives an overview of all the content in this file and links to it. 
