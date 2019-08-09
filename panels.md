@@ -34,10 +34,11 @@ This is an example that people can use as a template for submitting their own pa
 * [Internationalisation Panel](#internationalisation-panel)
 * [Natural Language Processing Panel](#natural-language-processing-panel)
 * [Privacy and Individuals Rights Protection Panel](#privacy-and-individuals-rights-protection-panel)
-* [Privacy and Individuals Rights Protection Panel](#Privacy-and-Individuals-Rights-Protection-Panel) 
 * [Query Panel](#query-panel)
 * [Specification Entry Document Panel](#specification-entry-document-panel)
-* [Teaching Materials Panel](#solid-teaching-material-panel)
+* [Teaching Materials Panel](#teaching-material-panel)
+* [Test Suite Panel](#test-suite-panel)
+* [Website Panel](#website-panel)
 
 ## Accessibility Panel
 How to ensure that the technical decisions are taking accessibility considerations into account.
