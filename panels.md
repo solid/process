@@ -291,7 +291,7 @@ Discussion, specs and recommendations for implementing querying mechanisms beyon
 
 ### Panelists
 - [Dmitri Zagidulin](https://github.com/dmitrizagidulin) <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
- - [Aaron Coburn](https://github.com/acoburn) <[aaronc@inrupt.com](mailto:aaronc@inrupt.com)> (@acoburn)
+- [Aaron Coburn](https://github.com/acoburn) <[aaronc@inrupt.com](mailto:aaronc@inrupt.com)> (@acoburn)
 - [Ruben Verborgh](https://github.com/RubenVerborgh) <[Ruben.Verborgh@UGent.be](mailto:Ruben.Verborgh@UGent.be>(@RubenVerborgh)
 - [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
 - [Jeff Zucker](https://github.com/jeff-zucker) <[dubzed@gmail.com](mailto:dubzed@gmail.com)> (@jeff-zucker)
@@ -307,7 +307,7 @@ To create a structure for the document at https://github.com/solid/specification
 ### Panelists
 - [Ruben Verborgh](https://github.com/RubenVerborgh) <[Ruben.Verborgh@UGent.be](mailto:Ruben.Verborgh@UGent.be>(@RubenVerborgh)
 - [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
-- [Sarven Capadisli](https://github.com/csarven] <[csarven@inrupt.com](mailto:csarven@inrupt.com)> (@csarven)
+- [Sarven Capadisli](https://github.com/csarven) <[csarven@inrupt.com](mailto:csarven@inrupt.com)> (@csarven)
 - [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
 - King Wang <[kingwang@hsfranchise.com](mailto:kingwang@hsfranchise.com)>
 
@@ -319,14 +319,15 @@ The Solid Teaching Material Panel has the aim to produce content to be able to e
 - [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 
 ### Panelists
- - Vincent Tunru <[vincentt@inrupt.com](mailto:vincentt@inrupt.com)>
- - [Jose Emilio Labra Gayo](http://labra.weso.es) (@labra)
- - King Wang <[kingwang@hsfranchise.com](mailto:kingwang@hsfranchise.com)>
- - [Raul R Pearson](https://github.com/orgs/solid/people/raulrpearson) (@raulrpearson)
- - [Arne Hassel](https://github.com/orgs/solid/people/megoth) (@megoth)
- - [Jackson Morgan](https://github.com/orgs/solid/people/jaxoncreed) (@jaxoncreed)
- - [Dan Wilkinson](https://github.com/orgs/solid/people/danwilkinsoncreative) (@danwilkinsoncreative)
- - Kartika Tulusan @artificialgods_gitlab  
+- [Vincent Tunru](https://github.com/Vinnl) <[vincentt@inrupt.com](mailto:vincentt@inrupt.com)> (@Vinnl)
+- [Jose Emilio Labra Gayo](http://labra.weso.es) <[jelabra@gmail.com](mailto:jelabra@gmail.com)> (@labra)
+- King Wang <[kingwang@hsfranchise.com](mailto:kingwang@hsfranchise.com)>
+- [Raul R Pearson](https://github.com/orgs/solid/people/raulrpearson) (@raulrpearson)
+- [Arne Hassel](https://github.com/orgs/solid/people/megoth) <[arneh@inrupt.com](mailto:arneh@inrupt.com)> (@megoth)
+- [Jackson Morgan](https://github.com/jaxoncreed) <[jacksonm@inrupt.com](mailto:jacksonm@inrupt.com)> (@jaxoncreed)
+- [Dan Wilkinson](https://github.com/danwilkinsoncreative) <[dan@get-even.co.uk](mailto:dan@get-even.co.uk)> (@danwilkinsoncreative)
+- [Dan Wilkinson](https://github.com/orgs/solid/people/danwilkinsoncreative) (@danwilkinsoncreative)
+- Kartika Tulusan @artificialgods_gitlab  
  
 ## Test Suite Panel
 Include the test suite in the Solid specification.
@@ -338,7 +339,7 @@ Include the test suite in the Solid specification.
 - [Test Suite Repository](https://github.com/solid/test-suite)
 
 ### Panelists
-- [Aaron Coburn](https://github.com/acoburn) <[acoburn@apache.org](mailto:acoburn@apache.org)> (@acoburn)
+- [Aaron Coburn](https://github.com/acoburn) <[aaronc@inrupt.com](mailto:aaronc@inrupt.com)> (@acoburn)
 - [elf Pavlik](https://github.com/elf-pavlik) <[elf-pavlik@hackers4peace.net](mailto:elf-pavlik@hackers4peace.net)> (@elf-pavlik)
 - [Jackson Morgan](https://github.com/jaxoncreed) <[jacksonm@inrupt.com](mailto:jacksonm@inrupt.com)> (@jaxoncreed)
 - [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
