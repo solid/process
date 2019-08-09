@@ -308,7 +308,7 @@ To create a structure for the document at https://github.com/solid/specification
 - [the solid/specification repository](https://github.com/solid/specification/)
 
 ### Panelists
-- [Ruben Verborgh](https://github.com/RubenVerborgh) <[Ruben.Verborgh@UGent.be](mailto:Ruben.Verborgh@UGent.be>(@RubenVerborgh)
+- [Ruben Verborgh](https://github.com/RubenVerborgh) <[Ruben.Verborgh@UGent.be](mailto:Ruben.Verborgh@UGent.be)>(@RubenVerborgh)
 - [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
 - [Sarven Capadisli](https://github.com/csarven) <[csarven@inrupt.com](mailto:csarven@inrupt.com)> (@csarven)
 - [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
