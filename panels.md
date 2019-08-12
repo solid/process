@@ -137,7 +137,7 @@ Ensuring the interoperability of data as it is read and written by different use
 
 ### Communication channels
 - [dedicated forum thread](https://forum.solidproject.org/t/data-interoperability/2090) 
-- [solid-namespace](https://github.com/solid/solid-namespace)
+- [data-interoperability-repository](https://github.com/solid/data-interoperability-panel)
 
 ### Panelists
 - [Dmitri Zagidulin](https://github.com/dmitrizagidulin) <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
