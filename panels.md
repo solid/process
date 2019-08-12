@@ -240,6 +240,7 @@ It will do so by:
 ### Communication channels
 - [dedicated forum thread](https://forum.solidproject.org/t/privacy-and-individuals-rights-protection-panel/2094)
 - [Privacy and Individuals Rights Protection Panel repository](https://github.com/solid/privacy-and-individuals-rights-protection-panel/tree/master) 
+- [gitter channel](https://gitter.im/solid/Privacy-and-Individuals-Rights-Protection-Panel--#)
 
 ### Panelists
 - [Max Dor](https://github.com/maxidorius) <[max@dorius.io](mailto:max@dorius.io)> (@maxidorius) 
