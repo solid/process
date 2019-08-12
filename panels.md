@@ -54,6 +54,9 @@ How to ensure that the technical decisions are taking accessibility consideratio
 ## App Authorization
 How do apps request access to specific containers, shapes, and/or realms of a user's data.
 
+### Meetings:
+Wednesdays at 10AM Eastern at https://meet.google.com/dci-nqnf-exg 
+
 ### Communication channels
 - [app authorisation repository](https://github.com/solid/app-authorization-panel/issues/) 
 - [dedicated forum thread](https://forum.solidproject.org/t/app-authorisation/2088) 
@@ -84,6 +87,9 @@ Discussion and specs relating to Authentication and Auth Delegation protocols, i
 * [WebAuthentication](https://www.w3.org/TR/webauthn/) (proposed future integration)
 * DID Authentication (proposed future integration)
 * HTTP Signatures (proposed future integration)
+
+### Meetings:
+Mondays at 10AM Eastern at https://hangouts.google.com/call/3k5z3gBVKm-58m8Xgm2YAEEE
 
 ### Communication channels
 - [dedicated forum thread](https://forum.solidproject.org/t/authentication-panel/2086) 
