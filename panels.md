@@ -144,7 +144,7 @@ Ensuring the interoperability of data as it is read and written by different use
 - [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
 - [Eric Prud'hommeaux](https://github.com/ericprud) <[eric@w3.org](mailto:eric@w3.org)> (@ericprud)
 - [Max Dor](https://github.com/maxidorius) <[max@dorius.io](mailto:max@dorius.io)> (@maxidorius) 
-- James Schoening <[james.r.schoening.civ@mail.mil](mailto:james.r.schoening.civ@mail.mil)> (@jimschoening_gitlab)
+- [James Schoening](https://github.com/jimschoening) <[james.r.schoening.civ@mail.mil](mailto:james.r.schoening.civ@mail.mil)> (@jimschoening)
 - [Jose Emilio Labra Gayo](http://labra.weso.es) <[jelabra@gmail.com](mailto:jelabra@gmail.com)> (@labra)
 - [Ruben Verborgh](https://github.com/RubenVerborgh) <[Ruben.Verborgh@UGent.be](mailto:Ruben.Verborgh@UGent.be)>(@RubenVerborgh)
 - [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
