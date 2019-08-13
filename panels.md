@@ -145,6 +145,7 @@ Ensuring the interoperability of data as it is read and written by different use
 - [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
 - [Jason Reynolds](https://github.com/orgs/solid/people/JKReynolds) <[jason.reynolds@polarisalpha.com](mailto:jason.reynolds@polarisalpha.com)> (@JKReynolds)
 - [Simon Shapiro](https://github.com/SimonShapiro) <[simon.m.shapiro@gmail.com](mailto:simon.m.shapiro@gmail.com)> (@SimonShapiro)
+- [Sarven Capadisli](https://github.com/csarven) <[info@csarven.ca](mailto:info@csarven.ca)> (@csarven)
 
 ## Explaining the Vision Panel
 Taking the suggestions on the channels listed below to produce proposals explaining [what is Solid](https://github.com/solid/roadmap/blob/master/what-is-solid.md) and the [Solid vision, mission, and values](https://github.com/solid/roadmap/blob/master/solid-mission-vision-values.md). 
@@ -264,7 +265,7 @@ To create a structure for the document at https://github.com/solid/specification
 ### Panelists
 - [Ruben Verborgh](https://github.com/RubenVerborgh) <[Ruben.Verborgh@UGent.be](mailto:Ruben.Verborgh@UGent.be)>(@RubenVerborgh)
 - [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
-- [Sarven Capadisli](https://github.com/csarven) <[csarven@inrupt.com](mailto:csarven@inrupt.com)> (@csarven)
+- [Sarven Capadisli](https://github.com/csarven) <[info@csarven.ca](mailto:info@csarven.ca)> (@csarven)
 - [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
 - [King Wang](https://github.com/kingwang88) <[kingwang@hsfranchise.com](mailto:kingwang@hsfranchise.com)> (@kingwang88)
 
@@ -300,3 +301,4 @@ Include the test suite in the Solid specification.
 - [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
 - [Scott McWhirter](https://github.com/orgs/solid/people/konobi) <[scott@konobi.co.uk](mailto:scott@konobi.co.uk)> (@konobi)
 - [Michiel de Jong](https://github.com/orgs/solid/people/michielbdejong) <[michieldj@inrupt.com](mailto:michieldj@inrupt.com)> (@michielbdejong)
+- [Sarven Capadisli](https://github.com/csarven) <[info@csarven.ca](mailto:info@csarven.ca)> (@csarven)
