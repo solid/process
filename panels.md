@@ -24,7 +24,6 @@ This is an example that people can use as a template for submitting their own pa
 * [Artificial Intelligence Panel](#artificial-intelligence-panel)
 * [Authentication Panel](#authentication-panel)
 * [Caching Panel](#caching-panel)
-* [Client Side Libraries Panel](#client-side-libraries-panel)
 * [Cryptography (Signing and Encryption) Panel](#cryptography-signing-and-encryption-panel)
 * [Data Interoperability Panel](#data-interoperability)
 * [Explaining the Vision Panel](#explaining-the-vision-panel)
@@ -113,17 +112,6 @@ Ensure that caching mechanisms, both currently standardized and future standards
 
 ### Panelists
 - [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
-
-## Client Side Libraries Panel
-(aim to be inserted here) 
-
-### Communication channels
-- [dedicated forum thread](https://forum.solidproject.org/t/client-side-libraries-panel/2095)
-- [client side libraries panel repository](https://github.com/solid/client-side-libraries-panel)
-
-### Panelists
-- [Ruben Verborgh](https://github.com/RubenVerborgh) <[Ruben.Verborgh@UGent.be](mailto:Ruben.Verborgh@UGent.be)>(@RubenVerborgh)
-- [Jeff Zucker](https://github.com/jeff-zucker) <[dubzed@gmail.com](mailto:dubzed@gmail.com)> (@jeff-zucker)
 
 ## Cryptography (Signing and Encryption) Panel
 Discussion and specs related to performing decentralized Key Management, Cryptographic Signatures (including integration with [Verifiable Credentials](https://w3c.github.io/vc-data-model/)), and at-rest data Encryption on Solid servers.
