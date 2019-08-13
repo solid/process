@@ -66,7 +66,7 @@ When there are objections, notify the Solid Panels and Stakeholders about the fi
 
 ### Reviewing proposals
 
-Candidate Proposals to change the Solid Specification, Solid Roadmap, or Supporting Documentation must be submitted for editorial review before they are accepted, along with the results of any votes taken while the proposal was being drafted.
+Candidate Proposals to change the Solid Specification, Solid Roadmap, or Supporting Documentation must be submitted for editorial review before they are accepted, along with the results of any votes taken.
 
 An Editor determines whether a Candidate Proposal includes a substantive change and marks it accordingly. If there is any disagreement among Editors, the Candidate Proposal will be automatically marked as including a substantive change.
 
