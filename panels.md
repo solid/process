@@ -45,7 +45,7 @@ How to ensure that the technical decisions are taking accessibility consideratio
 
 ### Communication channels
 - [accessibility panel repository](https://github.com/solid/Accessibility-Panel)
-- [dedicated forum thread](https://forum.solidproject.org/t/accessibility-panel/2083) 
+- [dedicated forum thread](https://forum.solidproject.org/t/accessibility-panel/2083)
 
 ### Panelists
 - [Sina Bahram](https://github.com/spudthebud) <[sina@sinabahram.com](mailto:sina@sinabahram.com)> (@spudthebud)
@@ -55,11 +55,11 @@ How to ensure that the technical decisions are taking accessibility consideratio
 How do apps request access to specific containers, shapes, and/or realms of a user's data.
 
 ### Meetings:
-Wednesdays at 10AM Eastern at https://meet.google.com/dci-nqnf-exg 
+Wednesdays at 10AM Eastern at https://meet.google.com/dci-nqnf-exg
 
 ### Communication channels
-- [app authorisation repository](https://github.com/solid/app-authorization-panel/issues/) 
-- [dedicated forum thread](https://forum.solidproject.org/t/app-authorisation/2088) 
+- [app authorisation repository](https://github.com/solid/app-authorization-panel/issues/)
+- [dedicated forum thread](https://forum.solidproject.org/t/app-authorisation/2088)
 - [app authorisation gitter channel](https://gitter.im/solid/app-authorization-panel)
 
 ### Panelists
@@ -77,7 +77,7 @@ To discuss Artificial Intelligence for Solid
 - [artificial intelligence panel repository](https://github.com/solid/Artificial-Intelligence-Panel)
 
 ### Panelists
-* [Tom](https://github.com/sideshowtom) <[sideshowtom@yahoo.com](mailto:sideshowtom@yahoo.com)> (@sideshowtom) 
+* [Tom](https://github.com/sideshowtom) <[sideshowtom@yahoo.com](mailto:sideshowtom@yahoo.com)> (@sideshowtom)
 
 ## Authentication Panel
 Discussion and specs relating to Authentication and Auth Delegation protocols, including:
@@ -92,8 +92,8 @@ Discussion and specs relating to Authentication and Auth Delegation protocols, i
 Mondays at 10AM Eastern at https://hangouts.google.com/call/3k5z3gBVKm-58m8Xgm2YAEEE
 
 ### Communication channels
-- [dedicated forum thread](https://forum.solidproject.org/t/authentication-panel/2086) 
-- [authentication panel repository](https://github.com/solid/authentication-panel) 
+- [dedicated forum thread](https://forum.solidproject.org/t/authentication-panel/2086)
+- [authentication panel repository](https://github.com/solid/authentication-panel)
 
 ### Panelists
 - [Dmitri Zagidulin](https://github.com/dmitrizagidulin) <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
@@ -115,7 +115,7 @@ Ensure that caching mechanisms, both currently standardized and future standards
 - [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
 
 ## Client Side Libraries Panel
-(aim to be inserted here) 
+(aim to be inserted here)
 
 ### Communication channels
 - [dedicated forum thread](https://forum.solidproject.org/t/client-side-libraries-panel/2095)
@@ -129,7 +129,7 @@ Ensure that caching mechanisms, both currently standardized and future standards
 Discussion and specs related to performing decentralized Key Management, Cryptographic Signatures (including integration with [Verifiable Credentials](https://w3c.github.io/vc-data-model/)), and at-rest data Encryption on Solid servers.
 
 ### Communication channels
-- [dedicated forum thread](https://forum.solidproject.org/t/cryptography-signing-and-encryption-panel/2091) 
+- [dedicated forum thread](https://forum.solidproject.org/t/cryptography-signing-and-encryption-panel/2091)
 - [Cryptography (Signing and Encryption) Panel Repository](https://github.com/solid/cryptography-signing-and-encryption-panel)
 
 ### Panelists
@@ -143,26 +143,27 @@ Discussion and specs related to performing decentralized Key Management, Cryptog
 Ensuring the interoperability of data as it is read and written by different users and/or applications. Topics of discussion will include vocabularies, shapes, footprints, and the mechanisms through which these work together to provide consistent and safe access and manipulation of data in a pod by different agents and/or users.
 
 ### Communication channels
-- [dedicated forum thread](https://forum.solidproject.org/t/data-interoperability/2090) 
+- [dedicated forum thread](https://forum.solidproject.org/t/data-interoperability/2090)
 - [data-interoperability-repository](https://github.com/solid/data-interoperability-panel)
 
 ### Panelists
 - [Dmitri Zagidulin](https://github.com/dmitrizagidulin) <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
 - [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
 - [Eric Prud'hommeaux](https://github.com/ericprud) <[eric@w3.org](mailto:eric@w3.org)> (@ericprud)
-- [Max Dor](https://github.com/maxidorius) <[max@dorius.io](mailto:max@dorius.io)> (@maxidorius) 
+- [Max Dor](https://github.com/maxidorius) <[max@dorius.io](mailto:max@dorius.io)> (@maxidorius)
 - [James Schoening](https://github.com/jimschoening) <[james.r.schoening.civ@mail.mil](mailto:james.r.schoening.civ@mail.mil)> (@jimschoening)
 - [Jose Emilio Labra Gayo](http://labra.weso.es) <[jelabra@gmail.com](mailto:jelabra@gmail.com)> (@labra)
 - [Ruben Verborgh](https://github.com/RubenVerborgh) <[Ruben.Verborgh@UGent.be](mailto:Ruben.Verborgh@UGent.be)>(@RubenVerborgh)
 - [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
 - [Jason Reynolds](https://github.com/orgs/solid/people/JKReynolds) <[jason.reynolds@polarisalpha.com](mailto:jason.reynolds@polarisalpha.com)> (@JKReynolds)
+- [Simon Shapiro](https://github.com/SimonShapiro) <simon.m.shapiro@gmail.com> (mailto:simon.m.shapiro@gmail.com) (@SimonShapiro)
 
 ## Explaining the Vision Panel
-Taking the suggestions on the channels listed below to produce proposals explaining [what is Solid](https://github.com/solid/roadmap/blob/master/what-is-solid.md) and the [Solid vision, mission, and values](https://github.com/solid/roadmap/blob/master/solid-mission-vision-values.md). 
+Taking the suggestions on the channels listed below to produce proposals explaining [what is Solid](https://github.com/solid/roadmap/blob/master/what-is-solid.md) and the [Solid vision, mission, and values](https://github.com/solid/roadmap/blob/master/solid-mission-vision-values.md).
 
-Related conversations to take into consideration: 
+Related conversations to take into consideration:
 * https://github.com/solid/information/pull/202
-* https://github.com/solid/information/issues/180 
+* https://github.com/solid/information/issues/180
 * https://github.com/solid/roadmap/pull/1
 * https://github.com/solid/roadmap/pull/3
 * https://github.com/solid/roadmap/pull/4
@@ -173,9 +174,9 @@ Related conversations to take into consideration:
 * https://github.com/solid/roadmap/pull/9
 
 ### Communication channels
-- [dedicated forum thread](https://forum.solidproject.org/t/explaining-the-vision-panel/2089) 
+- [dedicated forum thread](https://forum.solidproject.org/t/explaining-the-vision-panel/2089)
 - [GitHub team discussion board](https://github.com/orgs/solid/teams/explaining-the-vision-panel/discussions)
-- [Explaining the Visions Solid Github Repository](https://github.com/solid/Explaining-the-Vision-Panel) 
+- [Explaining the Visions Solid Github Repository](https://github.com/solid/Explaining-the-Vision-Panel)
 - most converstation about "What is Solid" is here https://github.com/solid/Explaining-the-Vision-Panel/issues/1#issuecomment-518300433
 
 ### Panelists
@@ -186,10 +187,10 @@ Related conversations to take into consideration:
 - [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
 
 ## External Interop and Outreach Panel
-How to technically link to other initiatives to build positive win-win collaborations. 
+How to technically link to other initiatives to build positive win-win collaborations.
 
 ### Communication channels
-- [dedicated forum thread](https://forum.solidproject.org/t/external-interop-and-outreach-panel/2080) 
+- [dedicated forum thread](https://forum.solidproject.org/t/external-interop-and-outreach-panel/2080)
 - [external-interop repository](https://github.com/solid/external-interop)
 
 ### Panelists
@@ -200,8 +201,8 @@ How to technically link to other initiatives to build positive win-win collabora
 Discussions and specs for expanding the capabilities of Solid's WebID identity system, including user profiles, [Decentralized Identifiers (DIDs)](https://w3c-ccg.github.io/did-spec/), and related standards.
 
 ### Communication channels
-- [dedicated forum thread](https://forum.solidproject.org/t/identity-panel/2085) 
-- [identity panel repository](https://github.com/solid/identity-panel) 
+- [dedicated forum thread](https://forum.solidproject.org/t/identity-panel/2085)
+- [identity panel repository](https://github.com/solid/identity-panel)
 
 ### Panelists
 - [Dmitri Zagidulin](https://github.com/dmitrizagidulin) <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
@@ -212,7 +213,7 @@ Discussions and specs for expanding the capabilities of Solid's WebID identity s
 To ensure internationalisation is taken into consideration during the Solid design.
 
 ### Communication channels
-- [dedicated forum thread](https://forum.solidproject.org/t/internationalisation-panel/2082) 
+- [dedicated forum thread](https://forum.solidproject.org/t/internationalisation-panel/2082)
 - [internationalisation panel repository](https://github.com/solid/internationalisation-panel)
 
 ### Panelists
@@ -228,7 +229,7 @@ To discuss Natural Language Processing for Solid
 - [Natural Language Processing Panel Repository](https://github.com/solid/natural-language-processing-panel)
 
 ### Panelists
-* [Tom](https://github.com/sideshowtom) <[sideshowtom@yahoo.com](mailto:sideshowtom@yahoo.com)> (@sideshowtom) 
+* [Tom](https://github.com/sideshowtom) <[sideshowtom@yahoo.com](mailto:sideshowtom@yahoo.com)> (@sideshowtom)
 
 ## Privacy and Individuals Rights Protection Panel
 The focus of this panel is to ensure Privacy is always kept in mind in the various proposals of the project across all panels, and that individuals' rights are inherently protected in the Solid ecosystem.
@@ -245,18 +246,18 @@ It will do so by:
 
 ### Communication channels
 - [dedicated forum thread](https://forum.solidproject.org/t/privacy-and-individuals-rights-protection-panel/2094)
-- [Privacy and Individuals Rights Protection Panel repository](https://github.com/solid/privacy-and-individuals-rights-protection-panel/tree/master) 
+- [Privacy and Individuals Rights Protection Panel repository](https://github.com/solid/privacy-and-individuals-rights-protection-panel/tree/master)
 - [gitter channel](https://gitter.im/solid/Privacy-and-Individuals-Rights-Protection-Panel--#)
 
 ### Panelists
-- [Max Dor](https://github.com/maxidorius) <[max@dorius.io](mailto:max@dorius.io)> (@maxidorius) 
+- [Max Dor](https://github.com/maxidorius) <[max@dorius.io](mailto:max@dorius.io)> (@maxidorius)
 
 ## Query Panel
 Discussion, specs and recommendations for implementing querying mechanisms beyond LDP, such as SPARQL, [Triple Pattern Fragments (TPF)](http://linkeddatafragments.org/in-depth/), GraphQL, and others.
 
 ### Communication channels
-- [dedicated forum thread](https://forum.solidproject.org/t/query-panel/2087) 
-- [solid-tpf](https://github.com/solid/solid-tpf) 
+- [dedicated forum thread](https://forum.solidproject.org/t/query-panel/2087)
+- [solid-tpf](https://github.com/solid/solid-tpf)
 
 ### Panelists
 - [Dmitri Zagidulin](https://github.com/dmitrizagidulin) <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
@@ -269,7 +270,7 @@ Discussion, specs and recommendations for implementing querying mechanisms beyon
 To create a structure for the document at https://github.com/solid/specification/, and the division in documents it links to and well as translating the community consensus regarding the application of the specifications mentioned in this document into a clear, unambiguous and implementable text.
 
 ### Communication channels
-- [dedicated forum thread](https://forum.solidproject.org/t/specification-entry-document-panel/2084) 
+- [dedicated forum thread](https://forum.solidproject.org/t/specification-entry-document-panel/2084)
 - [Specification Entry Document Panel repository](https://github.com/solid/specification-entry-document-panel)
 
 ### Panelists
@@ -280,10 +281,10 @@ To create a structure for the document at https://github.com/solid/specification
 - [King Wang](https://github.com/kingwang88) <[kingwang@hsfranchise.com](mailto:kingwang@hsfranchise.com)> (@kingwang88)
 
 ## Teaching Material Panel
-The Solid Teaching Material Panel has the aim to produce content to be able to effectively teach people to build Solid identity providers, Pods, and apps. The Solid teaching material can be found in [this file](https://github.com/solid/information/tree/master/documentation). [Documentation.md](https://github.com/solid/information/blob/master/documentation/documentation.md) is a place that gives an overview of all the content in this file and links to it. 
+The Solid Teaching Material Panel has the aim to produce content to be able to effectively teach people to build Solid identity providers, Pods, and apps. The Solid teaching material can be found in [this file](https://github.com/solid/information/tree/master/documentation). [Documentation.md](https://github.com/solid/information/blob/master/documentation/documentation.md) is a place that gives an overview of all the content in this file and links to it.
 
 ### Communication channels
-- [dedicated forum thread](https://forum.solidproject.org/t/solid-teaching-material-panel/2081) 
+- [dedicated forum thread](https://forum.solidproject.org/t/solid-teaching-material-panel/2081)
 - [Teaching Material Panel Repository](https://github.com/solid/teaching-material-panel)
 
 ### Panelists
@@ -294,13 +295,13 @@ The Solid Teaching Material Panel has the aim to produce content to be able to e
 - [Arne Hassel](https://github.com/orgs/solid/people/megoth) <[arneh@inrupt.com](mailto:arneh@inrupt.com)> (@megoth)
 - [Jackson Morgan](https://github.com/jaxoncreed) <[jacksonm@inrupt.com](mailto:jacksonm@inrupt.com)> (@jaxoncreed)
 - [Dan Wilkinson](https://github.com/danwilkinsoncreative) <[dan@get-even.co.uk](mailto:dan@get-even.co.uk)> (@danwilkinsoncreative)
-- Kartika Tulusan @artificialgods_gitlab  
- 
+- Kartika Tulusan @artificialgods_gitlab
+
 ## Test Suite Panel
 Include the test suite in the Solid specification.
 
 ### Communication channels
-- [dedicated forum thread](https://forum.solidproject.org/t/test-suite-panel/2092) 
+- [dedicated forum thread](https://forum.solidproject.org/t/test-suite-panel/2092)
 - [Test Suite Repository](https://github.com/solid/test-suite)
 - [Test Suite Gitter Channel](https://gitter.im/solid/test-suite)
 
