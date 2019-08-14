@@ -174,6 +174,7 @@ Related conversations to take into consideration:
 - [Ruben Verborgh](https://github.com/RubenVerborgh) <[Ruben.Verborgh@UGent.be](mailto:Ruben.Verborgh@UGent.be)>(@RubenVerborgh)
 - [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
 - [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
+- [Sarven Capadisli](https://github.com/csarven) <[info@csarven.ca](mailto:info@csarven.ca)> (@csarven)
 
 ## External Interop and Outreach Panel
 How to technically link to other initiatives to build positive win-win collaborations. 
