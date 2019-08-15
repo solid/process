@@ -77,6 +77,7 @@ To discuss Artificial Intelligence for Solid
 
 ### Panelists
 * [Tom](https://github.com/sideshowtom) <[sideshowtom@yahoo.com](mailto:sideshowtom@yahoo.com)> (@sideshowtom) 
+* [James Schoening](https://github.com/jimschoening) <[james.r.schoening.civ@mail.mil](mailto:james.r.schoening.civ@mail.mil)> (@jimschoening)
 
 ## Authentication Panel
 Discussion and specs relating to Authentication and Auth Delegation protocols, including:
@@ -169,6 +170,7 @@ Related conversations to take into consideration:
 - most converstation about "What is Solid" is here https://github.com/solid/Explaining-the-Vision-Panel/issues/1#issuecomment-518300433
 
 ### Panelists
+- [James Schoening](https://github.com/jimschoening) <[james.r.schoening.civ@mail.mil](mailto:james.r.schoening.civ@mail.mil)> (@jimschoening)
 - [Dan Wilkinson](https://github.com/danwilkinsoncreative) <[dan@get-even.co.uk](mailto:dan@get-even.co.uk)> (@danwilkinsoncreative)
 - [Paul Worrall](https://github.com/pjworrall) <[paulw@inrupt.com](mailto:paulw@inrupt.com)> (@pjworrall)
 - [Ruben Verborgh](https://github.com/RubenVerborgh) <[Ruben.Verborgh@UGent.be](mailto:Ruben.Verborgh@UGent.be)>(@RubenVerborgh)
