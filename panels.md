@@ -147,6 +147,7 @@ Ensuring the interoperability of data as it is read and written by different use
 - [Jason Reynolds](https://github.com/orgs/solid/people/JKReynolds) <[jason.reynolds@polarisalpha.com](mailto:jason.reynolds@polarisalpha.com)> (@JKReynolds)
 - [Simon Shapiro](https://github.com/SimonShapiro) <[simon.m.shapiro@gmail.com](mailto:simon.m.shapiro@gmail.com)> (@SimonShapiro)
 - [Sarven Capadisli](https://github.com/csarven) <[info@csarven.ca](mailto:info@csarven.ca)> (@csarven)
+- [Arne Hassel](http://github.com/megoth) <[arneh@inrupt.com](mailto:arneh@inrupt.com)> <@megoth_twitter>
 
 ## Explaining the Vision Panel
 Taking the suggestions on the channels listed below to produce proposals explaining [what is Solid](https://github.com/solid/roadmap/blob/master/what-is-solid.md) and the [Solid vision, mission, and values](https://github.com/solid/roadmap/blob/master/solid-mission-vision-values.md). 
