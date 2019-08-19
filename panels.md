@@ -39,6 +39,10 @@ This is an example that people can use as a template for submitting their own pa
 
 All Panels can be reached on [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 
+There is a weekly W3C Solid Community Group call to review all panels on Thursdays alternating between 1000CEST and 1600CEST on https://zoom.us/j/121552099. See [here](https://www.w3.org/community/solid/wiki/Meetings) to read the minutes of previous calls, find out the agenda and exact time of the next call, or to add an item to the next agenda. 
+
+You can also read weekly updates of all panels on [This Week in Solid](https://github.com/solid/information/blob/master/weekly-updates/this-week-in-solid.md).
+
 ## Accessibility Panel
 How to ensure that the technical decisions are taking accessibility considerations into account.
 
