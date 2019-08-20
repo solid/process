@@ -33,6 +33,7 @@ This is an example that people can use as a template for submitting their own pa
 * [Natural Language Processing Panel](#natural-language-processing-panel)
 * [Privacy and Individuals Rights Protection Panel](#privacy-and-individuals-rights-protection-panel)
 * [Query Panel](#query-panel)
+* [Self Hosting Panel](#self-hosting)
 * [Specification Entry Document Panel](#specification-entry-document-panel)
 * [Teaching Materials Panel](#teaching-material-panel)
 * [Test Suite Panel](#test-suite-panel)
@@ -262,6 +263,15 @@ Discussion, specs and recommendations for implementing querying mechanisms beyon
 - [Ruben Verborgh](https://github.com/RubenVerborgh) <[Ruben.Verborgh@UGent.be](mailto:Ruben.Verborgh@UGent.be)>(@RubenVerborgh)
 - [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
 - [Jeff Zucker](https://github.com/jeff-zucker) <[dubzed@gmail.com](mailto:dubzed@gmail.com)> (@jeff-zucker)
+
+## Self Hosting Panel
+Develop clarity on how to self-host and remain interoperable with other Pod providers. 
+
+### Communication channels
+- [dedicated forum thread](https://forum.solidproject.org/t/self-hosting-panel/2148)
+
+### Panelists
+- 
 
 ## Specification Entry Document Panel
 To create a structure for the document at https://github.com/solid/specification/, and the division in documents it links to and well as translating the community consensus regarding the application of the specifications mentioned in this document into a clear, unambiguous and implementable text.
