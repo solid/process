@@ -289,7 +289,7 @@ To create a structure for the document at https://github.com/solid/specification
 
 ### Communication channels
 - [dedicated forum thread](https://forum.solidproject.org/t/specification-entry-document-panel/2084) 
-- [Specification Entry Document Panel repository](https://github.com/solid/specification-entry-document-panel)
+- [Issues on the Solid specification repository](https://github.com/solid/specification/)
 
 ### Panelists
 - [Ruben Verborgh](https://github.com/RubenVerborgh) <[Ruben.Verborgh@UGent.be](mailto:Ruben.Verborgh@UGent.be)>(@RubenVerborgh)
