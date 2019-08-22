@@ -280,7 +280,7 @@ Develop clarity on how to self-host and remain interoperable with other Pod prov
 
 ### Communication channels
 - [dedicated forum thread](https://forum.solidproject.org/t/self-hosting-panel/2148)
-
+- [Self Hosting Panel Repository](https://github.com/solid/self-hosting-panel)
 ### Panelists
 - Danny Haider
 
