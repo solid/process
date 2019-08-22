@@ -73,6 +73,7 @@ Wednesdays at 10AM Eastern at https://meet.google.com/dci-nqnf-exg
 - [Michael Thornburgh](https://github.com/zenomt) <[mthornbu@adobe.com](mailto:mthornbu@adobe.com)> (@zenomt)
 - [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
 - [Jackson Morgan](https://github.com/jaxoncreed) <[jacksonm@inrupt.com](mailto:jacksonm@inrupt.com)> (@jaxoncreed)
+- [Sarven Capadisli](https://github.com/csarven) &lt;https://csarven.ca/#i&gt; (@csarven)
 
 ## Artificial Intelligence Panel
 To discuss Artificial Intelligence for Solid
@@ -152,7 +153,7 @@ Ensuring the interoperability of data as it is read and written by different use
 - [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
 - [Jason Reynolds](https://github.com/orgs/solid/people/JKReynolds) <[jason.reynolds@polarisalpha.com](mailto:jason.reynolds@polarisalpha.com)> (@JKReynolds)
 - [Simon Shapiro](https://github.com/SimonShapiro) <[simon.m.shapiro@gmail.com](mailto:simon.m.shapiro@gmail.com)> (@SimonShapiro)
-- [Sarven Capadisli](https://github.com/csarven) <[info@csarven.ca](mailto:info@csarven.ca)> (@csarven)
+- [Sarven Capadisli](https://github.com/csarven) &lt;https://csarven.ca/#i&gt; (@csarven)
 - [Arne Hassel](http://github.com/megoth) <[arneh@inrupt.com](mailto:arneh@inrupt.com)> <@megoth_twitter>
 
 ## Explaining the Vision Panel
@@ -183,7 +184,7 @@ Related conversations to take into consideration:
 - [Ruben Verborgh](https://github.com/RubenVerborgh) <[Ruben.Verborgh@UGent.be](mailto:Ruben.Verborgh@UGent.be)>(@RubenVerborgh)
 - [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
 - [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
-- [Sarven Capadisli](https://github.com/csarven) <[info@csarven.ca](mailto:info@csarven.ca)> (@csarven)
+- [Sarven Capadisli](https://github.com/csarven) &lt;https://csarven.ca/#i&gt; (@csarven)
 
 ## External Interop and Outreach Panel
 How to technically link to other initiatives to build positive win-win collaborations. 
@@ -294,7 +295,7 @@ To create a structure for the document at https://github.com/solid/specification
 ### Panelists
 - [Ruben Verborgh](https://github.com/RubenVerborgh) <[Ruben.Verborgh@UGent.be](mailto:Ruben.Verborgh@UGent.be)>(@RubenVerborgh)
 - [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
-- [Sarven Capadisli](https://github.com/csarven) <[info@csarven.ca](mailto:info@csarven.ca)> (@csarven)
+- [Sarven Capadisli](https://github.com/csarven) &lt;https://csarven.ca/#i&gt; (@csarven)
 - [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
 - [King Wang](https://github.com/kingwang88) <[kingwang@hsfranchise.com](mailto:kingwang@hsfranchise.com)> (@kingwang88)
 
@@ -330,4 +331,4 @@ Include the test suite in the Solid specification.
 - [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
 - [Scott McWhirter](https://github.com/orgs/solid/people/konobi) <[scott@konobi.co.uk](mailto:scott@konobi.co.uk)> (@konobi)
 - [Michiel de Jong](https://github.com/orgs/solid/people/michielbdejong) <[michieldj@inrupt.com](mailto:michieldj@inrupt.com)> (@michielbdejong)
-- [Sarven Capadisli](https://github.com/csarven) <[info@csarven.ca](mailto:info@csarven.ca)> (@csarven)
+- [Sarven Capadisli](https://github.com/csarven) &lt;https://csarven.ca/#i&gt; (@csarven)
