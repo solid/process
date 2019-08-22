@@ -313,7 +313,7 @@ The Solid Teaching Material Panel has the aim to produce content to be able to e
 - [Arne Hassel](https://github.com/orgs/solid/people/megoth) <[arneh@inrupt.com](mailto:arneh@inrupt.com)> (@megoth)
 - [Jackson Morgan](https://github.com/jaxoncreed) <[jacksonm@inrupt.com](mailto:jacksonm@inrupt.com)> (@jaxoncreed)
 - [Dan Wilkinson](https://github.com/danwilkinsoncreative) <[dan@get-even.co.uk](mailto:dan@get-even.co.uk)> (@danwilkinsoncreative)
-- Kartika Tulusan @artificialgods_gitlab  
+- [Kartika Tulusan](https://github.com/ktulusan) <[ktulusan@gmail.com](mailto:ktulusan@gmail.com)>@ktulusan  
  
 ## Test Suite Panel
 Include the test suite in the Solid specification.
