@@ -32,6 +32,7 @@ This is an example that people can use as a template for submitting their own pa
 * [Identity Panel](#identity-panel)
 * [Internationalisation Panel](#internationalisation-panel)
 * [Natural Language Processing Panel](#natural-language-processing-panel)
+* [Notifications Panel](#notifications-panel)
 * [Privacy and Individuals Rights Protection Panel](#privacy-and-individuals-rights-protection-panel)
 * [Query Panel](#query-panel)
 * [Self Hosting Panel](#self-hosting)
@@ -240,6 +241,18 @@ To discuss Natural Language Processing for Solid
 
 ### Panelists
 * [Tom](https://github.com/sideshowtom) <[sideshowtom@yahoo.com](mailto:sideshowtom@yahoo.com)> (@sideshowtom) 
+
+## Notifications Panel
+Development of mechanisms to shape and exchange notifications.
+
+### Communication channels
+- [notifications-panel repository](https://github.com/solid/notifications-panel)
+
+### Panelists
+- [Sarven Capadisli](https://github.com/csarven) &lt;https://csarven.ca/#i&gt; (@csarven)
+- [Ruben Verborgh](https://github.com/RubenVerborgh) <[Ruben.Verborgh@UGent.be](mailto:Ruben.Verborgh@UGent.be)>(@RubenVerborgh)
+- [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
+- [Dmitri Zagidulin](https://github.com/dmitrizagidulin) <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
 
 ## Privacy and Individuals Rights Protection Panel
 The focus of this panel is to ensure Privacy is always kept in mind in the various proposals of the project across all panels, and that individuals' rights are inherently protected in the Solid ecosystem.
