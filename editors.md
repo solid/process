@@ -7,6 +7,7 @@ Below is a listing of the Solid Editorial Team and their respective assignments.
 | Name      | WebID      |
 | --------- | ---------- |
 | [Tim Berners-Lee](https://github.com/timbl) | [WebID](https://www.w3.org/People/Berners-Lee/card#i) |
+| [Justin Bingham](https://github.com/justinwb) | [WebID](https://justin.inrupt.net/profile/card#me) |
 
 ## Editorial Assignments
 
@@ -42,7 +43,7 @@ __Primary Documents:__
 
 #### Authentication
 Pertaining to mechanisms that authenticate a person or application for the purposes of accessing resources in a data pod.  
-__Assigned Editors:__  *No editors assigned yet*   
+__Assigned Editors:__  [Justin Bingham](https://github.com/justinwb)   
 __Primary Documents:__ [solid/specification/webid-oidc](https://github.com/solid/specification/tree/master/webid-oidc), [solid/specification/webid-tls](https://github.com/solid/specification/tree/master/webid-tls), [solid/webid-oidc-spec](https://github.com/solid/webid-oidc-spec)
 
 #### Authorization
@@ -57,17 +58,17 @@ __Primary Documents:__
 
 #### Data Interoperability
 Pertaining to mechanisms that ensure disparate applications or agents can safely and seamlessly read and write the data they need.  
-__Assigned Editors:__  *No editors assigned yet*   
+__Assigned Editors:__  [Justin Bingham](https://github.com/justinwb)   
 __Primary Documents:__
 
 #### Data Portability
 Pertaining to mechanisms that ensure the portability of data stored in a data pod such that it can be safely migrated between conformant Solid server implementations, as well as exported to other mediums.  
-__Assigned Editors:__  *No editors assigned yet*   
+__Assigned Editors:__  [Justin Bingham](https://github.com/justinwb)  
 __Primary Documents:__
 
 #### Data Models
 Pertaining to core vocabularies and data shapes essential to a working ecosystem of data pods and applications.  
-__Assigned Editors:__ *No editors assigned yet*  
+__Assigned Editors:__ [Justin Bingham](https://github.com/justinwb)  
 __Primary Documents:__ [solid/vocab](https://github.com/solid/vocab)
 
 #### Auditing
@@ -87,7 +88,7 @@ __Primary Documents:__
 
 #### Security
 Pertaining to mechanisms used and considerations taken when securing a data pod, a conformant server implementation, and/or the immediate ecosystem around them.  
-__Assigned Editors:__ *No editors assigned yet*  
+__Assigned Editors:__ [Justin Bingham](https://github.com/justinwb)  
 __Primary Documents:__ [solid/specification/security](https://github.com/solid/specification/blob/master/main/security.bs)
 
 ---
@@ -95,7 +96,7 @@ __Primary Documents:__ [solid/specification/security](https://github.com/solid/s
 ### Solid Roadmap
 
 The Solid Roadmap includes the vision, goals, direction, and key success factors for the Solid and its surrounding ecosystem.  
-__Assigned Editors:__ *No editors assigned yet*  
+__Assigned Editors:__ [Justin Bingham](https://github.com/justinwb)    
 __Primary Documents:__ [solid/roadmap](https://github.com/solid/roadmap)
 
 ---
@@ -106,12 +107,12 @@ The Solid Specification, Roadmap, and the greater ecosystem are supported by var
 
 #### Solid Process
 Official process that details how changes to the Solid Specification, Solid Roadmap, and Supporting Documentation may be proposed and accepted.  
-__Assigned Editors:__ *No editors assigned yet*  
+__Assigned Editors:__ [Justin Bingham](https://github.com/justinwb)    
 __Primary Documents:__ [solid/process](https://github.com/solid/process)
 
 #### solidproject.org
 The official project website.  
-__Assigned Editors:__ *No editors assigned yet*  
+__Assigned Editors:__ [Justin Bingham](https://github.com/justinwb)    
 __Primary Documents:__ [solid/solidproject.org](https://github.com/solid/solidproject.org)
 
 #### solid.mit.edu
