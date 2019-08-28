@@ -54,7 +54,8 @@ How to ensure that the technical decisions are taking accessibility consideratio
 - [dedicated forum thread](https://forum.solidproject.org/t/accessibility-panel/2083) 
 
 ### Panelists
-- [Sina Bahram](https://github.com/spudthebud) <[sina@sinabahram.com](mailto:sina@sinabahram.com)> (@spudthebud)
+- [Sina Bahram](https://github.com/sinabahram) <[sina@sinabahram.com](mailto:sina@sinabahram.com)> 
+- [Bud] (https://github.com/spudthebud) (@spudthebud)
 - [elf Pavlik](https://github.com/elf-pavlik) <[elf-pavlik@hackers4peace.net](mailto:elf-pavlik@hackers4peace.net)> (@elf-pavlik)
 
 ## App Authorization
