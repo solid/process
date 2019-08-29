@@ -28,7 +28,6 @@ This is an example that people can use as a template for submitting their own pa
 * [Data Interoperability Panel](#data-interoperability)
 * [Explaining the Vision Panel](#explaining-the-vision-panel)
 * [External Interop and Outreach Panel](#external-interop-and-outreach-panel)
-* [Humans and Machines Panel](#humans-and-machines-panel)
 * [Identity Panel](#identity-panel)
 * [Internationalisation Panel](#internationalisation-panel)
 * [Natural Language Processing Panel](#natural-language-processing-panel)
@@ -54,7 +53,8 @@ How to ensure that the technical decisions are taking accessibility consideratio
 - [dedicated forum thread](https://forum.solidproject.org/t/accessibility-panel/2083) 
 
 ### Panelists
-- [Sina Bahram](https://github.com/spudthebud) <[sina@sinabahram.com](mailto:sina@sinabahram.com)> (@spudthebud)
+- [Sina Bahram](https://github.com/sinabahram) <[sina@sinabahram.com](mailto:sina@sinabahram.com)> 
+- [Bud](https://github.com/spudthebud) (@spudthebud)
 - [elf Pavlik](https://github.com/elf-pavlik) <[elf-pavlik@hackers4peace.net](mailto:elf-pavlik@hackers4peace.net)> (@elf-pavlik)
 
 ## App Authorization
@@ -197,16 +197,6 @@ How to technically link to other initiatives to build positive win-win collabora
 ### Panelists
 - [Dmitri Zagidulin](https://github.com/dmitrizagidulin) <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
 - [David H. Mason](https://github.com/vid) <[vid_github_solid_outreach@zooid.org](mailto:vid_github_solid_outreach@zooid.org)> (@vid)
-
-## Humans and Machines Panel
-To work on establishing how to maintain borders between humans and machines (be they mechanical, electrical, digital or political).
-
-### Communication channels
-- [dedicated forum thread](https://forum.solidproject.org/t/humans-and-machines-panel/)
-- [humans and machines panel repository](https://github.com/solid/Humans-And-Machines-Panel)
-
-### Panelists
-* [Tom](https://github.com/sideshowtom) <[sideshowtom@yahoo.com](mailto:sideshowtom@yahoo.com)> (@sideshowtom) 
 
 ## Identity Panel
 Discussions and specs for expanding the capabilities of Solid's WebID identity system, including user profiles, [Decentralized Identifiers (DIDs)](https://w3c-ccg.github.io/did-spec/), and related standards.

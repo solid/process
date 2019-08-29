@@ -7,8 +7,10 @@ Below is a listing of the Solid Editorial Team and their respective assignments.
 | Name      | WebID      |
 | --------- | ---------- |
 | [Tim Berners-Lee](https://github.com/timbl) | [WebID](https://www.w3.org/People/Berners-Lee/card#i) |
+| [Dmitri Zagidulin](https://github.com/dmitrizagidulin) | [WebID](https://dz.solid.community/profile/card#me) |
 | [Kjetil Kjernsmo](https://github.com/kjetilk) | [WebID](https://solid.kjernsmo.net/profile/card#me) |
 | [Sarven Capadisli](https://github.com/csarven) | [WebID](https://csarven.ca/#i) |
+| [Ruben Verborgh](https://github.com/RubenVerborgh) | [WebID](https://ruben.verborgh.org/profile/#me) |
 
 ## Editorial Assignments
 
@@ -34,8 +36,11 @@ Editorial assignments to the specification are by topic. A given editor may be a
 
 #### Resource Access
 Pertaining to the access of resources in a data pod over a network via HTTP and LDP  
-__Assigned Editors:__  *No editors assigned yet*   
-                       Kjetil Kjernsmo
+
+__Assigned Editors:__
+- Kjetil Kjernsmo
+- Ruben Verborgh
+
 __Primary Documents:__  [solid/specification/resource-access](https://github.com/solid/specification/blob/master/main/resource-access.bs)
 
 #### Identity
@@ -64,6 +69,17 @@ Pertaining to mechanisms that ensure disparate applications or agents can safely
 __Assigned Editors:__  *No editors assigned yet*   
                        Kjetil Kjernsmo
                        Sarven Capadisli
+__Assigned Editors:__
+- Ruben Verborgh
+
+__Primary Documents:__
+
+#### Data Interoperability
+Pertaining to mechanisms that ensure disparate applications or agents can safely and seamlessly read and write the data they need.  
+__Assigned Editors:__
+- Kjetil Kjernsmo
+- Ruben Verborgh
+
 __Primary Documents:__
 
 #### Data Portability
@@ -76,6 +92,9 @@ Pertaining to core vocabularies and data shapes essential to a working ecosystem
 __Assigned Editors:__ *No editors assigned yet*  
                        Kjetil Kjernsmo
                        Sarven Capadisli
+__Assigned Editors:__
+- Kjetil Kjernsmo
+
 __Primary Documents:__ [solid/vocab](https://github.com/solid/vocab)
 
 #### Auditing
@@ -85,8 +104,10 @@ __Primary Documents:__
 
 #### Querying
 Pertaining to the mechanisms, such as SPARQL and TPF, through which a given agent can provide query parameters to a data pod and receive results satisfying the same.  
-__Assigned Editors:__  *No editors assigned yet*   
-                       Kjetil Kjernsmo
+__Assigned Editors:__
+- Kjetil Kjernsmo
+- Ruben Verborgh
+
 __Primary Documents:__
 
 #### Cryptography
@@ -99,17 +120,19 @@ Pertaining to mechanisms used and considerations taken when securing a data pod,
 __Assigned Editors:__ *No editors assigned yet*  
 __Primary Documents:__ [solid/specification/security](https://github.com/solid/specification/blob/master/main/security.bs)
 
----
-
 ### Solid Roadmap
 
 The Solid Roadmap includes the vision, goals, direction, and key success factors for the Solid and its surrounding ecosystem.  
+
 __Assigned Editors:__ *No editors assigned yet*  
                        Kjetil Kjernsmo
                        Sarven Capadisli
 __Primary Documents:__ [solid/roadmap](https://github.com/solid/roadmap)
+__Assigned Editors:__
+- Kjetil Kjernsmo
+- Ruben Verborgh
 
----
+__Primary Documents:__ [solid/roadmap](https://github.com/solid/roadmap)
 
 ### Supporting Documentation
 
