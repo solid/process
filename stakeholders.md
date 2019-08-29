@@ -10,14 +10,14 @@ Dishonest submissions, or submissions which violate the [Code of Conduct](code-o
 
 ### Identity Providers
 
-| Name      | Identity Providing URL      |
+| Name      | Identity Provider URL |
 | --------- | ---------- |
 | [Inrupt](https://inrupt.com) | https://inrupt.net/ |
 | [OpenLink Software](http://www.openlinksw.com) | <li>https://solid.openlinksw.com:8444</li> <li>https://solid.openlinksw.com:8445</li> |
 
 ### Pod Providers
 
-| Name      | Pod Providing URL      |
+| Name      | Pod Provider URL |
 | --------- | ---------- |
 | [Authing](https://authing.cn/) | https://solid.authing.cn |
 | [Inrupt](https://inrupt.com) | https://inrupt.net/ |
@@ -26,7 +26,7 @@ Dishonest submissions, or submissions which violate the [Code of Conduct](code-o
 
 ### Application Providers
 
-| Name      | Application URL      |
+| Name      | Application URL |
 | --------- | ---------- |
 | --------- | [Dechat_es5b](https://arquisoft.github.io/dechat_es5b/) |
 | --------- | [Dechat_es6b](https://arquisoft.github.io/DeChat_es6b/) |
