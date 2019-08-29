@@ -330,7 +330,8 @@ The Solid Teaching Material Panel has the aim to produce content to be able to e
 - [Kartika Tulusan](https://github.com/ktulusan) <[ktulusan@gmail.com](mailto:ktulusan@gmail.com)>@ktulusan  
  
 ## Test Suite Panel
-Include the test suite in the Solid specification.
+Develop a test suite that can be used to verify an implementation
+against the Solid specification.
 
 ### Communication channels
 - [dedicated forum thread](https://forum.solidproject.org/t/test-suite-panel/2092) 
@@ -345,3 +346,6 @@ Include the test suite in the Solid specification.
 - [Scott McWhirter](https://github.com/orgs/solid/people/konobi) <[scott@konobi.co.uk](mailto:scott@konobi.co.uk)> (@konobi)
 - [Michiel de Jong](https://github.com/orgs/solid/people/michielbdejong) <[michieldj@inrupt.com](mailto:michieldj@inrupt.com)> (@michielbdejong)
 - [Sarven Capadisli](https://github.com/csarven) &lt;https://csarven.ca/#i&gt; (@csarven)
+
+### Meetings:
+Wednesdays at 15:30 CET at https://meet.jit.si/solid-test-suite
