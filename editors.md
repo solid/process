@@ -7,6 +7,7 @@ Below is a listing of the Solid Editorial Team and their respective assignments.
 | Name      | WebID      |
 | --------- | ---------- |
 | [Tim Berners-Lee](https://github.com/timbl) | [WebID](https://www.w3.org/People/Berners-Lee/card#i) |
+| [Dmitri Zagidulin](https://github.com/dmitrizagidulin) | [WebID](https://dz.solid.community/profile/card#me) |
 | [Kjetil Kjernsmo](https://github.com/kjetilk) | [WebID](https://solid.kjernsmo.net/profile/card#me) |
 | [Ruben Verborgh](https://github.com/RubenVerborgh) | [WebID](https://ruben.verborgh.org/profile/#me) |
 
@@ -34,6 +35,7 @@ Editorial assignments to the specification are by topic. A given editor may be a
 
 #### Resource Access
 Pertaining to the access of resources in a data pod over a network via HTTP and LDP  
+
 __Assigned Editors:__
 - Kjetil Kjernsmo
 - Ruben Verborgh
@@ -106,8 +108,6 @@ Pertaining to mechanisms used and considerations taken when securing a data pod,
 __Assigned Editors:__ *No editors assigned yet*  
 __Primary Documents:__ [solid/specification/security](https://github.com/solid/specification/blob/master/main/security.bs)
 
----
-
 ### Solid Roadmap
 
 The Solid Roadmap includes the vision, goals, direction, and key success factors for the Solid and its surrounding ecosystem.  
@@ -116,8 +116,6 @@ __Assigned Editors:__
 - Ruben Verborgh
 
 __Primary Documents:__ [solid/roadmap](https://github.com/solid/roadmap)
-
----
 
 ### Supporting Documentation
 
