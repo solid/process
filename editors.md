@@ -8,6 +8,7 @@ Below is a listing of the Solid Editorial Team and their respective assignments.
 | --------- | ---------- |
 | [Tim Berners-Lee](https://github.com/timbl) | [WebID](https://www.w3.org/People/Berners-Lee/card#i) |
 | [Kjetil Kjernsmo](https://github.com/kjetilk) | [WebID](https://solid.kjernsmo.net/profile/card#me) |
+| [Sarven Capadisli](https://github.com/csarven) | [WebID](https://csarven.ca/#i) |
 
 ## Editorial Assignments
 
@@ -55,13 +56,14 @@ __Primary Documents:__ [solid/specification/resource-access](https://github.com/
 
 #### Events and Notifications
 Pertaining to mechanisms that process and/or emit events between pods and agents, or other pods.  
-__Assigned Editors:__  *No editors assigned yet*   
-__Primary Documents:__
+__Assigned Editors:__  Sarven Capadisli
+__Primary Documents:__ 
 
 #### Data Interoperability
 Pertaining to mechanisms that ensure disparate applications or agents can safely and seamlessly read and write the data they need.  
 __Assigned Editors:__  *No editors assigned yet*   
                        Kjetil Kjernsmo
+                       Sarven Capadisli
 __Primary Documents:__
 
 #### Data Portability
@@ -73,6 +75,7 @@ __Primary Documents:__
 Pertaining to core vocabularies and data shapes essential to a working ecosystem of data pods and applications.  
 __Assigned Editors:__ *No editors assigned yet*  
                        Kjetil Kjernsmo
+                       Sarven Capadisli
 __Primary Documents:__ [solid/vocab](https://github.com/solid/vocab)
 
 #### Auditing
@@ -103,6 +106,7 @@ __Primary Documents:__ [solid/specification/security](https://github.com/solid/s
 The Solid Roadmap includes the vision, goals, direction, and key success factors for the Solid and its surrounding ecosystem.  
 __Assigned Editors:__ *No editors assigned yet*  
                        Kjetil Kjernsmo
+                       Sarven Capadisli
 __Primary Documents:__ [solid/roadmap](https://github.com/solid/roadmap)
 
 ---
