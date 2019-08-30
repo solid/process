@@ -40,7 +40,6 @@ Panels can use any tools they like, here are some tools that are popular so far:
 * [External Interop and Outreach](#external-interop-and-outreach)
 * [Identity](#identity)
 * [Internationalisation](#internationalisation)
-* [Natural Language Processing ](#natural-language-processing)
 * [Events-and-Notifications](#events-and-notifications)
 * [Privacy and Individuals Rights Protection Panel](#privacy-and-individuals-rights-protection)
 * [Querying Panel](#querying)
@@ -249,16 +248,6 @@ To ensure internationalisation is taken into consideration during the Solid desi
 - [King Wang](https://github.com/kingwang88) <[kingwang@hsfranchise.com](mailto:kingwang@hsfranchise.com)> (@kingwang88)
 - [Philip Laszkowicz](https://github.com/HelloFillip) <[phil@fillip.pro](mailto:phil@fillip.pro)> (@HelloFillip)
 - [elf Pavlik](https://github.com/elf-pavlik) <[elf-pavlik@hackers4peace.net](mailto:elf-pavlik@hackers4peace.net)> (@elf-pavlik)
-
-## Natural Language Processing
-To discuss Natural Language Processing for Solid
-
-### Communication channels
-- [dedicated repository](https://github.com/solid/natural-language-processing-panel)
-- [dedicated forum thread](https://forum.solidproject.org/t/natural-language-processing-panel/2123)
-
-### Panelists
-* [Tom](https://github.com/sideshowtom) <[sideshowtom@yahoo.com](mailto:sideshowtom@yahoo.com)> (@sideshowtom) 
 
 ## Events and Notifications
 Pertaining to mechanisms that process and/or emit events between pods and agents, or other pods. Development of mechanisms to shape and exchange notifications.
