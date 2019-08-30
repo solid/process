@@ -35,7 +35,7 @@ Panels can use any tools they like, here are some tools that are popular so far:
 * [Caching](#caching)
 * [Cryptography and Security](#cryptography-and-security)
 * [Data Interoperability](#data-interoperability)
-* [Data-Portability](#data-portability)
+* [Data Portability](#data-portability)
 * [Explaining the Vision](#explaining-the-vision)
 * [External Interop and Outreach](#external-interop-and-outreach)
 * [Identity](#identity)
