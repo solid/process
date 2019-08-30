@@ -35,6 +35,7 @@ Panels can use any tools they like, here are some tools that are popular so far:
 * [Caching](#caching)
 * [Cryptography and Security](#cryptography-and-security)
 * [Data Interoperability](#data-interoperability)
+* [Data Models](#data-models)
 * [Data Portability](#data-portability)
 * [Explaining the Vision](#explaining-the-vision)
 * [External Interop and Outreach](#external-interop-and-outreach)
@@ -176,6 +177,15 @@ Pertaining to mechanisms that ensure disparate applications or agents can safely
 - [Simon Shapiro](https://github.com/SimonShapiro) <[simon.m.shapiro@gmail.com](mailto:simon.m.shapiro@gmail.com)> (@SimonShapiro)
 - [Sarven Capadisli](https://github.com/csarven) &lt;https://csarven.ca/#i&gt; (@csarven)
 - [Arne Hassel](http://github.com/megoth) <[arneh@inrupt.com](mailto:arneh@inrupt.com)> <@megoth_twitter>
+
+## Data Models
+Pertaining to core vocabularies and data shapes essential to a working ecosystem of data pods and applications.
+
+### Communication channels
+- 
+
+### Panelists
+- 
 
 ## Data Portability
 Pertaining to mechanisms that ensure the portability of data stored in a data pod such that it can be safely migrated between conformant Solid server implementations, as well as exported to other mediums.
