@@ -103,7 +103,6 @@ To discuss Artificial Intelligence for Solid
 - [dedicated forum thread](https://forum.solidproject.org/t/artificial-intelligence-panel/2122)
 
 ### Panelists
-* [Tom](https://github.com/sideshowtom) <[sideshowtom@yahoo.com](mailto:sideshowtom@yahoo.com)> (@sideshowtom) 
 * [James Schoening](https://github.com/jimschoening) <[james.r.schoening.civ@mail.mil](mailto:james.r.schoening.civ@mail.mil)> (@jimschoening)
 
 ## Authentication
