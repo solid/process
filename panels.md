@@ -69,6 +69,8 @@ Wednesdays at 10AM Eastern at https://meet.google.com/dci-nqnf-exg
 - [app authorisation gitter channel](https://gitter.im/solid/app-authorization-panel)
 
 ### Panelists
+(note also the list of [editors](https://github.com/solid/process/blob/master/editors.md#authorization) for authorization in general)
+
 - [Michiel de Jong](https://github.com/michielbdejong) <[michieldj@inrupt.com](mailto:michieldj@inrupt.com)> (@michielbdejong)
 - [Dmitri Zagidulin](https://github.com/dmitrizagidulin) <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
 - [Michael Thornburgh](https://github.com/zenomt) <[mthornbu@adobe.com](mailto:mthornbu@adobe.com)> (@zenomt)
@@ -104,6 +106,8 @@ Mondays at 10AM Eastern at https://hangouts.google.com/call/3k5z3gBVKm-58m8Xgm2Y
 - [authentication panel repository](https://github.com/solid/authentication-panel) 
 
 ### Panelists
+(note also the list of [editors](https://github.com/solid/process/blob/master/editors.md#authentication) for this topic)
+
 - [Dmitri Zagidulin](https://github.com/dmitrizagidulin) <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
 - [Paul Worrall](https://github.com/pjworrall) <[paulw@inrupt.com](mailto:paulw@inrupt.com)> (@pjworrall)
 - [Michael Thornburgh](https://github.com/zenomt) <[mthornbu@adobe.com](mailto:mthornbu@adobe.com)> (@zenomt)
@@ -130,6 +134,7 @@ Discussion and specs related to performing decentralized Key Management, Cryptog
 - [Cryptography (Signing and Encryption) Panel Repository](https://github.com/solid/cryptography-signing-and-encryption-panel)
 
 ### Panelists
+(note also the list of [editors](https://github.com/solid/process/blob/master/editors.md#cryptography) for this topic)
 - [Dmitri Zagidulin](https://github.com/dmitrizagidulin) <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
 - [Paul Worrall](https://github.com/pjworrall) <[paulw@inrupt.com](mailto:paulw@inrupt.com)> (@pjworrall)
 - [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
@@ -144,6 +149,8 @@ Ensuring the interoperability of data as it is read and written by different use
 - [data-interoperability-repository](https://github.com/solid/data-interoperability-panel)
 
 ### Panelists
+(note also the list of [editors](https://github.com/solid/process/blob/master/editors.md#data-interoperability) for this topic)
+
 - [Dmitri Zagidulin](https://github.com/dmitrizagidulin) <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
 - [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
 - [Eric Prud'hommeaux](https://github.com/ericprud) <[eric@w3.org](mailto:eric@w3.org)> (@ericprud)
@@ -206,6 +213,7 @@ Discussions and specs for expanding the capabilities of Solid's WebID identity s
 - [identity panel repository](https://github.com/solid/identity-panel) 
 
 ### Panelists
+(note also the list of [editors](https://github.com/solid/process/blob/master/editors.md#identity) for this topic)
 - [Dmitri Zagidulin](https://github.com/dmitrizagidulin) <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
 - [Paul Worrall](https://github.com/pjworrall) <[paulw@inrupt.com](mailto:paulw@inrupt.com)> (@pjworrall)
 - [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
@@ -239,6 +247,8 @@ Development of mechanisms to shape and exchange notifications.
 - [notifications-panel repository](https://github.com/solid/notifications-panel)
 
 ### Panelists
+(note also the list of [editors](https://github.com/solid/process/blob/master/editors.md#events-and-notifications) for 'Events and Notifications')
+
 - [Sarven Capadisli](https://github.com/csarven) &lt;https://csarven.ca/#i&gt; (@csarven)
 - [Ruben Verborgh](https://github.com/RubenVerborgh) <[Ruben.Verborgh@UGent.be](mailto:Ruben.Verborgh@UGent.be)>(@RubenVerborgh)
 - [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
@@ -273,6 +283,8 @@ Discussion, specs and recommendations for implementing querying mechanisms beyon
 - [solid-tpf](https://github.com/solid/solid-tpf) 
 
 ### Panelists
+(note also the list of [editors](https://github.com/solid/process/blob/master/editors.md#querying) for Querying)
+
 - [Dmitri Zagidulin](https://github.com/dmitrizagidulin) <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
 - [Aaron Coburn](https://github.com/acoburn) <[aaronc@inrupt.com](mailto:aaronc@inrupt.com)> (@acoburn)
 - [Ruben Verborgh](https://github.com/RubenVerborgh) <[Ruben.Verborgh@UGent.be](mailto:Ruben.Verborgh@UGent.be)>(@RubenVerborgh)
@@ -296,6 +308,7 @@ To create a structure for the document at https://github.com/solid/specification
 - [Issues on the Solid specification repository](https://github.com/solid/specification/)
 
 ### Panelists
+(note also the list of [general editorial team members](https://github.com/solid/process/blob/master/editors.md#editorial-team))
 - [Ruben Verborgh](https://github.com/RubenVerborgh) <[Ruben.Verborgh@UGent.be](mailto:Ruben.Verborgh@UGent.be)>(@RubenVerborgh)
 - [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
 - [Sarven Capadisli](https://github.com/csarven) &lt;https://csarven.ca/#i&gt; (@csarven)
