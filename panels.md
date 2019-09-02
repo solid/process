@@ -111,6 +111,7 @@ Mondays at 10AM Eastern at https://hangouts.google.com/call/3k5z3gBVKm-58m8Xgm2Y
 - [Jackson Morgan](https://github.com/jaxoncreed) <[jacksonm@inrupt.com](mailto:jacksonm@inrupt.com)> (@jaxoncreed)
 - [Aaron Coburn](https://github.com/acoburn) <[aaronc@inrupt.com](mailto:aaronc@inrupt.com)> (@acoburn)
 - [Matthias Evering](https://github.com/ewingson) <[me@evering.eu](mailto:me@evering.eu)> (@ewingson)
+- [Justin Richer](https://github.com/jricher)
 
 ## Caching Panel
 Ensure that caching mechanisms, both currently standardized and future standards are employed within Solid.
