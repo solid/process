@@ -19,6 +19,24 @@ This is an example that people can use as a template for submitting their own pa
 - [Panellist Name](link to github profile) <[email@example.org](mailto:email@example.org)> (@github handle)
 
 ## Index of Panels
+
+* [Accessibility](#accessibility)
+* [Auditing](#auditing)
+* [Authorization](#authorization)
+* [Artificial Intelligence](#artificial-intelligence)
+* [Authentication](#authentication)
+* [Caching](#caching)
+* [Cryptography and Security](#cryptography-and-security)
+* [Data Interoperability](#data-interoperability)
+* [Data Portability](#data-portability)
+* [Explaining the Vision](#explaining-the-vision)
+* [External Interop and Outreach](#external-interop-and-outreach)
+* [Identity](#identity)
+* [Internationalisation](#internationalisation)
+* [Events-and-Notifications](#events-and-notifications)
+* [Privacy and Individuals Rights Protection Panel](#privacy-and-individuals-rights-protection)
+* [Querying Panel](#querying)
+* [Resource-Access](#resource-access)
 * [Accessibility Panel](#accessibility-panel)
 * [App Authorization Panel](#app-authorization)
 * [Artificial Intelligence Panel](#artificial-intelligence-panel)
@@ -84,7 +102,6 @@ To discuss Artificial Intelligence for Solid
 - [artificial intelligence panel repository](https://github.com/solid/Artificial-Intelligence-Panel)
 
 ### Panelists
-* [Tom](https://github.com/sideshowtom) <[sideshowtom@yahoo.com](mailto:sideshowtom@yahoo.com)> (@sideshowtom) 
 * [James Schoening](https://github.com/jimschoening) <[james.r.schoening.civ@mail.mil](mailto:james.r.schoening.civ@mail.mil)> (@jimschoening)
 
 ## Authentication Panel
@@ -222,15 +239,8 @@ To ensure internationalisation is taken into consideration during the Solid desi
 - [Philip Laszkowicz](https://github.com/HelloFillip) <[phil@fillip.pro](mailto:phil@fillip.pro)> (@HelloFillip)
 - [elf Pavlik](https://github.com/elf-pavlik) <[elf-pavlik@hackers4peace.net](mailto:elf-pavlik@hackers4peace.net)> (@elf-pavlik)
 
-## Natural Language Processing Panel
-To discuss Natural Language Processing for Solid
-
-### Communication channels
-- [dedicated forum thread](https://forum.solidproject.org/t/natural-language-processing-panel/2123)
-- [Natural Language Processing Panel Repository](https://github.com/solid/natural-language-processing-panel)
-
-### Panelists
-* [Tom](https://github.com/sideshowtom) <[sideshowtom@yahoo.com](mailto:sideshowtom@yahoo.com)> (@sideshowtom) 
+## Events and Notifications
+Pertaining to mechanisms that process and/or emit events between pods and agents, or other pods. Development of mechanisms to shape and exchange notifications.
 
 ## Notifications Panel
 Development of mechanisms to shape and exchange notifications.
