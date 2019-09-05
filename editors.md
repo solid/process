@@ -7,8 +7,10 @@ Below is a listing of the Solid Editorial Team and their respective assignments.
 | Name      | WebID      |
 | --------- | ---------- |
 | [Tim Berners-Lee](https://github.com/timbl) | [WebID](https://www.w3.org/People/Berners-Lee/card#i) |
+| [Justin Bingham](https://github.com/justinwb) | [WebID](https://justin.inrupt.net/profile/card#me) |
 | [Dmitri Zagidulin](https://github.com/dmitrizagidulin) | [WebID](https://dz.solid.community/profile/card#me) |
 | [Kjetil Kjernsmo](https://github.com/kjetilk) | [WebID](https://solid.kjernsmo.net/profile/card#me) |
+| [Sarven Capadisli](https://github.com/csarven) | [WebID](https://csarven.ca/#i) |
 | [Ruben Verborgh](https://github.com/RubenVerborgh) | [WebID](https://ruben.verborgh.org/profile/#me) |
 
 ## Editorial Assignments
@@ -36,10 +38,7 @@ Editorial assignments to the specification are by topic. A given editor may be a
 #### Resource Access
 Pertaining to the access of resources in a data pod over a network via HTTP and LDP  
 
-__Assigned Editors:__
-- Kjetil Kjernsmo
-- Ruben Verborgh
-
+__Assigned Editors:__ Kjetil Kjernsmo, Ruben Verborgh   
 __Primary Documents:__  [solid/specification/resource-access](https://github.com/solid/specification/blob/master/main/resource-access.bs)
 
 #### Identity
@@ -49,40 +48,32 @@ __Primary Documents:__
 
 #### Authentication
 Pertaining to mechanisms that authenticate a person or application for the purposes of accessing resources in a data pod.  
-__Assigned Editors:__  *No editors assigned yet*   
+__Assigned Editors:__  Justin Bingham   
 __Primary Documents:__ [solid/specification/webid-oidc](https://github.com/solid/specification/tree/master/webid-oidc), [solid/specification/webid-tls](https://github.com/solid/specification/tree/master/webid-tls), [solid/webid-oidc-spec](https://github.com/solid/webid-oidc-spec)
 
 #### Authorization
 Pertaining to mechanisms that control the access a given agent has to read or manipulate resources in a data pod.  
-__Assigned Editors:__  *No editors assigned yet*   
-                       Kjetil Kjernsmo
+__Assigned Editors:__  Kjetil Kjernsmo  
 __Primary Documents:__ [solid/specification/resource-access](https://github.com/solid/specification/blob/master/main/resource-access.bs), [solid/specification/wac](https://github.com/solid/specification/tree/master/wac), [solid/web-access-control-spec](https://github.com/solid/web-access-control-spec)
 
 #### Events and Notifications
 Pertaining to mechanisms that process and/or emit events between pods and agents, or other pods.  
-__Assigned Editors:__
-- Ruben Verborgh
-
-__Primary Documents:__
+__Assigned Editors:__  Sarven Capadisli, Ruben Verborgh   
+__Primary Documents:__ 
 
 #### Data Interoperability
 Pertaining to mechanisms that ensure disparate applications or agents can safely and seamlessly read and write the data they need.  
-__Assigned Editors:__
-- Kjetil Kjernsmo
-- Ruben Verborgh
-
+__Assigned Editors:__ Kjetil Kjernsmo, Ruben Verborgh, Justin Bingham, Sarven Capadisli   
 __Primary Documents:__
 
 #### Data Portability
 Pertaining to mechanisms that ensure the portability of data stored in a data pod such that it can be safely migrated between conformant Solid server implementations, as well as exported to other mediums.  
-__Assigned Editors:__  *No editors assigned yet*   
+__Assigned Editors:__  Justin Bingham   
 __Primary Documents:__
 
 #### Data Models
 Pertaining to core vocabularies and data shapes essential to a working ecosystem of data pods and applications.  
-__Assigned Editors:__
-- Kjetil Kjernsmo
-
+__Assigned Editors:__  Kjetil Kjernsmo, Justin Bingham, Sarven Capadisli   
 __Primary Documents:__ [solid/vocab](https://github.com/solid/vocab)
 
 #### Auditing
@@ -92,10 +83,7 @@ __Primary Documents:__
 
 #### Querying
 Pertaining to the mechanisms, such as SPARQL and TPF, through which a given agent can provide query parameters to a data pod and receive results satisfying the same.  
-__Assigned Editors:__
-- Kjetil Kjernsmo
-- Ruben Verborgh
-
+__Assigned Editors:__ Kjetil Kjernsmo, Ruben Verborgh   
 __Primary Documents:__
 
 #### Cryptography
@@ -105,16 +93,13 @@ __Primary Documents:__
 
 #### Security
 Pertaining to mechanisms used and considerations taken when securing a data pod, a conformant server implementation, and/or the immediate ecosystem around them.  
-__Assigned Editors:__ *No editors assigned yet*  
+__Assigned Editors:__ Justin Bingham    
 __Primary Documents:__ [solid/specification/security](https://github.com/solid/specification/blob/master/main/security.bs)
 
 ### Solid Roadmap
 
 The Solid Roadmap includes the vision, goals, direction, and key success factors for the Solid and its surrounding ecosystem.  
-__Assigned Editors:__
-- Kjetil Kjernsmo
-- Ruben Verborgh
-
+__Assigned Editors:__  Kjetil Kjernsmo, Justin Bingham, Ruben Verborgh, Sarven Capadisli   
 __Primary Documents:__ [solid/roadmap](https://github.com/solid/roadmap)
 
 ### Supporting Documentation
@@ -123,12 +108,12 @@ The Solid Specification, Roadmap, and the greater ecosystem are supported by var
 
 #### Solid Process
 Official process that details how changes to the Solid Specification, Solid Roadmap, and Supporting Documentation may be proposed and accepted.  
-__Assigned Editors:__ *No editors assigned yet*  
+__Assigned Editors:__ Justin Bingham    
 __Primary Documents:__ [solid/process](https://github.com/solid/process)
 
 #### solidproject.org
 The official project website.  
-__Assigned Editors:__ *No editors assigned yet*  
+__Assigned Editors:__ Justin Bingham    
 __Primary Documents:__ [solid/solidproject.org](https://github.com/solid/solidproject.org)
 
 #### solid.mit.edu
@@ -137,6 +122,6 @@ __Assigned Editors:__ *No editors assigned yet*
 __Primary Documents:__ [solid/solid.mit.edu](https://github.com/solid/solid.mit.edu)
 
 #### Solid Information
-A collection of informational resources about Solid and its ecosystem.
-__Assigned Editors:__ *No editors assigned yet*  
+A collection of informational resources about Solid and its ecosystem.  
+__Assigned Editors:__ *No editors assigned yet*   
 __Primary Documents:__ [solid/information](https://github.com/solid/information), [solid/solid](https://github.com/solid/solid)
