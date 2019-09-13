@@ -1,12 +1,13 @@
-## Background
+This repository details how changes to Solid may be proposed and accepted.
 
-This repository details how changes to the [Solid Specification](https://github.com/solid/specification), [Solid Roadmap](https://github.com/solid/Roadmap), and [Supporting Documentation](https://github.com/solid/information/blob/master/documentation/documentation.md) may be proposed and accepted.
+# Solid Specficification
+The following is a description about how changes to the [Solid Specification](https://github.com/solid/specification) may be proposed and accepted.
 
 Anyone may participate in [this process](https://github.com/solid/culture). Please read the [Code of Conduct](code-of-conduct.md) before doing so.
 
 ## Contributors
 
-Any individual that has been involved in proposals to improve the [Solid Specification](https://github.com/solid/specification), [Solid Roadmap](https://github.com/solid/Roadmap), and [Supporting Documentation](https://github.com/solid/information/blob/master/documentation/documentation.md), has provided a valuable service to the [Solid Project](https://www.solidproject.org) and is encouraged to continue.
+Any individual that has been involved in proposals to improve the [Solid Specification](https://github.com/solid/specification) has provided a valuable service to the [Solid Project](https://www.solidproject.org) and is encouraged to continue.
 
 All manner of contributions are important - whether identifying problems, asking questions, or proposing normative changes.
 
@@ -14,7 +15,7 @@ There are many topics, problems, or ideas best tackled by a group of people with
 
 ### Solid Panels
 
-Solid Panels are groups of individuals focused on a specific problem or domain relevant to Solid, with an aim to propose changes to the [Solid Specification](https://github.com/solid/specification), [Solid Roadmap](https://github.com/solid/Roadmap), and/or [Supporting Documentation](https://github.com/solid/information/blob/master/documentation/documentation.md). Anyone may join a panel or suggest a new panel.
+Solid Panels are groups of individuals focused on a specific problem or domain relevant to Solid, with an aim to propose changes to the [Solid Specification](https://github.com/solid/specification). Anyone may join a panel or suggest a new panel.
 
 Domains may be technical, non-technical, or some combination of the two. For example, a Security Panel could focus on the evaluation and advancement of the Solid security model.
 
@@ -26,7 +27,7 @@ Panels may request to have a gitter channel created within the [Solid Gitter Org
 
 ## Stakeholders
 
-Stakeholders are those affected by normative changes to the [Solid Specification](https://github.com/solid/specification), [Solid Roadmap](https://github.com/solid/Roadmap), or [Supporting Documentation](https://github.com/solid/information/blob/master/documentation/documentation.md). There are two types of Stakeholders; [Solid Users](#solid-users) and [Solid Implementers](#solid-implementers). It is important to consider them both when proposing changes, and adhering to the W3C [priority of constituencies](https://www.w3.org/TR/html-design-principles/#priority-of-constituencies) is encouraged. A Stakeholder may be both a user and an implementer.
+Stakeholders are those affected by normative changes to the [Solid Specification](https://github.com/solid/specification). There are two types of Stakeholders; [Solid Users](#solid-users) and [Solid Implementers](#solid-implementers). It is important to consider them both when proposing changes, and adhering to the W3C [priority of constituencies](https://www.w3.org/TR/html-design-principles/#priority-of-constituencies) is encouraged. A Stakeholder may be both a user and an implementer.
 
 Stakeholders who have opted to identify themselves publicly are listed at [stakeholders.md](stakeholders.md). Anyone may decide to identify themselves publicly as a Solid Stakeholder, but it is not mandatory. Identified stakeholders may be consulted for feedback as part of the editorial process.
 
@@ -39,20 +40,20 @@ Solid Implementers are companies or organizations who are implementing the [Soli
 
 ## How to Make Changes
 
-This section details how changes to the [Solid Specification](https://github.com/solid/specification), [Solid Roadmap](https://github.com/solid/Roadmap), and [Supporting Documentation](https://github.com/solid/information/blob/master/documentation/documentation.md) may be drafted, proposed, and accepted.
+This section details how changes to the [Solid Specification](https://github.com/solid/specification) may be drafted, proposed, and accepted.
 
 Anyone may submit a proposal to alter this process. These proposals will not be reviewed by the editors. They will be reviewed only by [Tim Berners-Lee](https://github.com/timbl), who is the Solid Director.
 
 ### Drafting proposals
 
-Anyone may propose improvements to the [Solid Specification](https://github.com/solid/specification), [Solid Roadmap](https://github.com/solid/Roadmap), or [Supporting Documentation](https://github.com/solid/information/blob/master/documentation/documentation.md). Here are some examples of different ways to contribute:
+Anyone may propose improvements to the [Solid Specification](https://github.com/solid/specification). Here are some examples of different ways to contribute:
 
 - Submit a pull request or issue on the [Solid Specification repository](https://github.com/solid/solid-spec) in GitHub
 - Make a suggestion to the Solid Authorization Panel chat room about a change you'd like to see in Web Access Control
 - Make a suggestion on the Solid W3C Community Group mailing list to form a new Solid Panel, or join an existing Solid Panel
 - Propose an item for the W3C Solid Community Group call
 
-Proposals for substantive changes to the [Solid Specification](https://github.com/solid/specification), [Solid Roadmap](https://github.com/solid/Roadmap), or [Supporting Documentation](https://github.com/solid/information/blob/master/documentation/documentation.md) go through an editorial review process. A change is considered substantive when it alters the normative text of the Solid Specification or the Solid Roadmap. Any proposal must be realistic and reasonable to implement, preferably with example implementations, and demonstrable support from Implementers.
+Proposals for substantive changes to the [Solid Specification](https://github.com/solid/specification) go through an editorial review process. A change is considered substantive when it alters the normative text of the Solid Specification or the Solid Roadmap. Any proposal must be realistic and reasonable to implement, preferably with example implementations, and demonstrable support from Implementers.
 
 Any proposal should also be accompanied with a reasonable explanation of the need for the proposed change. For example:
 
@@ -66,8 +67,8 @@ When there are objections, notify the Solid Panels and Stakeholders about the fi
 
 ### Reviewing proposals
 
-Candidate proposals to the [Solid Specification](https://github.com/solid/specification), [Solid Roadmap](https://github.com/solid/Roadmap), or [Supporting Documentation](https://github.com/solid/information/blob/master/documentation/documentation.md) submitted for review go through an editorial process before they are accepted.
-Candidate Proposals to change the Solid Specification, Solid Roadmap, or Supporting Documentation must be submitted for editorial review before they are accepted, along with the results of any votes taken.
+Candidate proposals to the [Solid Specification](https://github.com/solid/specification) submitted for review go through an editorial process before they are accepted.
+Candidate Proposals to change the Solid Specification must be submitted for editorial review before they are accepted, along with the results of any votes taken.
 
 An Editor determines whether a Candidate Proposal includes a substantive change and marks it accordingly. If there is any disagreement among Editors, the Candidate Proposal will be automatically marked as including a substantive change.
 
@@ -79,8 +80,6 @@ Candidate Proposals without substantive changes require one Editor assigned to t
 
 Editor appointments and their respective assignments are made by the Solid Director. The Editorial Team is comprised of all the Editors appointed by the Solid Director, who are listed at [editors.md](editors.md), along with their assignments, contact details, and affiliations. Anyone may apply to be an Editor, and must include one or more requested editorial assignments as part of their application. These requests are not reviewed by other Editors. They are reviewed only by the Solid Director. Editor applications that can demonstrate the support of a relevant panel or group of community members will be favorably considered.
 
-The Solid Manager, who is also an editor, is appointed by the Solid Director. The Solid Manager is responsible for formalizing the outcome of any votes.
-
 Editors belong to the [Editorial Team](https://github.com/orgs/solid/teams/editors) in the [Solid GitHub Organization](https://github.com/solid).
 
 ### Repositories
@@ -89,9 +88,9 @@ Repositories requiring editorial review are listed in [editors.md](editors.md#ed
 
 Editors have [_Admin Permissions_](https://help.github.com/en/articles/repository-permission-levels-for-an-organization#permission-levels-for-repositories-owned-by-an-organization) on the repositories they are assigned to, and are permitted to grant [_Write Permissions_](https://help.github.com/en/articles/repository-permission-levels-for-an-organization#permission-levels-for-repositories-owned-by-an-organization) to other contributing authors on the same. All members of the Editorial Team have [_Write Permissions_](https://help.github.com/en/articles/repository-permission-levels-for-an-organization#permission-levels-for-repositories-owned-by-an-organization) on all repositories requiring editorial review listed in [editors.md](editors.md).
 
-## Administration
+# Administration
 
-Administrators are granted privileged access to control the tools, systems, and services used for advancing the [Solid Specification](https://github.com/solid/specification), [Solid Roadmap](https://github.com/solid/Roadmap), and [Supporting Documentation](https://github.com/solid/information/blob/master/documentation/documentation.md). This includes the [Solid GitHub](https://github.com/solid) organization, [Solid Gitter](https://gitter.im/solid/home) channels, the [Solid Forum](https://forum.solidproject.org), and the [Solid Website](https://www.solidproject.org).
+Administrators are granted privileged access to control the tools, systems, and services used for advancing the Solid. This includes the [Solid GitHub](https://github.com/solid) organization, [Solid Gitter](https://gitter.im/solid/home) channels, the [Solid Forum](https://forum.solidproject.org), and the [Solid Website](https://www.solidproject.org).
 
 Administrators belong to the [Administrators Team](https://github.com/orgs/solid/teams/administrators) in the [Solid GitHub Organization](https://github.com/solid) and have [_Admin Permissions_](https://help.github.com/en/articles/repository-permission-levels-for-an-organization#permission-levels-for-repositories-owned-by-an-organization) on all repositories therein. Administrators have [_Owner Permissions_](https://help.github.com/en/articles/permission-levels-for-an-organization#permission-levels-for-an-organization) for the [Solid GitHub Organization](https://github.com/solid).
 
@@ -99,7 +98,13 @@ Administrators belong to the [Administrators Team](https://github.com/orgs/solid
 
 Administrators are appointed by the Solid Director. Administrators are listed at [administrators.md](administrators.md) along with their contact details and affiliations. Anyone may apply to be an Administrator. Administrator applications are not reviewed by other Administrators. They are reviewed only by the Solid Director.
 
-The Solid Manager, who is also an administrator, is appointed by the Solid Director and is responsible for implementing the vision of the Solid Director.
+# Solidproject.org Website 
+
+The [Creators](https://github.com/solid/process/blob/master/creators.md) are responsible for creating content for the solidproject.org website. 
+
+[Creators](https://github.com/solid/process/blob/master/creators.md) are appointed by the Solid Director.
+
+[Creators](https://github.com/solid/process/blob/master/creators.md) have [_Admin Permissions_](https://help.github.com/en/articles/repository-permission-levels-for-an-organization#permission-levels-for-repositories-owned-by-an-organization) of the [solidproject.org](https://github.com/solid/solidproject.org), [information](https://github.com/solid/information) , [Solid app listing](https://github.com/solid/solid-apps), [Pod listing](https://github.com/solid/pods), and [identity listing](https://github.com/solid/solid-idp-list),[explaining the vision](https://github.com/solid/Explaining-the-Vision-Panel) repositories.
 
 # References
 
