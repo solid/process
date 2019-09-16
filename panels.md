@@ -87,7 +87,6 @@ Wednesdays at 10AM Eastern at https://meet.google.com/dci-nqnf-exg
 - [app authorisation gitter channel](https://gitter.im/solid/app-authorization-panel)
 
 ### Panelists
-- [Michiel de Jong](https://github.com/michielbdejong) <[michieldj@inrupt.com](mailto:michieldj@inrupt.com)> (@michielbdejong)
 - [Dmitri Zagidulin](https://github.com/dmitrizagidulin) <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
 - [Michael Thornburgh](https://github.com/zenomt) <[mthornbu@adobe.com](mailto:mthornbu@adobe.com)> (@zenomt)
 - [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
@@ -328,6 +327,7 @@ The Solid Teaching Material Panel has the aim to produce content to be able to e
 - [Jackson Morgan](https://github.com/jaxoncreed) <[jacksonm@inrupt.com](mailto:jacksonm@inrupt.com)> (@jaxoncreed)
 - [Dan Wilkinson](https://github.com/danwilkinsoncreative) <[dan@get-even.co.uk](mailto:dan@get-even.co.uk)> (@danwilkinsoncreative)
 - [Kartika Tulusan](https://github.com/ktulusan) <[ktulusan@gmail.com](mailto:ktulusan@gmail.com)>@ktulusan  
+- [Michiel de Jong](https://github.com/michielbdejong) <[michieldj@inrupt.com](mailto:michieldj@inrupt.com)> (@michielbdejong)
  
 ## Test Suite Panel
 Develop a test suite that can be used to verify an implementation
