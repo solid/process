@@ -22,7 +22,6 @@ This is an example that people can use as a template for submitting their own pa
 
 * [Accessibility](#accessibility)
 * [Auditing](#auditing)
-* [Authorization](#authorization)
 * [Artificial Intelligence](#artificial-intelligence)
 * [Authentication](#authentication)
 * [Caching](#caching)
@@ -38,7 +37,7 @@ This is an example that people can use as a template for submitting their own pa
 * [Querying Panel](#querying)
 * [Resource-Access](#resource-access)
 * [Accessibility Panel](#accessibility-panel)
-* [App Authorization Panel](#app-authorization)
+* [Authorization and Access Control Panel](#authorization-and-access-control)
 * [Artificial Intelligence Panel](#artificial-intelligence-panel)
 * [Authentication Panel](#authentication-panel)
 * [Caching Panel](#caching-panel)
@@ -75,14 +74,14 @@ How to ensure that the technical decisions are taking accessibility consideratio
 - [Bud](https://github.com/spudthebud) (@spudthebud)
 - [elf Pavlik](https://github.com/elf-pavlik) <[elf-pavlik@hackers4peace.net](mailto:elf-pavlik@hackers4peace.net)> (@elf-pavlik)
 
-## App Authorization
-How do apps request access to specific containers, shapes, and/or realms of a user's data.
+## Authorization and Access Control
+How various agents and authorized to access resources.
 
 ### Meetings:
-Wednesdays at 10AM Eastern at https://meet.google.com/dci-nqnf-exg 
+Wednesdays at 10AM Eastern at https://hangouts.google.com/call/vsPFdfBxsTgfHcjKbmcXAEEE
 
 ### Communication channels
-- [app authorisation repository](https://github.com/solid/app-authorization-panel/issues/) 
+- [app authorisation repository](https://github.com/solid/authorization-and-access-control-panel/issues/) 
 - [dedicated forum thread](https://forum.solidproject.org/t/app-authorisation/2088) 
 - [app authorisation gitter channel](https://gitter.im/solid/app-authorization-panel)
 
