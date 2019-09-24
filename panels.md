@@ -27,11 +27,11 @@ This is an example that people can use as a template for submitting their own pa
 * [Caching](#caching)
 * [Cryptography and Security](#cryptography-and-security)
 * [Data Interoperability](#data-interoperability)
+* [Events and Notifications](#events-and-notifications)
 * [Explaining the Vision](#explaining-the-vision)
 * [External Interop and Outreach](#external-interop-and-outreach)
 * [Identity](#identity)
 * [Internationalisation](#internationalisation)
-* [Events and Notifications](#events-and-notifications)
 * [Privacy and Individuals Rights Protection Panel](#privacy-and-individuals-rights-protection-panel)
 * [Query Panel](#query-panel)
 * [Self Hosting Panel](#self-hosting)
@@ -171,6 +171,21 @@ Ensuring the interoperability of data as it is read and written by different use
 ### Editorial Assignment 
 Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Data Interoperability editorial topic](https://github.com/solid/process/blob/master/editors.md#data-interoperability), and will be principally reviewed by any editors assigned to it.
 
+## Events and Notifications Panel
+Pertaining to mechanisms that process and/or emit events between pods and agents, or other pods. Development of mechanisms to shape and exchange notifications.Development of mechanisms to shape and exchange notifications.
+
+### Communication channels
+- [notifications-panel repository](https://github.com/solid/notifications-panel)
+
+### Panelists
+- [Sarven Capadisli](https://github.com/csarven) &lt;https://csarven.ca/#i&gt; (@csarven)
+- [Ruben Verborgh](https://github.com/RubenVerborgh) <[Ruben.Verborgh@UGent.be](mailto:Ruben.Verborgh@UGent.be)>(@RubenVerborgh)
+- [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
+- [Dmitri Zagidulin](https://github.com/dmitrizagidulin) <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
+
+### Editorial Assignment 
+Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Events and Notifications editorial topic](https://github.com/solid/process/blob/master/editors.md#events-and-notifications), and will be principally reviewed by any editors assigned to it.
+
 ## Explaining the Vision Panel
 Taking the suggestions on the channels listed below to produce proposals explaining [what is Solid](https://github.com/solid/roadmap/blob/master/what-is-solid.md) and the [Solid vision, mission, and values](https://github.com/solid/roadmap/blob/master/solid-mission-vision-values.md). 
 
@@ -238,24 +253,6 @@ To ensure internationalisation is taken into consideration during the Solid desi
 - [King Wang](https://github.com/kingwang88) <[kingwang@hsfranchise.com](mailto:kingwang@hsfranchise.com)> (@kingwang88)
 - [Philip Laszkowicz](https://github.com/HelloFillip) <[phil@fillip.pro](mailto:phil@fillip.pro)> (@HelloFillip)
 - [elf Pavlik](https://github.com/elf-pavlik) <[elf-pavlik@hackers4peace.net](mailto:elf-pavlik@hackers4peace.net)> (@elf-pavlik)
-
-## Events and Notifications
-Pertaining to mechanisms that process and/or emit events between pods and agents, or other pods. Development of mechanisms to shape and exchange notifications.
-
-## Notifications Panel
-Development of mechanisms to shape and exchange notifications.
-
-### Communication channels
-- [notifications-panel repository](https://github.com/solid/notifications-panel)
-
-### Panelists
-- [Sarven Capadisli](https://github.com/csarven) &lt;https://csarven.ca/#i&gt; (@csarven)
-- [Ruben Verborgh](https://github.com/RubenVerborgh) <[Ruben.Verborgh@UGent.be](mailto:Ruben.Verborgh@UGent.be)>(@RubenVerborgh)
-- [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
-- [Dmitri Zagidulin](https://github.com/dmitrizagidulin) <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
-
-### Editorial Assignment 
-Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Events and Notifications editorial topic](https://github.com/solid/process/blob/master/editors.md#events-and-notifications), and will be principally reviewed by any editors assigned to it.
 
 ## Privacy and Individuals Rights Protection Panel
 The focus of this panel is to ensure Privacy is always kept in mind in the various proposals of the project across all panels, and that individuals' rights are inherently protected in the Solid ecosystem.
