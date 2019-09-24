@@ -69,14 +69,15 @@ Wednesdays at 10AM Eastern at https://meet.google.com/dci-nqnf-exg
 - [app authorisation gitter channel](https://gitter.im/solid/app-authorization-panel)
 
 ### Panelists
-(note also the list of [editors](https://github.com/solid/process/blob/master/editors.md#authorization) for authorization in general)
-
 - [Michiel de Jong](https://github.com/michielbdejong) <[michieldj@inrupt.com](mailto:michieldj@inrupt.com)> (@michielbdejong)
 - [Dmitri Zagidulin](https://github.com/dmitrizagidulin) <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
 - [Michael Thornburgh](https://github.com/zenomt) <[mthornbu@adobe.com](mailto:mthornbu@adobe.com)> (@zenomt)
 - [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
 - [Jackson Morgan](https://github.com/jaxoncreed) <[jacksonm@inrupt.com](mailto:jacksonm@inrupt.com)> (@jaxoncreed)
 - [Sarven Capadisli](https://github.com/csarven) &lt;https://csarven.ca/#i&gt; (@csarven)
+
+### Editorial Assignment 
+Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Authorization editorial topic](https://github.com/solid/process/blob/master/editors.md#authorization), and will be principally reviewed by any editors assigned to it.
 
 ## Artificial Intelligence Panel
 To discuss Artificial Intelligence for Solid
