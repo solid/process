@@ -92,6 +92,9 @@ Wednesdays at 10AM Eastern at https://hangouts.google.com/call/vsPFdfBxsTgfHcjKb
 - [Jackson Morgan](https://github.com/jaxoncreed) <[jacksonm@inrupt.com](mailto:jacksonm@inrupt.com)> (@jaxoncreed)
 - [Sarven Capadisli](https://github.com/csarven) &lt;https://csarven.ca/#i&gt; (@csarven)
 
+### Editorial Assignment 
+Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Authorization editorial topic](https://github.com/solid/process/blob/master/editors.md#authorization), and will be principally reviewed by any editors assigned to it.
+
 ## Artificial Intelligence Panel
 To discuss Artificial Intelligence for Solid
 
@@ -119,6 +122,8 @@ Mondays at 10AM Eastern at https://hangouts.google.com/call/3k5z3gBVKm-58m8Xgm2Y
 - [authentication panel repository](https://github.com/solid/authentication-panel) 
 
 ### Panelists
+(note also the list of [editors](https://github.com/solid/process/blob/master/editors.md#authentication) for this topic)
+
 - [Dmitri Zagidulin](https://github.com/dmitrizagidulin) <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
 - [Paul Worrall](https://github.com/pjworrall) <[paulw@inrupt.com](mailto:paulw@inrupt.com)> (@pjworrall)
 - [Michael Thornburgh](https://github.com/zenomt) <[mthornbu@adobe.com](mailto:mthornbu@adobe.com)> (@zenomt)
@@ -126,6 +131,9 @@ Mondays at 10AM Eastern at https://hangouts.google.com/call/3k5z3gBVKm-58m8Xgm2Y
 - [Jackson Morgan](https://github.com/jaxoncreed) <[jacksonm@inrupt.com](mailto:jacksonm@inrupt.com)> (@jaxoncreed)
 - [Aaron Coburn](https://github.com/acoburn) <[aaronc@inrupt.com](mailto:aaronc@inrupt.com)> (@acoburn)
 - [Matthias Evering](https://github.com/ewingson) <[me@evering.eu](mailto:me@evering.eu)> (@ewingson)
+
+### Editorial Assignment 
+Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Authentication editorial topic](https://github.com/solid/process/blob/master/editors.md#authentication), and will be principally reviewed by any editors assigned to it.
 
 ## Caching Panel
 Ensure that caching mechanisms, both currently standardized and future standards are employed within Solid.
@@ -145,11 +153,15 @@ Discussion and specs related to performing decentralized Key Management, Cryptog
 - [Cryptography (Signing and Encryption) Panel Repository](https://github.com/solid/cryptography-signing-and-encryption-panel)
 
 ### Panelists
+(note also the list of [editors](https://github.com/solid/process/blob/master/editors.md#cryptography) for this topic)
 - [Dmitri Zagidulin](https://github.com/dmitrizagidulin) <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
 - [Paul Worrall](https://github.com/pjworrall) <[paulw@inrupt.com](mailto:paulw@inrupt.com)> (@pjworrall)
 - [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
 - [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
 - [Rob McColl](https://github.com/robmccoll) <[rob@nix.software](mailto:rob@nix.software)> (@robmccoll)
+
+### Editorial Assignment 
+Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Cryptography editorial topic](https://github.com/solid/process/blob/master/editors.md#cryptography), and will be principally reviewed by any editors assigned to it.
 
 ## Data Interoperability
 Ensuring the interoperability of data as it is read and written by different users and/or applications. Topics of discussion will include vocabularies, shapes, footprints, and the mechanisms through which these work together to provide consistent and safe access and manipulation of data in a pod by different agents and/or users.
@@ -159,6 +171,7 @@ Ensuring the interoperability of data as it is read and written by different use
 - [data-interoperability-repository](https://github.com/solid/data-interoperability-panel)
 
 ### Panelists
+
 - [Dmitri Zagidulin](https://github.com/dmitrizagidulin) <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
 - [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
 - [Eric Prud'hommeaux](https://github.com/ericprud) <[eric@w3.org](mailto:eric@w3.org)> (@ericprud)
@@ -171,6 +184,9 @@ Ensuring the interoperability of data as it is read and written by different use
 - [Simon Shapiro](https://github.com/SimonShapiro) <[simon.m.shapiro@gmail.com](mailto:simon.m.shapiro@gmail.com)> (@SimonShapiro)
 - [Sarven Capadisli](https://github.com/csarven) &lt;https://csarven.ca/#i&gt; (@csarven)
 - [Arne Hassel](http://github.com/megoth) <[arneh@inrupt.com](mailto:arneh@inrupt.com)> <@megoth_twitter>
+
+### Editorial Assignment 
+Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Data Interoperability editorial topic](https://github.com/solid/process/blob/master/editors.md#data-interoperability), and will be principally reviewed by any editors assigned to it.
 
 ## Explaining the Vision Panel
 Taking the suggestions on the channels listed below to produce proposals explaining [what is Solid](https://github.com/solid/roadmap/blob/master/what-is-solid.md) and the [Solid vision, mission, and values](https://github.com/solid/roadmap/blob/master/solid-mission-vision-values.md). 
@@ -225,6 +241,9 @@ Discussions and specs for expanding the capabilities of Solid's WebID identity s
 - [Paul Worrall](https://github.com/pjworrall) <[paulw@inrupt.com](mailto:paulw@inrupt.com)> (@pjworrall)
 - [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
 
+### Editorial Assignment 
+Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Identity editorial topic](https://github.com/solid/process/blob/master/editors.md#identity), and will be principally reviewed by any editors assigned to it.
+
 ## Internationalisation Panel
 To ensure internationalisation is taken into consideration during the Solid design.
 
@@ -251,6 +270,9 @@ Development of mechanisms to shape and exchange notifications.
 - [Ruben Verborgh](https://github.com/RubenVerborgh) <[Ruben.Verborgh@UGent.be](mailto:Ruben.Verborgh@UGent.be)>(@RubenVerborgh)
 - [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
 - [Dmitri Zagidulin](https://github.com/dmitrizagidulin) <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
+
+### Editorial Assignment 
+Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Events and Notifications editorial topic](https://github.com/solid/process/blob/master/editors.md#events-and-notifications), and will be principally reviewed by any editors assigned to it.
 
 ## Privacy and Individuals Rights Protection Panel
 The focus of this panel is to ensure Privacy is always kept in mind in the various proposals of the project across all panels, and that individuals' rights are inherently protected in the Solid ecosystem.
@@ -287,12 +309,16 @@ Discussion, specs and recommendations for implementing querying mechanisms beyon
 - [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
 - [Jeff Zucker](https://github.com/jeff-zucker) <[dubzed@gmail.com](mailto:dubzed@gmail.com)> (@jeff-zucker)
 
+### Editorial Assignment 
+Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Querying editorial topic](https://github.com/solid/process/blob/master/editors.md#querying), and will be principally reviewed by any editors assigned to it.
+
 ## Self Hosting Panel
 Develop clarity on how to self-host and remain interoperable with other Pod providers. 
 
 ### Communication channels
 - [dedicated forum thread](https://forum.solidproject.org/t/self-hosting-panel/2148)
 - [Self Hosting Panel Repository](https://github.com/solid/self-hosting-panel)
+
 ### Panelists
 - Danny Haider
 
@@ -309,6 +335,9 @@ To create a structure for the document at https://github.com/solid/specification
 - [Sarven Capadisli](https://github.com/csarven) &lt;https://csarven.ca/#i&gt; (@csarven)
 - [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
 - [King Wang](https://github.com/kingwang88) <[kingwang@hsfranchise.com](mailto:kingwang@hsfranchise.com)> (@kingwang88)
+
+### Editorial Assignment 
+Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [general editors](https://github.com/solid/process/blob/master/editors.md#editorial-team), and will be principally reviewed by any editors.
 
 ## Teaching Material Panel
 The Solid Teaching Material Panel has the aim to produce content to be able to effectively teach people to build Solid identity providers, Pods, and apps. The Solid teaching material can be found in [this file](https://github.com/solid/information/tree/master/documentation). [Documentation.md](https://github.com/solid/information/blob/master/documentation/documentation.md) is a place that gives an overview of all the content in this file and links to it. 
