@@ -21,7 +21,7 @@ This is an example that people can use as a template for submitting their own pa
 ## Index of Panels
 
 * [Accessibility](#accessibility)
-* [Authorization and Access Control Panel](#authorization-and-access-control)
+* [Authorization and Access Control](#authorization-and-access-control)
 * [Artificial Intelligence](#artificial-intelligence)
 * [Authentication](#authentication)
 * [Caching](#caching)
@@ -32,12 +32,12 @@ This is an example that people can use as a template for submitting their own pa
 * [External Interop and Outreach](#external-interop-and-outreach)
 * [Identity](#identity)
 * [Internationalisation](#internationalisation)
-* [Privacy and Individuals Rights Protection Panel](#privacy-and-individuals-rights-protection-panel)
-* [Query Panel](#query-panel)
-* [Self Hosting Panel](#self-hosting)
-* [Specification Entry Document Panel](#specification-entry-document-panel)
-* [Teaching Materials Panel](#teaching-material-panel)
-* [Test Suite Panel](#test-suite-panel)
+* [Privacy and Individuals Rights Protection](#privacy-and-individuals-rights-protection-panel)
+* [Querying](#querying)
+* [Self Hosting](#self-hosting)
+* [Specification Entry Document](#specification-entry-document-panel)
+* [Teaching Materials](#teaching-material-panel)
+* [Test Suite](#test-suite-panel)
 
 All Panels can be reached on [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 
@@ -45,7 +45,7 @@ There is a weekly W3C Solid Community Group call to review all panels on Thursda
 
 You can also read weekly updates of all panels on [This Week in Solid](https://github.com/solid/information/blob/master/weekly-updates/this-week-in-solid.md).
 
-## Accessibility Panel
+## Accessibility
 How to ensure that the technical decisions are taking accessibility considerations into account.
 
 ### Communication channels
@@ -78,7 +78,7 @@ Wednesdays at 10AM Eastern at https://hangouts.google.com/call/vsPFdfBxsTgfHcjKb
 ### Editorial Assignment 
 Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Authorization editorial topic](https://github.com/solid/process/blob/master/editors.md#authorization), and will be principally reviewed by any editors assigned to it.
 
-## Artificial Intelligence Panel
+## Artificial Intelligence
 To discuss Artificial Intelligence for Solid
 
 ### Communication channels
@@ -88,7 +88,7 @@ To discuss Artificial Intelligence for Solid
 ### Panelists
 * [James Schoening](https://github.com/jimschoening) <[james.r.schoening.civ@mail.mil](mailto:james.r.schoening.civ@mail.mil)> (@jimschoening)
 
-## Authentication Panel
+## Authentication
 Discussion and specs relating to Authentication and Auth Delegation protocols, including:
 * [WebID-OIDC](https://github.com/solid/webid-oidc-spec) auth delegation protocol
 * [WebID-TLS](http://www.w3.org/2005/Incubator/webid/spec/tls) auth delegation protocol
@@ -118,7 +118,7 @@ Mondays at 10AM Eastern at https://hangouts.google.com/call/3k5z3gBVKm-58m8Xgm2Y
 ### Editorial Assignment 
 Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Authentication editorial topic](https://github.com/solid/process/blob/master/editors.md#authentication), and will be principally reviewed by any editors assigned to it.
 
-## Caching Panel
+## Caching
 Ensure that caching mechanisms, both currently standardized and future standards are employed within Solid.
 
 ### Communication channels
@@ -128,7 +128,7 @@ Ensure that caching mechanisms, both currently standardized and future standards
 ### Panelists
 - [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
 
-## Cryptography (Signing and Encryption) Panel
+## Cryptography (Signing and Encryption)
 Discussion and specs related to performing decentralized Key Management, Cryptographic Signatures (including integration with [Verifiable Credentials](https://w3c.github.io/vc-data-model/)), and at-rest data Encryption on Solid servers.
 
 ### Communication channels
@@ -154,7 +154,6 @@ Ensuring the interoperability of data as it is read and written by different use
 - [data-interoperability-repository](https://github.com/solid/data-interoperability-panel)
 
 ### Panelists
-
 - [Dmitri Zagidulin](https://github.com/dmitrizagidulin) <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
 - [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
 - [Eric Prud'hommeaux](https://github.com/ericprud) <[eric@w3.org](mailto:eric@w3.org)> (@ericprud)
@@ -171,7 +170,7 @@ Ensuring the interoperability of data as it is read and written by different use
 ### Editorial Assignment 
 Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Data Interoperability editorial topic](https://github.com/solid/process/blob/master/editors.md#data-interoperability), and will be principally reviewed by any editors assigned to it.
 
-## Events and Notifications Panel
+## Events and Notifications
 Pertaining to mechanisms that process and/or emit events between pods and agents, or other pods. Development of mechanisms to shape and exchange notifications.Development of mechanisms to shape and exchange notifications.
 
 ### Communication channels
@@ -186,7 +185,7 @@ Pertaining to mechanisms that process and/or emit events between pods and agents
 ### Editorial Assignment 
 Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Events and Notifications editorial topic](https://github.com/solid/process/blob/master/editors.md#events-and-notifications), and will be principally reviewed by any editors assigned to it.
 
-## Explaining the Vision Panel
+## Explaining the Vision
 Taking the suggestions on the channels listed below to produce proposals explaining [what is Solid](https://github.com/solid/roadmap/blob/master/what-is-solid.md) and the [Solid vision, mission, and values](https://github.com/solid/roadmap/blob/master/solid-mission-vision-values.md). 
 
 Related conversations to take into consideration: 
@@ -216,7 +215,7 @@ Related conversations to take into consideration:
 - [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
 - [Sarven Capadisli](https://github.com/csarven) &lt;https://csarven.ca/#i&gt; (@csarven)
 
-## External Interop and Outreach Panel
+## External Interop and Outreach
 How to technically link to other initiatives to build positive win-win collaborations. 
 
 ### Communication channels
@@ -227,7 +226,7 @@ How to technically link to other initiatives to build positive win-win collabora
 - [Dmitri Zagidulin](https://github.com/dmitrizagidulin) <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
 - [David H. Mason](https://github.com/vid) <[vid_github_solid_outreach@zooid.org](mailto:vid_github_solid_outreach@zooid.org)> (@vid)
 
-## Identity Panel
+## Identity
 Discussions and specs for expanding the capabilities of Solid's WebID identity system, including user profiles, [Decentralized Identifiers (DIDs)](https://w3c-ccg.github.io/did-spec/), and related standards.
 
 ### Communication channels
@@ -242,7 +241,7 @@ Discussions and specs for expanding the capabilities of Solid's WebID identity s
 ### Editorial Assignment 
 Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Identity editorial topic](https://github.com/solid/process/blob/master/editors.md#identity), and will be principally reviewed by any editors assigned to it.
 
-## Internationalisation Panel
+## Internationalisation
 To ensure internationalisation is taken into consideration during the Solid design.
 
 ### Communication channels
