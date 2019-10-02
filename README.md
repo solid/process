@@ -106,6 +106,8 @@ The [Creators](https://github.com/solid/process/blob/master/creators.md) are res
 
 [Creators](https://github.com/solid/process/blob/master/creators.md) have [_Admin Permissions_](https://help.github.com/en/articles/repository-permission-levels-for-an-organization#permission-levels-for-repositories-owned-by-an-organization) of the [solidproject.org](https://github.com/solid/solidproject.org), [information](https://github.com/solid/information) , [Solid app listing](https://github.com/solid/solid-apps), [Pod listing](https://github.com/solid/pods), and [identity listing](https://github.com/solid/solid-idp-list),[explaining the vision](https://github.com/solid/Explaining-the-Vision-Panel) repositories.
 
+If you are interested in a Solid role that needs to be reviewed by the Solid Director then email info@solidproject.org with your CV and motivation letter.
+
 # References
 
 Solid culture documentation was put together with inspiration and learnings from the following resources.
