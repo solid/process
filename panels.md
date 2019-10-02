@@ -168,7 +168,7 @@ Ensuring the interoperability of data as it is read and written by different use
 - [Arne Hassel](http://github.com/megoth) <[arneh@inrupt.com](mailto:arneh@inrupt.com)> <@megoth_twitter>
 
 ### Editorial Assignment 
-Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Data Interoperability editorial topic](https://github.com/solid/process/blob/master/editors.md#data-interoperability), and will be principally reviewed by any editors assigned to it.
+Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Data Interoperability and Portability editorial topic](https://github.com/solid/process/blob/master/editors.md#data-interoperability-and-portability), and will be principally reviewed by any editors assigned to it.
 
 ## Events and Notifications
 Pertaining to mechanisms that process and/or emit events between pods and agents, or other pods. Development of mechanisms to shape and exchange notifications.Development of mechanisms to shape and exchange notifications.
