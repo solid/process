@@ -23,61 +23,91 @@ The Solid Specification covers a broad range of topics, from resource access and
 
 Editorial assignments to the specification are by topic. A given editor may be assigned to one or more topics. Some topics may have dedicated primary documents, while other topics may occur throughout the specification.
 
--   [Resource Access](#resource-access)
--   [Identity](#identity)
+-   [Accessibility](#accessibility)
+-   [Artificial Intelligence](#artificial-intelligence)
 -   [Authentication](#authentication)
--   [Authorization](#authorization)
--   [Events and Notifications](#events-and-notifications)
--   [Data Interoperability](#data-interoperability)
--   [Data Portability](#data-portability)
 -   [Auditing](#auditing)
+-   [Authorization](#authorization)
+-   [Caching](#caching)
+-   [Cryptography,Security, and Privacy](#security-cryptography-and-privacy)
+-   [Data Interoperability and Portability](#data-interoperability-and-portability)
+-   [Events and Notifications](#events-and-notifications)
+-   [Explaining The Vision](#explaining-the-vision)
+-   [Identity](#identity)
+-   [Internationalisation](#internationalisation)
+-   [Resource Access](#resource-access)
+-   [Self Hosting](#self-hosting)
+-   [Specification Entry Document](#specification-entry-document)
 -   [Querying](#querying)
--   [Cryptography](#cryptography)
--   [Security](#security)
 
-#### Resource Access
-Pertaining to the access of resources in a data pod over a network via HTTP and LDP  
+#### Accessibility
+How to ensure that the technical decisions are taking accessibility considerations into account.
+__Assigned Editors:__  
+__Primary Documents:__ 
 
-__Assigned Editors:__ Kjetil Kjernsmo, Ruben Verborgh   
-__Primary Documents:__  [solid/specification/resource-access](https://github.com/solid/specification/blob/master/main/resource-access.bs)
-
-#### Identity
-Pertaining to mechanisms that universally identify people or applications.  
-__Assigned Editors:__  *No editors assigned yet*   
-__Primary Documents:__
+#### Artificial Intelligence
+To discuss Artificial Intelligence for Solid. 
+__Assigned Editors:__  
+__Primary Documents:__ 
 
 #### Authentication
 Pertaining to mechanisms that authenticate a person or application for the purposes of accessing resources in a data pod.  
 __Assigned Editors:__  Justin Bingham   
 __Primary Documents:__ [solid/specification/webid-oidc](https://github.com/solid/specification/tree/master/webid-oidc), [solid/specification/webid-tls](https://github.com/solid/specification/tree/master/webid-tls), [solid/webid-oidc-spec](https://github.com/solid/webid-oidc-spec)
 
+#### Auditing
+Pertaining to the mechanisms through which access and manipulation events of resources in a data pod are recorded and accessible.  
+__Assigned Editors:__  *No editors assigned yet*   
+__Primary Documents:__
+
 #### Authorization
 Pertaining to mechanisms that control the access a given agent has to read or manipulate resources in a data pod.  
 __Assigned Editors:__  Kjetil Kjernsmo  
 __Primary Documents:__ [solid/specification/resource-access](https://github.com/solid/specification/blob/master/main/resource-access.bs), [solid/specification/wac](https://github.com/solid/specification/tree/master/wac), [solid/web-access-control-spec](https://github.com/solid/web-access-control-spec)
+
+#### Caching
+Ensure that caching mechanisms, both currently standardized and future standards are employed within Solid.  
+__Assigned Editors:__  *No editors assigned yet*   
+__Primary Documents:__
+
+#### Cryptography, Security, and Privacy
+Pertaining to mechanisms used and considerations taken when securing a data pod, a conformant server implementation, and/or the immediate ecosystem around them.  Pertaining to the mechanisms through which cryptographic techniques are employed to provide data privacy, data integrity, and verifiable information. 
+__Assigned Editors:__ Justin Bingham    
+__Primary Documents:__ [solid/specification/security](https://github.com/solid/specification/blob/master/main/security.bs)
+
+#### Data Interoperability and Portability
+Pertaining to mechanisms that ensure disparate applications or agents can safely and seamlessly read and write the data they need.  Pertaining to mechanisms that ensure the portability of data stored in a data pod such that it can be safely migrated between conformant Solid server implementations, as well as exported to other mediums.  Pertaining to core vocabularies and data shapes essential to a working ecosystem of data pods and applications. 
+__Assigned Editors:__ Kjetil Kjernsmo, Ruben Verborgh, Justin Bingham, Sarven Capadisli   
+__Primary Documents:__
 
 #### Events and Notifications
 Pertaining to mechanisms that process and/or emit events between pods and agents, or other pods.  
 __Assigned Editors:__  Sarven Capadisli, Ruben Verborgh   
 __Primary Documents:__ 
 
-#### Data Interoperability
-Pertaining to mechanisms that ensure disparate applications or agents can safely and seamlessly read and write the data they need.  
-__Assigned Editors:__ Kjetil Kjernsmo, Ruben Verborgh, Justin Bingham, Sarven Capadisli   
+#### Explaining the Vision
+__Assigned Editors:__  Sarven Capadisli, Ruben Verborgh   
+__Primary Documents:__ 
+
+#### Identity
+Pertaining to mechanisms that universally identify people or applications.  
+__Assigned Editors:__  *No editors assigned yet*   
 __Primary Documents:__
 
-#### Data Portability
-Pertaining to mechanisms that ensure the portability of data stored in a data pod such that it can be safely migrated between conformant Solid server implementations, as well as exported to other mediums.  
-__Assigned Editors:__  Justin Bingham   
+#### Internationalisation
+__Assigned Editors:__  *No editors assigned yet*   
 __Primary Documents:__
 
-#### Data Models
-Pertaining to core vocabularies and data shapes essential to a working ecosystem of data pods and applications.  
-__Assigned Editors:__  Kjetil Kjernsmo, Justin Bingham, Sarven Capadisli   
-__Primary Documents:__ [solid/vocab](https://github.com/solid/vocab)
+#### Resource Access
+Pertaining to the access of resources in a data pod over a network via HTTP and LDP  
+__Assigned Editors:__ Kjetil Kjernsmo, Ruben Verborgh   
+__Primary Documents:__  [solid/specification/resource-access](https://github.com/solid/specification/blob/master/main/resource-access.bs)
 
-#### Auditing
-Pertaining to the mechanisms through which access and manipulation events of resources in a data pod are recorded and accessible.  
+#### Self Hosting
+__Assigned Editors:__  *No editors assigned yet*   
+__Primary Documents:__
+
+#### Specification Entry Documennt
 __Assigned Editors:__  *No editors assigned yet*   
 __Primary Documents:__
 
@@ -85,13 +115,3 @@ __Primary Documents:__
 Pertaining to the mechanisms, such as SPARQL and TPF, through which a given agent can provide query parameters to a data pod and receive results satisfying the same.  
 __Assigned Editors:__ Kjetil Kjernsmo, Ruben Verborgh   
 __Primary Documents:__
-
-#### Cryptography
-Pertaining to the mechanisms through which cryptographic techniques are employed to provide data privacy, data integrity, and verifiable information.  
-__Assigned Editors:__ *No editors assigned yet*    
-__Primary Documents:__
-
-#### Security
-Pertaining to mechanisms used and considerations taken when securing a data pod, a conformant server implementation, and/or the immediate ecosystem around them.  
-__Assigned Editors:__ Justin Bingham    
-__Primary Documents:__ [solid/specification/security](https://github.com/solid/specification/blob/master/main/security.bs)
