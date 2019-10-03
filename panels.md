@@ -25,7 +25,7 @@ This is an example that people can use as a template for submitting their own pa
 * [Artificial Intelligence](#artificial-intelligence)
 * [Authentication](#authentication)
 * [Caching](#caching)
-* [Cryptography and Security](#cryptography-and-security)
+* [Cryptography,Security, and Privacy](#security-cryptography-and-privacy)
 * [Data Interoperability and Portability](#data-interoperability-and-portability)
 * [Events and Notifications](#events-and-notifications)
 * [Explaining the Vision](#explaining-the-vision)
@@ -128,12 +128,20 @@ Ensure that caching mechanisms, both currently standardized and future standards
 ### Panelists
 - [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
 
-## Cryptography (Signing and Encryption)
-Discussion and specs related to performing decentralized Key Management, Cryptographic Signatures (including integration with [Verifiable Credentials](https://w3c.github.io/vc-data-model/)), and at-rest data Encryption on Solid servers.
+## Cryptography, Security, and Privacy
+Discussion and specs related to performing decentralized Key Management, Cryptographic Signatures (including integration with [Verifiable Credentials](https://w3c.github.io/vc-data-model/)), and at-rest data Encryption on Solid servers. Pertaining to mechanisms used and considerations taken when securing a data pod, a conformant server implementation, and/or the immediate ecosystem around them.  Pertaining to the mechanisms through which cryptographic techniques are employed to provide data privacy, data integrity, and verifiable information. The focus of this panel is to ensure Privacy is always kept in mind in the various proposals of the project across all panels, and that individuals' rights are inherently protected in the Solid ecosystem. It will do so by:
+- Leading Privacy discussions and initiatives.
+- Reviewing the proposals of other panels for anything Privacy related, and provide guidance to them if requested.
+- Researching how the technical side of the project (specification, implementations):
+  - Can affect the Privacy of individuals; Per example by unexpectedly leaking information in the protocol itself.
+  - Affect their rights; Per example by making it difficult for them to find privacy policies or delete remote content.
+  - Lead to any kind of harm to the individual; Per example, by allowing a malicious individual to publish private content unchecked.
+- Ensuring practical guides are produced for individuals and Data Privacy Officers alike, allowing them to know how to deal with their legal rights and obligations respectively.
+- Making sure laws like GDPR are directly taken into account when designing new feature / product / software.
 
 ### Communication channels
-- [dedicated forum thread](https://forum.solidproject.org/t/cryptography-signing-and-encryption-panel/2091) 
-- [Cryptography (Signing and Encryption) Panel Repository](https://github.com/solid/cryptography-signing-and-encryption-panel)
+- [Cryptography, Security, and Privacy Panel Repository](https://github.com/solid/cryptography-signing-privacy)
+- [gitter channel](https://gitter.im/solid/cryptography-signing-privacy)
 
 ### Panelists
 (note also the list of [editors](https://github.com/solid/process/blob/master/editors.md#cryptography) for this topic)
@@ -142,9 +150,10 @@ Discussion and specs related to performing decentralized Key Management, Cryptog
 - [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
 - [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
 - [Rob McColl](https://github.com/robmccoll) <[rob@nix.software](mailto:rob@nix.software)> (@robmccoll)
+- [Max Dor](https://github.com/maxidorius) <[max@dorius.io](mailto:max@dorius.io)> (@maxidorius)
 
 ### Editorial Assignment 
-Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Cryptography editorial topic](https://github.com/solid/process/blob/master/editors.md#cryptography), and will be principally reviewed by any editors assigned to it.
+Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Security, Cryptography, and Privacy editorial assingment](https://github.com/solid/process/blob/master/editors.md#cryptography-security-and-privacy), and will be principally reviewed by any editors assigned to it.
 
 ## Data Interoperability and Portability
 Ensuring the interoperability of data as it is read and written by different users and/or applications. Topics of discussion will include vocabularies, shapes, footprints, and the mechanisms through which these work together to provide consistent and safe access and manipulation of data in a pod by different agents and/or users. Pertaining to mechanisms that ensure disparate applications or agents can safely and seamlessly read and write the data they need.  Pertaining to mechanisms that ensure the portability of data stored in a data pod such that it can be safely migrated between conformant Solid server implementations, as well as exported to other mediums.  
@@ -252,27 +261,6 @@ To ensure internationalisation is taken into consideration during the Solid desi
 - [King Wang](https://github.com/kingwang88) <[kingwang@hsfranchise.com](mailto:kingwang@hsfranchise.com)> (@kingwang88)
 - [Philip Laszkowicz](https://github.com/HelloFillip) <[phil@fillip.pro](mailto:phil@fillip.pro)> (@HelloFillip)
 - [elf Pavlik](https://github.com/elf-pavlik) <[elf-pavlik@hackers4peace.net](mailto:elf-pavlik@hackers4peace.net)> (@elf-pavlik)
-
-## Privacy and Individuals Rights Protection Panel
-The focus of this panel is to ensure Privacy is always kept in mind in the various proposals of the project across all panels, and that individuals' rights are inherently protected in the Solid ecosystem.
-
-It will do so by:
-- Leading Privacy discussions and initiatives.
-- Reviewing the proposals of other panels for anything Privacy related, and provide guidance to them if requested.
-- Researching how the technical side of the project (specification, implementations):
-  - Can affect the Privacy of individuals; Per example by unexpectedly leaking information in the protocol itself.
-  - Affect their rights; Per example by making it difficult for them to find privacy policies or delete remote content.
-  - Lead to any kind of harm to the individual; Per example, by allowing a malicious individual to publish private content unchecked.
-- Ensuring practical guides are produced for individuals and Data Privacy Officers alike, allowing them to know how to deal with their legal rights and obligations respectively.
-- Making sure laws like GDPR are directly taken into account when designing new feature / product / software.
-
-### Communication channels
-- [dedicated forum thread](https://forum.solidproject.org/t/privacy-and-individuals-rights-protection-panel/2094)
-- [Privacy and Individuals Rights Protection Panel repository](https://github.com/solid/privacy-and-individuals-rights-protection-panel/tree/master) 
-- [gitter channel](https://gitter.im/solid/Privacy-and-Individuals-Rights-Protection-Panel--#)
-
-### Panelists
-- [Max Dor](https://github.com/maxidorius) <[max@dorius.io](mailto:max@dorius.io)> (@maxidorius) 
 
 ## Querying
 Discussion, specs and recommendations for implementing querying mechanisms beyond LDP, such as SPARQL, [Triple Pattern Fragments (TPF)](http://linkeddatafragments.org/in-depth/), GraphQL, and others.
