@@ -29,8 +29,8 @@ Candidate Proposals to the Solid Specification produced by this panel are likely
 * [Artificial Intelligence](#artificial-intelligence)
 * [Authentication](#authentication)
 * [Caching](#caching)
-* [Cryptography and Security](#cryptography-and-security)
-* [Data Interoperability](#data-interoperability)
+* [Cryptography,Security, and Privacy](#security-cryptography-and-privacy)
+* [Data Interoperability and Portability](#data-interoperability-and-portability)
 * [Events and Notifications](#events-and-notifications)
 * [Explaining the Vision](#explaining-the-vision)
 * [External Interop and Outreach](#external-interop-and-outreach)
@@ -145,12 +145,20 @@ Ensure that caching mechanisms, both currently standardized and future standards
 ### Panelists
 - [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
 
-## Cryptography (Signing and Encryption)
-Discussion and specs related to performing decentralized Key Management, Cryptographic Signatures (including integration with [Verifiable Credentials](https://w3c.github.io/vc-data-model/)), and at-rest data Encryption on Solid servers.
+## Cryptography, Security, and Privacy
+Discussion and specs related to performing decentralized Key Management, Cryptographic Signatures (including integration with [Verifiable Credentials](https://w3c.github.io/vc-data-model/)), and at-rest data Encryption on Solid servers. Pertaining to mechanisms used and considerations taken when securing a data pod, a conformant server implementation, and/or the immediate ecosystem around them.  Pertaining to the mechanisms through which cryptographic techniques are employed to provide data privacy, data integrity, and verifiable information. The focus of this panel is to ensure Privacy is always kept in mind in the various proposals of the project across all panels, and that individuals' rights are inherently protected in the Solid ecosystem. It will do so by:
+- Leading Privacy discussions and initiatives.
+- Reviewing the proposals of other panels for anything Privacy related, and provide guidance to them if requested.
+- Researching how the technical side of the project (specification, implementations):
+  - Can affect the Privacy of individuals; Per example by unexpectedly leaking information in the protocol itself.
+  - Affect their rights; Per example by making it difficult for them to find privacy policies or delete remote content.
+  - Lead to any kind of harm to the individual; Per example, by allowing a malicious individual to publish private content unchecked.
+- Ensuring practical guides are produced for individuals and Data Privacy Officers alike, allowing them to know how to deal with their legal rights and obligations respectively.
+- Making sure laws like GDPR are directly taken into account when designing new feature / product / software.
 
 ### Communication channels
-- [dedicated forum thread](https://forum.solidproject.org/t/cryptography-signing-and-encryption-panel/2091) 
-- [Cryptography (Signing and Encryption) Panel Repository](https://github.com/solid/cryptography-signing-and-encryption-panel)
+- [Cryptography, Security, and Privacy Panel Repository](https://github.com/solid/cryptography-signing-privacy)
+- [gitter channel](https://gitter.im/solid/cryptography-signing-privacy)
 
 ### Panelists
 (note also the list of [editors](https://github.com/solid/process/blob/master/editors.md#cryptography) for this topic)
@@ -159,12 +167,13 @@ Discussion and specs related to performing decentralized Key Management, Cryptog
 - [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
 - [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
 - [Rob McColl](https://github.com/robmccoll) <[rob@nix.software](mailto:rob@nix.software)> (@robmccoll)
+- [Max Dor](https://github.com/maxidorius) <[max@dorius.io](mailto:max@dorius.io)> (@maxidorius)
 
 ### Editorial Assignment 
-Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Cryptography editorial topic](https://github.com/solid/process/blob/master/editors.md#cryptography), and will be principally reviewed by any editors assigned to it.
+Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Security, Cryptography, and Privacy editorial assingment](https://github.com/solid/process/blob/master/editors.md#cryptography-security-and-privacy), and will be principally reviewed by any editors assigned to it.
 
-## Data Interoperability
-Ensuring the interoperability of data as it is read and written by different users and/or applications. Topics of discussion will include vocabularies, shapes, footprints, and the mechanisms through which these work together to provide consistent and safe access and manipulation of data in a pod by different agents and/or users.
+## Data Interoperability and Portability
+Ensuring the interoperability of data as it is read and written by different users and/or applications. Topics of discussion will include vocabularies, shapes, footprints, and the mechanisms through which these work together to provide consistent and safe access and manipulation of data in a pod by different agents and/or users. Pertaining to mechanisms that ensure disparate applications or agents can safely and seamlessly read and write the data they need.  Pertaining to mechanisms that ensure the portability of data stored in a data pod such that it can be safely migrated between conformant Solid server implementations, as well as exported to other mediums.  
 
 ### Communication channels
 - [dedicated forum thread](https://forum.solidproject.org/t/data-interoperability/2090) 
@@ -185,7 +194,7 @@ Ensuring the interoperability of data as it is read and written by different use
 - [Arne Hassel](http://github.com/megoth) <[arneh@inrupt.com](mailto:arneh@inrupt.com)> <@megoth_twitter>
 
 ### Editorial Assignment 
-Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Data Interoperability editorial topic](https://github.com/solid/process/blob/master/editors.md#data-interoperability), and will be principally reviewed by any editors assigned to it.
+Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Data Interoperability and Portability editorial topic](https://github.com/solid/process/blob/master/editors.md#data-interoperability-and-portability), and will be principally reviewed by any editors assigned to it.
 
 ## Events and Notifications
 Pertaining to mechanisms that process and/or emit events between pods and agents, or other pods. Development of mechanisms to shape and exchange notifications.Development of mechanisms to shape and exchange notifications.
