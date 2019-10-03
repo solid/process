@@ -26,7 +26,7 @@ This is an example that people can use as a template for submitting their own pa
 * [Authentication](#authentication)
 * [Caching](#caching)
 * [Cryptography and Security](#cryptography-and-security)
-* [Data Interoperability](#data-interoperability)
+* [Data Interoperability and Portability](#data-interoperability-and-portability)
 * [Events and Notifications](#events-and-notifications)
 * [Explaining the Vision](#explaining-the-vision)
 * [External Interop and Outreach](#external-interop-and-outreach)
@@ -146,8 +146,8 @@ Discussion and specs related to performing decentralized Key Management, Cryptog
 ### Editorial Assignment 
 Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Cryptography editorial topic](https://github.com/solid/process/blob/master/editors.md#cryptography), and will be principally reviewed by any editors assigned to it.
 
-## Data Interoperability
-Ensuring the interoperability of data as it is read and written by different users and/or applications. Topics of discussion will include vocabularies, shapes, footprints, and the mechanisms through which these work together to provide consistent and safe access and manipulation of data in a pod by different agents and/or users.
+## Data Interoperability and Portability
+Ensuring the interoperability of data as it is read and written by different users and/or applications. Topics of discussion will include vocabularies, shapes, footprints, and the mechanisms through which these work together to provide consistent and safe access and manipulation of data in a pod by different agents and/or users. Pertaining to mechanisms that ensure disparate applications or agents can safely and seamlessly read and write the data they need.  Pertaining to mechanisms that ensure the portability of data stored in a data pod such that it can be safely migrated between conformant Solid server implementations, as well as exported to other mediums.  
 
 ### Communication channels
 - [dedicated forum thread](https://forum.solidproject.org/t/data-interoperability/2090) 
@@ -168,7 +168,7 @@ Ensuring the interoperability of data as it is read and written by different use
 - [Arne Hassel](http://github.com/megoth) <[arneh@inrupt.com](mailto:arneh@inrupt.com)> <@megoth_twitter>
 
 ### Editorial Assignment 
-Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Data Interoperability editorial topic](https://github.com/solid/process/blob/master/editors.md#data-interoperability), and will be principally reviewed by any editors assigned to it.
+Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Data Interoperability and Portability editorial topic](https://github.com/solid/process/blob/master/editors.md#data-interoperability-and-portability), and will be principally reviewed by any editors assigned to it.
 
 ## Events and Notifications
 Pertaining to mechanisms that process and/or emit events between pods and agents, or other pods. Development of mechanisms to shape and exchange notifications.Development of mechanisms to shape and exchange notifications.
