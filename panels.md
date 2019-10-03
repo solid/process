@@ -19,7 +19,7 @@ This is an example that people can use as a template for submitting their own pa
 - [Panellist Name](link to github profile) <[email@example.org](mailto:email@example.org)> (@github handle)
 
 ### Editorial Assignment 
-Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Editorial Assignment Name](https://github.com/solid/process/blob/master/editors.md#insert-editorial-assingment-link), and will be principally reviewed by any editors assigned to it.
+Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Editorial Assignment Name](https://github.com/solid/process/blob/master/editors.md#insert-editorial-assignment-link), and will be principally reviewed by any editors assigned to it.
 
 ## Index of Panels
 
@@ -29,7 +29,7 @@ Candidate Proposals to the Solid Specification produced by this panel are likely
 * [Artificial Intelligence](#artificial-intelligence)
 * [Authentication](#authentication)
 * [Caching](#caching)
-* [Cryptography,Security, and Privacy](#security-cryptography-and-privacy)
+* [Cryptography, Security, and Privacy](#security-cryptography-and-privacy)
 * [Data Interoperability and Portability](#data-interoperability-and-portability)
 * [Events and Notifications](#events-and-notifications)
 * [Explaining the Vision](#explaining-the-vision)
@@ -74,7 +74,7 @@ Pertaining to the mechanisms through which access and manipulation events of res
 - 
 
 ### Editorial Assignment 
-Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Auditing Editorial Assingnment](https://github.com/solid/process/blob/master/editors.md#auditing), and will be principally reviewed by any editors assigned to it.
+Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Auditing Editorial Assignment](https://github.com/solid/process/blob/master/editors.md#auditing), and will be principally reviewed by any editors assigned to it.
 
 ## Authorization and Access Control
 How various agents and authorized to access resources.
@@ -168,7 +168,7 @@ Discussion and specs related to performing decentralized Key Management, Cryptog
 - [Max Dor](https://github.com/maxidorius) <[max@dorius.io](mailto:max@dorius.io)> (@maxidorius)
 
 ### Editorial Assignment 
-Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Security, Cryptography, and Privacy editorial assingment](https://github.com/solid/process/blob/master/editors.md#cryptography-security-and-privacy), and will be principally reviewed by any editors assigned to it.
+Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Security, Cryptography, and Privacy editorial assignment](https://github.com/solid/process/blob/master/editors.md#cryptography-security-and-privacy), and will be principally reviewed by any editors assigned to it.
 
 ## Data Interoperability and Portability
 Ensuring the interoperability of data as it is read and written by different users and/or applications. Topics of discussion will include vocabularies, shapes, footprints, and the mechanisms through which these work together to provide consistent and safe access and manipulation of data in a pod by different agents and/or users. Pertaining to mechanisms that ensure disparate applications or agents can safely and seamlessly read and write the data they need.  Pertaining to mechanisms that ensure the portability of data stored in a data pod such that it can be safely migrated between conformant Solid server implementations, as well as exported to other mediums.  
