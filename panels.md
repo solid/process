@@ -55,12 +55,14 @@ How to ensure that the technical decisions are taking accessibility consideratio
 
 ### Communication channels
 - [accessibility panel repository](https://github.com/solid/Accessibility-Panel)
-- [dedicated forum thread](https://forum.solidproject.org/t/accessibility-panel/2083) 
 
 ### Panelists
-- [Sina Bahram](https://github.com/sinabahram) <[sina@sinabahram.com](mailto:sina@sinabahram.com)> 
+- [Sina Bahram](https://github.com/sinabahram) <[sina@sinabahram.com](mailto:sina@sinabahram.com)> (@sinabahram)
 - [Bud](https://github.com/spudthebud) (@spudthebud)
 - [elf Pavlik](https://github.com/elf-pavlik) <[elf-pavlik@hackers4peace.net](mailto:elf-pavlik@hackers4peace.net)> (@elf-pavlik)
+
+### Editorial Assignment 
+*currently none* 
 
 ## Auditing Panel
 Pertaining to the mechanisms through which access and manipulation events of resources in a data pod are recorded and accessible.
@@ -77,12 +79,9 @@ Candidate Proposals to the Solid Specification produced by this panel are likely
 ## Authorization and Access Control
 How various agents and authorized to access resources.
 
-### Meetings:
-Wednesdays at 10AM Eastern at https://hangouts.google.com/call/vsPFdfBxsTgfHcjKbmcXAEEE
-
 ### Communication channels
+ - Wednesdays at 10AM Eastern at https://hangouts.google.com/call/vsPFdfBxsTgfHcjKbmcXAEEE
 - [app authorisation repository](https://github.com/solid/authorization-and-access-control-panel/issues/) 
-- [dedicated forum thread](https://forum.solidproject.org/t/app-authorisation/2088) 
 - [app authorisation gitter channel](https://gitter.im/solid/app-authorization-panel)
 
 ### Panelists
@@ -99,11 +98,13 @@ Candidate Proposals to the Solid Specification produced by this panel are likely
 To discuss Artificial Intelligence for Solid
 
 ### Communication channels
-- [dedicated forum thread](https://forum.solidproject.org/t/artificial-intelligence-panel/2122)
 - [artificial intelligence panel repository](https://github.com/solid/Artificial-Intelligence-Panel)
 
 ### Panelists
 * [James Schoening](https://github.com/jimschoening) <[james.r.schoening.civ@mail.mil](mailto:james.r.schoening.civ@mail.mil)> (@jimschoening)
+
+### Editorial Assignment 
+*currently none* 
 
 ## Authentication
 Discussion and specs relating to Authentication and Auth Delegation protocols, including:
@@ -114,16 +115,12 @@ Discussion and specs relating to Authentication and Auth Delegation protocols, i
 * DID Authentication (proposed future integration)
 * HTTP Signatures (proposed future integration)
 
-### Meetings:
-Mondays at 10AM Eastern at https://hangouts.google.com/call/3k5z3gBVKm-58m8Xgm2YAEEE
-
 ### Communication channels
+- Mondays at 10AM Eastern at https://hangouts.google.com/call/3k5z3gBVKm-58m8Xgm2YAEEE
 - [dedicated forum thread](https://forum.solidproject.org/t/authentication-panel/2086) 
 - [authentication panel repository](https://github.com/solid/authentication-panel) 
 
 ### Panelists
-(note also the list of [editors](https://github.com/solid/process/blob/master/editors.md#authentication) for this topic)
-
 - [Dmitri Zagidulin](https://github.com/dmitrizagidulin) <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
 - [Paul Worrall](https://github.com/pjworrall) <[paulw@inrupt.com](mailto:paulw@inrupt.com)> (@pjworrall)
 - [Michael Thornburgh](https://github.com/zenomt) <[mthornbu@adobe.com](mailto:mthornbu@adobe.com)> (@zenomt)
@@ -139,11 +136,13 @@ Candidate Proposals to the Solid Specification produced by this panel are likely
 Ensure that caching mechanisms, both currently standardized and future standards are employed within Solid.
 
 ### Communication channels
-- [dedicated forum thread](https://forum.solidproject.org/t/caching-panel/2115)
 - [caching panel repository](https://github.com/solid/caching-panel)
 
 ### Panelists
 - [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
+
+### Editorial Assignment 
+*currently none* 
 
 ## Cryptography, Security, and Privacy
 Discussion and specs related to performing decentralized Key Management, Cryptographic Signatures (including integration with [Verifiable Credentials](https://w3c.github.io/vc-data-model/)), and at-rest data Encryption on Solid servers. Pertaining to mechanisms used and considerations taken when securing a data pod, a conformant server implementation, and/or the immediate ecosystem around them.  Pertaining to the mechanisms through which cryptographic techniques are employed to provide data privacy, data integrity, and verifiable information. The focus of this panel is to ensure Privacy is always kept in mind in the various proposals of the project across all panels, and that individuals' rights are inherently protected in the Solid ecosystem. It will do so by:
@@ -161,7 +160,6 @@ Discussion and specs related to performing decentralized Key Management, Cryptog
 - [gitter channel](https://gitter.im/solid/cryptography-signing-privacy)
 
 ### Panelists
-(note also the list of [editors](https://github.com/solid/process/blob/master/editors.md#cryptography) for this topic)
 - [Dmitri Zagidulin](https://github.com/dmitrizagidulin) <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
 - [Paul Worrall](https://github.com/pjworrall) <[paulw@inrupt.com](mailto:paulw@inrupt.com)> (@pjworrall)
 - [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
@@ -176,7 +174,6 @@ Candidate Proposals to the Solid Specification produced by this panel are likely
 Ensuring the interoperability of data as it is read and written by different users and/or applications. Topics of discussion will include vocabularies, shapes, footprints, and the mechanisms through which these work together to provide consistent and safe access and manipulation of data in a pod by different agents and/or users. Pertaining to mechanisms that ensure disparate applications or agents can safely and seamlessly read and write the data they need.  Pertaining to mechanisms that ensure the portability of data stored in a data pod such that it can be safely migrated between conformant Solid server implementations, as well as exported to other mediums.  
 
 ### Communication channels
-- [dedicated forum thread](https://forum.solidproject.org/t/data-interoperability/2090) 
 - [data-interoperability-repository](https://github.com/solid/data-interoperability-panel)
 
 ### Panelists
@@ -213,7 +210,6 @@ Candidate Proposals to the Solid Specification produced by this panel are likely
 
 ## Explaining the Vision
 Taking the suggestions on the channels listed below to produce proposals explaining [what is Solid](https://github.com/solid/roadmap/blob/master/what-is-solid.md) and the [Solid vision, mission, and values](https://github.com/solid/roadmap/blob/master/solid-mission-vision-values.md). 
-
 Related conversations to take into consideration: 
 * https://github.com/solid/information/pull/202
 * https://github.com/solid/information/issues/180 
@@ -227,7 +223,6 @@ Related conversations to take into consideration:
 * https://github.com/solid/roadmap/pull/9
 
 ### Communication channels
-- [dedicated forum thread](https://forum.solidproject.org/t/explaining-the-vision-panel/2089) 
 - [GitHub team discussion board](https://github.com/orgs/solid/teams/explaining-the-vision-panel/discussions)
 - [Explaining the Visions Solid Github Repository](https://github.com/solid/Explaining-the-Vision-Panel) 
 - most converstation about "What is Solid" is here https://github.com/solid/Explaining-the-Vision-Panel/issues/1#issuecomment-518300433
@@ -241,22 +236,26 @@ Related conversations to take into consideration:
 - [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
 - [Sarven Capadisli](https://github.com/csarven) &lt;https://csarven.ca/#i&gt; (@csarven)
 
+### Editorial Assignment 
+*currently none* 
+
 ## External Interop and Outreach
 How to technically link to other initiatives to build positive win-win collaborations. 
 
 ### Communication channels
-- [dedicated forum thread](https://forum.solidproject.org/t/external-interop-and-outreach-panel/2080) 
 - [external-interop repository](https://github.com/solid/external-interop)
 
 ### Panelists
 - [Dmitri Zagidulin](https://github.com/dmitrizagidulin) <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
 - [David H. Mason](https://github.com/vid) <[vid_github_solid_outreach@zooid.org](mailto:vid_github_solid_outreach@zooid.org)> (@vid)
 
+### Editorial Assignment 
+*currently none* 
+
 ## Identity
 Discussions and specs for expanding the capabilities of Solid's WebID identity system, including user profiles, [Decentralized Identifiers (DIDs)](https://w3c-ccg.github.io/did-spec/), and related standards.
 
 ### Communication channels
-- [dedicated forum thread](https://forum.solidproject.org/t/identity-panel/2085) 
 - [identity panel repository](https://github.com/solid/identity-panel) 
 
 ### Panelists
@@ -271,13 +270,15 @@ Candidate Proposals to the Solid Specification produced by this panel are likely
 To ensure internationalisation is taken into consideration during the Solid design.
 
 ### Communication channels
-- [dedicated forum thread](https://forum.solidproject.org/t/internationalisation-panel/2082) 
 - [internationalisation panel repository](https://github.com/solid/internationalisation-panel)
 
 ### Panelists
 - [King Wang](https://github.com/kingwang88) <[kingwang@hsfranchise.com](mailto:kingwang@hsfranchise.com)> (@kingwang88)
 - [Philip Laszkowicz](https://github.com/HelloFillip) <[phil@fillip.pro](mailto:phil@fillip.pro)> (@HelloFillip)
 - [elf Pavlik](https://github.com/elf-pavlik) <[elf-pavlik@hackers4peace.net](mailto:elf-pavlik@hackers4peace.net)> (@elf-pavlik)
+
+### Editorial Assignment 
+*currently none* 
 
 ## Resource Access
 Pertaining to the access of resources in a data pod over a network via HTTP and LDP
@@ -290,32 +291,10 @@ Pertaining to the access of resources in a data pod over a network via HTTP and 
 ### Editorial Assignment 
 Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Resource Access](https://github.com/solid/process/blob/master/editors.md#resource-access), and will be principally reviewed by any editors assigned to it.
 
-## Privacy and Individuals Rights Protection Panel
-The focus of this panel is to ensure Privacy is always kept in mind in the various proposals of the project across all panels, and that individuals' rights are inherently protected in the Solid ecosystem.
-
-It will do so by:
-- Leading Privacy discussions and initiatives.
-- Reviewing the proposals of other panels for anything Privacy related, and provide guidance to them if requested.
-- Researching how the technical side of the project (specification, implementations):
-  - Can affect the Privacy of individuals; Per example by unexpectedly leaking information in the protocol itself.
-  - Affect their rights; Per example by making it difficult for them to find privacy policies or delete remote content.
-  - Lead to any kind of harm to the individual; Per example, by allowing a malicious individual to publish private content unchecked.
-- Ensuring practical guides are produced for individuals and Data Privacy Officers alike, allowing them to know how to deal with their legal rights and obligations respectively.
-- Making sure laws like GDPR are directly taken into account when designing new feature / product / software.
-
-### Communication channels
-- [dedicated forum thread](https://forum.solidproject.org/t/privacy-and-individuals-rights-protection-panel/2094)
-- [Privacy and Individuals Rights Protection Panel repository](https://github.com/solid/privacy-and-individuals-rights-protection-panel/tree/master) 
-- [gitter channel](https://gitter.im/solid/Privacy-and-Individuals-Rights-Protection-Panel--#)
-
-### Panelists
-- [Max Dor](https://github.com/maxidorius) <[max@dorius.io](mailto:max@dorius.io)> (@maxidorius) 
-
 ## Querying
 Discussion, specs and recommendations for implementing querying mechanisms beyond LDP, such as SPARQL, [Triple Pattern Fragments (TPF)](http://linkeddatafragments.org/in-depth/), GraphQL, and others.
 
 ### Communication channels
-- [dedicated forum thread](https://forum.solidproject.org/t/query-panel/2087) 
 - [solid-tpf](https://github.com/solid/solid-tpf) 
 
 ### Panelists
@@ -332,17 +311,18 @@ Candidate Proposals to the Solid Specification produced by this panel are likely
 Develop clarity on how to self-host and remain interoperable with other Pod providers. 
 
 ### Communication channels
-- [dedicated forum thread](https://forum.solidproject.org/t/self-hosting-panel/2148)
 - [Self Hosting Panel Repository](https://github.com/solid/self-hosting-panel)
 
 ### Panelists
 - Danny Haider
 
+### Editorial Assignment 
+*currently none* 
+
 ## Specification Entry Document Panel
 To create a structure for the document at https://github.com/solid/specification/, and the division in documents it links to and well as translating the community consensus regarding the application of the specifications mentioned in this document into a clear, unambiguous and implementable text.
 
 ### Communication channels
-- [dedicated forum thread](https://forum.solidproject.org/t/specification-entry-document-panel/2084) 
 - [Issues on the Solid specification repository](https://github.com/solid/specification/)
 
 ### Panelists
@@ -351,6 +331,9 @@ To create a structure for the document at https://github.com/solid/specification
 - [Sarven Capadisli](https://github.com/csarven) &lt;https://csarven.ca/#i&gt; (@csarven)
 - [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
 - [King Wang](https://github.com/kingwang88) <[kingwang@hsfranchise.com](mailto:kingwang@hsfranchise.com)> (@kingwang88)
+
+### Editorial Assignment 
+*currently none* 
 
 ### Editorial Assignment 
 Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [general editors](https://github.com/solid/process/blob/master/editors.md#editorial-team), and will be principally reviewed by any editors.
