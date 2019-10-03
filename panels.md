@@ -18,9 +18,13 @@ This is an example that people can use as a template for submitting their own pa
 - [Panellist Name](link to github profile) <[email@example.org](mailto:email@example.org)> (@github handle)
 - [Panellist Name](link to github profile) <[email@example.org](mailto:email@example.org)> (@github handle)
 
+### Editorial Assignment 
+Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Editorial Assignment Name](https://github.com/solid/process/blob/master/editors.md#insert-editorial-assingment-link), and will be principally reviewed by any editors assigned to it.
+
 ## Index of Panels
 
 * [Accessibility](#accessibility)
+* [Auditing](#auditing)
 * [Authorization and Access Control](#authorization-and-access-control)
 * [Artificial Intelligence](#artificial-intelligence)
 * [Authentication](#authentication)
@@ -32,6 +36,7 @@ This is an example that people can use as a template for submitting their own pa
 * [External Interop and Outreach](#external-interop-and-outreach)
 * [Identity](#identity)
 * [Internationalisation](#internationalisation)
+* [Resource Access](#resource-access)
 * [Privacy and Individuals Rights Protection](#privacy-and-individuals-rights-protection-panel)
 * [Querying](#querying)
 * [Self Hosting](#self-hosting)
@@ -56,6 +61,18 @@ How to ensure that the technical decisions are taking accessibility consideratio
 - [Sina Bahram](https://github.com/sinabahram) <[sina@sinabahram.com](mailto:sina@sinabahram.com)> 
 - [Bud](https://github.com/spudthebud) (@spudthebud)
 - [elf Pavlik](https://github.com/elf-pavlik) <[elf-pavlik@hackers4peace.net](mailto:elf-pavlik@hackers4peace.net)> (@elf-pavlik)
+
+## Auditing Panel
+Pertaining to the mechanisms through which access and manipulation events of resources in a data pod are recorded and accessible.
+
+### Communication channels
+- 
+
+### Panelists
+- 
+
+### Editorial Assignment 
+Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Auditing Editorial Assingnment](https://github.com/solid/process/blob/master/editors.md#auditing), and will be principally reviewed by any editors assigned to it.
 
 ## Authorization and Access Control
 How various agents and authorized to access resources.
@@ -261,6 +278,38 @@ To ensure internationalisation is taken into consideration during the Solid desi
 - [King Wang](https://github.com/kingwang88) <[kingwang@hsfranchise.com](mailto:kingwang@hsfranchise.com)> (@kingwang88)
 - [Philip Laszkowicz](https://github.com/HelloFillip) <[phil@fillip.pro](mailto:phil@fillip.pro)> (@HelloFillip)
 - [elf Pavlik](https://github.com/elf-pavlik) <[elf-pavlik@hackers4peace.net](mailto:elf-pavlik@hackers4peace.net)> (@elf-pavlik)
+
+## Resource Access
+Pertaining to the access of resources in a data pod over a network via HTTP and LDP
+
+### Communication channels
+- 
+
+### Panelists
+- 
+### Editorial Assignment 
+Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Resource Access](https://github.com/solid/process/blob/master/editors.md#resource-access), and will be principally reviewed by any editors assigned to it.
+
+## Privacy and Individuals Rights Protection Panel
+The focus of this panel is to ensure Privacy is always kept in mind in the various proposals of the project across all panels, and that individuals' rights are inherently protected in the Solid ecosystem.
+
+It will do so by:
+- Leading Privacy discussions and initiatives.
+- Reviewing the proposals of other panels for anything Privacy related, and provide guidance to them if requested.
+- Researching how the technical side of the project (specification, implementations):
+  - Can affect the Privacy of individuals; Per example by unexpectedly leaking information in the protocol itself.
+  - Affect their rights; Per example by making it difficult for them to find privacy policies or delete remote content.
+  - Lead to any kind of harm to the individual; Per example, by allowing a malicious individual to publish private content unchecked.
+- Ensuring practical guides are produced for individuals and Data Privacy Officers alike, allowing them to know how to deal with their legal rights and obligations respectively.
+- Making sure laws like GDPR are directly taken into account when designing new feature / product / software.
+
+### Communication channels
+- [dedicated forum thread](https://forum.solidproject.org/t/privacy-and-individuals-rights-protection-panel/2094)
+- [Privacy and Individuals Rights Protection Panel repository](https://github.com/solid/privacy-and-individuals-rights-protection-panel/tree/master) 
+- [gitter channel](https://gitter.im/solid/Privacy-and-Individuals-Rights-Protection-Panel--#)
+
+### Panelists
+- [Max Dor](https://github.com/maxidorius) <[max@dorius.io](mailto:max@dorius.io)> (@maxidorius) 
 
 ## Querying
 Discussion, specs and recommendations for implementing querying mechanisms beyond LDP, such as SPARQL, [Triple Pattern Fragments (TPF)](http://linkeddatafragments.org/in-depth/), GraphQL, and others.
