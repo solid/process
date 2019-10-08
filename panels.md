@@ -90,6 +90,8 @@ How various agents and authorized to access resources.
 - [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
 - [Jackson Morgan](https://github.com/jaxoncreed) <[jacksonm@inrupt.com](mailto:jacksonm@inrupt.com)> (@jaxoncreed)
 - [Sarven Capadisli](https://github.com/csarven) &lt;https://csarven.ca/#i&gt; (@csarven)
+- [Henry Story](http://github.com/bblfish) <[henry.story@bblfish.net](mailto:henry.story@bblfish.net)> (@bblfish)
+
 
 ### Editorial Assignment 
 Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Authorization editorial topic](https://github.com/solid/process/blob/master/editors.md#authorization), and will be principally reviewed by any editors assigned to it.
@@ -128,6 +130,7 @@ Discussion and specs relating to Authentication and Auth Delegation protocols, i
 - [Jackson Morgan](https://github.com/jaxoncreed) <[jacksonm@inrupt.com](mailto:jacksonm@inrupt.com)> (@jaxoncreed)
 - [Aaron Coburn](https://github.com/acoburn) <[aaronc@inrupt.com](mailto:aaronc@inrupt.com)> (@acoburn)
 - [Matthias Evering](https://github.com/ewingson) <[me@evering.eu](mailto:me@evering.eu)> (@ewingson)
+- [Henry Story](http://github.com/bblfish) <[henry.story@bblfish.net](mailto:henry.story@bblfish.net)> (@bblfish)
 
 ### Editorial Assignment 
 Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Authentication editorial topic](https://github.com/solid/process/blob/master/editors.md#authentication), and will be principally reviewed by any editors assigned to it.
@@ -166,6 +169,7 @@ Discussion and specs related to performing decentralized Key Management, Cryptog
 - [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
 - [Rob McColl](https://github.com/robmccoll) <[rob@nix.software](mailto:rob@nix.software)> (@robmccoll)
 - [Max Dor](https://github.com/maxidorius) <[max@dorius.io](mailto:max@dorius.io)> (@maxidorius)
+- [Henry Story](http://github.com/bblfish) <[henry.story@bblfish.net](mailto:henry.story@bblfish.net)> (@bblfish)
 
 ### Editorial Assignment 
 Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Security, Cryptography, and Privacy editorial assignment](https://github.com/solid/process/blob/master/editors.md#cryptography-security-and-privacy), and will be principally reviewed by any editors assigned to it.
@@ -263,6 +267,7 @@ Discussions and specs for expanding the capabilities of Solid's WebID identity s
 - [Dmitri Zagidulin](https://github.com/dmitrizagidulin) <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
 - [Paul Worrall](https://github.com/pjworrall) <[paulw@inrupt.com](mailto:paulw@inrupt.com)> (@pjworrall)
 - [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
+- [Henry Story](http://github.com/bblfish) <[henry.story@bblfish.net](mailto:henry.story@bblfish.net)> (@bblfish)
 
 ### Editorial Assignment 
 Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Identity editorial topic](https://github.com/solid/process/blob/master/editors.md#identity), and will be principally reviewed by any editors assigned to it.
