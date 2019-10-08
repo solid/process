@@ -41,7 +41,6 @@ Candidate Proposals to the Solid Specification produced by this panel are likely
 * [Querying](#querying)
 * [Self Hosting](#self-hosting)
 * [Specification Entry Document](#specification-entry-document-panel)
-* [Teaching Materials](#teaching-material-panel)
 
 All Panels can be reached on [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 
@@ -342,42 +341,3 @@ To create a structure for the document at https://github.com/solid/specification
 
 ### Editorial Assignment 
 Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [general editors](https://github.com/solid/process/blob/master/editors.md#editorial-team), and will be principally reviewed by any editors.
-
-## Test Suite Panel
-Develop a test suite that can be used to verify an implementation
-against the Solid specification.
-
-### Communication channels
-- [dedicated forum thread](https://forum.solidproject.org/t/test-suite-panel/2092) 
-- [Test Suite Repository](https://github.com/solid/test-suite)
-- [Test Suite Gitter Channel](https://gitter.im/solid/test-suite)
-
-### Panelists
-- [Aaron Coburn](https://github.com/acoburn) <[aaronc@inrupt.com](mailto:aaronc@inrupt.com)> (@acoburn)
-- [elf Pavlik](https://github.com/elf-pavlik) <[elf-pavlik@hackers4peace.net](mailto:elf-pavlik@hackers4peace.net)> (@elf-pavlik)
-- [Jackson Morgan](https://github.com/jaxoncreed) <[jacksonm@inrupt.com](mailto:jacksonm@inrupt.com)> (@jaxoncreed)
-- [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
-- [Scott McWhirter](https://github.com/orgs/solid/people/konobi) <[scott@konobi.co.uk](mailto:scott@konobi.co.uk)> (@konobi)
-- [Michiel de Jong](https://github.com/orgs/solid/people/michielbdejong) <[michieldj@inrupt.com](mailto:michieldj@inrupt.com)> (@michielbdejong)
-- [Sarven Capadisli](https://github.com/csarven) &lt;https://csarven.ca/#i&gt; (@csarven)
-
-### Meetings:
-Wednesdays at 15:30 CET at https://meet.jit.si/solid-test-suite
-
-## Teaching Material Panel
-The Solid Teaching Material Panel has the aim to produce content to be able to effectively teach people to build Solid identity providers, Pods, and apps. The Solid teaching material can be found in [this file](https://github.com/solid/information/tree/master/documentation). [Documentation.md](https://github.com/solid/information/blob/master/documentation/documentation.md) is a place that gives an overview of all the content in this file and links to it. 
-
-### Communication channels
-- [dedicated forum thread](https://forum.solidproject.org/t/solid-teaching-material-panel/2081) 
-- [Teaching Material Panel Repository](https://github.com/solid/teaching-material-panel)
-
-### Panelists
-- [Vincent Tunru](https://github.com/Vinnl) <[vincentt@inrupt.com](mailto:vincentt@inrupt.com)> (@Vinnl)
-- [Jose Emilio Labra Gayo](http://labra.weso.es) <[jelabra@gmail.com](mailto:jelabra@gmail.com)> (@labra)
-- [King Wang](https://github.com/kingwang88) <[kingwang@hsfranchise.com](mailto:kingwang@hsfranchise.com)> (@kingwang88)
-- [Raul R Pearson](https://github.com/orgs/solid/people/raulrpearson) (@raulrpearson)
-- [Arne Hassel](https://github.com/orgs/solid/people/megoth) <[arneh@inrupt.com](mailto:arneh@inrupt.com)> (@megoth)
-- [Jackson Morgan](https://github.com/jaxoncreed) <[jacksonm@inrupt.com](mailto:jacksonm@inrupt.com)> (@jaxoncreed)
-- [Dan Wilkinson](https://github.com/danwilkinsoncreative) <[dan@get-even.co.uk](mailto:dan@get-even.co.uk)> (@danwilkinsoncreative)
-- [Kartika Tulusan](https://github.com/ktulusan) <[ktulusan@gmail.com](mailto:ktulusan@gmail.com)>@ktulusan  
-- [Michiel de Jong](https://github.com/michielbdejong) <[michieldj@inrupt.com](mailto:michieldj@inrupt.com)> (@michielbdejong)
