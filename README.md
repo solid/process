@@ -98,6 +98,16 @@ Administrators belong to the [Administrators Team](https://github.com/orgs/solid
 
 Administrators are appointed by the Solid Director. Administrators are listed at [administrators.md](administrators.md) along with their contact details and affiliations. Anyone may apply to be an Administrator. Administrator applications are not reviewed by other Administrators. They are reviewed only by the Solid Director.
 
+# Solid Libraries and Tutorials
+
+Anyone can write a Solid library and/or tutorial based on the Solid specification. 
+
+[Librarians](https://github.com/solid/process/blob/master/librarians.md) are responsible for keeping an up to date overview of the Solid Libraries and Tutorials within the ['implement' tab on solidproject.org](https://github.com/solid/solid.github.io/tree/master/pages/implement). Solid Libraries are also responsible for keeping libraries and tutorials that can be found in the Solid GitHub account up to date. 
+
+Librarians communicate about these responsibilities via [a dedicated gitter channel](https://gitter.im/solid/libraries). 
+
+[Librarians](https://github.com/solid/process/blob/master/librarians.md) are appointed by the Solid Director.
+
 # Solidproject.org Website 
 
 The [Creators](https://github.com/solid/process/blob/master/creators.md) are responsible for creating content for the solidproject.org website. 
