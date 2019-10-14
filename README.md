@@ -105,8 +105,6 @@ Anyone can write a Solid library based on the Solid specification.
 [Librarians](https://github.com/solid/process/blob/master/librarians.md) are responsible for keeping an up to date overview of the Solid Libraries both in the Solid GitHub account and outside within the ['implement' tab on solidproject.org](
 (https://github.com/solid/solid.github.io/tree/master/pages/implement). Librarians are also responsible for keeping libraries that can be found in the Solid GitHub account up to date. 
 
-Librarians communicate about these responsibilities via [a dedicated gitter channel](https://gitter.im/solid/libraries). 
-
 [Librarians](https://github.com/solid/process/blob/master/librarians.md) are appointed by the Solid Director.
 
 # Solidproject.org Website 
