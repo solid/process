@@ -106,11 +106,11 @@ The [Creators](https://github.com/solid/process/blob/master/creators.md) are res
 
 [Creators](https://github.com/solid/process/blob/master/creators.md) have [_Admin Permissions_](https://help.github.com/en/articles/repository-permission-levels-for-an-organization#permission-levels-for-repositories-owned-by-an-organization) of the [solidproject.org](https://github.com/solid/solidproject.org), [information](https://github.com/solid/information) , [Solid app listing](https://github.com/solid/solid-apps), [Pod listing](https://github.com/solid/pods), and [identity listing](https://github.com/solid/solid-idp-list),[explaining the vision](https://github.com/solid/Explaining-the-Vision-Panel) repositories.
 
-The website solidproject.org is linked to the [Solid GitHub repo called solidproject.org](https://github.com/solid/solidproject.org).Draft versions of updates of the website are worked on in the [Solid GitHub repo called solid.github.io](https://github.com/solid/solid.github.io). The draft work is documented on the [Creators project board](https://github.com/orgs/solid/projects/12). 
+The solidproject.org website is linked to the [Solid GitHub repo called solidproject.org](https://github.com/solid/solidproject.org). Draft versions of updates of the website are worked on in the [Solid GitHub repo called solid.github.io](https://github.com/solid/solid.github.io). The draft work is documented on the [Creators project board](https://github.com/orgs/solid/projects/12). 
 
 Anyone can make suggestions by commenting or submitting  pull requests to the [Solid GitHub repo called solid.github.io](https://github.com/solid/solid.github.io) to be reviewed by Creators. 
 
-For the draft versions of updates of solidproject.org to be approved one of the Creators needs to submit a pull request to the Solid Github solidproject.org repo which needs to be approved by the Solid Director. 
+For draft updates of solidproject.org to be approved, a Creator must submit a pull request to the [Solid GitHub repo called solidproject.org](https://github.com/solid/solidproject.org), which the Solid Director must then approve.
 
 Spelling, grammar, broken links, and other minor changes do not need to be approved by the Solid Director and can be updated directly by the Creators. 
 
