@@ -44,7 +44,7 @@ There are some repositories that are there for reference but do not have defined
 | a description of what users should be able to do with Solid which can also be found in the Explaining the Vision Panel | [user-stories](https://github.com/solid/user-stories) | 
 | a description of the plan | [Roadmap](https://github.com/solid/Roadmap) | 
 | old listing locations not on solidproject.org | [App Listing](https://github.com/solid/solid-apps), [Pod Listing](https://github.com/solid/pods), [Identity Provider Listing](https://github.com/solid/solid-idp-list), [solid-idps](https://github.com/solid/solid-idps) |
-
+| general copy | [Information](https://github.com/solid/information)| 
 
 The following repos need to be combined into solidproject.org/for-developers
 
@@ -53,7 +53,6 @@ The following repos need to be combined into solidproject.org/for-developers
 | vocab/ontology | [context](https://github.com/solid/context), [vocab](https://github.com/solid/vocab), [solid-namespace](https://github.com/solid/solid-namespace) | 
 | press | [dweb-summit-2018](https://github.com/solid/dweb-summit-2018), [talks](https://github.com/solid/talks), [intro to solid slides](https://github.com/solid/intro-to-solid-slides) | 
 | tutorials | [profile-viewer-tutorial](https://github.com/solid/profile-viewer-tutorial), [solid tutorial angular](https://github.com/solid/solid-tutorial-angular), [solid-tutorial-rdflib.js](https://github.com/solid/solid-tutorial-rdflib.js), , [understanding linked data](https://github.com/solid/understanding-linked-data), [solid tutorial pastebin](https://github.com/solid/solid-tutorial-pastebin), , [solid-tutorial-intro](https://github.com/solid/solid-tutorial-intro) | 
-| general copy | [Information](https://github.com/solid/information)| 
 
 # Unknown
 - [solid-email](https://github.com/solid/solid-email)
