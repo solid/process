@@ -119,7 +119,7 @@ Spelling, grammar, broken links, and other minor changes do not need to be appro
 Solid culture documentation was put together with inspiration and learnings from the following resources.
 
 * [W3C Good practice for running a group](https://www.w3.org/community/about/good-practice-for-running-a-group/)
-* Python (2018) [Python Lanugage](https://www.python.org/dev/peps/pep-0013/)
+* Python (2018) [Python Language](https://www.python.org/dev/peps/pep-0013/)
 * Elinor Ostrom (2005) [Understanding Institutional Diversity](https://www.wtf.tw/ref/ostrom_2005.pdf).
 * Chales M Schweik and Meelis Kitsting (2010) [Applying Elinor Ostrom’s Rule Classification Framework to the Analysis of Open Source Software Commons. Transnational Corporations Review](http://www.tnc-online.net/pic/2010032809124697.pdf)
 * Sean McDonald (2019) [Reclaiming Data Trusts. CIGO](https://www.cigionline.org/articles/reclaiming-data-trusts)
