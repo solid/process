@@ -1,6 +1,6 @@
 This repository details how changes to Solid may be proposed and accepted.
 
-# Solid Specficification
+# Solid Specification
 The following is a description about how changes to the [Solid Specification](https://github.com/solid/specification) may be proposed and accepted.
 
 Anyone may participate in [this process](https://github.com/solid/culture). Please read the [Code of Conduct](code-of-conduct.md) before doing so.
