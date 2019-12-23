@@ -76,7 +76,7 @@ To help broad consensus form, it is suggested that each proposal be brought to t
 1. When a Panel reaches rough consensus on an issue, the Panel should notify the Editor(s), indicating in informal text what the consensus entails and who participated in forming it.
 1. When a Panel starts drafting the text of a proposal, the Panel should notify the Editor(s).
 
-The above is not required and superfluous for small changes, but for larger issues, it is likely to speed up the overall process.
+The above is not required and may be superfluous for small changes, but it is likely to speed up the overall process for larger issues.
 
 An Editor determines whether a Candidate Proposal includes a substantive change and marks it accordingly. If there is any disagreement among Editors, the Candidate Proposal will be automatically marked as including a substantive change.
 
