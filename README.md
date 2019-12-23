@@ -70,6 +70,14 @@ When there are objections, notify the Solid Panels and Stakeholders about the fi
 Candidate proposals to the [Solid Specification](https://github.com/solid/specification) submitted for review go through an editorial process before they are accepted.
 Candidate Proposals to change the Solid Specification must be submitted for editorial review before they are accepted, along with the results of any votes taken.
 
+To help broad consensus form, it is suggested that proposals are brought to the Editor's attention at some defined contact points during its life cycles. These contact points are: 
+1. When at first a problem with the specification is encountered, an [issue is opened](https://github.com/solid/specification/issues/new). 
+1. Panels may create or adopt issues, and panels should notify Editors that discussion has started.
+1. When a Panel reaches rough consensus, Panels should notify Editors and indicate in an informal text what the consensus entails and who participated in forming it.
+1. When a Panel starts drafting the text of a proposal Panels should notify Editors.
+
+The above is not required and superfluous for small changes, but for larger issues, it is likely to speed up the overall process.
+
 An Editor determines whether a Candidate Proposal includes a substantive change and marks it accordingly. If there is any disagreement among Editors, the Candidate Proposal will be automatically marked as including a substantive change.
 
 Candidate Proposals with substantive changes require three Editors who are assigned to the material being modified to actively approve the proposal, with no Editors from the Editorial Team actively rejecting. If there are less than three Editors assigned to the material being modified, then other Editors from the Editorial Team may participate.  Editors may abstain. Candidate Proposals with substantive changes must remain open for at least one week before final acceptance. If an Editor does not vote by the end of that week it will be assumed that they abstained, providing a good faith attempt has been made to involve those who may be likely to disagree. Once the Candidate Proposal has successfully passed editorial review and the specified wait-time has elapsed, it may be merged by an assigned Editor.
