@@ -74,7 +74,7 @@ To help broad consensus form, it is suggested that each proposal be brought to t
 1. When a problem with the specification is first encountered, an [issue is opened](https://github.com/solid/specification/issues/new). 
 1. Panels may create or adopt issues, and panels should notify Editors that discussion has started.
 1. When a Panel reaches rough consensus on an issue, the Panel should notify the Editor(s), indicating in informal text what the consensus entails and who participated in forming it.
-1. When a Panel starts drafting the text of a proposal Panels should notify Editors.
+1. When a Panel starts drafting the text of a proposal, the Panel should notify the Editor(s).
 
 The above is not required and superfluous for small changes, but for larger issues, it is likely to speed up the overall process.
 
