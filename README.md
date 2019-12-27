@@ -112,6 +112,10 @@ Anyone can make suggestions by commenting or submitting  pull requests to the [`
 
 Spelling, grammar, broken links, and other minor changes do not need to be approved by the Solid Director and can be updated directly by the Creators. 
 
+# Solid Newsletter
+
+[This Week in Solid](https://solidproject.org/this-week-in-solid) is [openly developed on GitHub](https://github.com/solid/solidproject.org/blob/staging/_posts/this-week-in-solid/next.md). If you would like something to be mentioned or find any errors in a previous edition please [submit a pull request](https://github.com/solid/solidproject.org/pulls). [This Week in Solid](https://solidproject.org/this-week-in-solid) is sent via the mailing list every Thursday at 1500 CET by Administrators after being edited and reviewed by the Director. 
+
 # References
 
 Solid culture documentation was put together with inspiration and learnings from the following resources.
