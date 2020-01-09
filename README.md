@@ -1,59 +1,58 @@
-This repository details how changes to Solid may be proposed and accepted.
+This repository details how changes to [Solid](https://github.com/solid/specification) may be proposed and accepted.
 
-# Solid Specification
-The following is a description about how changes to the [Solid Specification](https://github.com/solid/specification) may be proposed and accepted.
+Anyone may participate in [this process](https://github.com/solid/process). Please read the [Code of Conduct](code-of-conduct.md) before doing so.
 
-Anyone may participate in [this process](https://github.com/solid/culture). Please read the [Code of Conduct](code-of-conduct.md) before doing so.
+Anyone may submit a proposal to alter this process. These proposals will not be reviewed by the editors. They will be reviewed only by [Tim Berners-Lee](https://github.com/timbl), who is the Solid Director.
 
 ## Contributors
 
-Any individual that has been involved in proposals to improve the [Solid Specification](https://github.com/solid/specification) has provided a valuable service to the [Solid Project](https://www.solidproject.org) and is encouraged to continue.
+Any individual that has been involved in proposals to improve the [Solid](https://github.com/solid/specification) has provided a valuable service to the [Solid Project](https://www.solidproject.org) and is encouraged to continue.
 
 All manner of contributions are important - whether identifying problems, asking questions, or proposing normative changes.
 
-There are many topics, problems, or ideas best tackled by a group of people with a specific set of domain expertise. For these cases, we have [Solid Panels](#solid-panels).
+There are many problems and ideas best tackled by a group of people with a specific set of domain expertise called Solid Topics. All contributors are listed as having domain expertise on specific Solid Topics. 
 
-### Solid Panels
+### Panellists 
+A [Solid Panel](#solid-panels) is a group of individuals focused a specific Solid Topic with a defined aim. Solid Panels author proposals to change [Solid](https://github.com/solid/specification). 
 
-Solid Panels are groups of individuals focused on a specific problem or domain relevant to Solid, with an aim to propose changes to the [Solid Specification](https://github.com/solid/specification). Anyone may join a panel or suggest a new panel.
+Anyone may join a panel or suggest a new panel.
 
 Domains may be technical, non-technical, or some combination of the two. For example, a Security Panel could focus on the evaluation and advancement of the Solid security model.
 
 A list of Solid Panels is maintained at [panels.md](panels.md). This listing helps people find panels they may want to participate in, and helps editors find panels to consult as part of the editorial process.
 
-Panels may request to have a repository created within the [Solid Github Organization](https://github.com/solid). These requests should be made by submitting an issue to [solid/process](https://github.com/solid/process). The request should include the proposed name of the repository, and how it will be used. Any editor may reject a proposed name and request an alternative. All panel members will receive [_Maintain Permissions_](https://help.github.com/en/articles/repository-permission-levels-for-an-organization#permission-levels-for-repositories-owned-by-an-organization) on the panel repository, unless it is subject to editorial review, which would require that it employ a [different permission structure](#repositories). Panel repositories that are inactive for more than six months may be archived by Solid Administrators.
+Panels that are inactive for more than six months may be archived by Solid Administrators.
 
-Panels may request to have a gitter channel created within the [Solid Gitter Organization](https://gitter.im/solid). These requests should be made by submitting an issue to [solid/process](https://github.com/solid/process).
+Panellists belong to the [Panllist Team](https://github.com/orgs/solid/teams/panellists) in the [Solid GitHub Organization](https://github.com/solid).
 
-## Stakeholders
+### Editors 
+[Solid Editors](editors.md) are individuals who are collectively responsible for editing [Solid](https://github.com/solid/specification). 
 
-Stakeholders are those affected by normative changes to the [Solid Specification](https://github.com/solid/specification). There are two types of Stakeholders; [Solid Users](#solid-users) and [Solid Implementers](#solid-implementers). It is important to consider them both when proposing changes, and adhering to the W3C [priority of constituencies](https://www.w3.org/TR/html-design-principles/#priority-of-constituencies) is encouraged. A Stakeholder may be both a user and an implementer.
+Editor appointments and their respective assignments to a specific Solid Topic are made by the Solid Director. The Editorial Team is comprised of all the Editors appointed by the Solid Director, who are listed at [editors.md](editors.md), along with their Solid Topic, contact details, and affiliations. Anyone may apply to be an Editor, and must include one or more requested Solid Topics as part of their application. These requests are not reviewed by other Editors. They are reviewed only by the Solid Director. Editor applications that can demonstrate the support of a relevant panel or group of community members will be favorably considered.
 
-Stakeholders who have opted to identify themselves publicly are listed at [stakeholders.md](stakeholders.md). Anyone may decide to identify themselves publicly as a Solid Stakeholder, but it is not mandatory. Identified stakeholders may be consulted for feedback as part of the editorial process.
+Editors belong to the [Editorial Team](https://github.com/orgs/solid/teams/editors) in the [Solid GitHub Organization](https://github.com/solid).
 
-### Solid Users
+Editors have [Admin Permissions](https://help.github.com/en/articles/repository-permission-levels-for-an-organization#permission-levels-for-repositories-owned-by-an-organization) of the [Solid repository](https://github.com/solid/specification). 
 
-Solid Users are individuals, companies, or organizations who access data stored in a Solid Pod.
+## How to Make Changes to [Solid](https://github.com/solid/specification)
 
-### Implementers
-Solid Implementers are companies or organizations who are implementing the [Solid Specification](https://github.com/solid/specification). A Solid Implementer may be any combination of Identity Provider, Pod Provider, and Application Provider.
-
-## How to Make Changes
-
-This section details how changes to the [Solid Specification](https://github.com/solid/specification) may be drafted, proposed, and accepted.
-
-Anyone may submit a proposal to alter this process. These proposals will not be reviewed by the editors. They will be reviewed only by [Tim Berners-Lee](https://github.com/timbl), who is the Solid Director.
+This section details how changes to the [Solid](https://github.com/solid/specification) may be drafted, submitted, and accepted.
 
 ### Drafting proposals
 
-Anyone may propose improvements to the [Solid Specification](https://github.com/solid/specification). Here are some examples of different ways to contribute:
+Anyone may propose improvements to the [Solid](https://github.com/solid/specification). 
 
-- Submit a pull request or issue on the [Solid Specification repository](https://github.com/solid/solid-spec) in GitHub
-- Make a suggestion to the Solid Authorization Panel chat room about a change you'd like to see in Web Access Control
-- Make a suggestion on the Solid W3C Community Group mailing list to form a new Solid Panel, or join an existing Solid Panel
-- Propose an item for the W3C Solid Community Group call
+Panellists work in [issues in the Solid repository](https://github.com/solid/specification/issues) which need to have a Solid Topic label indicating which panel is working it. Editors are responsible for ensuring that every issue in the [Solid repository](https://github.com/solid/specification) has a Solid Topic label.
 
-Proposals for substantive changes to the [Solid Specification](https://github.com/solid/specification) go through an editorial review process. A change is considered substantive when it alters the normative text of the Solid Specification or the Solid Roadmap. Any proposal must be realistic and reasonable to implement, preferably with example implementations, and demonstrable support from Implementers.
+Communication should be concentrated on issues and pull requests on the Solid repository and not on [Solid gitter channels]((https://gitter.im/solid)) or sepearte repositories to make sure that everyone can keep track of all the relevant conversations. 
+
+On the 19th of every month there is a predefined [milestone](https://github.com/solid/specification/milestones) which includes all the issues and pull requests that are being worked on. The title of each pull request or issue needs to clearly define the exact required outcome. 
+
+Anyone can suggest which issues and pull reqeusts should be included in the upcoming milestone by writting a note in the  [gitter channel](https://gitter.im/solid/specification) including a link to the issue or pull request. The Solid Director approves the next milestone on the 19th. 
+
+### Submitting proposals
+
+Proposals for substantive changes to the [Solid](https://github.com/solid/specification) go through an editorial review process. A change is considered substantive when it alters the normative text of the Solid. Any proposal must be realistic and reasonable to implement, preferably with example implementations, and demonstrable support from Implementers.
 
 Any proposal should also be accompanied with a reasonable explanation of the need for the proposed change. For example:
 
@@ -61,32 +60,17 @@ Any proposal should also be accompanied with a reasonable explanation of the nee
 - Removing something because it was never adopted by Implementers for legitimate reasons, or because there has been a collective shift in focus away from that feature and it no longer makes sense to keep it.
 - Changing something to a simpler design that is able to address the same use case(s) with less complexity, or a change that resolves one or more identified issues in real-world use.
 
-A draft proposal often involves public discussion before being formally presented for review. After these discussions have occurred and a draft proposal has reached a sufficient level of maturity, it should be presented as a candidate proposal, asking Stakeholders and Panels if there are any major objections.
-
-When there are objections, notify the Solid Panels and Stakeholders about the final proposal with an invitation to vote. If there are options, detail them along with the implications of the options. The final proposal needs to be open for one week to give others a chance to vote. To show your support for a proposal write +1. To show your disapproval for a proposal write -1 along with a detailed reason for the disapproval and a suggestion for a preferred alternative. To abstain type 0 when you have no opinion. If you do not vote by the end of the week it will be assumed that you abstain. At the end of the week anyone may publish an overview of the vote results per Solid Panel and Stakeholder.
+To submit a proposal for editorial review any panllist may open a [pull request to the Solid repository](https://github.com/solid/specification/pulls) which clearly links to the issue where the proposal was discussed. The pull request needs to be left open for seven days to give over panellists a chance to suggest improvements. Seven days after the pull request was opened it's ready for editorial review.  
 
 ### Reviewing proposals
 
-Candidate proposals to the [Solid Specification](https://github.com/solid/specification) submitted for review go through an editorial process before they are accepted.
-Candidate Proposals to change the Solid Specification must be submitted for editorial review before they are accepted, along with the results of any votes taken.
+Candidate proposals to [Solid](https://github.com/solid/specification) submitted for editorial review go through an editorial process before they are accepted.
 
-An Editor determines whether a Candidate Proposal includes a substantive change and marks it accordingly. If there is any disagreement among Editors, the Candidate Proposal will be automatically marked as including a substantive change.
+An Editor determines whether a Candidate Proposal includes a substantive change and marks it accordingly with a label. If there is any disagreement among Editors, the Candidate Proposal will be automatically marked as including a substantive change.
 
 Candidate Proposals with substantive changes require three Editors who are assigned to the material being modified to actively approve the proposal, with no Editors from the Editorial Team actively rejecting. If there are less than three Editors assigned to the material being modified, then other Editors from the Editorial Team may participate.  Editors may abstain. Candidate Proposals with substantive changes must remain open for at least one week before final acceptance. If an Editor does not vote by the end of that week it will be assumed that they abstained, providing a good faith attempt has been made to involve those who may be likely to disagree. Once the Candidate Proposal has successfully passed editorial review and the specified wait-time has elapsed, it may be merged by an assigned Editor.
 
 Candidate Proposals without substantive changes require one Editor assigned to the material being modified to actively approve the proposal, with no Editors from the Editorial Team actively rejecting, and may be merged immediately by an assigned Editor. An assigned Editor may approve and merge their own non-substantive changes. Anyone from the Editorial Team has the right to revert a non-substantive change, but are encouraged to communicate with the assigned Editor that merged it first. Any revert must be accompanied by a reasonable explanation. If the change is reverted because they believe it to be substantive, that must be included in the explanation.
-
-## Editorial Structure
-
-Editor appointments and their respective assignments are made by the Solid Director. The Editorial Team is comprised of all the Editors appointed by the Solid Director, who are listed at [editors.md](editors.md), along with their assignments, contact details, and affiliations. Anyone may apply to be an Editor, and must include one or more requested editorial assignments as part of their application. These requests are not reviewed by other Editors. They are reviewed only by the Solid Director. Editor applications that can demonstrate the support of a relevant panel or group of community members will be favorably considered.
-
-Editors belong to the [Editorial Team](https://github.com/orgs/solid/teams/editors) in the [Solid GitHub Organization](https://github.com/solid).
-
-### Repositories
-
-Repositories requiring editorial review are listed in [editors.md](editors.md#editorial-assignments). Each repository has one or more assigned editors, and only assigned editors are permitted to merge into the master branch of these repositories, per the [proposal review process](#reviewing-proposals).
-
-Editors have [_Admin Permissions_](https://help.github.com/en/articles/repository-permission-levels-for-an-organization#permission-levels-for-repositories-owned-by-an-organization) on the repositories they are assigned to, and are permitted to grant [_Write Permissions_](https://help.github.com/en/articles/repository-permission-levels-for-an-organization#permission-levels-for-repositories-owned-by-an-organization) to other contributing authors on the same. All members of the Editorial Team have [_Write Permissions_](https://help.github.com/en/articles/repository-permission-levels-for-an-organization#permission-levels-for-repositories-owned-by-an-organization) on all repositories requiring editorial review listed in [editors.md](editors.md).
 
 # Administration
 
@@ -111,6 +95,9 @@ The solidproject.org website is linked to the [`master` branch of the GitHub rep
 Anyone can make suggestions by commenting or submitting  pull requests to the [`staging` branch of solid/solidproject.org](https://github.com/solid/solidproject.org/tree/staging) to be reviewed by Creators, and be approved by the Solid Director before they go to `master`.
 
 Spelling, grammar, broken links, and other minor changes do not need to be approved by the Solid Director and can be updated directly by the Creators. 
+
+# This Week in Solid
+[This Week in Solid](https://solidproject.org/this-week-in-solid) is a newsletter [openly developed on GitHub](https://github.com/solid/solidproject.org/blob/staging/_posts/this-week-in-solid/next.md). If you would like something to be mentioned or find any errors in a previous edition please [submit a pull request](https://github.com/solid/solidproject.org/pulls). [This Week in Solid](https://solidproject.org/this-week-in-solid) is sent via the mailing list every Thursday at 1500 CET by Administrators after being edited and reviewed by the Director.
 
 # References
 
