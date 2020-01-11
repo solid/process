@@ -2,6 +2,8 @@ This repository details how changes to [Solid](https://github.com/solid/specific
 
 Anyone may participate in [this process](https://github.com/solid/process). Please read the [Code of Conduct](code-of-conduct.md) before doing so.
 
+To apply for a role you can either submit a pull request to the corresponding .md file in the Process repository or send an email to info@solidproject.org with your CV and motivation letter.
+
 Anyone may submit a proposal to alter this process. These proposals will not be reviewed by the editors. They will be reviewed only by [Tim Berners-Lee](https://github.com/timbl), who is the Solid Director.
 
 ## Roles
@@ -118,11 +120,16 @@ Any proposal should also be accompanied with a reasonable explanation of the nee
 - Removing something because it was never adopted by Implementers for legitimate reasons, or because there has been a collective shift in focus away from that feature and it no longer makes sense to keep it.
 - Changing something to a simpler design that is able to address the same use case(s) with less complexity, or a change that resolves one or more identified issues in real-world use.
 
-To submit a proposal for editorial review any panllist may open a [pull request to the Solid repository](https://github.com/solid/specification/pulls) which clearly links to the issue where the proposal was discussed. The pull request needs to be left open for seven days to give over panellists a chance to suggest improvements. Seven days after the pull request was opened it's ready for editorial review.  
+To submit a proposal for editorial review any panllist may open a [pull request to the Solid repository](https://github.com/solid/specification/pulls) which clearly links to the issue where the proposal was discussed. The pull request needs to be left open for seven days to give over panellists a chance to suggest improvements. 
+
+Seven days after the [pull request](https://github.com/solid/specification/pulls) was opened it's ready for editorial review. One of the panellists has to post it to the [gitter channel](https://gitter.im/solid/specification) and tag all the [Editors](https://github.com/solid/process/blob/master/editors.md).   
+
+One Editor listed as being an expert on the Solid Topic to which the issues and pull requests are labelled should be assigned. That Editor is responsible for ensuring that the issue or pull request is included in the appropriate milestone and Editor weekly calls. 
 
 ### Reviewing proposals
 
 Candidate proposals to [Solid](https://github.com/solid/specification) submitted for editorial review go through an editorial process before they are accepted.
+
 
 An Editor determines whether a Candidate Proposal includes a substantive change and marks it accordingly with a label. If there is any disagreement among Editors, the Candidate Proposal will be automatically marked as including a substantive change.
 
