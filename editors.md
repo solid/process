@@ -36,9 +36,9 @@ Editorial assignments to the specification are by topic. A given editor may be a
 -   [Security](#security)
 
 #### Resource Access
-Pertaining to the access of resources in a data pod over a network via HTTP and LDP  
+Pertaining to the access of resources in a data pod over a network via HTTP
 
-__Assigned Editors:__ Kjetil Kjernsmo, Ruben Verborgh   
+__Assigned Editors:__ Sarven Capadisli, Kjetil Kjernsmo, Ruben Verborgh   
 __Primary Documents:__  [solid/specification/resource-access](https://github.com/solid/specification/blob/master/main/resource-access.bs)
 
 #### Identity
