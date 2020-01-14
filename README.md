@@ -70,7 +70,7 @@ When there are objections, notify the Solid Panels and Stakeholders about the fi
 Candidate proposals to the [Solid Specification](https://github.com/solid/specification) submitted for review go through an editorial process before they are accepted.
 Candidate Proposals to change the Solid Specification must be submitted for editorial review before they are accepted, along with the results of any votes taken.
 
-To help broad consensus form, it is suggested that each proposal be brought to the Editors attention at some defined contact points during its life cycle. These contact points are:
+To help broad consensus form, it is suggested that each proposal be brought to the attention of the Editors at some defined contact points during its life cycle. These contact points are:
 1. When a reason to change or extend the specification is first encountered, an [issue is opened](https://github.com/solid/specification/issues/new). The issue is then used for further communication with the Editors.
 1. Panels may create or adopt issues, and Panels should notify Editors that such discussion has started.
 1. When a Panel reaches rough consensus on an issue, the Panel should notify the Editors, indicating in informal text what the consensus entails and who participated in forming it.
