@@ -38,7 +38,7 @@ Candidate Proposals to the Solid Specification produced by this panel are likely
 * [Internationalisation](#internationalisation)
 * [Resource Access](#resource-access)
 * [Privacy and Individuals Rights Protection](#privacy-and-individuals-rights-protection-panel)
-* [Querying](#querying)
+* [Query](#query)
 * [Self Hosting](#self-hosting)
 * [Specification Entry Document](#specification-entry-document-panel)
 
@@ -300,11 +300,12 @@ Pertaining to the access of resources in a data pod over a network via HTTP and 
 ### Editorial Assignment 
 Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Resource Access](https://github.com/solid/process/blob/master/editors.md#resource-access), and will be principally reviewed by any editors assigned to it.
 
-## Querying
+## Query
 Discussion, specs and recommendations for implementing querying mechanisms beyond LDP, such as SPARQL, [Triple Pattern Fragments (TPF)](http://linkeddatafragments.org/in-depth/), GraphQL, and others.
 
 ### Communication channels
-- [solid-tpf](https://github.com/solid/solid-tpf) 
+- [Query Panel Repository](https://github.com/solid/query-panel) 
+- [Query Panel Gitter](https://gitter.im/solid/query-panel?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ### Panelists
 - [Dmitri Zagidulin](https://github.com/dmitrizagidulin) <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
@@ -312,6 +313,7 @@ Discussion, specs and recommendations for implementing querying mechanisms beyon
 - [Ruben Verborgh](https://github.com/RubenVerborgh) <[Ruben.Verborgh@UGent.be](mailto:Ruben.Verborgh@UGent.be)>(@RubenVerborgh)
 - [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
 - [Jeff Zucker](https://github.com/jeff-zucker) <[dubzed@gmail.com](mailto:dubzed@gmail.com)> (@jeff-zucker)
+- [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
 
 ### Editorial Assignment 
 Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Querying editorial topic](https://github.com/solid/process/blob/master/editors.md#querying), and will be principally reviewed by any editors assigned to it.
