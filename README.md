@@ -1,6 +1,6 @@
 This repository details how changes to Solid may be proposed and accepted.
 
-# Solid Specficification
+# Solid Specification
 The following is a description about how changes to the [Solid Specification](https://github.com/solid/specification) may be proposed and accepted.
 
 Anyone may participate in [this process](https://github.com/solid/culture). Please read the [Code of Conduct](code-of-conduct.md) before doing so.
@@ -70,6 +70,14 @@ When there are objections, notify the Solid Panels and Stakeholders about the fi
 Candidate proposals to the [Solid Specification](https://github.com/solid/specification) submitted for review go through an editorial process before they are accepted.
 Candidate Proposals to change the Solid Specification must be submitted for editorial review before they are accepted, along with the results of any votes taken.
 
+To help broad consensus form, it is suggested that each proposal be brought to the attention of the Editors at some defined contact points during its life cycle. These contact points are:
+1. When a reason to change or extend the specification is first encountered, an [issue is opened](https://github.com/solid/specification/issues/new). The issue is then used for further communication with the Editors.
+1. Panels may create or adopt issues, and Panels should notify Editors that such discussion has started.
+1. When a Panel reaches rough consensus on an issue, the Panel should notify the Editors, indicating in informal text what the consensus entails and who participated in forming it.
+1. When a Panel starts drafting the text of a proposal, the Panel should notify the Editors.
+
+The above is not required and may be superfluous for small changes, but it is likely to speed up the overall process for larger issues.
+
 An Editor determines whether a Candidate Proposal includes a substantive change and marks it accordingly. If there is any disagreement among Editors, the Candidate Proposal will be automatically marked as including a substantive change.
 
 Candidate Proposals with substantive changes require three Editors who are assigned to the material being modified to actively approve the proposal, with no Editors from the Editorial Team actively rejecting. If there are less than three Editors assigned to the material being modified, then other Editors from the Editorial Team may participate.  Editors may abstain. Candidate Proposals with substantive changes must remain open for at least one week before final acceptance. If an Editor does not vote by the end of that week it will be assumed that they abstained, providing a good faith attempt has been made to involve those who may be likely to disagree. Once the Candidate Proposal has successfully passed editorial review and the specified wait-time has elapsed, it may be merged by an assigned Editor.
@@ -106,12 +114,18 @@ The [Creators](https://github.com/solid/process/blob/master/creators.md) are res
 
 [Creators](https://github.com/solid/process/blob/master/creators.md) have [_Admin Permissions_](https://help.github.com/en/articles/repository-permission-levels-for-an-organization#permission-levels-for-repositories-owned-by-an-organization) of the [solidproject.org](https://github.com/solid/solidproject.org), [information](https://github.com/solid/information) , [Solid app listing](https://github.com/solid/solid-apps), [Pod listing](https://github.com/solid/pods), and [identity listing](https://github.com/solid/solid-idp-list),[explaining the vision](https://github.com/solid/Explaining-the-Vision-Panel) repositories.
 
+The solidproject.org website is linked to the [`master` branch of the GitHub repo solid/solidproject.org](https://github.com/solid/solidproject.org/tree/master). Draft versions of updates of the website are worked on in the [`staging` branch of the same repo](https://github.com/solid/solidproject.org/tree/staging). The draft work is documented on the [Creators project board](https://github.com/orgs/solid/projects/12). 
+
+Anyone can make suggestions by commenting or submitting  pull requests to the [`staging` branch of solid/solidproject.org](https://github.com/solid/solidproject.org/tree/staging) to be reviewed by Creators, and be approved by the Solid Director before they go to `master`.
+
+Spelling, grammar, broken links, and other minor changes do not need to be approved by the Solid Director and can be updated directly by the Creators. Changes larger than that, but that do not significantly alter the website content (such as referencing community activity outside of the website) also do not need to be approved by the Solid Director, as long as they have been approved by one of the [Editors](https://github.com/solid/process/blob/master/editors.md).
+
 # References
 
 Solid culture documentation was put together with inspiration and learnings from the following resources.
 
 * [W3C Good practice for running a group](https://www.w3.org/community/about/good-practice-for-running-a-group/)
-* Python (2018) [Python Lanugage](https://www.python.org/dev/peps/pep-0013/)
+* Python (2018) [Python Language](https://www.python.org/dev/peps/pep-0013/)
 * Elinor Ostrom (2005) [Understanding Institutional Diversity](https://www.wtf.tw/ref/ostrom_2005.pdf).
 * Chales M Schweik and Meelis Kitsting (2010) [Applying Elinor Ostrom’s Rule Classification Framework to the Analysis of Open Source Software Commons. Transnational Corporations Review](http://www.tnc-online.net/pic/2010032809124697.pdf)
 * Sean McDonald (2019) [Reclaiming Data Trusts. CIGO](https://www.cigionline.org/articles/reclaiming-data-trusts)

@@ -38,7 +38,7 @@ Candidate Proposals to the Solid Specification produced by this panel are likely
 * [Internationalisation](#internationalisation)
 * [Resource Access](#resource-access)
 * [Privacy and Individuals Rights Protection](#privacy-and-individuals-rights-protection-panel)
-* [Querying](#querying)
+* [Query](#query)
 * [Self Hosting](#self-hosting)
 * [Specification Entry Document](#specification-entry-document-panel)
 
@@ -89,6 +89,7 @@ How various agents and authorized to access resources.
 - [Jackson Morgan](https://github.com/jaxoncreed) <[jacksonm@inrupt.com](mailto:jacksonm@inrupt.com)> (@jaxoncreed)
 - [Sarven Capadisli](https://github.com/csarven) &lt;https://csarven.ca/#i&gt; (@csarven)
 - [Henry Story](http://github.com/bblfish) <[henry.story@bblfish.net](mailto:henry.story@bblfish.net)> (@bblfish)
+- [Jamie Fiedler](https://github.com/jamiefiedler) <[j@jf.dev](mailto:j@jf.dev)> (@jamiefiedler)
 
 
 ### Editorial Assignment 
@@ -129,6 +130,8 @@ Discussion and specs relating to Authentication and Auth Delegation protocols, i
 - [Aaron Coburn](https://github.com/acoburn) <[aaronc@inrupt.com](mailto:aaronc@inrupt.com)> (@acoburn)
 - [Matthias Evering](https://github.com/ewingson) <[me@evering.eu](mailto:me@evering.eu)> (@ewingson)
 - [Henry Story](http://github.com/bblfish) <[henry.story@bblfish.net](mailto:henry.story@bblfish.net)> (@bblfish)
+- [Jamie Fiedler](https://github.com/jamiefiedler) <[j@jf.dev](mailto:j@jf.dev)> (@jamiefiedler)
+
 
 ### Editorial Assignment 
 Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Authentication editorial topic](https://github.com/solid/process/blob/master/editors.md#authentication), and will be principally reviewed by any editors assigned to it.
@@ -192,6 +195,8 @@ Ensuring the interoperability of data as it is read and written by different use
 - [Sarven Capadisli](https://github.com/csarven) &lt;https://csarven.ca/#i&gt; (@csarven)
 - [Arne Hassel](http://github.com/megoth) <[arneh@inrupt.com](mailto:arneh@inrupt.com)> <@megoth_twitter>
 - [Aaron Coburn](https://github.com/acoburn) <[aaronc@inrupt.com](mailto:aaronc@inrupt.com)> (@acoburn)
+- [Jamie Fiedler](https://github.com/jamiefiedler) <[j@jf.dev](mailto:j@jf.dev)> (@jamiefiedler)
+
 
 ### Editorial Assignment 
 Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Data Interoperability and Portability editorial topic](https://github.com/solid/process/blob/master/editors.md#data-interoperability-and-portability), and will be principally reviewed by any editors assigned to it.
@@ -228,7 +233,7 @@ Related conversations to take into consideration:
 ### Communication channels
 - [GitHub team discussion board](https://github.com/orgs/solid/teams/explaining-the-vision-panel/discussions)
 - [Explaining the Visions Solid Github Repository](https://github.com/solid/Explaining-the-Vision-Panel) 
-- most converstation about "What is Solid" is here https://github.com/solid/Explaining-the-Vision-Panel/issues/1#issuecomment-518300433
+- most conversation about "What is Solid" is here https://github.com/solid/Explaining-the-Vision-Panel/issues/1#issuecomment-518300433
 
 ### Panelists
 - [James Schoening](https://github.com/jimschoening) <[james.r.schoening.civ@mail.mil](mailto:james.r.schoening.civ@mail.mil)> (@jimschoening)
@@ -295,11 +300,12 @@ Pertaining to the access of resources in a data pod over a network via HTTP and 
 ### Editorial Assignment 
 Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Resource Access](https://github.com/solid/process/blob/master/editors.md#resource-access), and will be principally reviewed by any editors assigned to it.
 
-## Querying
+## Query
 Discussion, specs and recommendations for implementing querying mechanisms beyond LDP, such as SPARQL, [Triple Pattern Fragments (TPF)](http://linkeddatafragments.org/in-depth/), GraphQL, and others.
 
 ### Communication channels
-- [solid-tpf](https://github.com/solid/solid-tpf) 
+- [Query Panel Repository](https://github.com/solid/query-panel) 
+- [Query Panel Gitter](https://gitter.im/solid/query-panel?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ### Panelists
 - [Dmitri Zagidulin](https://github.com/dmitrizagidulin) <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
@@ -307,6 +313,8 @@ Discussion, specs and recommendations for implementing querying mechanisms beyon
 - [Ruben Verborgh](https://github.com/RubenVerborgh) <[Ruben.Verborgh@UGent.be](mailto:Ruben.Verborgh@UGent.be)>(@RubenVerborgh)
 - [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
 - [Jeff Zucker](https://github.com/jeff-zucker) <[dubzed@gmail.com](mailto:dubzed@gmail.com)> (@jeff-zucker)
+- [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
+- [Travis Vachon](https://github.com/travis) <[travis.vachon@gmail.com](mailto:travis.vachon@gmail.com)> (@travis)
 
 ### Editorial Assignment 
 Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Querying editorial topic](https://github.com/solid/process/blob/master/editors.md#querying), and will be principally reviewed by any editors assigned to it.
