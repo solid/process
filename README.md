@@ -118,7 +118,7 @@ The solidproject.org website is linked to the [`master` branch of the GitHub rep
 
 Anyone can make suggestions by commenting or submitting  pull requests to the [`staging` branch of solid/solidproject.org](https://github.com/solid/solidproject.org/tree/staging) to be reviewed by Creators, and be approved by the Solid Director before they go to `master`.
 
-Spelling, grammar, broken links, and other minor changes do not need to be approved by the Solid Director and can be updated directly by the Creators. 
+Spelling, grammar, broken links, and other minor changes do not need to be approved by the Solid Director and can be updated directly by the Creators. Changes larger than that, but that do not significantly alter the website content (such as referencing community activity outside of the website) also do not need to be approved by the Solid Director, as long as they have been approved by one of the [Editors](https://github.com/solid/process/blob/master/editors.md).
 
 # References
 
