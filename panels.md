@@ -314,6 +314,7 @@ Discussion, specs and recommendations for implementing querying mechanisms beyon
 - [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
 - [Jeff Zucker](https://github.com/jeff-zucker) <[dubzed@gmail.com](mailto:dubzed@gmail.com)> (@jeff-zucker)
 - [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
+- [Travis Vachon](https://github.com/travis) <[travis.vachon@gmail.com](mailto:travis.vachon@gmail.com)> (@travis)
 
 ### Editorial Assignment 
 Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Querying editorial topic](https://github.com/solid/process/blob/master/editors.md#querying), and will be principally reviewed by any editors assigned to it.
