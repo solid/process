@@ -120,6 +120,9 @@ Anyone can make suggestions by commenting or submitting  pull requests to the [`
 
 Spelling, grammar, broken links, and other minor changes do not need to be approved by the Solid Director and can be updated directly by the Creators. Changes larger than that, but that do not significantly alter the website content (such as referencing community activity outside of the website) also do not need to be approved by the Solid Director, as long as they have been approved by one of the [Editors](https://github.com/solid/process/blob/master/editors.md).
 
+# This Week in Solid 
+This Week in Solid is a newsletter sent every Thursday. Anyone can make suggestions by submitting a pull request to the draft for [the next edition](https://github.com/solid/solidproject.org/blob/staging/_posts/this-week-in-solid/next.md). The [Editors](https://github.com/solid/process/blob/master/editors.md) are responsible for editing the newsletter in terms of formating, grammar, spelling, and technical accuracy. Two Editors need to review the newsletter before it is published. The [Administrators](https://github.com/solid/process/blob/master/administrators.md) are responsible for sending out the editorially reviewed newsletter via TinyLetter.
+
 # References
 
 Solid culture documentation was put together with inspiration and learnings from the following resources.
