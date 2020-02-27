@@ -1,9 +1,9 @@
 This repository details how changes to Solid may be proposed and accepted.
 
 # Solid Specification
-The following is a description about how changes to Solid Specifications may be proposed and accepted.
+The following is a description about how changes to the specifications in the Solid ecosystem may be proposed and accepted.
 
-The [Solid Specifications](https://github.com/solid/specification) are currently in development. Please refer to the repository for the current state and available publications. The [Unofficial Draft](https://github.com/solid/solid-spec) predating the current spec development is still available for your reference.
+The current development on the Solid ecosystem is carried out in the [Solid Specifications](https://github.com/solid/specification) repository. The [Unofficial Draft](https://github.com/solid/solid-spec) predating the current development is still available for historical reference.
 
 Anyone may participate in [this process](https://github.com/solid/culture). Please read the [Code of Conduct](code-of-conduct.md) before doing so.
 
