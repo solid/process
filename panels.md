@@ -41,6 +41,7 @@ Candidate Proposals to the Solid Specification produced by this panel are likely
 * [Query](#query)
 * [Self Hosting](#self-hosting)
 * [Specification Entry Document](#specification-entry-document-panel)
+* [User Lifecycle](#user-lifecycle)
 
 All Panels can be reached on [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 
