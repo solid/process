@@ -148,20 +148,6 @@ Ensure that caching mechanisms, both currently standardized and future standards
 ### Editorial Assignment 
 *currently none* 
 
-## User Lifecycle
-To build Solid-based APIs for registering, commissioning, recovery, deleting and managing users and their Pods.
-
-### Communication channels
-- [User Lifecycle panel repository](https://github.com/solid/user-lifecycle-panel)
-
-### Panelists
-- [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
-- [Nicolas Seydoux](https://github.com/orgs/solid/people/NSeydoux) <[nseydoux@inrupt.com](mailto:nseydoux@inrupt.com)> (@NSeydoux)
-
-### Editorial Assignment 
-*currently none* 
-
-
 ## Cryptography, Security, and Privacy
 Discussion and specs related to performing decentralized Key Management, Cryptographic Signatures (including integration with [Verifiable Credentials](https://w3c.github.io/vc-data-model/)), and at-rest data Encryption on Solid servers. Pertaining to mechanisms used and considerations taken when securing a data pod, a conformant server implementation, and/or the immediate ecosystem around them.  Pertaining to the mechanisms through which cryptographic techniques are employed to provide data privacy, data integrity, and verifiable information. The focus of this panel is to ensure Privacy is always kept in mind in the various proposals of the project across all panels, and that individuals' rights are inherently protected in the Solid ecosystem. It will do so by:
 - Leading Privacy discussions and initiatives.
@@ -363,3 +349,17 @@ To create a structure for the document at https://github.com/solid/specification
 
 ### Editorial Assignment 
 Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [general editors](https://github.com/solid/process/blob/master/editors.md#editorial-team), and will be principally reviewed by any editors.
+
+
+## User Lifecycle
+To build Solid-based APIs for registering, commissioning, recovery, deleting and managing users and their Pods.
+
+### Communication channels
+- [User Lifecycle panel repository](https://github.com/solid/user-lifecycle-panel)
+
+### Panelists
+- [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
+- [Nicolas Seydoux](https://github.com/orgs/solid/people/NSeydoux) <[nseydoux@inrupt.com](mailto:nseydoux@inrupt.com)> (@NSeydoux)
+
+### Editorial Assignment
+*currently none*
