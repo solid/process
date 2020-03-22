@@ -50,7 +50,7 @@ Anyone may submit a proposal to alter this process. These proposals will not be 
 
 Anyone may propose improvements to the [Solid Specification](https://github.com/solid/specification). Here are some examples of different ways to contribute:
 
-- Submit a pull request or issue on the [Solid Specification repository](https://github.com/solid/solid-spec) in GitHub
+- Submit a pull request or issue on the [Solid Specification repository](https://github.com/solid/specification) in GitHub
 - Make a suggestion to the Solid Authorization Panel chat room about a change you'd like to see in Web Access Control
 - Make a suggestion on the Solid W3C Community Group mailing list to form a new Solid Panel, or join an existing Solid Panel
 - Propose an item for the W3C Solid Community Group call
