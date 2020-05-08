@@ -118,9 +118,11 @@ The [Creators](https://github.com/solid/process/blob/master/creators.md) are res
 
 The solidproject.org website is linked to the [`master` branch of the GitHub repo solid/solidproject.org](https://github.com/solid/solidproject.org/tree/master). Draft versions of updates of the website are worked on in the [`staging` branch of the same repo](https://github.com/solid/solidproject.org/tree/staging). The draft work is documented on the [Creators project board](https://github.com/orgs/solid/projects/12). 
 
-Anyone can make suggestions by commenting or submitting  pull requests to the [`staging` branch of solid/solidproject.org](https://github.com/solid/solidproject.org/tree/staging) to be reviewed by Creators, and be approved by the Solid Director before they go to `master`.
+Anyone can make suggestions by commenting or submitting  pull requests to the [`staging` branch of solid/solidproject.org](https://github.com/solid/solidproject.org/tree/staging) to be reviewed by Editors, and be approved by the Solid Director before they go to `staging`.
 
-Spelling, grammar, broken links, and other minor changes do not need to be approved by the Solid Director and can be updated directly by the Creators. Changes larger than that, but that do not significantly alter the website content (such as referencing community activity outside of the website) also do not need to be approved by the Solid Director, as long as they have been approved by one of the [Editors](https://github.com/solid/process/blob/master/editors.md).
+Spelling, grammar, broken links, and other minor changes do not need to be approved by the Solid Director and can be updated or approved directly in `staging` by the Creators. Changes larger than that, but that do not significantly alter the website content (such as referencing community activity outside of the website) also do not need to be approved by the Solid Director in order to be applied to `staging`, as long as they have been approved by one of the [Editors](https://github.com/solid/process/blob/master/editors.md).
+
+Creators can move changes in `staging` to `master` (and hence solidproject.org) at any time, since `staging` will only contain approved changes.
 
 # References
 
