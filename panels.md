@@ -29,7 +29,7 @@ Candidate Proposals to the Solid Specification produced by this panel are likely
 * [Artificial Intelligence](#artificial-intelligence)
 * [Authentication](#authentication)
 * [Caching](#caching)
-* [Cryptography, Security, and Privacy](#security-cryptography-and-privacy)
+* [Cryptography, Security, and Privacy](#cryptography-security-and-privacy)
 * [Data Interoperability and Portability](#data-interoperability-and-portability)
 * [Events and Notifications](#events-and-notifications)
 * [Explaining the Vision](#explaining-the-vision)
