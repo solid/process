@@ -172,6 +172,7 @@ Discussion and specs related to performing decentralized Key Management, Cryptog
 - [Rob McColl](https://github.com/robmccoll) <[rob@nix.software](mailto:rob@nix.software)> (@robmccoll)
 - [Max Dor](https://github.com/maxidorius) <[max@dorius.io](mailto:max@dorius.io)> (@maxidorius)
 - [Henry Story](http://github.com/bblfish) <[henry.story@bblfish.net](mailto:henry.story@bblfish.net)> (@bblfish)
+- [Sarven Capadisli](https://github.com/csarven) &lt;https://csarven.ca/#i&gt; (@csarven)
 
 ### Editorial Assignment 
 Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Security, Cryptography, and Privacy editorial assignment](https://github.com/solid/process/blob/master/editors.md#cryptography-security-and-privacy), and will be principally reviewed by any editors assigned to it.
