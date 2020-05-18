@@ -43,7 +43,7 @@ __Primary Documents:__  [solid/specification/resource-access](https://github.com
 
 #### Identity
 Pertaining to mechanisms that universally identify people or applications.  
-__Assigned Editors:__  *No editors assigned yet*   
+__Assigned Editors:__  Sarven Capadisli
 __Primary Documents:__
 
 #### Authentication
@@ -53,7 +53,7 @@ __Primary Documents:__ [solid/specification/webid-oidc](https://github.com/solid
 
 #### Authorization
 Pertaining to mechanisms that control the access a given agent has to read or manipulate resources in a data pod.  
-__Assigned Editors:__  Kjetil Kjernsmo  
+__Assigned Editors:__  Sarven Capadisli, Kjetil Kjernsmo
 __Primary Documents:__ [solid/specification/resource-access](https://github.com/solid/specification/blob/master/main/resource-access.bs), [solid/specification/wac](https://github.com/solid/specification/tree/master/wac), [solid/web-access-control-spec](https://github.com/solid/web-access-control-spec)
 
 #### Events and Notifications
@@ -93,5 +93,5 @@ __Primary Documents:__
 
 #### Security
 Pertaining to mechanisms used and considerations taken when securing a data pod, a conformant server implementation, and/or the immediate ecosystem around them.  
-__Assigned Editors:__ Justin Bingham    
+__Assigned Editors:__ Justin Bingham, Sarven Capadisli 
 __Primary Documents:__ [solid/specification/security](https://github.com/solid/specification/blob/master/main/security.bs)
