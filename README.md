@@ -21,6 +21,14 @@ Solid Panels are groups of individuals focused on a specific problem or domain r
 
 Domains may be technical, non-technical, or some combination of the two. For example, a Security Panel could focus on the evaluation and advancement of the Solid security model.
 
+Each Panel is chaired by a Panel Chair who is appointed by the Solid Director and is responsible for:
+
+- Ensuring every Panel meeting has a clear goal
+- Ensuring every Panel meeting has a clear agenda
+- Ensuring all actions arising from meetings are tracked to completion
+- Ensuring target dates are set for outcomes
+- Making decisions when the Panel members cannot reach consensus. Note that decisions made by a Panel about proposed specificaiton changes are subject to the [proposal review process](#reviewing-proposals)
+
 A list of Solid Panels is maintained at [panels.md](panels.md). This listing helps people find panels they may want to participate in, and helps editors find panels to consult as part of the editorial process.
 
 Panels may request to have a repository created within the [Solid Github Organization](https://github.com/solid). These requests should be made by submitting an issue to [solid/process](https://github.com/solid/process). The request should include the proposed name of the repository, and how it will be used. Any editor may reject a proposed name and request an alternative. All panel members will receive [_Maintain Permissions_](https://help.github.com/en/articles/repository-permission-levels-for-an-organization#permission-levels-for-repositories-owned-by-an-organization) on the panel repository, unless it is subject to editorial review, which would require that it employ a [different permission structure](#repositories). Panel repositories that are inactive for more than six months may be archived by Solid Administrators.
