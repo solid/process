@@ -17,17 +17,32 @@ There are many topics, problems, or ideas best tackled by a group of people with
 
 ### Solid Panels
 
-Solid Panels are groups of individuals focused on a specific problem or domain relevant to Solid, with an aim to propose changes to the [Solid Specification](https://github.com/solid/specification). Anyone may join a panel or suggest a new panel.
+Solid Panels are groups of individuals focused on a specific problem or domain relevant to Solid, with an aim to propose changes to the [Solid Specification](https://github.com/solid/specification). Domains may be technical, non-technical, or some combination of the two. For example, a Security Panel could focus on the evaluation and advancement of the Solid security model. Anyone may join a panel.
 
-Domains may be technical, non-technical, or some combination of the two. For example, a Security Panel could focus on the evaluation and advancement of the Solid security model.
+New panels may be proposed by submitting an issue to the [solid/process](https://github.com/solid/process) repository. Establishing a new panel requires the endorsement of at least one member of the [Editorial Team](https://github.com/orgs/solid/teams/editors). To receive endorsement, the proposed panel submission must include:
 
-Each Panel is chaired by a Panel Chair who is appointed by the Solid Director and is responsible for:
+1. A stated purpose
+1. One or more initiatives that will be actively pursued and tracked in regular panel sessions to advance the stated purpose
+1. Demonstrable support of at least five prospective members
 
-- Ensuring every Panel meeting has a clear goal
-- Ensuring every Panel meeting has a clear agenda
+Any iteration on the stated purpose, initiatives, and supporting members should continue as needed until endorsement is received from at least one member of the Editorial Team. Submissions that fail to receive endorsement may be removed by Solid Administrators after six months.
+
+Any Editor endorsing a panel is expected to attend regular sessions, and to provide the Panel Chair and Panel with insight on specification priorities, as well as support work on any relevant initiatives in flight.
+
+Each panel is chaired by a Panel Chair. An Editorial Team member endorsing a panel is responsible for electing the Panel Chair, barring any vetoes from another Editor, or vetoes from a majority of panel members. The Solid Director reserves the right to elect and/or change the Panel Chair. In the event that an Editor should be nominated as a Panel Chair, they must be elected by another member of the Editorial Team.
+
+ Responsibilities of a Panel Chair include but are not limited to:
+
+- Coordinating and communicating panel initiatives
+- Collaboaring with Editors on priority and direction of panel initiatives
+- Ensuring panel meetings are focused on advancing panel initiatives
+- Ensuring every Panel meeting has a clear goal and agenda
 - Ensuring all actions arising from meetings are tracked to completion
 - Ensuring target dates are set for outcomes
-- Making decisions when the Panel members cannot reach consensus. Note that decisions made by a Panel about proposed specificaiton changes are subject to the [proposal review process](#reviewing-proposals)
+- Making decisions when the Panel members cannot reach consensus
+- Ensuring panel decisions, activities, and achievements are tracked and communicated
+
+Decisions made by a Panel about proposed specification changes are subject to the [proposal review process](#reviewing-proposals).
 
 A list of Solid Panels is maintained at [panels.md](panels.md). This listing helps people find panels they may want to participate in, and helps editors find panels to consult as part of the editorial process.
 
@@ -116,15 +131,15 @@ Administrators belong to the [Administrators Team](https://github.com/orgs/solid
 
 Administrators are appointed by the Solid Director. Administrators are listed at [administrators.md](administrators.md) along with their contact details and affiliations. Anyone may apply to be an Administrator. Administrator applications are not reviewed by other Administrators. They are reviewed only by the Solid Director.
 
-# Solidproject.org Website 
+# Solidproject.org Website
 
-The [Creators](https://github.com/solid/process/blob/master/creators.md) are responsible for creating content for the solidproject.org website. 
+The [Creators](https://github.com/solid/process/blob/master/creators.md) are responsible for creating content for the solidproject.org website.
 
 [Creators](https://github.com/solid/process/blob/master/creators.md) are appointed by the Solid Director.
 
 [Creators](https://github.com/solid/process/blob/master/creators.md) have [_Admin Permissions_](https://help.github.com/en/articles/repository-permission-levels-for-an-organization#permission-levels-for-repositories-owned-by-an-organization) of the [solidproject.org](https://github.com/solid/solidproject.org), [information](https://github.com/solid/information) , [Solid app listing](https://github.com/solid/solid-apps), [Pod listing](https://github.com/solid/pods), and [identity listing](https://github.com/solid/solid-idp-list),[explaining the vision](https://github.com/solid/Explaining-the-Vision-Panel) repositories.
 
-The solidproject.org website is linked to the [`master` branch of the GitHub repo solid/solidproject.org](https://github.com/solid/solidproject.org/tree/master). Draft versions of updates of the website are worked on in the [`staging` branch of the same repo](https://github.com/solid/solidproject.org/tree/staging). The draft work is documented on the [Creators project board](https://github.com/orgs/solid/projects/12). 
+The solidproject.org website is linked to the [`master` branch of the GitHub repo solid/solidproject.org](https://github.com/solid/solidproject.org/tree/master). Draft versions of updates of the website are worked on in the [`staging` branch of the same repo](https://github.com/solid/solidproject.org/tree/staging). The draft work is documented on the [Creators project board](https://github.com/orgs/solid/projects/12).
 
 Anyone can make suggestions by commenting or submitting  pull requests to the [`staging` branch of solid/solidproject.org](https://github.com/solid/solidproject.org/tree/staging) to be reviewed by Editors, and be approved by the Solid Director before they go to `staging`.
 
