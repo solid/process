@@ -27,9 +27,9 @@ New panels may be proposed by submitting an issue to the [solid/process](https:/
 
 Any iteration on the stated purpose, initiatives, and supporting members should continue as needed until endorsement is received from at least one member of the Editorial Team. Submissions that fail to receive endorsement may be removed by Solid Administrators after six months.
 
-Any Editor endorsing a panel is expected to attend regular sessions, and to provide the Panel Chair and Panel with insight on specification priorities, as well as support work on any relevant initiatives in flight.
+Any Editor endorsing a panel is expected to attend regular sessions, and to provide the Panel Chairs and Panel with insight on specification priorities, as well as support work on any relevant initiatives in flight.
 
-Each panel is chaired by a Panel Chair. An Editorial Team member endorsing a panel is responsible for electing the Panel Chair, barring any vetoes from another Editor, or vetoes from a majority of panel members. The Solid Director reserves the right to elect and/or change the Panel Chair. In the event that an Editor should be nominated as a Panel Chair, they must be elected by another member of the Editorial Team.
+Each panel is chaired by one or more Panel Chairs. An Editorial Team member endorsing a panel is responsible for electing the Panel Chairs, barring any vetoes from another Editor, another Panel Chair of the same panel, or vetoes from a majority of panel members. The Solid Director reserves the right to elect and/or change Panel Chairs. In the event that an Editor should be nominated as a Panel Chair, they must be elected by another member of the Editorial Team.
 
  Responsibilities of a Panel Chair include but are not limited to:
 
