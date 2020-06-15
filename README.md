@@ -17,7 +17,7 @@ There are many topics, problems, or ideas best tackled by a group of people with
 
 ### Solid Panels
 
-Solid Panels are groups of individuals focused on a specific problem or domain relevant to Solid, with an aim to propose changes to the [Solid Specification](https://github.com/solid/specification). Domains may be technical, non-technical, or some combination of the two. For example, a Security Panel could focus on the evaluation and advancement of the Solid security model. Anyone may join a panel.
+Solid Panels are groups of individuals focused on a specific problem or domain relevant to Solid, with an aim to propose changes to the [Solid Specification](https://github.com/solid/specification). Domains may be technical, non-technical, or some combination of the two. For example, a Security Panel could focus on the evaluation and advancement of the Solid security model. Only members of the [W3C Solid Community Group](https://www.w3.org/community/solid/), which anyone may join, and which operates under the [W3C Community Contributor License Agreement](https://www.w3.org/community/about/agreements/cla/), may become a member of a Solid Panel.
 
 New panels may be proposed by submitting an issue to the [solid/process](https://github.com/solid/process) repository. Establishing a new panel requires the endorsement of at least one member of the [Editorial Team](https://github.com/orgs/solid/teams/editors). To receive endorsement, the proposed panel submission must include:
 
