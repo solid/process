@@ -39,8 +39,9 @@ Each panel is chaired by one or more Panel Chairs. An Editorial Team member endo
 - Ensuring every Panel meeting has a clear goal and agenda
 - Ensuring all actions arising from meetings are tracked to completion
 - Ensuring target dates are set for outcomes
-- Making decisions when the Panel members cannot reach consensus
-- Ensuring panel decisions, activities, and achievements are tracked and communicated
+- Working with Panel members to achieve broad consensus on decisions, with a consistent aim towards unanimity, in general accordance with the W3C process for realizing [consensus](https://www.w3.org/2019/Process-20190301/#Consensus).
+- Referring to the W3C process to [constructively manage dissent](https://www.w3.org/2019/Process-20190301/#managing-dissent) from panel members so that the group can continue to make progress in the absence of broad consensus.
+- Ensuring panel decisions, activities, and achievements are tracked and communicated.
 
 Decisions made by a Panel about proposed specification changes are subject to the [proposal review process](#reviewing-proposals).
 
