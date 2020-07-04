@@ -15,31 +15,31 @@ This is an example that people can use as a template for submitting their own pa
 - Any other public communication link goes here
 
 ### Panelists
-- [Panellist Name](link to github profile) <[email@example.org](mailto:email@example.org)> (@github handle)
-- [Panellist Name](link to github profile) <[email@example.org](mailto:email@example.org)> (@github handle)
+- [Panelist Name](link to github profile) <[email@example.org](mailto:email@example.org)> (@github handle)
+- [Panelist Name](link to github profile) <[email@example.org](mailto:email@example.org)> (@github handle)
 
-### Editorial Assignment 
+### Editorial Assignment
 Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Editorial Assignment Name](https://github.com/solid/process/blob/master/editors.md#insert-editorial-assignment-link), and will be principally reviewed by any editors assigned to it.
 
 ## Index of Panels
 
-* [Authorisation](#authorisation)
+* [Authorization](#authorization)
 * [Authentication](#authentication)
 * [Interoperability](#interoperability)
 
 All Panels can be reached on [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 
-There is a weekly W3C Solid Community Group call to review all panels on Thursdays alternating between 1000CEST and 1600CEST on https://zoom.us/j/121552099. See [here](https://www.w3.org/community/solid/wiki/Meetings) to read the minutes of previous calls, find out the agenda and exact time of the next call, or to add an item to the next agenda. 
+There is a weekly W3C Solid Community Group call to review all panels on Thursdays alternating between 1000CEST and 1600CEST on https://zoom.us/j/121552099. See [here](https://www.w3.org/community/solid/wiki/Meetings) to read the minutes of previous calls, find out the agenda and exact time of the next call, or to add an item to the next agenda.
 
 You can also read weekly updates of all panels on [This Week in Solid](https://github.com/solid/information/blob/master/weekly-updates/this-week-in-solid.md).
 
-## Authorisation 
+## Authorization
 How various agents and authorized to access resources.
 
 ### Communication channels
  - Wednesdays at 10AM Eastern at https://hangouts.google.com/call/vsPFdfBxsTgfHcjKbmcXAEEE
-- [app authorisation repository](https://github.com/solid/authorization-and-access-control-panel/issues/) 
-- [app authorisation gitter channel](https://gitter.im/solid/app-authorization-panel)
+- [app authorization repository](https://github.com/solid/authorization-and-access-control-panel/issues/)
+- [app authorization gitter channel](https://gitter.im/solid/app-authorization-panel)
 
 ### Panelists
 - [Dmitri Zagidulin](https://github.com/dmitrizagidulin) <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
@@ -51,7 +51,7 @@ How various agents and authorized to access resources.
 - [Jamie Fiedler](https://github.com/jamiefiedler) <[j@jf.dev](mailto:j@jf.dev)> (@jamiefiedler)
 
 
-### Editorial Assignment 
+### Editorial Assignment
 Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Authorization editorial topic](https://github.com/solid/process/blob/master/editors.md#authorization), and will be principally reviewed by any editors assigned to it.
 
 ## Authentication
@@ -65,8 +65,8 @@ Discussion and specs relating to Authentication and Auth Delegation protocols, i
 
 ### Communication channels
 - Mondays at 10AM Eastern at https://hangouts.google.com/call/3k5z3gBVKm-58m8Xgm2YAEEE
-- [dedicated forum thread](https://forum.solidproject.org/t/authentication-panel/2086) 
-- [authentication panel repository](https://github.com/solid/authentication-panel) 
+- [dedicated forum thread](https://forum.solidproject.org/t/authentication-panel/2086)
+- [authentication panel repository](https://github.com/solid/authentication-panel)
 
 ### Panelists
 - [Dmitri Zagidulin](https://github.com/dmitrizagidulin) <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
@@ -80,11 +80,11 @@ Discussion and specs relating to Authentication and Auth Delegation protocols, i
 - [Jamie Fiedler](https://github.com/jamiefiedler) <[j@jf.dev](mailto:j@jf.dev)> (@jamiefiedler)
 
 
-### Editorial Assignment 
+### Editorial Assignment
 Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Authentication editorial topic](https://github.com/solid/process/blob/master/editors.md#authentication), and will be principally reviewed by any editors assigned to it.
 
 ## Interoperability
-Ensuring the interoperability of data as it is read and written by different users and/or applications. Topics of discussion will include vocabularies, shapes, footprints, and the mechanisms through which these work together to provide consistent and safe access and manipulation of data in a pod by different agents and/or users. Pertaining to mechanisms that ensure disparate applications or agents can safely and seamlessly read and write the data they need.  Pertaining to mechanisms that ensure the portability of data stored in a data pod such that it can be safely migrated between conformant Solid server implementations, as well as exported to other mediums.  
+Ensuring the interoperability of data as it is read and written by different users and/or applications. Topics of discussion will include vocabularies, shapes, shape trees, and the mechanisms through which these work together to provide consistent and safe access and manipulation of data in a pod by different agents and/or users.
 
 ### Communication channels
 - [data-interoperability-repository](https://github.com/solid/data-interoperability-panel)
@@ -93,7 +93,7 @@ Ensuring the interoperability of data as it is read and written by different use
 - [Dmitri Zagidulin](https://github.com/dmitrizagidulin) <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
 - [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
 - [Eric Prud'hommeaux](https://github.com/ericprud) <[eric@w3.org](mailto:eric@w3.org)> (@ericprud)
-- [Max Dor](https://github.com/maxidorius) <[max@dorius.io](mailto:max@dorius.io)> (@maxidorius) 
+- [Max Dor](https://github.com/maxidorius) <[max@dorius.io](mailto:max@dorius.io)> (@maxidorius)
 - [James Schoening](https://github.com/jimschoening) <[james.r.schoening.civ@mail.mil](mailto:james.r.schoening.civ@mail.mil)> (@jimschoening)
 - [Jose Emilio Labra Gayo](http://labra.weso.es) <[jelabra@gmail.com](mailto:jelabra@gmail.com)> (@labra)
 - [Ruben Verborgh](https://github.com/RubenVerborgh) <[Ruben.Verborgh@UGent.be](mailto:Ruben.Verborgh@UGent.be)>(@RubenVerborgh)
@@ -106,7 +106,5 @@ Ensuring the interoperability of data as it is read and written by different use
 - [Jamie Fiedler](https://github.com/jamiefiedler) <[j@jf.dev](mailto:j@jf.dev)> (@jamiefiedler)
 
 
-### Editorial Assignment 
+### Editorial Assignment
 Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Data Interoperability and Portability editorial topic](https://github.com/solid/process/blob/master/editors.md#data-interoperability-and-portability), and will be principally reviewed by any editors assigned to it.
-
-
