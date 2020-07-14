@@ -20,9 +20,9 @@ These are the key [respositories associated to the specification development](ht
 | Specification Authoring | [authorization panel](https://github.com/solid/authorization-and-access-control-panel/issues/), [authentication panel](https://github.com/solid/authentication-panel), [interoperability panel](https://github.com/solid/interoperability-panel),   | [Panellists](https://github.com/solid/process/blob/master/panels.md) |
 | Test Suite Development | [Test Suite](https://github.com/solid/test-suite) | Editors |
 
-## Solid Research
+## Running Code
 
-There are several experiments that explore ideas around Solid. All associated repositories are [tagged 'research'](https://github.com/search?q=topic%3Aresearch+org%3Asolid&type=Repositories) and are managed by the [research teams](https://github.com/orgs/solid/teams/research) 
+There are several implementations of Solid in the Solid GitHub that can be found in [repositories tagged 'running-code'](https://github.com/search?q=topic%3Arunning-code+org%3Asolid&type=Repositories). IMEC and more specifically, [these team members](https://github.com/orgs/solid/teams/imec/members) are responsible for the [repositories listed here](https://github.com/orgs/solid/teams/imec/repositories). [These team members](https://github.com/orgs/solid/teams/other/members) are responsible for [these repositories](https://github.com/orgs/solid/teams/other/repositories).   
 
 ## Archived 
 
