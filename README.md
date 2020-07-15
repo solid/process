@@ -1,19 +1,118 @@
-This repository details how changes to Solid may be proposed and accepted.
+The github.com/solid/process repository details the governance of the [Solid Project Organisation](www.solidproject.org).
 
-# Solid Specification
+Anyone may submit proposal to alter the governance of Solid Project Organisation which will be reviewed only by [Tim Berners-Lee](https://github.com/timbl), who is the Solid Project Organisation Director. 
+
+Contributors are encouraged to read the [Code of Conduct](code-of-conduct.md) before doing so.
+
+The scope of the Solid Project Organisation is to govern the Solid specification, solidproject.org website, and Solid properties.
+
+# What is Solid? 
+
+Solid is a technology, like the Web, but a new level of standard which adds to the existing protocols to make it more powerful, particularly to empower individuals at home and at work. 
+* Solid provides for the first time a single global logon system, so that when you log into any web site, instead of having  to log in with the usual 'f' and 'g' blue buttons, and then be tracked by Facebook and Google, you can log in with any Solid provider you trust, and that won't track you.
+* Solid provides separate places ("pods") for you to store your data, a bit like Dropbox and GDrive and iCloud, but you have the power to share any file or folder or contact or event or whatever with anyone who has a solid id.  You store in data in any place you trust, (including your own computer).
+* When Solid apps start, they just store all the data they need to work in your pod.  They don't store the data themselves at some computer run by the person who owns the app.  So by default you control all the data in your solid world.  This is a massive improvement to the privacy world.
+* Solid app builders don't just store the data in your pod any old way.  They use solid standard formats.  This means that you and the people you work with can actually use many different apps -- at the same time even - to do stuff.
+
+# Definitions
+
+* SolidID or WebID: is a unique identifier used to identify a specific user. An example of what a WebID could look like is: https://fulano.pod.provider/profile/card#me. To share data with a third party, a user associates sharing preferences to the WebID of that third party. 
+* Pod: A Pod is where data is stored on the Web with Solid. A user may store their data in one Pod or several Pods, and applications read and write data into the Pod depending on the authorisations granted by the user or users associated to that Pod.
+* Solid App: an app that is compatible with the Solid specification 
+* Solid community: individual and organisations who are either working on developing the Solid standard, implementing the Solid standard, or using Solid compatible software 
+* Solid ecosystem: see Solid community 
+* Solid Panels: groups of defined individuals who are working together to submit suggestions to improve the Solid standard for editorial review 
+* Specification: a detailed precise presentation of something or of a plan or proposal for something
+* Standard: something established by authority, custom, or general consent as a model or example
+* Protocol: an original draft, minute, or record of a document or transaction. 
+* Stakeholders: are those affected by normative changes to the [Solid Specification](https://github.com/solid/specification). There are two types of Stakeholders: Solid Users and Solid Implementers. A Stakeholder may be both a user and an implementer.
+* Solid Users: are individuals, companies, or organizations who access data stored in a Solid Pod. 
+* Solid Implementers: are companies or organisations who are implementing the [Solid Specification](https://github.com/solid/specification). A Solid Implementer may be any combination of Identity Provider, Pod Provider, and Application Provider.
+* Contributor: anyone who contributes to Solid, for example, by identifying problems, asking questions, or proposing normative changes.
+
+# The Solid Team 
+
+The Solid Project Organisation is maintained by the Solid Team which is directed by Sir Tim Berners-Lee. 
+
+There are several roles and responsibilities on the Solid Team which are described below. Individuals are appointed roles on the Solid Team by the Solid Director, Sir Tim Berners-Lee.  
+
+All individuals are expected to attend a weekly Solid Team meeting.
+
+The Solid Team are listed as Owners of the Solid GitHub in order to complete their appointed roles and responsibilities. 
+
+Each of the Solid Team roles correspond to the [Solid GitHub teams](https://github.com/orgs/solid/teams) and there are lists of of appointed individuals to the roles [Manager](https://github.com/solid/process/blob/master/manager.md), [Administrators](https://github.com/solid/process/blob/master/administrators.md), [Editors](https://github.com/solid/process/blob/master/editors.md), [Creators](https://github.com/solid/process/blob/master/creators.md). 
+
+## Solid Director 
+
+The role of the Solid Director is to lead Solid by providing the vision. 
+
+Specific responsibilities of the Solid Director include:
+* Provide a clear written definition of the Solid vision including definition of key terms 
+* Appoint individuals to roles on the Solid Team 
+* Provide feedback to the Solid Manager on how best to implement the Solid vision 
+
+## Solid Manager
+
+The role of the Solid Manager is to implement the vision put forward by the Solid Director. 
+
+Specific responsibilities of the Solid Manager include:
+* Moderate the gitter and forum Solid chats
+* Moderate the weekly Solid Team meeting 
+* Moderate the webinar Solid World 
+* Write and send the newsletter This Month in Solid 
+* Tweet on behalf of Solid via @project_solid
+* Support Administrators, Editors, and Creators to be able to carry out their responsibilities 
+* Respond to the info@solidproject.org email on behalf of the Solid Team
+* Collect applications to Solid Team roles and present them to the Solid Director for review and respond to the candidates
+* Promote research on Solid by maintaining a public list of Solid Labs and communicating Solid Labs to potential research institutions who may be interested in researching on Solid
+* Promoting companies to implement Solid to produce software that is Solid compatible 
+
+## Administrators 
+
+The role of the Administrators is to maintain Solid properties which covers tools, systems, and services used for advancing Solid. 
+
+Specific responsibilities of the Administrators include:
+Ensuring that all passwords of Solid properties are recorded and updated in the Solid 1Password account 
+Ensure that all Administrators have access to the Solid 1Password account
+Ensuring domain and hosting for solidproject.org are up and running 
+Are Admins and Moderators on forum.solidproject.org 
+
+## Editors 
+
+The role of the Editors is to maintain the Solid standard by processing suggestions made by panellists. 
+
+Specific responsibilities of the Editors include:
+Ensuring that all suggestions to improve the Solid standard are collected as issues or pull requests in github.com/solid/specification 
+Reviewing Solid standard proposals from panellists
+Reviewing pull requests prepared by Creators to process suggestions to improve the solidproject.org website 
+
+[Editors](https://github.com/solid/process/blob/master/editors.md) have [_Admin Permissions_](https://help.github.com/en/articles/repository-permission-levels-for-an-organization#permission-levels-for-repositories-owned-by-an-organization) on [repositories tagged as ‘standard’](https://github.com/search?q=topic%3Aspecification+org%3Asolid&type=Repositories) to be able to carry out their Editorial responsibilities. 
+
+## Creators
+
+The role of the Creators is to maintain solidproject.org by processing suggestions to improve the website. 
+
+Specific responsibilities of the Creators include:
+Processing suggestions to improve solidproject.org to be recorded on the [website kanban board](https://github.com/solid/solidproject.org/projects/1) 
+maintaining the listings of Solid apps, Pods, Solid identity providers and Solid developer tooling
+
+[Creators](https://github.com/solid/process/blob/master/creators.md) have [_Admin Permissions_](https://help.github.com/en/articles/repository-permission-levels-for-an-organization#permission-levels-for-repositories-owned-by-an-organization) on [repositories tagged as ‘website’](https://github.com/search?q=topic%3Awebsite+org%3Asolid&type=Repositories)
+
+# The solidproject.org Website 
+
+The solidproject.org website is linked to the [`master` branch of the GitHub repo solid/solidproject.org](https://github.com/solid/solidproject.org/tree/master). Draft versions of updates of the website are worked on in the [`staging` branch of the same repo](https://github.com/solid/solidproject.org/tree/staging). The draft work is documented on the [Creators project board](https://github.com/orgs/solid/projects/12). 
+
+Anyone can make suggestions by commenting or submitting  pull requests to the [`staging` branch of solid/solidproject.org](https://github.com/solid/solidproject.org/tree/staging) to be reviewed by Editors, and be approved by the Solid Director before they go to `staging`.
+
+Spelling, grammar, broken links, and other minor changes do not need to be approved by the Solid Director and can be updated or approved directly in `staging` by the Creators. Changes larger than that, but that do not significantly alter the website content (such as referencing community activity outside of the website) also do not need to be approved by the Solid Director in order to be applied to `staging`, as long as they have been approved by one of the [Editors](https://github.com/solid/process/blob/master/editors.md).
+
+Creators can move changes in `staging` to `master` (and hence solidproject.org) at any time, since `staging` will only contain approved changes.
+
+# The Solid Specification
+
+The latest version of the Solid standard can be found on solidproject.org/standard which is linked to the [Solid standard repository](https://github.com/solid/specification) which allows for collaborative editing. 
+
 The following is a description about how changes to the specifications in the Solid ecosystem may be proposed and accepted.
-
-The current development on the Solid ecosystem is carried out in the [Solid Specifications](https://github.com/solid/specification) repository. The [Unofficial Draft](https://github.com/solid/solid-spec) predating the current development is still available for historical reference.
-
-Anyone may participate in [this process](https://github.com/solid/culture). Please read the [Code of Conduct](code-of-conduct.md) before doing so.
-
-## Contributors
-
-Any individual that has been involved in proposals to improve the [Solid Specification](https://github.com/solid/specification) has provided a valuable service to the [Solid Project](https://www.solidproject.org) and is encouraged to continue.
-
-All manner of contributions are important - whether identifying problems, asking questions, or proposing normative changes.
-
-There are many topics, problems, or ideas best tackled by a group of people with a specific set of domain expertise. For these cases, we have [Solid Panels](#solid-panels).
 
 ### Solid Panels
 
@@ -50,19 +149,6 @@ A list of Solid Panels is maintained at [panels.md](panels.md). This listing hel
 Panels may request to have a repository created within the [Solid Github Organization](https://github.com/solid). These requests should be made by submitting an issue to [solid/process](https://github.com/solid/process). The request should include the proposed name of the repository, and how it will be used. Any editor may reject a proposed name and request an alternative. All panel members will receive [_Maintain Permissions_](https://help.github.com/en/articles/repository-permission-levels-for-an-organization#permission-levels-for-repositories-owned-by-an-organization) on the panel repository, unless it is subject to editorial review, which would require that it employ a [different permission structure](#repositories). Panel repositories that are inactive for more than six months may be archived by Solid Administrators.
 
 Panels may request to have a gitter channel created within the [Solid Gitter Organization](https://gitter.im/solid). These requests should be made by submitting an issue to [solid/process](https://github.com/solid/process).
-
-## Stakeholders
-
-Stakeholders are those affected by normative changes to the [Solid Specification](https://github.com/solid/specification). There are two types of Stakeholders; [Solid Users](#solid-users) and [Solid Implementers](#solid-implementers). It is important to consider them both when proposing changes, and adhering to the W3C [priority of constituencies](https://www.w3.org/TR/html-design-principles/#priority-of-constituencies) is encouraged. A Stakeholder may be both a user and an implementer.
-
-Stakeholders who have opted to identify themselves publicly are listed at [stakeholders.md](stakeholders.md). Anyone may decide to identify themselves publicly as a Solid Stakeholder, but it is not mandatory. Identified stakeholders may be consulted for feedback as part of the editorial process.
-
-### Solid Users
-
-Solid Users are individuals, companies, or organizations who access data stored in a Solid Pod.
-
-### Implementers
-Solid Implementers are companies or organizations who are implementing the [Solid Specification](https://github.com/solid/specification). A Solid Implementer may be any combination of Identity Provider, Pod Provider, and Application Provider.
 
 ## How to Make Changes
 
@@ -109,44 +195,6 @@ An Editor determines whether a Candidate Proposal includes a substantive change 
 Candidate Proposals with substantive changes require three Editors who are assigned to the material being modified to actively approve the proposal, with no Editors from the Editorial Team actively rejecting. If there are less than three Editors assigned to the material being modified, then other Editors from the Editorial Team may participate.  Editors may abstain. Candidate Proposals with substantive changes must remain open for at least one week before final acceptance. If an Editor does not vote by the end of that week it will be assumed that they abstained, providing a good faith attempt has been made to involve those who may be likely to disagree. Once the Candidate Proposal has successfully passed editorial review and the specified wait-time has elapsed, it may be merged by an assigned Editor.
 
 Candidate Proposals without substantive changes require one Editor assigned to the material being modified to actively approve the proposal, with no Editors from the Editorial Team actively rejecting, and may be merged immediately by an assigned Editor. An assigned Editor may approve and merge their own non-substantive changes. Anyone from the Editorial Team has the right to revert a non-substantive change, but are encouraged to communicate with the assigned Editor that merged it first. Any revert must be accompanied by a reasonable explanation. If the change is reverted because they believe it to be substantive, that must be included in the explanation.
-
-## Editorial Structure
-
-Editor appointments and their respective assignments are made by the Solid Director. The Editorial Team is comprised of all the Editors appointed by the Solid Director, who are listed at [editors.md](editors.md), along with their assignments, contact details, and affiliations. Anyone may apply to be an Editor, and must include one or more requested editorial assignments as part of their application. These requests are not reviewed by other Editors. They are reviewed only by the Solid Director. Editor applications that can demonstrate the support of a relevant panel or group of community members will be favorably considered.
-
-Editors belong to the [Editorial Team](https://github.com/orgs/solid/teams/editors) in the [Solid GitHub Organization](https://github.com/solid).
-
-### Repositories
-
-Repositories requiring editorial review are listed in [editors.md](editors.md#editorial-assignments). Each repository has one or more assigned editors, and only assigned editors are permitted to merge into the master branch of these repositories, per the [proposal review process](#reviewing-proposals).
-
-Editors have [_Admin Permissions_](https://help.github.com/en/articles/repository-permission-levels-for-an-organization#permission-levels-for-repositories-owned-by-an-organization) on the repositories they are assigned to, and are permitted to grant [_Write Permissions_](https://help.github.com/en/articles/repository-permission-levels-for-an-organization#permission-levels-for-repositories-owned-by-an-organization) to other contributing authors on the same. All members of the Editorial Team have [_Write Permissions_](https://help.github.com/en/articles/repository-permission-levels-for-an-organization#permission-levels-for-repositories-owned-by-an-organization) on all repositories requiring editorial review listed in [editors.md](editors.md).
-
-# Administration
-
-Administrators are granted privileged access to control the tools, systems, and services used for advancing the Solid. This includes the [Solid GitHub](https://github.com/solid) organization, [Solid Gitter](https://gitter.im/solid/home) channels, the [Solid Forum](https://forum.solidproject.org), and the [Solid Website](https://www.solidproject.org).
-
-Administrators belong to the [Administrators Team](https://github.com/orgs/solid/teams/administrators) in the [Solid GitHub Organization](https://github.com/solid) and have [_Admin Permissions_](https://help.github.com/en/articles/repository-permission-levels-for-an-organization#permission-levels-for-repositories-owned-by-an-organization) on all repositories therein. Administrators have [_Owner Permissions_](https://help.github.com/en/articles/permission-levels-for-an-organization#permission-levels-for-an-organization) for the [Solid GitHub Organization](https://github.com/solid).
-
-### Becoming an Administrator
-
-Administrators are appointed by the Solid Director. Administrators are listed at [administrators.md](administrators.md) along with their contact details and affiliations. Anyone may apply to be an Administrator. Administrator applications are not reviewed by other Administrators. They are reviewed only by the Solid Director.
-
-# Solidproject.org Website
-
-The [Creators](https://github.com/solid/process/blob/master/creators.md) are responsible for creating content for the solidproject.org website.
-
-[Creators](https://github.com/solid/process/blob/master/creators.md) are appointed by the Solid Director.
-
-[Creators](https://github.com/solid/process/blob/master/creators.md) have [_Admin Permissions_](https://help.github.com/en/articles/repository-permission-levels-for-an-organization#permission-levels-for-repositories-owned-by-an-organization) of the [solidproject.org](https://github.com/solid/solidproject.org), [information](https://github.com/solid/information) , [Solid app listing](https://github.com/solid/solid-apps), [Pod listing](https://github.com/solid/pods), and [identity listing](https://github.com/solid/solid-idp-list),[explaining the vision](https://github.com/solid/Explaining-the-Vision-Panel) repositories.
-
-The solidproject.org website is linked to the [`master` branch of the GitHub repo solid/solidproject.org](https://github.com/solid/solidproject.org/tree/master). Draft versions of updates of the website are worked on in the [`staging` branch of the same repo](https://github.com/solid/solidproject.org/tree/staging). The draft work is documented on the [Creators project board](https://github.com/orgs/solid/projects/12).
-
-Anyone can make suggestions by commenting or submitting  pull requests to the [`staging` branch of solid/solidproject.org](https://github.com/solid/solidproject.org/tree/staging) to be reviewed by Editors, and be approved by the Solid Director before they go to `staging`.
-
-Spelling, grammar, broken links, and other minor changes do not need to be approved by the Solid Director and can be updated or approved directly in `staging` by the Creators. Changes larger than that, but that do not significantly alter the website content (such as referencing community activity outside of the website) also do not need to be approved by the Solid Director in order to be applied to `staging`, as long as they have been approved by one of the [Editors](https://github.com/solid/process/blob/master/editors.md).
-
-Creators can move changes in `staging` to `master` (and hence solidproject.org) at any time, since `staging` will only contain approved changes.
 
 # References
 
