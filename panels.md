@@ -104,6 +104,7 @@ Ensuring the interoperability of data as it is read and written by different use
 - [Arne Hassel](http://github.com/megoth) <[arneh@inrupt.com](mailto:arneh@inrupt.com)> <@megoth_twitter>
 - [Aaron Coburn](https://github.com/acoburn) <[aaronc@inrupt.com](mailto:aaronc@inrupt.com)> (@acoburn)
 - [Jamie Fiedler](https://github.com/jamiefiedler) <[j@jf.dev](mailto:j@jf.dev)> (@jamiefiedler)
+- [Elf Pavlik](https://github.com/elf-pavlik) (@elf-pavlik)
 
 
 ### Editorial Assignment
