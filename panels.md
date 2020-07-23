@@ -42,13 +42,7 @@ How various agents and authorized to access resources.
 - [app authorization gitter channel](https://gitter.im/solid/app-authorization-panel)
 
 ### Panelists
-- [Dmitri Zagidulin](https://github.com/dmitrizagidulin) <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
-- [Michael Thornburgh](https://github.com/zenomt) <[mthornbu@adobe.com](mailto:mthornbu@adobe.com)> (@zenomt)
-- [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
-- [Jackson Morgan](https://github.com/jaxoncreed) <[jacksonm@inrupt.com](mailto:jacksonm@inrupt.com)> (@jaxoncreed)
-- [Sarven Capadisli](https://github.com/csarven) &lt;https://csarven.ca/#i&gt; (@csarven)
-- [Henry Story](http://github.com/bblfish) <[henry.story@bblfish.net](mailto:henry.story@bblfish.net)> (@bblfish)
-- [Jamie Fiedler](https://github.com/jamiefiedler) <[j@jf.dev](mailto:j@jf.dev)> (@jamiefiedler)
+see https://github.com/orgs/solid/teams/authorization-panel 
 
 
 ### Editorial Assignment
@@ -69,15 +63,7 @@ Discussion and specs relating to Authentication and Auth Delegation protocols, i
 - [authentication panel repository](https://github.com/solid/authentication-panel)
 
 ### Panelists
-- [Dmitri Zagidulin](https://github.com/dmitrizagidulin) <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
-- [Paul Worrall](https://github.com/pjworrall) <[paulw@inrupt.com](mailto:paulw@inrupt.com)> (@pjworrall)
-- [Michael Thornburgh](https://github.com/zenomt) <[mthornbu@adobe.com](mailto:mthornbu@adobe.com)> (@zenomt)
-- [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
-- [Jackson Morgan](https://github.com/jaxoncreed) <[jacksonm@inrupt.com](mailto:jacksonm@inrupt.com)> (@jaxoncreed)
-- [Aaron Coburn](https://github.com/acoburn) <[aaronc@inrupt.com](mailto:aaronc@inrupt.com)> (@acoburn)
-- [Matthias Evering](https://github.com/ewingson) <[me@evering.eu](mailto:me@evering.eu)> (@ewingson)
-- [Henry Story](http://github.com/bblfish) <[henry.story@bblfish.net](mailto:henry.story@bblfish.net)> (@bblfish)
-- [Jamie Fiedler](https://github.com/jamiefiedler) <[j@jf.dev](mailto:j@jf.dev)> (@jamiefiedler)
+see https://github.com/orgs/solid/teams/authentication-panel
 
 
 ### Editorial Assignment
@@ -90,21 +76,7 @@ Ensuring the interoperability of data as it is read and written by different use
 - [data-interoperability-repository](https://github.com/solid/data-interoperability-panel)
 
 ### Panelists
-- [Dmitri Zagidulin](https://github.com/dmitrizagidulin) <[dzagidulin@gmail.com](mailto:dzagidulin@gmail.com)> (@dmitrizagidulin)
-- [Justin Bingham](https://github.com/justinwb) <[justin.bingham@janeirodigital.com](mailto:justin.bingham@janeirodigital.com)> (@justinwb)
-- [Eric Prud'hommeaux](https://github.com/ericprud) <[eric@w3.org](mailto:eric@w3.org)> (@ericprud)
-- [Max Dor](https://github.com/maxidorius) <[max@dorius.io](mailto:max@dorius.io)> (@maxidorius)
-- [James Schoening](https://github.com/jimschoening) <[james.r.schoening.civ@mail.mil](mailto:james.r.schoening.civ@mail.mil)> (@jimschoening)
-- [Jose Emilio Labra Gayo](http://labra.weso.es) <[jelabra@gmail.com](mailto:jelabra@gmail.com)> (@labra)
-- [Ruben Verborgh](https://github.com/RubenVerborgh) <[Ruben.Verborgh@UGent.be](mailto:Ruben.Verborgh@UGent.be)>(@RubenVerborgh)
-- [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
-- [Jason Reynolds](https://github.com/orgs/solid/people/JKReynolds) <[jason.reynolds@polarisalpha.com](mailto:jason.reynolds@polarisalpha.com)> (@JKReynolds)
-- [Simon Shapiro](https://github.com/SimonShapiro) <[simon.m.shapiro@gmail.com](mailto:simon.m.shapiro@gmail.com)> (@SimonShapiro)
-- [Sarven Capadisli](https://github.com/csarven) &lt;https://csarven.ca/#i&gt; (@csarven)
-- [Arne Hassel](http://github.com/megoth) <[arneh@inrupt.com](mailto:arneh@inrupt.com)> <@megoth_twitter>
-- [Aaron Coburn](https://github.com/acoburn) <[aaronc@inrupt.com](mailto:aaronc@inrupt.com)> (@acoburn)
-- [Jamie Fiedler](https://github.com/jamiefiedler) <[j@jf.dev](mailto:j@jf.dev)> (@jamiefiedler)
-- [Elf Pavlik](https://github.com/elf-pavlik) (@elf-pavlik)
+see https://github.com/orgs/solid/teams/interoperability
 
 
 ### Editorial Assignment
