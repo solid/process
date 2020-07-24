@@ -1,7 +1,9 @@
 This repository details how changes to Solid may be proposed and accepted.
 
-# Solid Specficification
-The following is a description about how changes to the [Solid Specification](https://github.com/solid/specification) may be proposed and accepted.
+# Solid Specification
+The following is a description about how changes to the specifications in the Solid ecosystem may be proposed and accepted.
+
+The current development on the Solid ecosystem is carried out in the [Solid Specifications](https://github.com/solid/specification) repository. The [Unofficial Draft](https://github.com/solid/solid-spec) predating the current development is still available for historical reference.
 
 Anyone may participate in [this process](https://github.com/solid/culture). Please read the [Code of Conduct](code-of-conduct.md) before doing so.
 
@@ -15,9 +17,33 @@ There are many topics, problems, or ideas best tackled by a group of people with
 
 ### Solid Panels
 
-Solid Panels are groups of individuals focused on a specific problem or domain relevant to Solid, with an aim to propose changes to the [Solid Specification](https://github.com/solid/specification). Anyone may join a panel or suggest a new panel.
+Solid Panels are groups of individuals focused on a specific problem or domain relevant to Solid, with an aim to propose changes to the [Solid Specification](https://github.com/solid/specification). Domains may be technical, non-technical, or some combination of the two. For example, a Security Panel could focus on the evaluation and advancement of the Solid security model. Only members of the [W3C Solid Community Group](https://www.w3.org/community/solid/), which anyone may join, and which operates under the [W3C Community Contributor License Agreement](https://www.w3.org/community/about/agreements/cla/), may become a member of a Solid Panel.
 
-Domains may be technical, non-technical, or some combination of the two. For example, a Security Panel could focus on the evaluation and advancement of the Solid security model.
+New panels may be proposed by submitting an issue to the [solid/process](https://github.com/solid/process) repository. Establishing a new panel requires the endorsement of at least one member of the [Editorial Team](https://github.com/orgs/solid/teams/editors). To receive endorsement, the proposed panel submission must include:
+
+1. A stated purpose
+1. One or more initiatives that will be actively pursued and tracked in regular panel sessions to advance the stated purpose
+1. Demonstrable support of at least five prospective members
+
+Any iteration on the stated purpose, initiatives, and supporting members should continue as needed until endorsement is received from at least one member of the Editorial Team. Submissions that fail to receive endorsement may be removed by Solid Administrators after six months.
+
+Any Editor endorsing a panel is expected to attend regular sessions, and to provide the Panel Chairs and Panel with insight on specification priorities, as well as support work on any relevant initiatives in flight.
+
+Each panel is chaired by one or more Panel Chairs. An Editorial Team member endorsing a panel is responsible for electing the Panel Chairs, barring any vetoes from another Editor, another Panel Chair of the same panel, or vetoes from a majority of panel members. The Solid Director reserves the right to elect and/or change Panel Chairs. In the event that an Editor should be nominated as a Panel Chair, they must be elected by another member of the Editorial Team.
+
+ Responsibilities of a Panel Chair include but are not limited to:
+
+- Coordinating and communicating panel initiatives
+- Collaboaring with Editors on priority and direction of panel initiatives
+- Ensuring panel meetings are focused on advancing panel initiatives
+- Ensuring every Panel meeting has a clear goal and agenda
+- Ensuring all actions arising from meetings are tracked to completion
+- Ensuring target dates are set for outcomes
+- Working with Panel members to achieve broad consensus on decisions, with a consistent aim towards unanimity, in general accordance with the W3C process for realizing [consensus](https://www.w3.org/2019/Process-20190301/#Consensus).
+- Referring to the W3C process to [constructively manage dissent](https://www.w3.org/2019/Process-20190301/#managing-dissent) from panel members so that the group can continue to make progress in the absence of broad consensus.
+- Ensuring panel decisions, activities, and achievements are tracked and communicated.
+
+Decisions made by a Panel about proposed specification changes are subject to the [proposal review process](#reviewing-proposals).
 
 A list of Solid Panels is maintained at [panels.md](panels.md). This listing helps people find panels they may want to participate in, and helps editors find panels to consult as part of the editorial process.
 
@@ -48,7 +74,7 @@ Anyone may submit a proposal to alter this process. These proposals will not be 
 
 Anyone may propose improvements to the [Solid Specification](https://github.com/solid/specification). Here are some examples of different ways to contribute:
 
-- Submit a pull request or issue on the [Solid Specification repository](https://github.com/solid/solid-spec) in GitHub
+- Submit a pull request or issue on the [Solid Specification repository](https://github.com/solid/specification) in GitHub
 - Make a suggestion to the Solid Authorization Panel chat room about a change you'd like to see in Web Access Control
 - Make a suggestion on the Solid W3C Community Group mailing list to form a new Solid Panel, or join an existing Solid Panel
 - Propose an item for the W3C Solid Community Group call
@@ -69,6 +95,14 @@ When there are objections, notify the Solid Panels and Stakeholders about the fi
 
 Candidate proposals to the [Solid Specification](https://github.com/solid/specification) submitted for review go through an editorial process before they are accepted.
 Candidate Proposals to change the Solid Specification must be submitted for editorial review before they are accepted, along with the results of any votes taken.
+
+To help broad consensus form, it is suggested that each proposal be brought to the attention of the Editors at some defined contact points during its life cycle. These contact points are:
+1. When a reason to change or extend the specification is first encountered, an [issue is opened](https://github.com/solid/specification/issues/new). The issue is then used for further communication with the Editors.
+1. Panels may create or adopt issues, and Panels should notify Editors that such discussion has started.
+1. When a Panel reaches rough consensus on an issue, the Panel should notify the Editors, indicating in informal text what the consensus entails and who participated in forming it.
+1. When a Panel starts drafting the text of a proposal, the Panel should notify the Editors.
+
+The above is not required and may be superfluous for small changes, but it is likely to speed up the overall process for larger issues.
 
 An Editor determines whether a Candidate Proposal includes a substantive change and marks it accordingly. If there is any disagreement among Editors, the Candidate Proposal will be automatically marked as including a substantive change.
 
@@ -98,20 +132,28 @@ Administrators belong to the [Administrators Team](https://github.com/orgs/solid
 
 Administrators are appointed by the Solid Director. Administrators are listed at [administrators.md](administrators.md) along with their contact details and affiliations. Anyone may apply to be an Administrator. Administrator applications are not reviewed by other Administrators. They are reviewed only by the Solid Director.
 
-# Solidproject.org Website 
+# Solidproject.org Website
 
-The [Creators](https://github.com/solid/process/blob/master/creators.md) are responsible for creating content for the solidproject.org website. 
+The [Creators](https://github.com/solid/process/blob/master/creators.md) are responsible for creating content for the solidproject.org website.
 
 [Creators](https://github.com/solid/process/blob/master/creators.md) are appointed by the Solid Director.
 
 [Creators](https://github.com/solid/process/blob/master/creators.md) have [_Admin Permissions_](https://help.github.com/en/articles/repository-permission-levels-for-an-organization#permission-levels-for-repositories-owned-by-an-organization) of the [solidproject.org](https://github.com/solid/solidproject.org), [information](https://github.com/solid/information) , [Solid app listing](https://github.com/solid/solid-apps), [Pod listing](https://github.com/solid/pods), and [identity listing](https://github.com/solid/solid-idp-list),[explaining the vision](https://github.com/solid/Explaining-the-Vision-Panel) repositories.
+
+The solidproject.org website is linked to the [`master` branch of the GitHub repo solid/solidproject.org](https://github.com/solid/solidproject.org/tree/master). Draft versions of updates of the website are worked on in the [`staging` branch of the same repo](https://github.com/solid/solidproject.org/tree/staging). The draft work is documented on the [Creators project board](https://github.com/orgs/solid/projects/12).
+
+Anyone can make suggestions by commenting or submitting  pull requests to the [`staging` branch of solid/solidproject.org](https://github.com/solid/solidproject.org/tree/staging) to be reviewed by Editors, and be approved by the Solid Director before they go to `staging`.
+
+Spelling, grammar, broken links, and other minor changes do not need to be approved by the Solid Director and can be updated or approved directly in `staging` by the Creators. Changes larger than that, but that do not significantly alter the website content (such as referencing community activity outside of the website) also do not need to be approved by the Solid Director in order to be applied to `staging`, as long as they have been approved by one of the [Editors](https://github.com/solid/process/blob/master/editors.md).
+
+Creators can move changes in `staging` to `master` (and hence solidproject.org) at any time, since `staging` will only contain approved changes.
 
 # References
 
 Solid culture documentation was put together with inspiration and learnings from the following resources.
 
 * [W3C Good practice for running a group](https://www.w3.org/community/about/good-practice-for-running-a-group/)
-* Python (2018) [Python Lanugage](https://www.python.org/dev/peps/pep-0013/)
+* Python (2018) [Python Language](https://www.python.org/dev/peps/pep-0013/)
 * Elinor Ostrom (2005) [Understanding Institutional Diversity](https://www.wtf.tw/ref/ostrom_2005.pdf).
 * Chales M Schweik and Meelis Kitsting (2010) [Applying Elinor Ostrom’s Rule Classification Framework to the Analysis of Open Source Software Commons. Transnational Corporations Review](http://www.tnc-online.net/pic/2010032809124697.pdf)
 * Sean McDonald (2019) [Reclaiming Data Trusts. CIGO](https://www.cigionline.org/articles/reclaiming-data-trusts)
