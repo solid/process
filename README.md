@@ -147,6 +147,10 @@ The solidproject.org website is linked to the [`master` branch of the GitHub rep
 
 Anyone can make suggestions by commenting or submitting  pull requests to the [`staging` branch of solid/solidproject.org](https://github.com/solid/solidproject.org/tree/staging) to be reviewed by Editors, and be approved by the Solid Director before they go to `staging`.
 
+The Editorial review of website suggestions must happen within 24 hours of submitting the pull request. If the Editorial review of the website suggestion does not happen within 24 hours, then the website suggestion can be published with Creator review as long as the suggestion is technically in line with approved Solid website content. 
+
+The Editorial review must be green pen, not red pen edits i.e. edits cannot say that text suggestion is inadequate without actively stating what the text should become or what specific text should be removed completely for the suggestion to become adequate. Red pen Editorial reviews can be ignored.
+
 Spelling, grammar, broken links, and other minor changes do not need to be approved by the Solid Director and can be updated or approved directly in `staging` by the Creators. Changes larger than that, but that do not significantly alter the website content (such as referencing community activity outside of the website) also do not need to be approved by the Solid Director in order to be applied to `staging`, as long as they have been approved by one of the [Editors](https://github.com/solid/process/blob/master/editors.md).
 
 Creators can move changes in `staging` to `master` (and hence solidproject.org) at any time, since `staging` will only contain approved changes.
