@@ -43,23 +43,23 @@ __Primary Documents:__  [solid/specification/resource-access](https://github.com
 
 #### Identity
 Pertaining to mechanisms that universally identify people or applications.  
-__Assigned Editors:__  *No editors assigned yet*   
+__Assigned Editors:__  Dmitri Zagidulin
 __Primary Documents:__
 
 #### Authentication
-Pertaining to mechanisms that authenticate a person or application for the purposes of accessing resources in a data pod.  
-__Assigned Editors:__  Justin Bingham   
+Pertaining to mechanisms that authenticate a person or application for the purposes of accessing resources in a data pod.
+__Assigned Editors:__  Justin Bingham, Dmitri Zagidulin
 __Primary Documents:__ [solid/specification/webid-oidc](https://github.com/solid/specification/tree/master/webid-oidc), [solid/specification/webid-tls](https://github.com/solid/specification/tree/master/webid-tls), [solid/webid-oidc-spec](https://github.com/solid/webid-oidc-spec)
 
 #### Authorization
-Pertaining to mechanisms that control the access a given agent has to read or manipulate resources in a data pod.  
-__Assigned Editors:__  Kjetil Kjernsmo  
+Pertaining to mechanisms that control the access a given agent has to read or manipulate resources in a data pod.
+__Assigned Editors:__  Kjetil Kjernsmo, Dmitri Zagidulin
 __Primary Documents:__ [solid/specification/resource-access](https://github.com/solid/specification/blob/master/main/resource-access.bs), [solid/specification/wac](https://github.com/solid/specification/tree/master/wac), [solid/web-access-control-spec](https://github.com/solid/web-access-control-spec)
 
 #### Events and Notifications
 Pertaining to mechanisms that process and/or emit events between pods and agents, or other pods.  
-__Assigned Editors:__  Sarven Capadisli, Ruben Verborgh   
-__Primary Documents:__ 
+__Assigned Editors:__  Sarven Capadisli, Ruben Verborgh, Dmitri Zagidulin
+__Primary Documents:__
 
 #### Data Interoperability
 Pertaining to mechanisms that ensure disparate applications or agents can safely and seamlessly read and write the data they need.  
@@ -77,8 +77,8 @@ __Assigned Editors:__  Kjetil Kjernsmo, Justin Bingham, Sarven Capadisli
 __Primary Documents:__ [solid/vocab](https://github.com/solid/vocab)
 
 #### Auditing
-Pertaining to the mechanisms through which access and manipulation events of resources in a data pod are recorded and accessible.  
-__Assigned Editors:__  *No editors assigned yet*   
+Pertaining to the mechanisms through which access and manipulation events of resources in a data pod are recorded and accessible.
+__Assigned Editors:__  Dmitri Zagidulin
 __Primary Documents:__
 
 #### Querying
@@ -88,10 +88,10 @@ __Primary Documents:__
 
 #### Cryptography
 Pertaining to the mechanisms through which cryptographic techniques are employed to provide data privacy, data integrity, and verifiable information.  
-__Assigned Editors:__ *No editors assigned yet*    
+__Assigned Editors:__ Dmitri Zagidulin
 __Primary Documents:__
 
 #### Security
 Pertaining to mechanisms used and considerations taken when securing a data pod, a conformant server implementation, and/or the immediate ecosystem around them.  
-__Assigned Editors:__ Justin Bingham    
+__Assigned Editors:__ Justin Bingham, Dmitri Zagidulin
 __Primary Documents:__ [solid/specification/security](https://github.com/solid/specification/blob/master/main/security.bs)
