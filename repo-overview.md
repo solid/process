@@ -1,6 +1,6 @@
 # Solid GitHub Repository Overview
 
-[Solid GitHub](https://github.com/solid/) contains several repositories. This document aims to provide an overview of the aim of each of the repositories and who is actively maintaining each repository. 
+The [Solid GitHub organisation](https://github.com/solid/) contains several repositories. This document aims to provide an overview of the aim of each of the repositories and who is actively maintaining each repository. 
 
 If you have more information [submit an issue](https://github.com/solid/process/issues) and a Solid Administrator will make a decision on how to incorporate the issue into this file.  
 
