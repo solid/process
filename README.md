@@ -137,7 +137,7 @@ Administrators are appointed by the Solid Director. Administrators are listed at
 
 # Solidproject.org Website
 
-[Creators](https://github.com/solid/process/blob/master/creators.md) are responsible for keeping [solidproject.org](https://solidproject.org/) up to date.
+[Creators](https://github.com/solid/process/blob/master/creators.md) independently assist with keeping [solidproject.org](https://solidproject.org/) up to date.
 
 Anyone can make suggestions by creating issues or submitting pull requests
 to the [solid/solidproject.org](https://github.com/solid/solidproject.org) repository.
