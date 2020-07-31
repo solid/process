@@ -151,6 +151,16 @@ Spelling, grammar, broken links, and other minor changes do not need to be appro
 
 Creators can move changes in `staging` to `master` (and hence solidproject.org) at any time, since `staging` will only contain approved changes.
 
+# Solid Manager
+The roles and responsibilities of the Solid Manager are: 
+* Moderation: respond to questions on gitter and the forum by providing links to existing answers, moderate spam on the forum
+* Solid World: publish agenda provided by Kelly, if there is no agenda provided by Kelly set up an agenda, prepare the speakers and the visuals before the webinar,  and host the webinar using the script provided by Kelly with the support of one team member for technical matters and live tweeting by Marelle 
+* This Month in Solid: write the newsletter by coordinating input from the community on next.md and submit for review by the Editors on the first Friday of the Month. Once reviewed by the Editors send the newsletter via email using TinyLetter. 
+* Solid Team call: moderate the Solid team call by sending out an email to the Solid Team with the dial in details and invitation to add items to the agenda, moderating during the call and taking minutes, and sending another email too the Solid Team with the minutes published on the W3C Solid Community Group wiki containing the minutes 
+* Solid Twitter: publish tweets including upcoming Solid World and published This Month in Solid as well as coordinating live tweeting during Solid World with Marelle 
+
+There is no responsibility in relation to the Solid [specification](https://github.com/solid/specification), [test suite](https://github.com/solid/test-suite), [solidproject.org](https://github.com/solid/solidproject.org), nor the [process](https://github.com/solid/process). 
+
 # References
 
 Solid culture documentation was put together with inspiration and learnings from the following resources.
