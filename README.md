@@ -137,19 +137,14 @@ Administrators are appointed by the Solid Director. Administrators are listed at
 
 # Solidproject.org Website
 
-The [Creators](https://github.com/solid/process/blob/master/creators.md) are responsible for creating content for the solidproject.org website.
+[Creators](https://github.com/solid/process/blob/master/creators.md) independently assist with keeping [solidproject.org](https://solidproject.org/) up to date.
 
-[Creators](https://github.com/solid/process/blob/master/creators.md) are appointed by the Solid Director.
+Anyone can make suggestions by creating issues or submitting pull requests
+to the [solid/solidproject.org](https://github.com/solid/solidproject.org) repository.
 
-[Creators](https://github.com/solid/process/blob/master/creators.md) have [_Admin Permissions_](https://help.github.com/en/articles/repository-permission-levels-for-an-organization#permission-levels-for-repositories-owned-by-an-organization) of the [solidproject.org](https://github.com/solid/solidproject.org), [information](https://github.com/solid/information) , [Solid app listing](https://github.com/solid/solid-apps), [Pod listing](https://github.com/solid/pods), and [identity listing](https://github.com/solid/solid-idp-list),[explaining the vision](https://github.com/solid/Explaining-the-Vision-Panel) repositories.
-
-The solidproject.org website is linked to the [`master` branch of the GitHub repo solid/solidproject.org](https://github.com/solid/solidproject.org/tree/master). Draft versions of updates of the website are worked on in the [`staging` branch of the same repo](https://github.com/solid/solidproject.org/tree/staging). The draft work is documented on the [Creators project board](https://github.com/orgs/solid/projects/12).
-
-Anyone can make suggestions by commenting or submitting  pull requests to the [`staging` branch of solid/solidproject.org](https://github.com/solid/solidproject.org/tree/staging) to be reviewed by Editors, and be approved by the Solid Director before they go to `staging`.
-
-Spelling, grammar, broken links, and other minor changes do not need to be approved by the Solid Director and can be updated or approved directly in `staging` by the Creators. Changes larger than that, but that do not significantly alter the website content (such as referencing community activity outside of the website) also do not need to be approved by the Solid Director in order to be applied to `staging`, as long as they have been approved by one of the [Editors](https://github.com/solid/process/blob/master/editors.md).
-
-Creators can move changes in `staging` to `master` (and hence solidproject.org) at any time, since `staging` will only contain approved changes.
+Minor changes (such as spelling, grammar, and broken links) do not require review.
+Larger chunks of texts should be reviewed by a Creator or Editor for technical correctness.
+Changes to the main messaging require an approving review by the Director.
 
 # References
 
