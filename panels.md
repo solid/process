@@ -78,6 +78,7 @@ Discussion and specs relating to Authentication and Auth Delegation protocols, i
 - [Matthias Evering](https://github.com/ewingson) <[me@evering.eu](mailto:me@evering.eu)> (@ewingson)
 - [Henry Story](http://github.com/bblfish) <[henry.story@bblfish.net](mailto:henry.story@bblfish.net)> (@bblfish)
 - [Jamie Fiedler](https://github.com/jamiefiedler) <[j@jf.dev](mailto:j@jf.dev)> (@jamiefiedler)
+- [Sarven Capadisli](https://github.com/csarven) &lt;https://csarven.ca/#i&gt; (@csarven)
 
 
 ### Editorial Assignment
