@@ -26,6 +26,7 @@ Candidate Proposals to the Solid Specification produced by this panel are likely
 * [Authorization](#authorization)
 * [Authentication](#authentication)
 * [Interoperability](#interoperability)
+* [Test-suite](#test-suite)
 
 All Panels can be reached on [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 
@@ -109,3 +110,27 @@ Ensuring the interoperability of data as it is read and written by different use
 
 ### Editorial Assignment
 Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Data Interoperability and Portability editorial topic](https://github.com/solid/process/blob/master/editors.md#data-interoperability-and-portability), and will be principally reviewed by any editors assigned to it.
+
+## Test Suite
+This panel is responsible for maintaining the test suite for Solid.
+
+### Communication channels
+- https://github.com/solid/test-suite
+- https://github.com/solid/webid-provider-tests
+- https://github.com/solid/solid-crud-tests
+- https://github.com/solid/web-access-control-tests
+- https://gitter.im/solid/test-suite
+
+### Panelists
+- (tbc:) [Sarven Capadisli](https://github.com/csarven) &lt;https://csarven.ca/#i&gt; (@csarven)
+- [Michiel de Jong](https://github.com/michielbdejong) <[michiel@unhosted.org](mailto:michiel@unhosted.org)> (@michielbdejong)
+- (tbc:) [Yvo Brevoort](https://github.com/ylebre) (@ylebre)
+
+### Editorial Assignment
+The test suite should never contradict the Solid specification.
+When implementations and specification disagree, the test suite can help bring them closer together,
+but should not itself act as a voice in the discussion.
+It should help pod server implementations comply with the specification.
+It should help pod server implementations be compatible with one another.
+It doesn't necessarily have to test every possible combination of situations as long as it is useful
+to pod server implementers, and the reports its produces are a reliable source of information.
