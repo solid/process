@@ -146,6 +146,16 @@ Minor changes (such as spelling, grammar, and broken links) do not require revie
 Larger chunks of texts should be reviewed by a Creator or Editor for technical correctness.
 Changes to the main messaging require an approving review by the Director.
 
+# Solidcommunity.net
+
+[Solidcommunity.net](https://solidcommunity.net) is a free pod hosting service
+maintained by the Solid Project for research, development, and experimental,
+non-commercial use of Solid by community members.
+
+It is administered by [System Operators](system-operators.md), with additional 
+support from Solid Project [Administrators](administrators). System Operators 
+are appointed by the Solid Director.
+
 # References
 
 Solid culture documentation was put together with inspiration and learnings from the following resources.
