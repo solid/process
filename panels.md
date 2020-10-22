@@ -112,7 +112,7 @@ Ensuring the interoperability of data as it is read and written by different use
 Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Data Interoperability and Portability editorial topic](https://github.com/solid/process/blob/master/editors.md#data-interoperability-and-portability), and will be principally reviewed by any editors assigned to it.
 
 ## Test Suite
-This panel is responsible for maintaining the test suite for Solid.
+This panel is responsible for establishing the test suite for Solid, and maintaining it over time as the specification evolves.
 
 ### Communication channels
 - https://github.com/solid/test-suite
