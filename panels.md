@@ -114,6 +114,16 @@ Candidate Proposals to the Solid Specification produced by this panel are likely
 ## Test Suite
 This panel is responsible for establishing the test suite for Solid, and maintaining it over time as the specification evolves.
 
+### Initiatives
+* Establish test suite requirements
+* Propose test suite stack / framework
+* Help server implementers run our test suites in their CI (GitHub PRs, Gitter support).
+* Initiative per test suite:
+  - [WebID Provider](https://github.com/solid/webid-provider-tests)
+  - [Solid CRUD](https://github.com/solid/solid-crud-tests)
+  - [Web Access Control](https://github.com/solid/web-access-control-tests)
+  - [Bringing it all together](https://github.com/solid/test-suite)
+
 ### Communication channels
 - https://github.com/solid/test-suite
 - https://github.com/solid/webid-provider-tests
