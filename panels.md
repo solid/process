@@ -132,9 +132,10 @@ This panel is responsible for establishing the test suite for Solid, and maintai
 - https://gitter.im/solid/test-suite
 
 ### Panelists
-- (tbc:) [Sarven Capadisli](https://github.com/csarven) &lt;https://csarven.ca/#i&gt; (@csarven)
+- [Sarven Capadisli](https://github.com/csarven) &lt;https://csarven.ca/#i&gt; (@csarven)
 - [Michiel de Jong](https://github.com/michielbdejong) <[michiel@unhosted.org](mailto:michiel@unhosted.org)> (@michielbdejong)
-- (tbc:) [Yvo Brevoort](https://github.com/ylebre) (@ylebre)
+- [Yvo Brevoort](https://github.com/ylebre) (@ylebre)
+- [Pete Edwards](https://github.com/edwardsph)
 
 ### Editorial Assignment
 The test suite should never contradict the Solid specification.
