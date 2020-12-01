@@ -8,3 +8,4 @@ Below is a listing of [Solid Administrators](README.md#administration). Administ
 | [Justin Bingham](https://github.com/justinwb) | [WebID](https://justin.inrupt.net/profile/card#me) | 
 | [Jackson Morgan](https://github.com/jaxoncreed) | [WebId](https://jackson.solid.community/profile/card#me) |
 | [Marrelle Bailey](https://github.com/marrellebailey) | [WebId](https://marrelleb.inrupt.net/profile/card) |
+| [Osmar Olivo](https://github.com/oolivo) | [WebId](https://oz.inrupt.net/profile/card#me) |
