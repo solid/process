@@ -123,6 +123,7 @@ Repositories requiring editorial review are listed in [editors.md](editors.md#ed
 Editors have [_Admin Permissions_](https://help.github.com/en/articles/repository-permission-levels-for-an-organization#permission-levels-for-repositories-owned-by-an-organization) on the repositories they are assigned to, and are permitted to grant [_Write Permissions_](https://help.github.com/en/articles/repository-permission-levels-for-an-organization#permission-levels-for-repositories-owned-by-an-organization) to other contributing authors on the same. All members of the Editorial Team have [_Write Permissions_](https://help.github.com/en/articles/repository-permission-levels-for-an-organization#permission-levels-for-repositories-owned-by-an-organization) on all repositories requiring editorial review listed in [editors.md](editors.md).
 
 # Test Suite 
+
 Test Suite Developers work with the aim of developing a [test suite](https://github.com/solid/test-suite) that can be used to verify an implementation against the Solid specification. 
 
 # Administration
