@@ -110,6 +110,12 @@ Candidate Proposals with substantive changes require three Editors who are assig
 
 Candidate Proposals without substantive changes require one Editor assigned to the material being modified to actively approve the proposal, with no Editors from the Editorial Team actively rejecting, and may be merged immediately by an assigned Editor. An assigned Editor may approve and merge their own non-substantive changes. Anyone from the Editorial Team has the right to revert a non-substantive change, but are encouraged to communicate with the assigned Editor that merged it first. Any revert must be accompanied by a reasonable explanation. If the change is reverted because they believe it to be substantive, that must be included in the explanation.
 
+### Vocabulary Management
+
+The [W3C Solid Community Group](https://www.w3.org/community/solid/) handles the management of Solid vocabularies under its responsibility through the [solid/vocab](https://github.com/solid/vocab) repository.
+
+The policy for the management of Solid vocabularies under the W3C namespace is described in [Adding to W3C RDF Namespaces](https://www.w3.org/2016/08/namespaces/).
+
 ## Editorial Structure
 
 Editor appointments and their respective assignments are made by the Solid Director. The Editorial Team is comprised of all the Editors appointed by the Solid Director, who are listed at [editors.md](editors.md), along with their assignments, contact details, and affiliations. Anyone may apply to be an Editor, and must include one or more requested editorial assignments as part of their application. These requests are not reviewed by other Editors. They are reviewed only by the Solid Director. Editor applications that can demonstrate the support of a relevant panel or group of community members will be favorably considered.
@@ -122,8 +128,8 @@ Repositories requiring editorial review are listed in [editors.md](editors.md#ed
 
 Editors have [_Admin Permissions_](https://help.github.com/en/articles/repository-permission-levels-for-an-organization#permission-levels-for-repositories-owned-by-an-organization) on the repositories they are assigned to, and are permitted to grant [_Write Permissions_](https://help.github.com/en/articles/repository-permission-levels-for-an-organization#permission-levels-for-repositories-owned-by-an-organization) to other contributing authors on the same. All members of the Editorial Team have [_Write Permissions_](https://help.github.com/en/articles/repository-permission-levels-for-an-organization#permission-levels-for-repositories-owned-by-an-organization) on all repositories requiring editorial review listed in [editors.md](editors.md).
 
-# Test Suite 
-Test Suite Developers work with the aim is to develop a [test suite](https://github.com/solid/test-suite) that can be used to verify an implementation against the Solid specification. 
+# Test Suite
+Test Suite Developers work with the aim is to develop a [test suite](https://github.com/solid/test-suite) that can be used to verify an implementation against the Solid specification.
 
 # Administration
 
@@ -152,8 +158,8 @@ Changes to the main messaging require an approving review by the Director.
 maintained by the Solid Project for research, development, and experimental,
 non-commercial use of Solid by community members.
 
-It is administered by [System Operators](system-operators.md), with additional 
-support from Solid Project [Administrators](administrators). System Operators 
+It is administered by [System Operators](system-operators.md), with additional
+support from Solid Project [Administrators](administrators). System Operators
 are appointed by the Solid Director.
 
 # References
