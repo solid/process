@@ -13,6 +13,7 @@ Participants in the Solid community are expected to behave professionally and re
 - Communicate constructively and avoid demeaning or insulting behavior or language.
 - Be welcoming. We strive to be a community that welcomes and supports people of all backgrounds and identities. This includes, but is not limited to, members of any race, religion, national origin, sexual orientation, gender identity and expression, and physical and mental abilities.
 - Be mindful of people's time and effort spent on contributions to the project. In discussions, read other people's points, make an effort to understand, and reply to relevant statements and questions they write. Substantiate your opinions, concerns, or issues respectfully with arguments of an appropriate technical level to keep the discussion clear and focused.
+- Do not disrupt conversations with off-topic or non-Solid related discussions on Solid channels. 
 - Do not insult or put down other participants. Harassment (whether verbal, physical or sexual) and other exclusionary behavior is not acceptable.
 - Disagreements, both social and technical, happen all the time. Whenever inappropriate behaviors are observed members of the community should strive to bring the discussion back to a more professional level. In most cases misunderstandings and disagreements can be resolved informally. Do not hesitate to [contact](mailto:manager@solidproject.org) the Solid Manager if you feel that your concerns are not being sufficiently addressed. We hope that most concerns can be solved this way. However, if one person believes another's behavior is inappropriate (inconsistent with the Code of Conduct or the good working of the group), and ordinary communication between them is not possible, escalation of the issue can take place by [contacting](mailto:manager@solidproject.org) the Solid Manager. They may temporarily or permanently ban an individual from participating in activities, e.g. in a chat, mail or in Git for acting against the Code of Conduct.
 
@@ -27,15 +28,13 @@ Best practices for the Solid Community include:
 - Do review the work of others to see if you are doing something that other groups have already done (i.e. don't “reinvent the wheel”).
 - Know that your contribution is still valuable even if it is not integrated.
 - Remember the work is about more than just your area of interest (e.g. don't let your personal or professional goals impede the progress of the group).
-- Do [contact](mailto:manager@solidproject.org) the Solid Manager if you feel someone has been working in a way that is having a negative impact on the work of the group, if they are insulting or harassing you, or unfairly impeding your own ability to work.
+- Do [contact](mailto:info@solidproject.org) the Solid Team if you feel someone has been working in a way that is having a negative impact on the work of the group, if they are insulting or harassing you, or unfairly impeding your own ability to work.
 - Maintain an open mindset and encourage others to do the same. There might be things you or others haven't heard about yet, so be open to send and receive pointers to more info.
 - There are multiple ways of achieving the same goals, but when you build something new, check what already exists so we can better understand and help you with your contribution.
 
 ## Reporting a Code of Conduct Concern
 To report a code of conduct concern you may:
 - [Submit an issue](https://github.com/solid/culture/issues/new) to the solid/culture GitHub repository
-- Contact the Solid Manager via gitter
-- Email [manager@solidproject.org](mailto:manager@solidproject.org)
 - Write to the [solid/chat](https://gitter.im/solid/chat) room on gitter with your concern
 
 ## Based on:
