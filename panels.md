@@ -125,17 +125,18 @@ This panel is responsible for establishing the test suite for Solid, and maintai
   - [Bringing it all together](https://github.com/solid/test-suite)
 
 ### Communication channels
+- https://gitter.im/solid/test-suite
 - https://github.com/solid/test-suite
 - https://github.com/solid/webid-provider-tests
 - https://github.com/solid/solid-crud-tests
 - https://github.com/solid/web-access-control-tests
-- https://gitter.im/solid/test-suite
 
 ### Panelists
 - [Sarven Capadisli](https://github.com/csarven) &lt;https://csarven.ca/#i&gt; (@csarven)
 - [Michiel de Jong](https://github.com/michielbdejong) <[michiel@unhosted.org](mailto:michiel@unhosted.org)> (@michielbdejong)
 - [Yvo Brevoort](https://github.com/ylebre) (@ylebre)
 - [Pete Edwards](https://github.com/edwardsph)
+- [Alain Bourgeois](https://github.com/bourgeoa)
 
 ### Editorial Assignment
 The test suite should never contradict the Solid specification.
