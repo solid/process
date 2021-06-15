@@ -8,7 +8,7 @@ body to improve the speed of Solid Technical Report Development. The
 group will operate on a monthly cycle, in which it will process issues
 that are already on the Solid roadmap and that have been reported to
 the relevant Github repositories. Initially, the scope is limited to
-the [https://github.com/solid/specification](specification) repository, 
+the [specification](https://github.com/solid/specification) repository, 
 but it is expected that the scope will be widened.
 
 Editors will recruit contributors, including authors and reviewers,
@@ -65,7 +65,7 @@ TODO [insert figure here once I PR]
 For an issue to be considered by the Editors, it must have been
 submitted [according to the process](https://github.com/solid/process#drafting-proposals), 
 but for now the Editors scope will be limited to issues in the
-[https://github.com/solid/specification](specification repo). 
+[specification repository](https://github.com/solid/specification). 
 Often, individual issues are often a part of a larger problem space or
 feature set, and so, Editors may decide to group them.
 
