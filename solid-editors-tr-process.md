@@ -56,8 +56,7 @@ phase. As such, it differs from a conventional software development
 process that usually starts with a UCR phase. The following figure
 describes this in more detail:
 
-
-TODO [insert figure here once I PR]
+![Phases of the Solid Editors Process](solid-editors-tr-phases.svg)
 
 
 ### Description of the Phases
