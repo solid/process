@@ -56,6 +56,7 @@ phase. As such, it differs from a conventional software development
 process that usually starts with a UCR phase. The following figure
 describes this in more detail:
 
+
 TODO [insert figure here once I PR]
 
 
@@ -130,7 +131,7 @@ issue.
   was decided.
 * In some cases, consensus cannot be reached, in which case,
   the issue may have an unsuccessful exit through the mechanisms
-  detailed in TODO Actions if rough consensus cannot be reached. 
+  detailed in [Actions if rough consensus cannot be reached](#actions-if-rough-consensus-cannot-be-reached). 
 
 ##### Assignee Role
 
@@ -152,8 +153,9 @@ practice.
 * Community members may start a standardization process by offering an
   UCR document. 
 * If rough consensus hasn't been reached in a consensus phase,
-  one of the actions that the Editors may take is to TODO exit the
-  consensus phase and enter a UCR phase for the issue.
+  one of the actions that the Editors may take is to [exit the
+  consensus phase and enter a UCR phase](#actions-if-rough-consensus-cannot-be-reached) 
+  for the issue.
   
 ##### Exit
 
@@ -174,9 +176,13 @@ compromising the overall quality of the ecosystem.
 
 ##### Entry
 
-* Editors will review the discussion in the consensus phase to see whether community members have voiced reservations that need further assessment. Editors will record a comment that details what open question needs to be investigated.
+* Editors will review the discussion in the consensus phase to see whether 
+  community members have voiced reservations that need further assessment. 
+  Editors will record a comment that details what open question needs to
+  be investigated.
 
-##### Exit 
+##### Exit
+
 * An issue exits the assessment phase when a comment is posted
   detailing the results of the investigation.
 
