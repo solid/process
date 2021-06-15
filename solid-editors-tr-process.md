@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The present document outlines a process in which the Solid Editors
+The present document outlines a process in which the [Solid Editors](https://github.com/orgs/solid/teams/editors)
 group (hereafter simply “Editors”) intends to operate as a governing
 body to improve the speed of Solid Technical Report Development. The
 group will operate on a monthly cycle, in which it will process issues
