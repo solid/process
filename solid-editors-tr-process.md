@@ -8,8 +8,8 @@ body to improve the speed of Solid Technical Report Development. The
 group will operate on a monthly cycle, in which it will process issues
 that are already on the Solid roadmap and that have been reported to
 the relevant Github repositories. Initially, the scope is limited to
-the solid/specification repository, but it is expected that the scope
-will be widened.
+the https://github.com/solid/specification repository, but it is 
+expected that the scope will be widened.
 
 Editors will recruit contributors, including authors and reviewers,
 from the community, in addition to performing some of these roles
@@ -62,9 +62,10 @@ TODO [insert figure here once I PR]
 ### Description of the Phases
 
 For an issue to be considered by the Editors, it must have been
-submitted TODO according to the process, but for now the Editors scope
-will be limited to issues in TODO solid/specification. Often,
-individual issues are often a part of a larger problem space or
+submitted [according to the process](https://github.com/solid/process#drafting-proposals)
+, but for now the Editors scope will be limited to issues in 
+https://github.com/solid/specification. 
+Often, individual issues are often a part of a larger problem space or
 feature set, and so, Editors may decide to group them.
 
 #### Drafting Phase
@@ -87,10 +88,10 @@ An issue can enter drafting phase if any of the following are met:
 ##### Exit
 
 * An issue exits the drafting phase successfully once it has passed
-  the TODO review process.
+  the [review process](https://github.com/solid/process#reviewing-proposals).
 * If the draft is met with significant opposition, it can exit
-  unsuccessfully through mechanisms detailed in TODO
-  Actions if rough consensus cannot be reached
+  unsuccessfully through mechanisms detailed in 
+  [Actions if rough consensus cannot be reached](#actions-if-rough-consensus-cannot-be-reached)
 * Solid Editors can decide that a draft can exit successfully or
   unsuccessfully in the end-of-month meeting.
 
