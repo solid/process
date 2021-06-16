@@ -28,33 +28,33 @@ in the scope of this process.
 ## Issue Phases
 
 Open issues may be in one of several phases, and each phase has a
-different purpose and dynamic. In some cases, the consensus is already
-sufficiently clear to enter the drafting phase, in which a formal text
-is drafted. In most cases, consensus has not yet been reached, and so
-a consensus-building phase is required. It is not necessarily a good
+different purpose and dynamic. Sometimes, the consensus is already
+sufficiently clear to enter the drafting phase, in which case a formal text
+is drafted. In most cases, consensus has not yet been reached, so
+a consensus-building phase is required. It is not generally a good
 idea to rush into a drafting phase, as a formal text is harder to
 write than an informal text that is sufficient for reaching
 consensus. In some cases, consensus cannot be reached because the use
 cases and requirements are unclear, in which a formal Use Cases and
 Requirements (UCR) phase is needed before the consensus process can
-progress. That the need for a UCR phase is identified can happen
-before or within the consensus phase. Sometimes, the issue is unclear
-because there is insufficient implementation experience or doubts as
-to the long-term scalability of the proposal, in which case an
+progress. Identifying the need for a UCR phase can be happe
+before or during the consensus phase. Sometimes, the issue is unclear
+because there is insufficient implementation experience or doubt of
+the long-term scalability of the proposal, in which case an
 assessment phase is needed.
 
-Moreover, this process does not replace the process for submitting and
-deciding upon issues, it mainly guides how and when Solid Editors will
-engage certain issues and rally support for resolution within a given
+This process does not replace the process for submitting and deciding
+upon issues; it mainly guides how and when Solid Editors will engage
+on certain issues and/or rally support for resolution within a given
 time frame.
 
-In the following, the phases are sorted by shortest path to
-completion. Mature issues may be ready to enter the drafting phase
-immediately, and so they have a quick route to be finished. In other
-cases, an issue may arise from the consensus or earlier in the UCR
-phase. As such, it differs from a conventional software development
-process that usually starts with a UCR phase. The following figure
-describes this in more detail:
+The phases described below are sorted by shortest path to completion.
+Mature issues may be ready to enter the drafting phase immediately,
+with a quick route to being finished. In other cases, an issue may
+arise during the consensus phase, or earlier, in the UCR phase. Thus,
+this process differs from a conventional software development process
+that usually starts with a UCR phase. The following figure describes
+this in more detail:
 
 ![Phases of the Solid Editors Process](solid-editors-tr-phases.svg)
 
@@ -62,11 +62,11 @@ describes this in more detail:
 ### Description of the Phases
 
 For an issue to be considered by the Editors, it must have been
-submitted [according to the process](https://github.com/solid/process#drafting-proposals), 
-but for now the Editors scope will be limited to issues in the
+submitted [according to the process](https://github.com/solid/process#drafting-proposals).
+For now, the Editors' scope will be limited to issues in the
 [specification repository](https://github.com/solid/specification). 
-Often, individual issues are often a part of a larger problem space or
-feature set, and so, Editors may decide to group them.
+Individual issues are often part of a larger problem space or feature
+set; in such case, the Editors may decide to group them.
 
 #### Drafting Phase
 
@@ -77,12 +77,12 @@ specification.
 
 ##### Entry 
 
-An issue can enter drafting phase if any of the following are met:
+An issue can enter the drafting phase if either of the following is met:
 
 * A rough consensus has been recorded on an issue or a set of issues. 
 * A Solid Editor has deemed that the prior experience on the issue is
   sufficient, in particular by existing implementations,
-  that drafting can begin.
+  for drafting to begin.
 
 
 ##### Exit
@@ -91,7 +91,7 @@ An issue can enter drafting phase if any of the following are met:
   the [review process](https://github.com/solid/process#reviewing-proposals).
 * If the draft is met with significant opposition, it can exit
   unsuccessfully through mechanisms detailed in 
-  [Actions if rough consensus cannot be reached](#actions-if-rough-consensus-cannot-be-reached)
+  [Actions if rough consensus cannot be reached](#actions-if-rough-consensus-cannot-be-reached).
 * Solid Editors can decide that a draft can exit successfully or
   unsuccessfully in the end-of-month meeting.
 
@@ -112,12 +112,12 @@ issue.
 
 * Solid Editors will decide to enter an issue into the consensus
   phase based on three factors:
-  1. That significant discussion has happened in the community
-     on the issue on GitHub already.
-  2. An overall estimation of the position of the issue in the
-     dependency tree of the overall ecosystem.
-  3. A commitment of resources to its resolution by actors in
-     the community.
+  1. How much discussion about the issue has already taken place
+     among the community on GitHub
+  2. The Editors' overall estimation of the position of the issue
+     in the dependency tree of the overall ecosystem
+  3. The commitment of resources made to its resolution by actors
+     in the community
 
 ##### Exit
 
@@ -135,10 +135,11 @@ issue.
 ##### Assignee Role
 
 The assignee in the consensus phase is responsible for facilitating
-the discussion. This includes summarizing different viewpoints,
+the discussion. This may include summarizing different viewpoints,
 seeking to identify contentious points that can be discussed in
-separate issues, open such issues if appropriate, schedule
-higher-bandwidth conversations and recruit reviewers.
+separate issues, opening such issues if appropriate, scheduling
+higher-bandwidth conversations, and recruiting reviewers, among
+other things.
 
 #### Use Cases and Requirements phase
 
@@ -149,7 +150,7 @@ practice.
 
 ##### Entry
 
-* Community members may start a standardization process by offering an
+* Community members may start a standardization process by offering a
   UCR document. 
 * If rough consensus hasn't been reached in a consensus phase,
   one of the actions that the Editors may take is to [exit the
@@ -175,9 +176,9 @@ compromising the overall quality of the ecosystem.
 
 ##### Entry
 
-* Editors will review the discussion in the consensus phase to see whether 
+* Editors will review the discussion of the consensus phase to see whether 
   community members have voiced reservations that need further assessment. 
-  Editors will record a comment that details what open question needs to
+  Editors will record a comment detailing any open question(s) needing to
   be investigated.
 
 ##### Exit
@@ -195,19 +196,19 @@ comment listing the investigation details.
 ## Actions if rough consensus cannot be reached
 
 * Assignee should attempt to convene a higher-bandwidth conversation,
-  like a scheduled video conference.
+  such as a scheduled video conference.
 * Editors should actively seek consensus on subissues, and see if
   consensus can be recorded on these and new issues opened for the
   subissues.
-* Editors should assess where disagreement stems from. 
+* Editors should assess from whence disagreement has stemmed. 
    * An issue may exit unsuccessfully and be moved back to the backlog
-     if disagreement stems from e.g. insufficient implementation
-     experience or performance considerations. 
-   * If use cases or requirements are unclear and disagreements stem
-     from this, then Editors should exit the current phase and enter
-     a UCR phase. 
-* Ultimately, some issues will need to be decided in a face-to-face
-  meeting, as only that format can provide sufficient emotional and
+     if disagreement stems from, for instance, insufficient
+     implementation experience or performance considerations. 
+   * If disagreements stem from a lack of clarity in use cases or
+     requirements, then Editors should exit the current phase and
+     enter a UCR phase. 
+* Ultimately, some issues will need to be decided in face-to-face
+  meetings, as only that format can provide sufficient emotional and
   conversational bandwidth.
   
 ## Within monthly cycles
@@ -216,30 +217,31 @@ Solid Editors will maintain a monthly cycle.
 
 ### Nomination
 
-The cycle begins with Editors nominating issues registered with Github
-for consideration for the different phases within the following
-cycle. The community should comment on whether they think entrance
-criteria are met as stipulated by the Editors. The community should
-also commit resources to help resolve the issues within the phases. As
-the community commits resources, they may also timebox their efforts
-and therefore set due dates for the resolution of issues.
+The cycle begins with Editors nominating issues from those registered
+on Github for consideration for the different phases of the following
+cycle. The community will have a comment period during which they may
+support or refute whether entrance criteria has been met by each issue
+for the relevant phase. During this period, the community is also 
+expected to commit resources to help progress the issues through the 
+phases. As the community commits resources, they may also timebox their 
+efforts and thereby set effective due dates for the resolution or
+phase-advance of issues.
 
-A summary of the selected issues should be written for a technical
-audience that does not follow the work closely.
+A summary of the selected issues will be written, targeting a 
+technical audience that does not follow the work closely.
 
 ### Weekly Assessment
 
-Solid Editors will convene weekly to assess the progress, and may in
-that meeting rephase issues depending on the progress, as well as
+Solid Editors will convene weekly to assess issue progress, and may in
+those meetings re-phase issues depending on their progress, as well as
 discuss using the measures detailed in the above process.
 
 ### End of Month
 
-Solid Editors will convene at the end of the month to review the
-achievements of the last month. The Editors will also attempt to
-conclude on issues that have not yet been resolved in the consensus
-phase.
+Solid Editors will convene monthly to review the achievements of the 
+preceding month. The Editors will also attempt to reach conclusion on 
+any issues that have not yet been resolved in the consensus phase.
 
-A summary of the last month’s achievements should be written for a
-non-technical audience showing the potential benefit for users,
-organizations and developers. 
+A summary of the latest month’s achievements will be written,
+targeting a non-technical audience, explaining the anticipated
+benefits for users, organizations, and developers.
