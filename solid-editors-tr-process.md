@@ -37,7 +37,7 @@ write than an informal text that is sufficient for reaching
 consensus. In some cases, consensus cannot be reached because the use
 cases and requirements are unclear, in which a formal Use Cases and
 Requirements (UCR) phase is needed before the consensus process can
-progress. Identifying the need for a UCR phase can be happe
+progress. Identifying the need for a UCR phase can happen
 before or during the consensus phase. Sometimes, the issue is unclear
 because there is insufficient implementation experience or doubt of
 the long-term scalability of the proposal, in which case an
@@ -80,9 +80,9 @@ specification.
 An issue can enter the drafting phase if either of the following is met:
 
 * A rough consensus has been recorded on an issue or a set of issues. 
-* A Solid Editor has deemed that the prior experience on the issue is
-  sufficient, in particular by existing implementations,
-  for drafting to begin.
+* A Solid Editor has deemed that the prior experience on the issue,
+  particularly by existing implementations, is sufficient for drafting
+  to begin.
 
 
 ##### Exit
