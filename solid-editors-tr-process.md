@@ -240,7 +240,10 @@ discuss using the measures detailed in the above process.
 
 Solid Editors will convene monthly to review the achievements of the 
 preceding month. The Editors will also attempt to reach conclusion on 
-any issues that have not yet been resolved in the consensus phase.
+any issues that have not yet been resolved in the consensus phase. 
+Editors will review any open Pull Requests. If it finds that a 
+Pull Request cannot be merged in near future, they will close it and
+open issues to resolve outstanding problems.
 
 A summary of the latest month’s achievements will be written,
 targeting a non-technical audience, explaining the anticipated
