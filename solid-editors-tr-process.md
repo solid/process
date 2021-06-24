@@ -242,7 +242,6 @@ Solid Editors will convene monthly to review the achievements of the
 preceding month. The Editors will also attempt to reach conclusion on 
 any issues that have not yet been resolved in the consensus phase. 
 Editors will review any open Pull Requests. If they find that a 
-
 Pull Request cannot be merged in near future, they will close it and
 open issues to resolve outstanding problems.
 
