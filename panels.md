@@ -57,7 +57,7 @@ Candidate Proposals to the Solid Specification produced by this panel are likely
 
 ## Authentication
 Discussion and specs relating to Authentication and Auth Delegation protocols, including:
-* [WebID-OIDC](https://github.com/solid/webid-oidc-spec) auth delegation protocol
+* [Solid-OIDC](https://github.com/solid/solid-oidc) auth delegation protocol
 * [WebID-TLS](http://www.w3.org/2005/Incubator/webid/spec/tls) auth delegation protocol
 * Username + password recommendations for local authentication
 * [WebAuthentication](https://www.w3.org/TR/webauthn/) (proposed future integration)
@@ -65,7 +65,7 @@ Discussion and specs relating to Authentication and Auth Delegation protocols, i
 * HTTP Signatures (proposed future integration)
 
 ### Communication channels
-- Mondays at 10AM Eastern at https://hangouts.google.com/call/3k5z3gBVKm-58m8Xgm2YAEEE
+- Mondays at 10AM Eastern at https://meet.jit.si/solid-authentication
 - [dedicated forum thread](https://forum.solidproject.org/t/authentication-panel/2086)
 - [authentication panel repository](https://github.com/solid/authentication-panel)
 
