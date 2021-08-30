@@ -12,7 +12,7 @@ The mission of the Notifications Panel as part of the W3C Solid Community Group 
 
 ## Goals
 
-The Notifications Panel will create technical reports that standardise protocols, vocabularies, and API for exchanging information as status updates. This should allow Web application developers to embed and facilitate access to social communication on the Web. The panel will explore use cases and requirements pertaining to activities in the Solid ecosystem, identify how existing specifications can be reused; including their specialisations and extensions, as well as develop new specifications. The work will be driven and refined by implementation experience. The panel will collaborate with other Solid panels and so may take on or pass on challenges.
+The Notifications Panel will create technical reports that standardise protocols, vocabularies, and API for exchanging information as notifications. This should allow Web application developers to embed and facilitate access to social communication on the Web. The panel will explore use cases and requirements pertaining to activities in the Solid ecosystem, identify how existing specifications can be reused; including their specialisations and extensions, as well as develop new specifications. The work will be driven and refined by implementation experience. The panel will collaborate with other Solid panels and so may take on or pass on challenges.
 
 There are a number of use cases that the work of this panel will enable, including but not limited to:
 
@@ -30,7 +30,7 @@ The panel within the framework of the W3C Solid CG and the Solid Project will de
 
 * A Notifications API should include the ability to embed third-party information and share social data between web applications. The API should re-use the data transfer syntax and may allow some interaction with the protocol. The API should also be extensible in terms of the items of interest expressible by the data format.
 
-* A Web protocol for exchanging social data should include at least the ability to share status updates using the transfer syntax developed by the Notifications Panel or extend syntaxes such as Activity Streams. This protocol may allow the capture of new data, the verification of data using techniques such as as digital signatures, and the use of groups with some form of access control or capabilities.
+* A Web protocol for exchanging social data should include at least the ability to share notifications using the transfer syntax developed by the Notifications Panel or extend syntaxes such as Activity Streams. This protocol may allow the capture of new data, the verification of data using techniques such as as digital signatures, and the use of groups with some form of access control or capabilities.
 
 * Documentation detailing upgrade paths for existing technical reports or notes, including, but not limited to deprecated insecure WebSockets to secured upgrade of WebSockets.
 
