@@ -19,7 +19,7 @@ There are a number of use cases that the work of this panel will enable, includi
 * User control of personal data: Some users would like to have autonomous control over their own social data, and share their data selectively across various systems.
 * Activity subscriptions: Actors in the system may want information sent to them about particular shapes or when certain events or activities take place.
 * Resource Access: Access to resources or services to request permission (in order to perform operations).
-* Service Actions: To activate services, create resources, create/update/delete user accounts, pod migration, pod archiving, delegating agents to perform tasks.
+* Service Actions: Such as activate services, create resources, create/update/delete user accounts, pod migration, pod archiving, delegating agents to perform tasks.
 
 
 ## Scope
