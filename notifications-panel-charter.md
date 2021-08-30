@@ -71,9 +71,11 @@ The production of the deliverables depends upon the resources available, and wil
 
 Note: The Notifications Panel as part of the W3C Solid CG does not publish technical reports under the W3C Recommendation track. Thus, the milestones in the table above that are prefixed with "~" only communicate rough equivalence in maturity level of the technical reports according to section 6.2.1 of the W3C Process.
 
-## Dependencies and Liaisons
+## Coordination
 
-### Dependencies
+Technical coordination with the following Groups may be required:
+
+### W3C Groups
 
 * Consent CG
 * Credentials CG
