@@ -2,13 +2,13 @@
 
 The mission of the Notifications Panel as part of the W3C Solid Community Group is to extend or define technical protocols, vocabularies, and APIs to facilitate notification exchange on the Open Web Platform.
 
-Start date: 2021-09-13
-End date: 2022-12-31
-Charter extension: The charter extension history is documented in "About this charter".
-Confidentiality: Proceedings are Public
-Chair: Sarven Capadisli (Inrupt)
-Team Contact: Solid Editors
-Usual Meeting Schedule: Teleconferences: Weekly, although the chair may call for topic-specific calls in addition when needed and may change working mode as work progresses.
+* Start date: 2021-09-13
+* End date: 2022-12-31
+* Charter extension: The charter extension history is documented in "About this charter".
+* Confidentiality: Proceedings are Public
+* Chair: Sarven Capadisli (Inrupt)
+* Team Contact: Solid Editors
+* Usual Meeting Schedule: Teleconferences: Weekly, although the chair may call for topic-specific calls in addition when needed and may change working mode as work progresses.
 
 ## Goals
 
@@ -32,6 +32,8 @@ The panel within the framework of the W3C Solid CG and the Solid Project will de
 
 * A Web protocol for exchanging social data should include at least the ability to share status updates using the transfer syntax developed by the Notifications Panel or extend syntaxes such as Activity Streams. This protocol may allow the capture of new data, the verification of data using techniques such as as digital signatures, and the use of groups with some form of access control or capabilities.
 
+* Documentation detailing upgrade paths for existing technical reports or notes, including, but not limited to deprecated insecure WebSockets to secured upgrade of WebSockets.
+
 Other components necessary for building federated/decentralized social Web systems are in scope but will not lead to a recommendation without re-chartering, and should be discussed in the Notifications Panel.
 
 ### Success Criteria
@@ -47,6 +49,7 @@ The panel will deliver the following to fulfill its goals, subject to discussion
 * Notification Protocol (Discovery and Negotiation)
 * Notification Data Model
 * Notification API
+* Upgrade Notes
 
 Each of these technologies should not be tightly-coupled but can allow general purpose use. Each specification must contain a section detailing any known security and privacy implications for implementers, Web authors, and end users. The Notifications Panel will actively seek an open security and privacy review for every normative deliverable.
 
@@ -135,4 +138,4 @@ The following table lists details of all changes from the initial charter, per t
 
 | Charter Period  | Start Date | End Date   | Changes    |
 |-----------------|------------|------------|------------|
-| Initial Charter | 2019-08-23 | 2021-09-01 | 2021-09-13 |
+| Initial Charter | 2019-08-23 | 2021-09-12 |            |
