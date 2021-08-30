@@ -27,6 +27,7 @@ Candidate Proposals to the Solid Specification produced by this panel are likely
 * [Authentication](#authentication)
 * [Interoperability](#interoperability)
 * [Test-suite](#test-suite)
+* [Notifications](#notifications)
 
 All Panels can be reached on [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 
@@ -137,6 +138,15 @@ This panel is responsible for establishing the test suite for Solid, and maintai
 - [Yvo Brevoort](https://github.com/ylebre) (@ylebre)
 - [Pete Edwards](https://github.com/edwardsph)
 - [Alain Bourgeois](https://github.com/bourgeoa)
+
+
+## Notifications
+Development of mechanisms to shape and exchange notifications. Charter: https://github.com/solid/process/blob/main/notifications-panel-charter.md
+
+### Communication channels
+* [notifications-panel repository](https://github.com/solid/notifications-panel)
+* [notifications-panel discussion](https://gitter.im/solid/notifications-panel)
+
 
 ### Editorial Assignment
 The test suite should never contradict the Solid specification.
