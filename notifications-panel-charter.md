@@ -57,7 +57,7 @@ Each of these technologies should not be tightly-coupled but can allow general p
 
 Other non-normative documents may be delivered as:
 
-* A use case document defining how features in each specification relate to concrete use-case.
+* A use case document defining how features in each specification relate to concrete use-cases.
 * Test suites for normative deliverables.
 * Primer or Best Practice documents to support Web developers when designing Solid applications.
 
