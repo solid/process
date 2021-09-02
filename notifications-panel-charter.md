@@ -77,19 +77,19 @@ Technical coordination with the following Groups may be required:
 
 ### W3C Groups
 
-* Consent CG
-* Credentials CG
-* JSON-LD WG
-* Privacy CG
-* RDF-DEV CG
-* Social Web CG
-* Web Applications WG
+* [Consent CG](https://www.w3.org/groups/cg/consent)
+* [Credentials CG](https://www.w3.org/groups/cg/credentials)
+* [JSON-LD WG](https://www.w3.org/groups/wg/json-ld)
+* [Privacy CG](https://www.w3.org/groups/cg/privacycg)
+* [RDF-DEV CG](https://www.w3.org/groups/cg/rdf-dev)
+* [Social Web Incubator CG](https://www.w3.org/groups/cg/socialcg)
+* [Web Applications WG](https://www.w3.org/groups/wg/webapps)
 
 Furthermore, the Notifications Panel expects to follow the following W3C Recommendations, Guidelines and Notes and, if necessary, to liaise with the communities behind the following documents:
 
-* Architecture of the World Wide Web, Volume I
-* Internationalization Technical Reports and Notes
-* QA Framework: Specification Guidelines
+* [Architecture of the World Wide Web, Volume I](https://www.w3.org/TR/webarch/)
+* [Internationalization Technical Reports and Notes](http://www.w3.org/International/publications)
+* [QA Framework: Specification Guidelines](http://www.w3.org/TR/qaframe-spec/)
 
 ### External Groups
 
@@ -97,7 +97,7 @@ Furthermore, the Notifications Panel expects to follow the following W3C Recomme
 
 ## Participation
 
-Membership in the W3C Solid CG is required to participate in the Notifications Panel. All work and communication within the Solid CG is covered by the Solid Code of Conduct as well as the Positive Work Environment at W3C: Code of Ethics and Professional Conduct.
+Membership in the W3C Solid CG is required to participate in the Notifications Panel. All work and communication within the Solid CG is covered by the [Solid Code of Conduct](https://github.com/solid/process/blob/main/code-of-conduct.md) as well as the [Positive Work Environment at W3C: Code of Ethics and Professional Conduct](https://www.w3.org/Consortium/cepc/).
 
 To be successful, the Notifications Panel is expected to have 10 or more active participants for its duration and to have the participation of industry leaders in fields relevant to the specifications it produces. The Chairs and specification Editors are expected to contribute one to two days per week towards the Panel. The Chair may call occasional meetings consistent with the W3C Process requirements for meetings. There is no minimum requirement for other Participants.
 
@@ -109,12 +109,12 @@ The group encourages questions and comments on its project repository, as descri
 
 Most Notifications Panel Teleconferences will be conducted on an as-needed basis. Normally, at least one teleconference will be held per week.
 
-Most of the technical work of the group will be done through discussions in one of the group's channels and a list for public comments allows posts by anyone:
+Most of the technical work of the panel will be done through:
 
-* https://github.com/solid/notifications-panel
-* https://gitter.im/solid/notifications-panel
+* Repository: https://github.com/solid/notifications-panel
+* Discussions: https://gitter.im/solid/notifications-panel
 
-Information about the group (for example, details about deliverables, issues, actions, status, and participants) will be available from the Notifications Panel repository.
+Information about the panel (for example, details about deliverables, issues, actions, status, and participants) will be available from the Notifications Panel repository.
 
 ## Decision Policy
 
