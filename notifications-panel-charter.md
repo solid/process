@@ -12,7 +12,7 @@ The mission of the Notifications Panel as part of the W3C Solid Community Group 
 
 ## Goals
 
-The Notifications Panel will create technical reports that standardise protocols and vocabularies for exchanging information as notifications. This should allow Web application developers to embed and facilitate access to social communication on the Web. The panel will explore use cases and requirements pertaining to activities in the Solid ecosystem; identify how existing specifications can be reused, including their specialisations and extensions; as well as develop new specifications. The work will be driven and refined by implementation experience. The panel will collaborate with other Solid panels and may take on or pass on challenges.
+The Notifications Panel will create technical reports that standardise protocols and vocabularies for exchanging information as notifications. This should allow Web application developers to embed and facilitate access to social communication on the Web. The panel will explore use cases and requirements pertaining to activities in the Solid ecosystem; identify how existing specifications, including their specialisations and extensions, can be reused; as well as develop new specifications. The work will be driven and refined by implementation experience. The panel will collaborate with other Solid panels and may take on or pass on challenges.
 
 There are a number of use cases that the work of this panel will enable, including but not limited to:
 
@@ -24,13 +24,13 @@ There are a number of use cases that the work of this panel will enable, includi
 
 ## Scope
 
-The panel within the framework of the W3C Solid CG and the Solid Project will determine the use cases that derive the requirements for the deliverables. Features that are not implemented due to time constraints can be put in a non-normative "roadmap" document for future work. The scope will include:
+The panel within the framework of the W3C Solid CG and the Solid Project will determine the use cases that derive the requirements for the deliverables. Features that are not implemented due to time constraints can be put into a non-normative "roadmap" document for future work. The scope will include:
 
-* A transfer syntax for data such as activities should include at least the ability to describe the data using URIs in an extensible manner, time-stamping, and should include a serialization compatible with the RDF language.
+* A transfer syntax for data such as activities should include at least the ability to describe the data using URIs in an extensible manner, time-stamping, and a serialization compatible with the RDF language.
 
 * A protocol for exchanging social data should include at least the ability to share notifications using the transfer syntax developed by the Notifications Panel or extend syntaxes such as Activity Streams 2.0. This protocol may allow the capture of new data, the verification of data using techniques such as as digital signatures, server to server interactions, and the use of groups with some form of access control or capabilities.
 
-* Documentation detailing upgrade paths for existing technical reports or notes, including, but not limited to deprecated insecure WebSockets to secured upgrade of WebSockets.
+* Documentation detailing upgrade paths for existing technical reports or notes, including, but not limited to, upgrading deprecated insecure WebSockets to secured WebSockets.
 
 Other components necessary for building federated/decentralized social Web systems are in scope but will not lead to a recommendation without re-chartering, and should be discussed in the Notifications Panel.
 
@@ -57,7 +57,7 @@ The panel will deliver other non-normative documents, such as the following:
 * Test Suites for normative deliverables.
 * Upgrade Notes
 
-May deliver:
+The panel may also deliver the following:
 
 * Primer or Best Practice documents to support Web developers when designing Solid applications.
 
@@ -65,7 +65,7 @@ May deliver:
 
 The production of the deliverables depends upon the resources available, and will change as new information and implementation experience is reported to the group. The most up-to-date timeline is available from the Solid CG page.
 
-| Specification | ~FPWD   | ~LC     | ~ CR    | ~PR     | ~Rec    |
+| Specification | ~FPWD   | ~LC     | ~CR     | ~PR     | ~Rec    |
 |---------------|---------|---------|---------|---------|---------|
 | x             | 2021-Q4 | 2022-Q1 | 2022-Q2 | 2022-Q3 | 2022-Q4 |
 
@@ -85,7 +85,7 @@ Technical coordination with the following Groups may be required:
 * [Social Web Incubator CG](https://www.w3.org/groups/cg/socialcg)
 * [Web Applications WG](https://www.w3.org/groups/wg/webapps)
 
-Furthermore, the Notifications Panel expects to follow the following W3C Recommendations, Guidelines and Notes and, if necessary, to liaise with the communities behind the following documents:
+Furthermore, the Notifications Panel expects to follow the following W3C Recommendations, Guidelines, and Notes, and, if necessary, to liaise with the communities behind them:
 
 * [Architecture of the World Wide Web, Volume I](https://www.w3.org/TR/webarch/)
 * [Internationalization Technical Reports and Notes](http://www.w3.org/International/publications)
