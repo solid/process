@@ -12,7 +12,7 @@ The mission of the Notifications Panel as part of the W3C Solid Community Group 
 
 ## Goals
 
-The Notifications Panel will create technical reports that standardise protocols, vocabularies, and API for exchanging information as notifications. This should allow Web application developers to embed and facilitate access to social communication on the Web. The panel will explore use cases and requirements pertaining to activities in the Solid ecosystem, identify how existing specifications can be reused; including their specialisations and extensions, as well as develop new specifications. The work will be driven and refined by implementation experience. The panel will collaborate with other Solid panels and so may take on or pass on challenges.
+The Notifications Panel will create technical reports that standardise protocols, vocabularies, and APIs for exchanging information as notifications. This should allow Web application developers to embed and facilitate access to social communication on the Web. The panel will explore use cases and requirements pertaining to activities in the Solid ecosystem; identify how existing specifications can be reused, including their specialisations and extensions; as well as develop new specifications. The work will be driven and refined by implementation experience. The panel will collaborate with other Solid panels and may take on or pass on challenges.
 
 There are a number of use cases that the work of this panel will enable, including but not limited to:
 
