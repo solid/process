@@ -38,7 +38,7 @@ Other components necessary for building federated/decentralized social Web syste
 
 ### Success Criteria
 
-In order to advance to technical report, the specification is expected to have two independent implementations of each feature defined in the specification. Independent implementations are developed by different parties and cannot share, reuse or derive form another qualifying implementation code which is directly pertinent to the implementation of this specification.
+In order to advance to technical report, the specification is expected to have two independent implementations of each feature defined in the specification. Independent implementations are developed by different parties and cannot share, reuse, or be derived from code of another qualifying implementation which is directly pertinent to the implementation of this specification.
 
 ## Deliverables
 
