@@ -1,6 +1,6 @@
 # Notifications Panel Charter
 
-The mission of the Notifications Panel as part of the W3C Solid Community Group is to extend or define technical protocols, vocabularies, and APIs to facilitate notification exchange on the Open Web Platform.
+The mission of the Notifications Panel as part of the W3C Solid Community Group is to extend or define technical protocols and vocabularies to facilitate notification exchange on the Open Web Platform.
 
 * Start date: 2021-09-13
 * End date: 2022-12-31
@@ -12,12 +12,12 @@ The mission of the Notifications Panel as part of the W3C Solid Community Group 
 
 ## Goals
 
-The Notifications Panel will create technical reports that standardise protocols, vocabularies, and APIs for exchanging information as notifications. This should allow Web application developers to embed and facilitate access to social communication on the Web. The panel will explore use cases and requirements pertaining to activities in the Solid ecosystem; identify how existing specifications can be reused, including their specialisations and extensions; as well as develop new specifications. The work will be driven and refined by implementation experience. The panel will collaborate with other Solid panels and may take on or pass on challenges.
+The Notifications Panel will create technical reports that standardise protocols and vocabularies for exchanging information as notifications. This should allow Web application developers to embed and facilitate access to social communication on the Web. The panel will explore use cases and requirements pertaining to activities in the Solid ecosystem; identify how existing specifications can be reused, including their specialisations and extensions; as well as develop new specifications. The work will be driven and refined by implementation experience. The panel will collaborate with other Solid panels and may take on or pass on challenges.
 
 There are a number of use cases that the work of this panel will enable, including but not limited to:
 
 * User control of personal data: Some users would like to have autonomous control over their own social data, and share their data selectively across various systems.
-* Activity subscriptions: Actors in the system may want information sent to them about particular shapes or when certain events or activities take place.
+* Activity subscriptions: Actors in the system may want information sent to them about particular data or when certain events or activities take place.
 * Resource Access: Access to resources or services to request permission (in order to perform operations).
 * Service Actions: Such as activate services, create resources, create/update/delete user accounts, migrate pods, archive pods, or delegate agents to perform tasks.
 
@@ -26,11 +26,9 @@ There are a number of use cases that the work of this panel will enable, includi
 
 The panel within the framework of the W3C Solid CG and the Solid Project will determine the use cases that derive the requirements for the deliverables. Features that are not implemented due to time constraints can be put in a non-normative "roadmap" document for future work. The scope will include:
 
-* A transfer syntax for data such as activities should include at least the ability to describe the data using URIs in an extensible manner, time-stamping, and should include a serialization compatible with the RDF language and possibly JSON.
+* A transfer syntax for data such as activities should include at least the ability to describe the data using URIs in an extensible manner, time-stamping, and should include a serialization compatible with the RDF language.
 
-* A Notifications API should include the ability to embed third-party information and share social data between web applications. The API should re-use the data transfer syntax and may allow some interaction with the protocol. The API should also be extensible in terms of the items of interest expressible by the data format.
-
-* A Web protocol for exchanging social data should include at least the ability to share notifications using the transfer syntax developed by the Notifications Panel or extend syntaxes such as Activity Streams. This protocol may allow the capture of new data, the verification of data using techniques such as as digital signatures, and the use of groups with some form of access control or capabilities.
+* A protocol for exchanging social data should include at least the ability to share notifications using the transfer syntax developed by the Notifications Panel or extend syntaxes such as Activity Streams 2.0. This protocol may allow the capture of new data, the verification of data using techniques such as as digital signatures, server to server interactions, and the use of groups with some form of access control or capabilities.
 
 * Documentation detailing upgrade paths for existing technical reports or notes, including, but not limited to deprecated insecure WebSockets to secured upgrade of WebSockets.
 
@@ -38,27 +36,29 @@ Other components necessary for building federated/decentralized social Web syste
 
 ### Success Criteria
 
-In order to advance to technical report, the specification is expected to have two independent implementations of each feature defined in the specification. Independent implementations are developed by different parties and cannot share, reuse, or be derived from code of another qualifying implementation which is directly pertinent to the implementation of this specification.
+In order to advance to technical report, the specification is expected to have two independent open source implementations of each feature defined in the specification. Independent implementations are developed by different parties and cannot share, reuse, or be derived from code of another qualifying implementation which is directly pertinent to the implementation of this specification.
 
 ## Deliverables
 
 ### Normative Deliverables
 
-The panel will deliver the following to fulfill its goals, subject to discussion in the Community Group:
+The panel will deliver the following to fulfill its goals, subject to discussion in the Solid CG:
 
-* Notification Protocol (Discovery and Negotiation)
-* Notification Data Model
-* Notification API
-* Upgrade Notes
+* Notification Protocol
+* Notification Syntax
 
 Each of these technologies should not be tightly-coupled but can allow general purpose use. Each specification must contain a section detailing any known security and privacy implications for implementers, Web authors, and end users. The Notifications Panel will actively seek an open security and privacy review for every normative deliverable.
 
 ### Other Deliverables
 
-Other non-normative documents may be delivered, such as the following:
+The panel will deliver other non-normative documents, such as the following:
 
-* A use case document defining how features in each specification relate to concrete use-cases.
-* Test suites for normative deliverables.
+* A Use Cases and Requirements document defining how features in each specification relate to concrete use-cases.
+* Test Suites for normative deliverables.
+* Upgrade Notes
+
+May deliver:
+
 * Primer or Best Practice documents to support Web developers when designing Solid applications.
 
 ### Milestones
