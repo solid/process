@@ -55,7 +55,7 @@ Each of these technologies should not be tightly-coupled but can allow general p
 
 ### Other Deliverables
 
-Other non-normative documents may be delivered as:
+Other non-normative documents may be delivered, such as the following:
 
 * A use case document defining how features in each specification relate to concrete use-cases.
 * Test suites for normative deliverables.
