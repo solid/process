@@ -141,7 +141,7 @@ This panel is responsible for establishing the test suite for Solid, and maintai
 
 
 ## Notifications
-Development of mechanisms to shape and exchange notifications. Charter: https://github.com/solid/process/blob/main/notifications-panel-charter.md
+Development of mechanisms to shape and exchange notifications. See [Charter](https://github.com/solid/process/blob/main/notifications-panel-charter.md).
 
 ### Communication channels
 * [notifications-panel repository](https://github.com/solid/notifications-panel)
