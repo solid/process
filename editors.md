@@ -13,6 +13,7 @@ Below is a listing of the Solid Editorial Team and their respective assignments.
 | [Sarven Capadisli](https://github.com/csarven) | [WebID](https://csarven.ca/#i) |
 | [Ruben Verborgh](https://github.com/RubenVerborgh) | [WebID](https://ruben.verborgh.org/profile/#me) |
 | [Henry Story](https://github.com/bblfish) | [WebID](https://bblfish.net/people/henry/card#me) |
+| [Eric Prud'hommeaux](https://github.com/ericprud) | [WebID](https://ericp.solidcommunity.net/profile/card#me) |
 
 ## Editorial Assignments
 
