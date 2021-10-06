@@ -34,9 +34,7 @@ Best practices for the Solid Community include:
 ## Reporting a Code of Conduct Concern
 To report a code of conduct concern you may:
 - [Submit an issue](https://github.com/solid/culture/issues/new) to the solid/culture GitHub repository
-- Contact the Solid Manager via gitter
-- Email [manager@solidproject.org](mailto:manager@solidproject.org)
-- Write to the [solid/chat](https://gitter.im/solid/chat) room on gitter with your concern
+- Email [info@solidproject.org](mailto:info@solidproject.org)
 
 ## Based on:
 - https://www.w3.org/Consortium/cepc/  (and an as-of-yet unpublished “Best
