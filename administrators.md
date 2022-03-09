@@ -9,3 +9,5 @@ Below is a listing of [Solid Administrators](README.md#administration). Administ
 | [Jackson Morgan](https://github.com/jaxoncreed) | [WebId](https://jackson.solidcommunity.net/profile/card#me) |
 | [Marrelle Bailey](https://github.com/marrellebailey) | [WebId](https://marrelleb.inrupt.net/profile/card) |
 | [Osmar Olivo](https://github.com/oolivo) | [WebId](https://oz.inrupt.net/profile/card#me) |
+| [Alain Bourgeois](https://github.com/bourgeoa) | [WebId](https://bourgeoa.solidcommunity.net/profile/card#me) |
+| [Timea Turdean](https://github.com/theRealImy) | [WebId](https://timea.solidcommunity.net/profile/card#me) |
