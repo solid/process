@@ -33,7 +33,7 @@ Best practices for the Solid Community include:
 
 ## Reporting a Code of Conduct Concern
 To report a code of conduct concern you may:
-- Email/contact any members of the CoC committee: [Osmar Olivo](https://gitter.im/oolivo) oz@inrupt.com, [Virginia Balseiro](https://gitter.im/VirginiaBalseiro) virginiabalseiro@gmail.com, [Alain Bourgeois](https://gitter.im/bourgeoa) alain.bourgeois10@gmail.com. Committee members will recuse
+- Email/contact any members of the CoC committee: [Osmar Olivo](https://gitter.im/oolivo) oz@inrupt.com, [Virginia Balseiro](https://gitter.im/VirginiaBalseiro) virginiabalseiro@gmail.com, [Alain Bourgeois](https://gitter.im/bourgeoa) alain.bourgeois10@gmail.com, [Sarven Capadisli](https://gitter.im/csarven) info+solid+coc@csarven.ca. Committee members will recuse
 themselves if they are the alleged harasser or the victim of a private harassment incident.
 - [Submit an issue](https://github.com/solid/process/issues/new) to the solid/process GitHub repository.
 - Write to the [solid/chat](https://gitter.im/solid/chat) room on gitter with your concern.
