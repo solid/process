@@ -1,8 +1,8 @@
 # Code of Conduct
 
-Personal threats or discriminatory threats towards arbitrary groups on Solid gitter, Solid forum, or the W3C Solid Community Group call and mailing list may result in a ban of the threatening individual by the Solid Manager.
+Personal threats or discriminatory threats towards arbitrary groups on Solid gitter, Solid forum, or the W3C Solid Community Group call and mailing list may result in a ban of the threatening individual by the CoC committee.
 
-Repeated and sustained straying from the [defined aims of the Solid gitter channels](https://github.com/solid/information#connect) may result in a ban of those individuals straying from those defined aims by the Solid Manager.
+Repeated and sustained straying from the [defined aims of the Solid gitter channels](https://github.com/solid/information#connect) may result in a ban of those individuals straying from those defined aims by the CoC committee.
 
 ## General Expectations
 Below are some general expectations around how participants of the Solid community are encouraged to behave.
@@ -14,7 +14,7 @@ Participants in the Solid community are expected to behave professionally and re
 - Be welcoming. We strive to be a community that welcomes and supports people of all backgrounds and identities. This includes, but is not limited to, members of any race, religion, national origin, sexual orientation, gender identity and expression, and physical and mental abilities.
 - Be mindful of people's time and effort spent on contributions to the project. In discussions, read other people's points, make an effort to understand, and reply to relevant statements and questions they write. Substantiate your opinions, concerns, or issues respectfully with arguments of an appropriate technical level to keep the discussion clear and focused.
 - Do not insult or put down other participants. Harassment (whether verbal, physical or sexual) and other exclusionary behavior is not acceptable.
-- Disagreements, both social and technical, happen all the time. Whenever inappropriate behaviors are observed members of the community should strive to bring the discussion back to a more professional level. In most cases misunderstandings and disagreements can be resolved informally. Do not hesitate to [contact](mailto:manager@solidproject.org) the Solid Manager if you feel that your concerns are not being sufficiently addressed. We hope that most concerns can be solved this way. However, if one person believes another's behavior is inappropriate (inconsistent with the Code of Conduct or the good working of the group), and ordinary communication between them is not possible, escalation of the issue can take place by [contacting](mailto:manager@solidproject.org) the Solid Manager. They may temporarily or permanently ban an individual from participating in activities, e.g. in a chat, mail or in Git for acting against the Code of Conduct.
+- Disagreements, both social and technical, happen all the time. Whenever inappropriate behaviors are observed members of the community should strive to bring the discussion back to a more professional level. In most cases misunderstandings and disagreements can be resolved informally. Do not hesitate to any CoC committee member if you feel that your concerns are not being sufficiently addressed. We hope that most concerns can be solved this way. However, if one person believes another's behavior is inappropriate (inconsistent with the Code of Conduct or the good working of the group), and ordinary communication between them is not possible, escalation of the issue can take place by contacting any CoC committee member. They may temporarily or permanently ban an individual from participating in activities, e.g. in a chat, mail or in Git for acting against the Code of Conduct.
 
 ## Best Practices
 Best practices for the Solid Community include:
@@ -27,16 +27,16 @@ Best practices for the Solid Community include:
 - Do review the work of others to see if you are doing something that other groups have already done (i.e. don't “reinvent the wheel”).
 - Know that your contribution is still valuable even if it is not integrated.
 - Remember the work is about more than just your area of interest (e.g. don't let your personal or professional goals impede the progress of the group).
-- Do [contact](mailto:manager@solidproject.org) the Solid Manager if you feel someone has been working in a way that is having a negative impact on the work of the group, if they are insulting or harassing you, or unfairly impeding your own ability to work.
+- Do check the (Reporting a Code of Conduct Concern)[#reporting-a-code-of-conduct-concern] section if you feel someone has been working in a way that is having a negative impact on the work of the group, if they are insulting or harassing you, or unfairly impeding your own ability to work.
 - Maintain an open mindset and encourage others to do the same. There might be things you or others haven't heard about yet, so be open to send and receive pointers to more info.
 - There are multiple ways of achieving the same goals, but when you build something new, check what already exists so we can better understand and help you with your contribution.
 
 ## Reporting a Code of Conduct Concern
 To report a code of conduct concern you may:
-- [Submit an issue](https://github.com/solid/culture/issues/new) to the solid/culture GitHub repository
-- Contact the Solid Manager via gitter
-- Email [manager@solidproject.org](mailto:manager@solidproject.org)
-- Write to the [solid/chat](https://gitter.im/solid/chat) room on gitter with your concern
+- Email/contact any members of the CoC committee: [Osmar Olivo](https://gitter.im/oolivo) oz@inrupt.com, [Virginia Balseiro](https://gitter.im/VirginiaBalseiro) virginiabalseiro@gmail.com, [Alain Bourgeois](https://gitter.im/bourgeoa) alain.bourgeois10@gmail.com. Committee members will recuse
+themselves if they are the alleged harasser or the victim of a private harassment incident.
+- [Submit an issue](https://github.com/solid/culture/issues/new) to the solid/culture GitHub repository.
+- Write to the [solid/chat](https://gitter.im/solid/chat) room on gitter with your concern.
 
 ## Based on:
 - https://www.w3.org/Consortium/cepc/  (and an as-of-yet unpublished “Best
