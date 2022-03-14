@@ -27,13 +27,13 @@ Best practices for the Solid Community include:
 - Do review the work of others to see if you are doing something that other groups have already done (i.e. don't “reinvent the wheel”).
 - Know that your contribution is still valuable even if it is not integrated.
 - Remember the work is about more than just your area of interest (e.g. don't let your personal or professional goals impede the progress of the group).
-- Do check the (Reporting a Code of Conduct Concern)[#reporting-a-code-of-conduct-concern] section if you feel someone has been working in a way that is having a negative impact on the work of the group, if they are insulting or harassing you, or unfairly impeding your own ability to work.
+- Do check the [Reporting a Code of Conduct Concern](#reporting-a-code-of-conduct-concern) section if you feel someone has been working in a way that is having a negative impact on the work of the group, if they are insulting or harassing you, or unfairly impeding your own ability to work.
 - Maintain an open mindset and encourage others to do the same. There might be things you or others haven't heard about yet, so be open to send and receive pointers to more info.
 - There are multiple ways of achieving the same goals, but when you build something new, check what already exists so we can better understand and help you with your contribution.
 
 ## Reporting a Code of Conduct Concern
 To report a code of conduct concern you may:
-- Email/contact any members of the CoC committee: [Osmar Olivo](https://gitter.im/oolivo) oz@inrupt.com, [Virginia Balseiro](https://gitter.im/VirginiaBalseiro) virginiabalseiro@gmail.com, [Alain Bourgeois](https://gitter.im/bourgeoa) alain.bourgeois10@gmail.com, [Sarven Capadisli](https://gitter.im/csarven) info+solid+coc@csarven.ca. Committee members will recuse
+- Email/contact any members of the CoC committee: [Osmar Olivo](https://gitter.im/oolivo) &lt;oz@inrupt.com&gt;, [Virginia Balseiro](https://gitter.im/VirginiaBalseiro) &lt;virginiabalseiro@gmail.com&gt;, [Alain Bourgeois](https://gitter.im/bourgeoa) alain.bourgeois10@gmail.com, [Sarven Capadisli](https://gitter.im/csarven) &lt;info+solid+coc@csarven.ca&gt;. Committee members will recuse
 themselves if they are the alleged harasser or the victim of a private harassment incident.
 - [Submit an issue](https://github.com/solid/process/issues/new) to the solid/process GitHub repository.
 - Write to the [solid/chat](https://gitter.im/solid/chat) room on gitter with your concern.
