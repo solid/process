@@ -37,12 +37,12 @@ Examples of unacceptable behavior include:
   political attacks
 * Communicating in a tone and language that could lead to creating a hostile and
   unwelcoming environment
-* Public or private harassment or threats. Harrassment includes: offensive
+* Public or private harassment or threats. Harassment includes: offensive
   comments related to age, body size, visible or invisible disability,
   ethnicity, sex characteristics, gender, gender identity and expression, level
   of experience, education, socio-economic status, nationality, personal
   appearance, race, caste, color, religion, or sexual identity and orientation
-  of an individual or group, unwelcome comments relating top any aspect of a
+  of an individual or group, unwelcome comments relating to any aspect of a
   person's lifestyle choices and personal life, deliberate misgendering and use
   of "dead" or rejected names, stalking and intimidation
 * Publishing others' private information, such as a physical or email address or
@@ -53,7 +53,7 @@ Examples of unacceptable behavior include:
 ## Enforcement Responsibilities
 
 Instances of Code of Conduct violations will be handled by the Code of Conduct
-Commmittee.
+Committee.
 
 The Code of Conduct Committee are responsible for clarifying and enforcing our
 standards of acceptable behavior and will take appropriate and fair corrective
@@ -77,7 +77,7 @@ representative at an online or offline event.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the Code of Conduct Commmittee by contacting any of its members:
+reported to the Code of Conduct Committee by contacting any of its members:
 
 * [Osmar Olivo](https://gitter.im/oolivo): oz@inrupt.com
 * [Virginia Balseiro](https://gitter.im/VirginiaBalseiro):
@@ -95,7 +95,7 @@ reporter of any incident. Complaints will be handled under confidentiality.
 
 ## Enforcement Guidelines
 
-The Code of Conduct Commmittee will follow these Community Impact Guidelines in
+The Code of Conduct Committee will follow these Community Impact Guidelines in
 determining the consequences for any action they deem in violation of this Code
 of Conduct:
 
