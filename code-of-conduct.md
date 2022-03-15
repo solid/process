@@ -89,10 +89,10 @@ reported to the Code of Conduct Committee by contacting any of its members:
 Committee members will recuse themselves if they are the alleged harasser or the
 victim of a private harassment incident.
 
-All complaints will be reviewed and investigated promptly and fairly.
+All reports of violations will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
-reporter of any incident. Complaints will be handled under confidentiality.
+reporter of any incident. Reports will be handled under confidentiality.
 
 ## Enforcement Guidelines
 
