@@ -1,31 +1,29 @@
-# Solid GitHub Repository Overview
+# Repositories on github.com/solid
+The [Solid GitHub organisation](https://github.com/solid/)
+contains repositories that are managed by the [Solid Team](https://github.com/solid/team/),
+covering the Solid specification and its processes and artifacts,
+and public communication on the Solid project.
 
-The [Solid GitHub organisation](https://github.com/solid/) contains several repositories. This document aims to provide an overview of the aim of each of the repositories and who is actively maintaining each repository. 
+This document describes which repositories belong under _github.com/solid_,
+and which repositories belong elsewhere.
+This also pertains to other resources associated with those repositories,
+such as Gitter chat channels bearing the same name.
 
-If you have more information [submit an issue](https://github.com/solid/process/issues) and a Solid Administrator will make a decision on how to incorporate the issue into this file.  
+## Repositories that are part of github.com/solid
+Repositories under github.com/solid need to satisfy the condition that:
+- their contents are managed by either:
+  - the [Solid administrators](https://github.com/solid/process/blob/main/administrators.md)
+  - the [Solid creators](https://github.com/solid/process/blob/main/creators.md)
+  - the [Solid editors](https://github.com/solid/process/blob/main/editors.md)
 
-The following describes the governance, administration, and communication via the website:
+Additionally, they need to satisfy one or more of the following conditions:
+- they are specification documents
+- they are documents related to processes for advancing the specification
+- they are guidelines or working documents for people within the Solid community
+- they are materials for Solid project websites (such as [solidproject.org](https://solidproject.org/))
 
-| Activity | Associated Repositories | Individuals Currently Active |
-| ------------- | ------------- | ------------- |
-| Administration | [owner on Solid members](https://github.com/orgs/solid/people) | Solid Director, Solid Manager, Administrators |
-| Process | [Process](https://github.com/solid/process) | Solid Director, Solid Manager |
-| solidproject.org | [solidproject.org](https://github.com/solid/solidproject.org), [solid github io](https://github.com/solid/solid.github.io) | Creators |
-| Communication | [Communication](https://github.com/solid/communication) | Solid Director, Solid Manager |
-| Roadmap | [Roadmap](https://github.com/solid/roadmap) | Solid Director, Solid Manager |
-
-These are the key [respositories associated to the specification development](https://github.com/search?q=topic%3Aspecification+org%3Asolid&type=Repositories) which are tagged 'specification' and are managed by the [Editors](https://github.com/orgs/solid/teams/editors) with input from the [Panellists](https://github.com/orgs/solid/teams/panels)
-
-| Activity | Associated Repositories | Individuals Currently Active |
-| ------------- | ------------- | ------------- |
-| Latest Version of the Specification | [Specification](https://github.com/solid/specification) | Editors |
-| Specification Authoring | [authorization panel](https://github.com/solid/authorization-and-access-control-panel/issues/), [authentication panel](https://github.com/solid/authentication-panel), [interoperability panel](https://github.com/solid/interoperability-panel),   | [Panellists](https://github.com/solid/process/blob/master/panels.md) |
-| Test Suite Development | [Test Suite](https://github.com/solid/test-suite) | Editors |
-
-## Running Code
-
-There are several implementations of Solid in the Solid GitHub that can be found in [repositories tagged 'running-code'](https://github.com/search?q=topic%3Arunning-code+org%3Asolid&type=Repositories). IMEC and more specifically, [these team members](https://github.com/orgs/solid/teams/imec/members) are responsible for the [repositories listed here](https://github.com/orgs/solid/teams/imec/repositories). [These team members](https://github.com/orgs/solid/teams/other/members) are responsible for [these repositories](https://github.com/orgs/solid/teams/other/repositories).   
-
-## Archived 
-
-There are over thirty [archived repositories](https://github.com/solid?q=&type=archived&language=) with information that is now covered by solidproject.org or a reference to currently inactive panels. 
+## Repositories that are not part of github.com/solid
+Repositories that satisfy one or more of the conditions below
+belong in other GitHub organisations or on other third-party places:
+- they are not managed by Solid administrators, creators, or editors
+- they are specific specification implementations or program code (that is not contributing to the display of the documents listed above)
