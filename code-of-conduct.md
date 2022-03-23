@@ -79,11 +79,10 @@ representative at an online or offline event.
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the Code of Conduct Committee by contacting any of its members:
 
-* [Osmar Olivo](https://gitter.im/oolivo): oz@inrupt.com
-* [Virginia Balseiro](https://gitter.im/VirginiaBalseiro):
-    virginiabalseiro@gmail.com
-* [Alain Bourgeois](https://gitter.im/bourgeoa) alain.bourgeois10@gmail.com
-* [Sarven Capadisli](https://gitter.im/csarven): info+solid+coc@csarven.ca
+* [Osmar Olivo](https://gitter.im/oolivo) &lt;oz@inrupt.com&gt;
+* [Virginia Balseiro](https://gitter.im/VirginiaBalseiro) &lt;virginiabalseiro@gmail.com&gt;
+* [Alain Bourgeois](https://gitter.im/bourgeoa) &lt;alain.bourgeois10@gmail.com&gt;
+* [Sarven Capadisli](https://gitter.im/csarven) &lt;info+solid+coc@csarven.ca&gt;
   
 Committee members will recuse themselves if they are the alleged harasser or the
 victim of a private harassment incident.
