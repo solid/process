@@ -16,7 +16,7 @@ In addition to this Code of Conduct, we adhere to the [Positive Work Environment
 at W3C: Code of Ethics and Professional
 Conduct](https://www.w3.org/Consortium/cepc/).
 
-## Our Standards
+## Standards of Behaviour
 
 Examples of behavior that contributes to a positive environment for our
 community include:
