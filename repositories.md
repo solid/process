@@ -10,8 +10,8 @@ This also pertains to other resources associated with those repositories,
 such as Gitter chat channels bearing the same name.
 
 ## Repositories that are part of github.com/solid
-Repositories under github.com/solid need to satisfy the condition that:
-- their contents are managed by either:
+Repositories under github.com/solid need to satisfy the condition that their 
+contents are managed by one or more of the following:
   - the [Solid administrators](https://github.com/solid/process/blob/main/administrators.md)
   - the [Solid creators](https://github.com/solid/process/blob/main/creators.md)
   - the [Solid editors](https://github.com/solid/process/blob/main/editors.md)
