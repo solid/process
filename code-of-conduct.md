@@ -89,7 +89,7 @@ victim of a private harassment incident.
 
 All reports of violations will be reviewed and investigated promptly and fairly.
 
-All community leaders are obligated to respect the privacy and security of the
+All community members are obligated to respect the privacy and security of the
 reporter of any incident. Reports will be handled under confidentiality.
 
 ## Enforcement Guidelines
