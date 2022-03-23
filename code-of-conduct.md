@@ -149,6 +149,7 @@ version 2.1, available at
 
 Community Impact Guidelines were inspired by [Mozilla's code of conduct
 enforcement ladder][mozilla coc].
+How to [give better feedback](https://www.virginiabalseiro.com/blog/feedback.html).
 
 For answers to common questions about this code of conduct, see the FAQ at
 [https://www.contributor-covenant.org/faq][faq]. Translations are available at
