@@ -21,12 +21,12 @@ Conduct](https://www.w3.org/Consortium/cepc/).
 Examples of behavior that contributes to a positive environment for our
 community include:
 
-- Demonstrating empathy and kindness toward other people
-- Being respectful of differing opinions, viewpoints, and experiences
-- Giving and gracefully accepting constructive feedback
-- Accepting responsibility and acknowledging harm caused to those affected by our mistakes,
+* Demonstrating empathy and kindness toward other people
+* Being respectful of differing opinions, viewpoints, and experiences
+* Giving and gracefully accepting constructive feedback
+* Accepting responsibility and acknowledging harm caused to those affected by our mistakes,
   and learning from the experience
-- Focusing on what is best not just for us as individuals, but for the overall
+* Focusing on what is best not just for us as individuals, but for the overall
   community
 
 * Asking for confirmation instead of assuming
@@ -34,13 +34,13 @@ community include:
 
 Examples of unacceptable behavior include:
 
-- The use of sexualized language or imagery, and sexual attention or advances of
+* The use of sexualized language or imagery, and sexual attention or advances of
   any kind
-- Trolling, insulting, derogatory or demeaning comments, and personal or
+* Trolling, insulting, derogatory or demeaning comments, and personal or
   political attacks
-- Communicating in a tone and language that could lead to creating a hostile and
+* Communicating in a tone and language that could lead to creating a hostile and
   unwelcoming environment
-- Public or private harassment or threats. Harassment includes: offensive
+* Public or private harassment or threats. Harassment includes: offensive
   comments related to age, body size, visible or invisible disability,
   ethnicity, sex characteristics, gender, gender identity and expression, level
   of experience, education, socio-economic status, nationality, personal
@@ -48,9 +48,9 @@ Examples of unacceptable behavior include:
   of an individual or group, unwelcome comments relating to any aspect of a
   person's lifestyle choices and personal life, deliberate misgendering and use
   of "dead" or rejected names, stalking and intimidation
-- Publishing others' private information, such as a physical or email address or
+* Publishing others' private information, such as a physical or email address or
   any aspect of a person's identity, without their explicit permission
-- Other conduct which could reasonably be considered inappropriate in a
+* Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
 ## Enforcement Responsibilities
@@ -82,10 +82,10 @@ representative at an online or offline event.
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the Code of Conduct Committee by contacting any of its members:
 
-- [Osmar Olivo](https://gitter.im/oolivo) &lt;oz@inrupt.com&gt;
-- [Virginia Balseiro](https://gitter.im/VirginiaBalseiro) &lt;virginiabalseiro@gmail.com&gt;
-- [Alain Bourgeois](https://gitter.im/bourgeoa) &lt;alain.bourgeois10@gmail.com&gt;
-- [Sarven Capadisli](https://gitter.im/csarven) &lt;info+solid+coc@csarven.ca&gt;
+* [Osmar Olivo](https://gitter.im/oolivo) &lt;oz@inrupt.com&gt;
+* [Virginia Balseiro](https://gitter.im/VirginiaBalseiro) &lt;virginiabalseiro@gmail.com&gt;
+* [Alain Bourgeois](https://gitter.im/bourgeoa) &lt;alain.bourgeois10@gmail.com&gt;
+* [Sarven Capadisli](https://gitter.im/csarven) &lt;info+solid+coc@csarven.ca&gt;
 
 Committee members will recuse themselves if they are the alleged harasser or the
 victim of a private harassment incident.
