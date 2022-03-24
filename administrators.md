@@ -11,3 +11,4 @@ Below is a listing of [Solid Administrators](README.md#administration). Administ
 | [Osmar Olivo](https://github.com/oolivo) | [WebId](https://oz.inrupt.net/profile/card#me) |
 | [Alain Bourgeois](https://github.com/bourgeoa) | [WebId](https://bourgeoa.solidcommunity.net/profile/card#me) |
 | [Timea Turdean](https://github.com/theRealImy) | [WebId](https://timea.solidcommunity.net/profile/card#me) |
+| [Barath Raghavan (Release Manager)](https://github.com/barath) | [WebId](https://barath.solidcommunity.net/profile/card#me) |
