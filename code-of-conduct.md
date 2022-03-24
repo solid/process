@@ -24,8 +24,8 @@ community include:
 * Demonstrating empathy and kindness toward other people
 * Being respectful of differing opinions, viewpoints, and experiences
 * Giving and gracefully accepting constructive feedback
-* Accepting responsibility and acknowledging harm caused to those affected by our mistakes,
-  and learning from the experience
+* Accepting responsibility and acknowledging harm caused to those affected by
+  our mistakes, and learning from the experience
 * Focusing on what is best not just for us as individuals, but for the overall
   community
 
@@ -83,9 +83,12 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the Code of Conduct Committee by contacting any of its members:
 
 * [Osmar Olivo](https://gitter.im/oolivo) &lt;oz@inrupt.com&gt;
-* [Virginia Balseiro](https://gitter.im/VirginiaBalseiro) &lt;virginiabalseiro@gmail.com&gt;
-* [Alain Bourgeois](https://gitter.im/bourgeoa) &lt;alain.bourgeois10@gmail.com&gt;
-* [Sarven Capadisli](https://gitter.im/csarven) &lt;info+solid+coc@csarven.ca&gt;
+* [Virginia Balseiro](https://gitter.im/VirginiaBalseiro)
+  &lt;virginiabalseiro@gmail.com&gt;
+* [Alain Bourgeois](https://gitter.im/bourgeoa)
+  &lt;alain.bourgeois10@gmail.com&gt;
+* [Sarven Capadisli](https://gitter.im/csarven)
+  &lt;info+solid+coc@csarven.ca&gt;
 
 Committee members will recuse themselves if they are the alleged harasser or the
 victim of a private harassment incident.
@@ -106,9 +109,9 @@ of Conduct:
 **Community Impact**: Use of inappropriate language or other behavior deemed
 unprofessional or unwelcome in the community.
 
-**Consequence**: A private, written warning from the Code of Conduct Committee, providing
-clarity around the nature of the violation and an explanation of why the
-behavior was inappropriate.
+**Consequence**: A private, written warning from the Code of Conduct Committee,
+providing clarity around the nature of the violation and an explanation of why
+the behavior was inappropriate.
 
 ### 2. Warning
 
@@ -116,11 +119,11 @@ behavior was inappropriate.
 actions.
 
 **Consequence**: A warning with consequences for continued behavior. No
-unsolicited interaction with the people involved, including unsolicited interaction with
-those enforcing the Code of Conduct, for a specified period of time. This
-includes avoiding interactions in community spaces as well as external channels
-like social media. Violating these terms may lead to a temporary or permanent
-ban.
+unsolicited interaction with the people involved, including unsolicited
+interaction with those enforcing the Code of Conduct, for a specified period of
+time. This includes avoiding interactions in community spaces as well as
+external channels like social media. Violating these terms may lead to a
+temporary or permanent ban.
 
 ### 3. Temporary Ban
 
@@ -150,7 +153,10 @@ version 2.1, available at
 
 Community Impact Guidelines were inspired by [Mozilla's code of conduct
 enforcement ladder][mozilla coc].
-How to [give better feedback](https://www.virginiabalseiro.com/blog/feedback.html).
+
+For guidelines on how to give constructive and positive feedback, please see
+[How to give better
+feedback](https://www.virginiabalseiro.com/blog/feedback.html).
 
 For answers to common questions about this code of conduct, see the FAQ at
 [https://www.contributor-covenant.org/faq][faq]. Translations are available at
