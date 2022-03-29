@@ -16,7 +16,7 @@ In addition to this Code of Conduct, we adhere to the [Positive Work Environment
 at W3C: Code of Ethics and Professional
 Conduct](https://www.w3.org/Consortium/cepc/).
 
-## Standards of Behaviour
+## Standards of Behavior
 
 Examples of behavior that contributes to a positive environment for our
 community include:
@@ -104,6 +104,16 @@ The Code of Conduct Committee will follow these Community Impact Guidelines in
 determining the consequences for any action they deem in violation of this Code
 of Conduct:
 
+### Continued behavior
+
+A pattern of continued violations of community standards will be determined
+using the "three-strikes system".  
+Three strikes will constitute a pattern of behavior, and it may lead to a
+temporary ban. Continued violations beyond three strikes may lead to a permanent
+ban. However, severe offenses may lead to a temporary or permanent ban
+regardless of the number of strikes. This applies to all violations of the Code
+of Conduct as described below.
+
 ### 1. Correction
 
 **Community Impact**: Use of inappropriate language or other behavior deemed
@@ -119,11 +129,11 @@ the behavior was inappropriate.
 actions.
 
 **Consequence**: A warning with consequences for continued behavior. No
-unsolicited interaction with the people involved in the incident(s), including unsolicited
-interaction with those enforcing the Code of Conduct, for a specified period of
-time. This includes avoiding interactions in community spaces as well as
-external channels like social media. Violating these terms may lead to a
-temporary or permanent ban.
+unsolicited interaction with the people involved in the incident(s), including
+unsolicited interaction with those enforcing the Code of Conduct, for a
+specified period of time. This includes avoiding interactions in community
+spaces as well as external channels like social media. Violating these terms may
+lead to a temporary or permanent ban.
 
 ### 3. Temporary Ban
 
