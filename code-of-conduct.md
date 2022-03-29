@@ -107,7 +107,7 @@ of Conduct:
 ### Continued behavior
 
 A pattern of continued violations of community standards will be determined
-using the "three-strikes system".  
+using a "three-strikes system".  
 Three strikes will constitute a pattern of behavior, and it may lead to a
 temporary ban. Continued violations beyond three strikes may lead to a permanent
 ban. However, severe offenses may lead to a temporary or permanent ban
