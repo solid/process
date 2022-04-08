@@ -2,7 +2,7 @@
 
 Personal threats or discriminatory threats towards arbitrary groups on Solid gitter, Solid forum, or the W3C Solid Community Group call and mailing list may result in a ban of the threatening individual by the Code of Conduct (CoC) committee.
 
-Repeated and sustained straying from the [defined aims of the Solid gitter channels](https://github.com/solid/information#connect) may result in a ban of those individuals straying from those defined aims by the CoC committee.
+Repeated and sustained straying from the CoC, on all Solid channels (Gitter, Forum, Panels) may result in a ban of those individuals straying from those defined aims by the CoC committee.
 
 ## General Expectations
 Below are some general expectations around how participants of the Solid community are encouraged to behave.
