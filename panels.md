@@ -138,6 +138,7 @@ This panel is responsible for establishing the test suite for Solid, and maintai
 - [Yvo Brevoort](https://github.com/ylebre) (@ylebre)
 - [Pete Edwards](https://github.com/edwardsph)
 - [Alain Bourgeois](https://github.com/bourgeoa)
+- [Mohammadreza Vahedi](https://github.com/mrvahedi68)
 
 
 ## Notifications
