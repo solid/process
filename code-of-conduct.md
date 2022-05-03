@@ -28,7 +28,6 @@ community include:
   our mistakes, and learning from the experience
 * Focusing on what is best not just for us as individuals, but for the overall
   community
-
 * Asking for confirmation instead of assuming
 * Taking constructive actions, and move towards consensus when possible
 
@@ -50,6 +49,8 @@ Examples of unacceptable behavior include:
   of "dead" or rejected names, stalking and intimidation
 * Publishing others' private information, such as a physical or email address or
   any aspect of a person's identity, without their explicit permission
+* Knowingly spreading incorrect, misleading, or misrepresented information
+ about Solid, the Community, or its members
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
