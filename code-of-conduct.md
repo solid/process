@@ -16,6 +16,23 @@ In addition to this Code of Conduct, we adhere to the [Positive Work Environment
 at W3C: Code of Ethics and Professional
 Conduct](https://www.w3.org/Consortium/cepc/).
 
+## About this Code of Conduct
+
+This Code of Conduct is maintained by the Code of Conduct Committee.
+
+Changes to this document need to be approved by the Code of Conduct Committee
+and the Solid Director.
+
+If you have any questions about this document, please direct them to the Code of
+Conduct Committee.
+
+If you experience a situation that is not covered by this Code of Conduct,
+please get in touch with the Code of Conduct Committee.
+
+If you would like to propose changes or improvements to this document, please
+create an issue and explain the changes you would like to see for consideration
+of the Code of Conduct Committee.
+
 ## Standards of Behavior
 
 Examples of behavior that contributes to a positive environment for our
