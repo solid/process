@@ -113,33 +113,11 @@ Ensuring the interoperability of data as it is read and written by different use
 Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Data Interoperability and Portability editorial topic](https://github.com/solid/process/blob/master/editors.md#data-interoperability-and-portability), and will be principally reviewed by any editors assigned to it.
 
 ## Test Suite
-This panel is responsible for establishing the test suite for Solid, and maintaining it over time as the specification evolves.
-
-### Initiatives
-* Establish test suite requirements
-* Propose test suite stack / framework
-* Help server implementers run our test suites in their CI (GitHub PRs, Gitter support).
-* Initiative per test suite:
-  - [WebID Provider](https://github.com/solid/webid-provider-tests)
-  - [Solid CRUD](https://github.com/solid/solid-crud-tests)
-  - [Web Access Control](https://github.com/solid/web-access-control-tests)
-  - [Bringing it all together](https://github.com/solid/test-suite)
+The panel will develop open source conformance testing software, author and review tests, release implementation reports, and provide feedback to technical report development. See [Charter]((https://github.com/solid/process/blob/main/test-suite-panel-charter.md)
 
 ### Communication channels
-- https://gitter.im/solid/test-suite
-- https://github.com/solid/test-suite
-- https://github.com/solid/webid-provider-tests
-- https://github.com/solid/solid-crud-tests
-- https://github.com/solid/web-access-control-tests
-
-### Panelists
-- [Sarven Capadisli](https://github.com/csarven) &lt;https://csarven.ca/#i&gt; (@csarven)
-- [Michiel de Jong](https://github.com/michielbdejong) <[michiel@unhosted.org](mailto:michiel@unhosted.org)> (@michielbdejong)
-- [Yvo Brevoort](https://github.com/ylebre) (@ylebre)
-- [Pete Edwards](https://github.com/edwardsph)
-- [Alain Bourgeois](https://github.com/bourgeoa)
-- [Mohammadreza Vahedi](https://github.com/mrvahedi68)
-
+* [test-suite-panel repository](https://github.com/solid/test-suite-panel)
+* [test-suite-panel discussion](https://gitter.im/solid/test-suite)
 
 ## Notifications
 Development of mechanisms to shape and exchange notifications. See [Charter](https://github.com/solid/process/blob/main/notifications-panel-charter.md).
