@@ -113,6 +113,8 @@ Most of the technical work of the panel will be done through:
 * Repository: https://github.com/solid/test-suite-panel
 * Discussions: https://gitter.im/solid/test-suite
 
+Individual work items are expected to use other repositories.
+
 Information about the panel (for example, details about deliverables, issues, actions, status, and participants) will be available from the Test Suite Panel repository.
 
 ## Decision Policy
