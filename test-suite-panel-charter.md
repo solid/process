@@ -28,7 +28,7 @@ The panel will contribute to the development of technical reports and releasing 
 
 The panel within the framework of the W3C Solid CG and the Solid Project will complement the development of technical reports and support the communication of implementation reports. Features that are not implemented due to time constraints can be put into a non-normative "roadmap" document for future work. The scope will include:
 
-* Human- and machine-readable units of information at any level of granularity is available from technical reports, test reviews and reports, test suite design, test environment and setup, individual tests, and software implementations.
+* Human- and machine-readable units of information at any level of granularity are available from technical reports, test reviews and reports, test suite design, test environment and setup, individual tests, and software implementations.
 * Evaluation tools (software programs or online services) that help determine implementation conformance.
 * Vocabularies for technical reports, test suite design, tests, and test reports.
 * Documentation detailing setting up a test environment, authoring and running tests, reviewing tests, and publishing reports.
@@ -98,7 +98,7 @@ The panel may correspond with the [web-platform-tests Project](https://github.co
 
 Membership in the W3C Solid CG is required to participate in the Test Suite Panel. All work and communication within the Solid CG is covered by the [Solid Code of Conduct](https://github.com/solid/process/blob/main/code-of-conduct.md) as well as the [Positive Work Environment at W3C: Code of Ethics and Professional Conduct](https://www.w3.org/Consortium/cepc/).
 
-To be successful, the Test Suite Panel is expected to have 5 or more active participants for its duration and to have the participation of contributors to technical reports, test suite developers, software implementers, test authors and reviewers. The Chair, test suite developers and contributors to technical reports are expected to contribute one day per week towards the Panel. The Chair may call occasional meetings consistent with the W3C Process requirements for meetings. There is no minimum requirement for other Participants.
+To be successful, the Test Suite Panel is expected to have 5 or more active participants for its duration and to have the participation of contributors to technical reports, test suite developers, software implementers, test authors and reviewers. The Chair, test suite developers and contributors to technical reports are expected to collectively contribute one day per week towards the Panel. The Chair may call occasional meetings consistent with the W3C Process requirements for meetings. There is no minimum requirement for other Participants.
 
 The Test Suite Panel will also allocate the necessary resources for building test suites for each technical report.
 
