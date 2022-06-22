@@ -98,7 +98,7 @@ The panel may correspond with the [web-platform-tests Project](https://github.co
 
 Membership in the W3C Solid CG is required to participate in the Test Suite Panel. All work and communication within the Solid CG is covered by the [Solid Code of Conduct](https://github.com/solid/process/blob/main/code-of-conduct.md) as well as the [Positive Work Environment at W3C: Code of Ethics and Professional Conduct](https://www.w3.org/Consortium/cepc/).
 
-To be successful, the Test Suite Panel is expected to have 5 or more active participants for its duration and to have the participation of contributors to technical reports, test suite developers, software implementers, test authors and reviewers. The Chair, test suite developers and contributors to technical reports are expected to collectively contribute one day per week towards the Panel. The Chair may call occasional meetings consistent with the W3C Process requirements for meetings. There is no minimum requirement for other Participants.
+To be successful, the Test Suite Panel is expected to have 5 or more active participants for its duration and to have the participation of contributors to technical reports, test suite developers, software implementers, test authors, and reviewers. The Chair, test suite developers, and contributors to technical reports are expected to collectively contribute one day per week towards the Panel. The Chair may call occasional meetings consistent with the W3C Process requirements for meetings. There is no minimum requirement for other Participants.
 
 The Test Suite Panel will also allocate the necessary resources for building test suites for each technical report.
 
