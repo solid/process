@@ -50,7 +50,7 @@ __Primary Documents:__
 #### Authentication
 Pertaining to mechanisms that authenticate a person or application for the purposes of accessing resources in a data pod.
 __Assigned Editors:__  Justin Bingham, Dmitri Zagidulin
-__Primary Documents:__ [solid/specification/webid-oidc](https://github.com/solid/specification/tree/master/webid-oidc), [solid/specification/webid-tls](https://github.com/solid/specification/tree/master/webid-tls), [solid/webid-oidc-spec](https://github.com/solid/webid-oidc-spec)
+__Primary Documents:__ [Solid-OIDC](https://solid.github.io/authentication-panel/solid-oidc/), [solid/specification/webid-tls](https://github.com/solid/specification/tree/master/webid-tls)
 
 #### Authorization
 Pertaining to mechanisms that control the access a given agent has to read or manipulate resources in a data pod.
@@ -94,5 +94,5 @@ __Primary Documents:__
 
 #### Security
 Pertaining to mechanisms used and considerations taken when securing a data pod, a conformant server implementation, and/or the immediate ecosystem around them.  
-__Assigned Editors:__ Justin Bingham, Sarven Capadisli, Dmitri Zagidulin 
+__Assigned Editors:__ Justin Bingham, Sarven Capadisli, Dmitri Zagidulin
 __Primary Documents:__ [solid/specification/security](https://github.com/solid/specification/blob/master/main/security.bs)

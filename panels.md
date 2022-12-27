@@ -27,6 +27,7 @@ Candidate Proposals to the Solid Specification produced by this panel are likely
 * [Authentication](#authentication)
 * [Interoperability](#interoperability)
 * [Test-suite](#test-suite)
+* [Notifications](#notifications)
 
 All Panels can be reached on [public-solid@w3.org](https://lists.w3.org/Archives/Public/public-solid/)
 
@@ -57,7 +58,7 @@ Candidate Proposals to the Solid Specification produced by this panel are likely
 
 ## Authentication
 Discussion and specs relating to Authentication and Auth Delegation protocols, including:
-* [WebID-OIDC](https://github.com/solid/webid-oidc-spec) auth delegation protocol
+* [Solid-OIDC](https://github.com/solid/solid-oidc) auth delegation protocol
 * [WebID-TLS](http://www.w3.org/2005/Incubator/webid/spec/tls) auth delegation protocol
 * Username + password recommendations for local authentication
 * [WebAuthentication](https://www.w3.org/TR/webauthn/) (proposed future integration)
@@ -65,7 +66,7 @@ Discussion and specs relating to Authentication and Auth Delegation protocols, i
 * HTTP Signatures (proposed future integration)
 
 ### Communication channels
-- Mondays at 10AM Eastern at https://hangouts.google.com/call/3k5z3gBVKm-58m8Xgm2YAEEE
+- Mondays at 10AM Eastern at https://meet.jit.si/solid-authentication
 - [dedicated forum thread](https://forum.solidproject.org/t/authentication-panel/2086)
 - [authentication panel repository](https://github.com/solid/authentication-panel)
 
@@ -112,30 +113,19 @@ Ensuring the interoperability of data as it is read and written by different use
 Candidate Proposals to the Solid Specification produced by this panel are likely to be associated with the [Data Interoperability and Portability editorial topic](https://github.com/solid/process/blob/master/editors.md#data-interoperability-and-portability), and will be principally reviewed by any editors assigned to it.
 
 ## Test Suite
-This panel is responsible for establishing the test suite for Solid, and maintaining it over time as the specification evolves.
-
-### Initiatives
-* Establish test suite requirements
-* Propose test suite stack / framework
-* Help server implementers run our test suites in their CI (GitHub PRs, Gitter support).
-* Initiative per test suite:
-  - [WebID Provider](https://github.com/solid/webid-provider-tests)
-  - [Solid CRUD](https://github.com/solid/solid-crud-tests)
-  - [Web Access Control](https://github.com/solid/web-access-control-tests)
-  - [Bringing it all together](https://github.com/solid/test-suite)
+The panel will develop open source conformance testing software, author and review tests, release implementation reports, and provide feedback to technical report development. See [Charter]((https://github.com/solid/process/blob/main/test-suite-panel-charter.md)
 
 ### Communication channels
-- https://github.com/solid/test-suite
-- https://github.com/solid/webid-provider-tests
-- https://github.com/solid/solid-crud-tests
-- https://github.com/solid/web-access-control-tests
-- https://gitter.im/solid/test-suite
+* [test-suite-panel repository](https://github.com/solid/test-suite-panel)
+* [test-suite-panel discussion](https://gitter.im/solid/test-suite)
 
-### Panelists
-- [Sarven Capadisli](https://github.com/csarven) &lt;https://csarven.ca/#i&gt; (@csarven)
-- [Michiel de Jong](https://github.com/michielbdejong) <[michiel@unhosted.org](mailto:michiel@unhosted.org)> (@michielbdejong)
-- [Yvo Brevoort](https://github.com/ylebre) (@ylebre)
-- [Pete Edwards](https://github.com/edwardsph)
+## Notifications
+Development of mechanisms to shape and exchange notifications. See [Charter](https://github.com/solid/process/blob/main/notifications-panel-charter.md).
+
+### Communication channels
+* [notifications-panel repository](https://github.com/solid/notifications-panel)
+* [notifications-panel discussion](https://gitter.im/solid/notifications-panel)
+
 
 ### Editorial Assignment
 The test suite should never contradict the Solid specification.
