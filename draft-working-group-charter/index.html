@@ -3,7 +3,7 @@
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta charset="utf-8">
 
-    <title>W3C Solid Working Group Charter DRAFT-BR-2022-11-18</title>
+    <title>W3C Solid Working Group Charter DRAFT-BR-2023-01-23</title>
 
     <link rel="stylesheet" href="w3cdoc.css" type="text/css" media="screen">
     <link rel="stylesheet" type="text/css" href="pubrules-style.css">
@@ -100,7 +100,7 @@
         <h1 id="title">Solid Working Group Charter</h1>
 
         <p>
-            Cloud services in use on the Web today (2022) often require users to store their data and place control over that data at a third-party cloud provider. Solid adds to existing Web standards to enable user control: to realise a space where individuals can maintain their autonomy, control their data and privacy, and choose applications and services to fulfil their needs. Solid defines the notion of Pods, in which users place their own data and control access to that data, and a suite of interoperable protocols for managing Pods, applications that use pods, and interactions with existing protocols for authentication.
+            Cloud services in use on the Web today (2023) often require users to store their data and place control over that data at a third-party cloud provider. Solid adds to existing Web standards to enable user control: to realise a space where individuals can maintain their autonomy, control their data and privacy, and choose applications and services to fulfil their needs. Solid defines the notion of Pods, in which users place their own data and control access to that data, and a suite of interoperable protocols for managing Pods, applications that use pods, and interactions with existing protocols for authentication.
 
             Solid presents several advantages over more traditional architectures for data use by Web services today, including:
         </p>
@@ -207,13 +207,13 @@ more than 3 per year.
                     Recommend a set of practices needed for data security for Solid Pods, and for both server and client software, including use of appropriate authentication, authorization, verification, identity, and other standards, integrating existing outside efforts.
                 </li>
                 <li>
-                    Recommend a set of protocol behaviors and best practices for the use in Solid of the OpenID Connect (OIDC) identity layer on top of the OAuth 2.0 protocol.
+                    Recommend a set of protocol behaviors and best practices for the use in Solid of the OpenID Connect (OIDC) / Federation identity layer on top of the OAuth 2.0 protocol.
                 </li>
                 <li>
-                    Recommend a set of protocol behaviors and best practices for the use of W3C Verifiable Credentials for access to data stored in Solid Pods.
+                    Recommend a set of protocol behaviors and best practices to request and grant access to data stored in Solid Pods.
                 </li>
                 <li>
-                    Define a protocol for synchronization regarding changes to resources in Solid pods.
+                    Define a protocol for state synchronization regarding changes to resources in Solid pods.
                 </li>
             </ol>
 
@@ -224,9 +224,6 @@ more than 3 per year.
                 </p>
 
                 <ul>
-                    <li>
-                        Definition of authentication or authorization protocols
-                    </li>
                     <li>
                         Definition of identity mechanisms such as WebID and DID
                     </li>
@@ -239,7 +236,7 @@ more than 3 per year.
             <div>
                 <h3>Success Criteria</h3>
                 <p>
-                    In order to advance to
+                    In order to advance to the status of
                     <a href="https://www.w3.org/Consortium/Process//#RecsPR" title="Proposed Recommendation">Proposed Recommendation</a>, each specification will fulfill the
                     <a href="http://www.w3.org/Consortium/Process/#implementation-experience">implementation experience required by the W3C Process</a> as follows:
                 </p>
@@ -252,7 +249,7 @@ more than 3 per year.
                         The group will add a section detailing any known security or privacy implications for implementers, Web authors, and end users.
                     </li>
                     <li>
-                        The group will maintain and advance a <a href="">test suite (LINK TBD)</a> enabling interoperability testing.
+                        The group will maintain and advance a <a href="">test suite (LINK TBD)</a>, which, among other goals, will enable interoperability testing.
                     </li>
                 </ul>
             </div>
@@ -275,10 +272,13 @@ more than 3 per year.
                     The Solid Working Group will deliver the following W3C normative specifications:
                 </p>
                 <dl>
-                    <dt id="syntax" class="spec">Solid v1.0</dt>
+                    <dt id="syntax" class="spec">Solid Protocol v1.0</dt>
                     <dd>
                         <p>
-                            The Solid specification aims to provide applications with secure and permissioned access to externally stored data in an interoperable way. An overarching design goal of the Solid ecosystem is to be evolvable and to provide fundamental affordances for decentralised Web applications for information exchange in a way that is secure and privacy respecting. In this environment, actors allocate identifiers for their content, shape and store data where they have access to, set access control policies, and use preferred applications and services to achieve them.
+                            The Solid Protocol specification aims to provide applications with secure and permissioned access to externally stored data in an interoperable way. An overarching design goal of the Solid ecosystem is to be evolvable and to provide fundamental affordances for decentralised Web applications for information exchange in a way that is secure and privacy respecting. In this environment, actors allocate identifiers for their content, shape and store data where they have access to, set access control policies, and use preferred applications and services to achieve them.
+                        </p>
+                        <p>
+                            When possible, the Solid Protocol will evolve while maintaining a high degree of compatibility with existing implementations, of both servers and clients, and with features from prior versions. If incompatible changes have to be made, then they will be done by introducing a stage where both old and new protocols are supported, to allow the implementors to upgrade their systems in a managed way.
                         </p>
                         <p>
                             The Solid specification may include protocol details for integration with the following:
@@ -303,7 +303,10 @@ more than 3 per year.
                 </dl>
 
                 <p>
-                    Note that the WG may decide, based on editorial and readability considerations, to spin off sections into separate Recommendations.
+                    Note that the WG may decide, based on editorial and readability considerations, to spin off sections into separate Recommendations track specifications.
+                </p>
+                <p>
+                    All specifications, regardless of their progress along the W3C process line from Working Draft to Recommendation, will be given a version number, such as 0.9, which will be incremented like from 0.9 to 0.10 for minor changes. A major version increment like 2.2 to 3.0 will be used if there is an incompatible change in the protocol. The required versions of each dependency will be given in each spec.
                 </p>
             </div>
 
@@ -371,7 +374,7 @@ more than 3 per year.
             <p>
                 For all specifications, this Working Group will seek <a href="https://www.w3.org/Guide/Charter.html#horizontal-review">horizontal review</a>
  for accessibility, internationalization, performance, privacy, and 
-security with the relevant Working and Interest Groups, and with the <a href="https://www.w3.org/2001/tag/" title="Technical Architecture Group">TAG</a>. Invitation for review must be issued during each major standards-track document transition, including <a href="https://www.w3.org/Consortium/Process//#RecsWD" title="First Public Working Draft">FPWD</a> and at least 3 months before <a href="https://www.w3.org/Consortium/Process/#RecsCR" title="Candidate Recommendation">CR</a>, and should be issued when major changes occur in a specification.
+security with the relevant Working and Interest Groups, and with the <a href="https://www.w3.org/2001/tag/" title="Technical Architecture Group">TAG</a>. Invitation for review must be issued during each major standards-track document transition, including the <a href="https://www.w3.org/Consortium/Process//#RecsWD" title="First Public Working Draft">FPWD</a> and at least 3 months before the <a href="https://www.w3.org/Consortium/Process/#RecsCR" title="Candidate Recommendation">CR</a>, and should be issued when major changes occur in a specification.
             </p>
 
             <p>
@@ -474,7 +477,7 @@ deliverables, issues, actions, status, participants, and meetings) will
 be available from the <a href="">Solid Working Group home page (LINK TBD).</a>
             </p>
             <p>
-                Most Decentralized Identifier Working Group 
+                Most Working Group 
 teleconferences will focus on discussion of particular specifications, 
 and will be conducted on an as-needed basis.
             </p>
