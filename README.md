@@ -127,7 +127,7 @@ Administrators are granted privileged access to control the tools, systems, and 
 
 Administrators belong to the [Administrators Team](https://github.com/orgs/solid/teams/administrators) in the [Solid GitHub Organization](https://github.com/solid) and have [_Admin Permissions_](https://help.github.com/en/articles/repository-permission-levels-for-an-organization#permission-levels-for-repositories-owned-by-an-organization) on all repositories therein. Administrators have [_Owner Permissions_](https://help.github.com/en/articles/permission-levels-for-an-organization#permission-levels-for-an-organization) for the [Solid GitHub Organization](https://github.com/solid).
 
-The Solid World Coordination Administrator is granted privileged access to only those tools, systems, and services required to coordinate and promote the monthly Solid World webinar, such as Vimeo, Twitter, Eventbrite, and/or Typeform.
+The Solid World Coordination Administrator is granted privileged access to such tools, systems, and services as are required to coordinate and promote the monthly Solid World webinar, such as Vimeo, Twitter, Eventbrite, Typeform, and/or others.
 
 ### Becoming an Administrator
 
