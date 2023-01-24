@@ -1,8 +1,9 @@
 ### Security Vulnerability Reporting 
 The Product Security Incident Response Team (PSIRT) at Solid acknowledges the valuable role researchers play. We encourage reporting of any concerns and vulnerabilities found in our sites or software. 
 
-info@solidproject.org
-Submit an issue to our team on github
+In order to report any concern:
+* Submit an issue to our team on github; or
+* Email: info@solidproject.org
 
 We are committed to working with the community to verify and respond to these reports in a timely fashion. Here's what you can expect when submitting a report:
 
