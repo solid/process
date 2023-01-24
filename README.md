@@ -149,5 +149,5 @@ maintained by the Solid Project for research, development, and experimental,
 non-commercial use of Solid by community members.
 
 It is administered by [System Operators](system-operators.md), with additional
-support from Solid Project [Administrators](administrators). System Operators
+support from Solid Project [Administrators](https://github.com/solid/process/blob/main/administrators.md). System Operators
 are appointed by the Solid Director.
