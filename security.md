@@ -20,8 +20,9 @@ We request that the following research not be conducted without formal authoriza
 
 Software often contains third party or open source libraries and binaries. Prior to submitting a request to validate how a security issue in third party components may impact Solid, please review the section on third party Common Vulnerabilities and Exposures (CVE) handling.
 
-### Third Party CVE Handling
-The Solid team updates 3rd party components within regularly scheduled release cycles, to the newest compatible version available during development. A vulnerability related to a 3rd party component does not necessarily translate to a vulnerability in Inrupt software. PSIRT welcomes questions about the applicability of a 3rd party CVE.
+### Handling Third Party CVE
+
+The Solid team updates third party components to the newest compatible version available during development in regularly scheduled release cycles. A vulnerability related to a third party component does not necessarily translate to a vulnerability in Solid software. PSIRT welcomes questions about the applicability of a Third Party CVE.
 
 Risk is determined through internal scoring using CVSSv3.1 (https://www.first.org/cvss/calculator/3.1). 
 
