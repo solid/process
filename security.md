@@ -13,10 +13,10 @@ We are committed to working with the community to verify and respond to these re
 
 We request that the following research not be conducted without formal authorization and advance coordination to avoid harms to customers and violation of laws. 
 
-* Denial of Service (DoS) of any kind
-* Automated security tools
-* Accessing, or attempting to access, data or information that does not belong to you
-* Destroying or corrupting, or attempting to destroy or corrupt, data or information that does not belong to you
+* Denial of Service (DoS) testing of any kind
+* Automated security testing
+* Testing access to data or information that does not belong to you
+* Testing ability to destroy or corrupt data or information that does not belong to you
 
 Software often contains third party or open source libraries and binaries. Prior to submitting a request to validate how a security issue in third party components may impact Solid, please review the section on third party Common Vulnerabilities and Exposures (CVE) handling.
 
