@@ -123,7 +123,7 @@ Editors have [_Admin Permissions_](https://help.github.com/en/articles/repositor
 
 # Solid QA
 
-Solid QA policy, processes, and procedures are developed through the [Test Suite Panel](https://github.com/solid/test-suite-panel/) as per the [Test Suite Panel Charter](https://github.com/solid/process/blob/main/test-suite-panel-charter.md) with the aim to give authors of technical reports and implementers of software confidence that they can rely on the Solid ecosystem to deliver on the promise of interoperability based on open standards.
+[Solid QA](https://solidproject.org/ED/qa) policy, processes, and procedures are developed through the [Test Suite Panel](https://github.com/solid/test-suite-panel/) as per the [Test Suite Panel Charter](https://github.com/solid/process/blob/main/test-suite-panel-charter.md) with the aim to give authors of technical reports and implementers of software confidence that they can rely on the Solid ecosystem to deliver on the promise of interoperability based on open standards.
 
 # Administration
 
