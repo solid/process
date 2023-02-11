@@ -121,6 +121,10 @@ Repositories requiring editorial review are listed in [editors.md](editors.md#ed
 
 Editors have [_Admin Permissions_](https://help.github.com/en/articles/repository-permission-levels-for-an-organization#permission-levels-for-repositories-owned-by-an-organization) on the repositories they are assigned to, and are permitted to grant [_Write Permissions_](https://help.github.com/en/articles/repository-permission-levels-for-an-organization#permission-levels-for-repositories-owned-by-an-organization) to other contributing authors on the same. All Editors have [_Write Permissions_](https://help.github.com/en/articles/repository-permission-levels-for-an-organization#permission-levels-for-repositories-owned-by-an-organization) on all repositories requiring editorial review listed in [editors.md](editors.md).
 
+# Solid QA
+
+[Solid QA](https://solidproject.org/ED/qa) policy, processes, and procedures are developed through the [Test Suite Panel](https://github.com/solid/test-suite-panel/) as per the [Test Suite Panel Charter](https://github.com/solid/process/blob/main/test-suite-panel-charter.md) with the aim to give authors of technical reports and implementers of software confidence that they can rely on the Solid ecosystem to deliver on the promise of interoperability based on open standards.
+
 # Administration
 
 Administrators are granted privileged access to control the tools, systems, and services used for advancing the Solid. This includes the [Solid GitHub](https://github.com/solid) organization, [Solid Gitter](https://gitter.im/solid/home) channels, the [Solid Forum](https://forum.solidproject.org), and the [Solid Website](https://www.solidproject.org).
