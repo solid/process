@@ -6,7 +6,7 @@ The mission of the Notifications Panel as part of the W3C Solid Community Group 
 * End date: 2022-12-31
 * Charter extension: The charter extension history is documented in "About this charter".
 * Confidentiality: Proceedings are Public
-* Chair: Sarven Capadisli (Inrupt)
+* Chair: [Sarven Capadisli](https://csarven.ca/#i)
 * Team Contact: Solid Editors
 * Usual Meeting Schedule: Teleconferences: Weekly, although the chair may call for topic-specific calls in addition when needed and may change working mode as work progresses.
 

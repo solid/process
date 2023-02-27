@@ -6,7 +6,7 @@ The mission of the Test Suite Panel as part of the W3C Solid Community Group (CG
 * End date: 2025-06-30
 * Charter extension: The charter extension history is documented in "About this charter".
 * Confidentiality: Proceedings are public
-* Chair: Sarven Capadisli (Inrupt)
+* Chair: [Sarven Capadisli](https://csarven.ca/#i)
 * Team Contact: Solid Editors
 * Usual Meeting Schedule: Teleconferences: Occur on a need to basis. The chair may call for topic-specific calls when needed and may change working mode as work progresses.
 

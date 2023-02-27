@@ -6,7 +6,7 @@ This charter sets out to explain the Diversity, Equity, and Inclusion Team (DEIT
 ## Membership
 The Team shall consist of both chair members and community members. All chair members and community members join on a volunteer basis. The chair members are appointed by the Director of Solid and serve an indefinite term. Elections are during the first quarter of the year. The prospective chair candidate can self-nominate, or be nominated by a member’s suggestion. The current chairs are:
 
-* Chair: [Sarven Capadisli](https://csarven.ca/#i) ([Inrupt](https://inrupt.com/))
+* Chair: [Sarven Capadisli](https://csarven.ca/#i)
 * Chair: Jeff Zucker
 * Chair: Kyra Assaad
 * Chair: Virginia Balseiro
