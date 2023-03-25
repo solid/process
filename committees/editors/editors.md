@@ -1,6 +1,6 @@
 # Solid Editors
 
-Below is a listing of the Solid Editorial Team and their respective assignments. See [Reviewing Proposals](README.md#reviewing-proposals.md) for an explanation of how the editorial process is used to review and accept changes to Solid Specifications, the Solid Roadmap, and Supporting Documentation.
+Below is a listing of the Solid Editorial Team and their respective assignments. See [Reviewing Proposals](../../README.md#reviewing-proposals.md) for an explanation of how the editorial process is used to review and accept changes to Solid Specifications, the Solid Roadmap, and Supporting Documentation.
 
 ## Editorial Team
 

@@ -5,11 +5,11 @@ The following describes how changes to the specifications in the Solid ecosystem
 
 Development in the Solid ecosystem occurs in the [Solid Specifications](https://github.com/solid/specification) repository. The deprecated [Unofficial Draft](https://github.com/solid/solid-spec) predating current development is still available for historical reference.
 
-Anyone may participate in this process. Please read the [Code of Conduct](code-of-conduct.md) before doing so.
+Anyone may participate in this process. Please read the [Code of Conduct](committees/code-of-conduct/code-of-conduct.md) before doing so.
 
 ## Editorial Team
 
-The Solid [Editorial Team](https://github.com/orgs/solid/teams/editors) is responsible for the implementation of the Solid Specification process. Members of the Editorial Team are appointed by the Solid Director. The Editorial Team is comprised of all the Editors appointed by the Solid Director, who are listed at [editors.md](editors.md), along with their assignments, contact details, and affiliations. The Editorial Team shepherds Solid and coordinates with those who participate in [Solid Panels](#solid-panels) and with [Stakeholders](#stakeholders) and [Implementers](#implementers). The Solid Director may also appoint support personnel on an as-needed basis, such as a Release Manager, for organizing the workflow of the specification process.
+The Solid [Editorial Team](https://github.com/orgs/solid/teams/editors) is responsible for the implementation of the Solid Specification process. Members of the Editorial Team are appointed by the Solid Director. The Editorial Team is comprised of all the Editors appointed by the Solid Director, who are listed at [editors.md](committees/editors/editors.md), along with their assignments, contact details, and affiliations. The Editorial Team shepherds Solid and coordinates with those who participate in [Solid Panels](#solid-panels) and with [Stakeholders](#stakeholders) and [Implementers](#implementers). The Solid Director may also appoint support personnel on an as-needed basis, such as a Release Manager, for organizing the workflow of the specification process.
 
 Anyone may apply to be an Editor, and must include one or more requested editorial assignments as part of their application. These requests are reviewed only by the Solid Director. Editor applications that can demonstrate the support of a relevant panel or group of community members will be favorably considered.
 
@@ -87,7 +87,7 @@ A draft proposal often involves public discussion before being formally presente
 
 Candidate proposals to the [Solid Specification](https://github.com/solid/specification) submitted for review go through an editorial process before they are accepted.
 
-The [Solid Editors](https://github.com/orgs/solid/teams/editors) [maintain a monthly development cycle](solid-editors-tr-process.md) in which they select proposals and issues from the open issues and proposals for consideration. 
+The [Solid Editors](https://github.com/orgs/solid/teams/editors) [maintain a monthly development cycle](committees/editors/solid-editors-tr-process.md) in which they select proposals and issues from the open issues and proposals for consideration. 
 
 The Editors typically meet weekly, with an agenda put forward by the Solid Director with the help of other Editors and the Release Manager. In the interest of transparency, these meetings are to be recorded and made public within two days of the meeting.
 
@@ -127,7 +127,11 @@ Editors have [_Admin Permissions_](https://help.github.com/en/articles/repositor
 
 # Administration
 
-Administrators are granted privileged access to control the tools, systems, and services used for advancing the Solid. This includes the [Solid GitHub](https://github.com/solid) organization, [Solid Gitter](https://gitter.im/solid/home) channels, the [Solid Forum](https://forum.solidproject.org), and the [Solid Website](https://www.solidproject.org).
+Administrators are granted privileged access to control the tools, systems, and services used for advancing the Solid. They are tasked with maintaining and updating the following:
+ - [Solid GitHub](https://github.com/solid) organization
+ - [Solid Gitter](https://gitter.im/solid/home) channels
+ - [Solid Forum](https://forum.solidproject.org)
+ - [Solid Website](https://www.solidproject.org).
 
 Administrators belong to the [Administrators Team](https://github.com/orgs/solid/teams/administrators) in the [Solid GitHub Organization](https://github.com/solid) and have [_Admin Permissions_](https://help.github.com/en/articles/repository-permission-levels-for-an-organization#permission-levels-for-repositories-owned-by-an-organization) on all repositories therein. Administrators have [_Owner Permissions_](https://help.github.com/en/articles/permission-levels-for-an-organization#permission-levels-for-an-organization) for the [Solid GitHub Organization](https://github.com/solid).
 
@@ -135,11 +139,9 @@ The Solid World Coordination Administrator is granted privileged access to such 
 
 ### Becoming an Administrator
 
-Administrators are appointed by the Solid Director. Administrators are listed at [administrators.md](administrators.md) along with their contact details and affiliations. Anyone may apply to be an Administrator. Administrator applications are reviewed only by the Solid Director.
+Administrators are appointed by the Solid Director. Administrators are listed at [administrators.md](committees/administrators/administrators.md) along with their contact details and affiliations. Anyone may apply to be an Administrator. Administrator applications are reviewed only by the Solid Director.
 
 # Solidproject.org Website
-
-[Creators](https://github.com/solid/process/blob/master/creators.md) independently assist with keeping [solidproject.org](https://solidproject.org/) up to date.
 
 Anyone can make suggestions by creating issues or submitting pull requests
 to the [solid/solidproject.org](https://github.com/solid/solidproject.org) repository.
