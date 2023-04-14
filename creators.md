@@ -9,3 +9,4 @@ Below is a record of the Creators who are appointed by the Solid Director.
 | [Ted Thibodeau](https://github.com/TallTed) | http://id.myopenlink.net/dataspace/person/tthibodeau#this |
 | [Kyra Assaad](https://github.com/kyraassaad) | https://pod.inrupt.com/kyra/profile/card#me |
 | [Virginia Balseiro](https://github.com/VirginiaBalseiro) | https://virginia.solidcommunity.net/profile/card#me |
+| [Michiel de Jong](https://github.com/michielbdejong) | https://michielbdejong.solidcommunity.net/profile/card#me |
