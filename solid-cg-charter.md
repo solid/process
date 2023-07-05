@@ -25,7 +25,6 @@ In general, topics that are “in scope” include anything related to enabling 
 * Signing messages.
 * Federation.
 * Evaluation tools (software programs or online services) that help determine implementation conformance.
-* Vocabularies for technical reports, test suite design, tests, and test reports.
 * Publishing test reports and communicating the level of adoption of technical reports.
 
 With the exception of integrating or bridging specifications developed by another active community in an open standards development body that specialises in a particular topic, the Solid Community Group defer the work to the other community.
@@ -62,6 +61,7 @@ In general, all documents in scope of the group are welcome. If there are indivi
 
 The group will make good faith efforts to include the following communities in the progress of our work.
 
+* [Autonomous Agents on the Web Community Group](https://www.w3.org/groups/cg/webagents)
 * [Credentials Community Group](https://www.w3.org/groups/cg/credentials)
 * [Data Protection Vocabularies and Controls Community Group](https://www.w3.org/groups/cg/dpvcg)
 * [Decentralized Identifier Working Group](https://www.w3.org/groups/wg/did)
