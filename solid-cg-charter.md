@@ -10,6 +10,7 @@ This group expects to follow the [W3C Web Platform Design Principles](https://ww
 
 The task of the group includes drafting and incubating proposed technical specifications for further standardization and prototyping and testing implementations.
 
+As per W3C [structures for groups](https://www.w3.org/groups/) and [W3C Process](https://www.w3.org/Consortium/Process/), the Community Group will maintain its focus on incubating technical reports and software implementations within the [Scope](#Scope) of the charter, with the aim to transfer mature works to be further worked on under W3C Recommendation Tracks.
 
 ## Scope
 
@@ -38,6 +39,7 @@ In general, topics that are “out of scope” involve anything not directly rel
 
 * The relative merits of various economic, political, or sociological theories.
 * Marketing or evangelizing of technologies not intended to be released under a license compatible with W3C specifications. Discussion of out-of-scope solutions should be limited to elaborating upon technological advantages/disadvantages.
+* Community Group's Work Items that have transitioned to a deliverable of an active Working Group.
 
 
 ## Work Items
