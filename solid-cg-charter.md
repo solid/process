@@ -12,6 +12,8 @@ The task of the group includes drafting and incubating proposed technical specif
 
 As per W3C [structures for groups](https://www.w3.org/groups/) and [W3C Process](https://www.w3.org/Consortium/Process/), the Community Group will maintain its focus on incubating technical reports and software implementations within the [Scope](#Scope) of the charter, with the aim to transfer mature works to be further worked on under W3C Recommendation Tracks.
 
+The Solid community with various stakeholders comes together under the umbrella of the Solid Project, and thus the W3C Solid Community Group interacts and coordinates with the Project's organisation as a whole to help inform the work with the needs of the wider community. 
+
 ## Scope
 
 In general, topics that are “in scope” include anything related to enabling affordances for decentralised Web applications to create and use data across decentralised storages in a way that is secure and privacy respecting for individuals and communities. Work items are intended to be compatible with or extend the [Architecture of the World Wide Web](https://www.w3.org/TR/webarch/). These topics include, but not limited to, the following:
