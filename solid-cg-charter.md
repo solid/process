@@ -173,3 +173,13 @@ For most Chair nominees, the primary affiliation is their employer and will matc
 * Members are not required to vote. Abstentions may be recorded; such abstentions shall not count towards the total number of votes when calculating the two-thirds majority.
 * A Chair who has been removed may stand for re-election.
 * Only one call for no-confidence, for one chair, may be in process at any given time. Priority shall be given to the first such vote to be publicly called. Any subsequent public calls must wait until any previous recalls are resolved, then must start with private communication as described above.
+
+## Amendments to this Charter
+
+* Chairs may propose amendments to the charter by asking for a call for principled objections to the new charter. If, after a period of two weeks, no principled objections have been presented by a current member of the group, the new charter is approved.
+* If a principled objection is posted to the mailing list or expressed in a regular call, then the chairs may either drop the amendment or proceed with a public vote.
+* A public vote for a new charter must be called by the chairs within two weeks of the principled objection.
+* Such a vote will be open for two weeks, with ballots cast via the group’s public mailing list. Each member of the group may cast one ballot, “yea” or “nay”. A new charter must receive “yea” on two-thirds of the votes cast in the ranked choice vote, and the total votes cast must represent 5% or greater of the group membership, to pass.
+* The group will use the amendment process for any substantive changes to the goals, scope, deliverables, decision process or rules for amending the charter.
+* Changes to the Coordination does not constitute an amendment to the charter that requires a rechartering vote.
+
