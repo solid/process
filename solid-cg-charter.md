@@ -6,8 +6,6 @@ The mission of the [Solid Community Group](https://www.w3.org/groups/cg/solid/) 
 
 The group will aim to give authors of technical reports and software implementers confidence that they can rely on the Solid ecosystem to deliver on the promise of interoperability based on open standards.
 
-This group expects to follow the [W3C Web Platform Design Principles](https://www.w3.org/TR/design-principles/) when considering and developing features.
-
 The task of the group includes drafting and incubating proposed technical specifications for further standardization and prototyping and testing implementations.
 
 As per W3C [structures for groups](https://www.w3.org/groups/) and [W3C Process](https://www.w3.org/Consortium/Process/), the Community Group will maintain its focus on incubating technical reports and software implementations within the [Scope](#Scope) of the charter, with the aim to transfer mature works to be further worked on under W3C Recommendation Tracks.
@@ -87,6 +85,7 @@ The group expects to follow the following W3C Recommendations, Guidelines, and N
 * [Architecture of the World Wide Web, Volume I](https://www.w3.org/TR/webarch/)
 * [Internationalization Technical Reports and Notes](http://www.w3.org/International/publications)
 * [QA Framework: Specification Guidelines](http://www.w3.org/TR/qaframe-spec/)
+* [W3C Web Platform Design Principles](https://www.w3.org/TR/design-principles/)
 
 
 ## Participation
