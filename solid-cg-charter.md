@@ -8,7 +8,7 @@ The aims of the [Solid project](https://solidproject.org/) are in line with thos
 
 The mission of the [Solid Community Group](https://www.w3.org/groups/cg/solid/) is to explore and describe the interoperability between different classes of products by using Web communication protocols, global identifiers, authentication and authorization mechanisms, data formats and shapes, notifications, and query interfaces.
 
-The group will aim to give authors of technical reports and software implementers confidence that they can rely on the Solid ecosystem to deliver on the promise of interoperability based on open standards.
+The group will aim to give authors of technical reports and software implementers confidence that they can rely on the Solid ecosystem to deliver on the promise of interoperability based on open standards. Towards that end, the group will operate with a mutual understanding between contributors to technical reports, test suite software maintainers, and software implementers by following a cooperation process for the advancement of the Solid platform based on the [Solid QA](https://solidproject.org/ED/qa) initiative.
 
 The task of the group includes drafting and incubating proposed technical specifications for further standardization and prototyping and testing implementations.
 
