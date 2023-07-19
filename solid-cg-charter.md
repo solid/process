@@ -14,7 +14,7 @@ The task of the group includes drafting and incubating proposed technical specif
 
 As per W3C [structures for groups](https://www.w3.org/groups/) and [W3C Process](https://www.w3.org/Consortium/Process/), the Community Group will maintain its focus on incubating technical reports and software implementations within the [Scope](#Scope) of the charter, with the aim to transfer mature works to be further worked on under W3C Recommendation Tracks.
 
-The Solid community with various stakeholders comes together under the umbrella of the Solid Project, and thus the W3C Solid Community Group interacts and coordinates with the Project's organisation as a whole to help inform the work with the needs of the wider community. 
+The Solid community with various stakeholders comes together under the umbrella of the [Solid Project](https://solidproject.org/), and thus the W3C Solid Community Group interacts and coordinates with the Project's organisation as a whole to help inform the work with the needs of the wider community. 
 
 ## Scope
 
@@ -72,6 +72,7 @@ The group will make good faith efforts to include the following communities in t
 * [Autonomous Agents on the Web Community Group](https://www.w3.org/groups/cg/webagents)
 * [Credentials Community Group](https://www.w3.org/groups/cg/credentials)
 * [Data Protection Vocabularies and Controls Community Group](https://www.w3.org/groups/cg/dpvcg)
+* [Dataset Exchange Working Group](https://www.w3.org/groups/wg/dx/)
 * [Decentralized Identifier Working Group](https://www.w3.org/groups/wg/did)
 * [LDP Next Community Group](https://www.w3.org/groups/cg/ldpnext)
 * [Notation 3 (N3) Community Group](https://www.w3.org/groups/cg/n3-dev)
@@ -96,7 +97,7 @@ The group expects to follow the following W3C Recommendations, Guidelines, and N
 
 The group encourages questions, comments and issues on its public mailing lists and document repositories, as described in [Communication](#Communication)
 
-The [Solid Technical Reports Contributing Guide](https://github.com/solid/specification/blob/main/CONTRIBUTING.md) is available to all members of the group that would like to make substantive contributions.
+The [Solid Technical Reports Contributing Guide](https://github.com/solid/specification/blob/main/CONTRIBUTING.md) is available to all participants of the group that would like to make substantive contributions.
 
 
 ## Communication
@@ -133,19 +134,19 @@ Anything in this charter that conflicts with requirements of the [Community and 
 
 Unless otherwise stated, the Community Group will follow or aim to be compatible with the [W3C Process](https://www.w3.org/Consortium/Process/).
 
-### Membership and Voting Rights
+### Participation and Voting Rights
 
-A general member of the Community Group can be an individual or a member on behalf of an organization. Consistent with W3C rules, in order to formally join the Community Group, a member must have a W3C account and push the “Join” button for the Community Group. However, W3C membership is not required to have a W3C account nor to join the Community Group.
+A general participant of the Community Group can be an individual representing themself or an organization. Consistent with W3C rules, in order to formally join the Community Group, a participant must have a W3C account and push the “Join” button for the Community Group. However, W3C membership is not required to have a W3C account nor to join the Community Group.
 
-Any member of the Community Group who has also accepted the [W3C Community Contributor License Agreement](https://www.w3.org/community/about/process/cla/) (CLA) as part of the enrollment process is eligible to vote on elections, charter amendments, and other community matters so long as they have completed enrollment by the date that the chairs announce those events to the public mailing list.
+Any participant of the Community Group who has also accepted the [W3C Community Contributor License Agreement](https://www.w3.org/community/about/process/cla/) (CLA) as part of the enrollment process is eligible to vote on elections, charter amendments, and other community matters so long as they have completed enrollment by the date that the chairs announce those events to the public mailing list.
 
-The Chairs will determine the list of eligible voting members as of the record date. The Chairs will make the list available to the Community Group two weeks before every election that requires voting members to be carefully identified, and the list will be verified by a third party such as a member of W3C staff or a neutral community member for which there are no strong objections. If the voting list is not ready, then the election date will be moved until two weeks after it is ready.  If the third party has reasonable objections, the election will be delayed until two weeks after such objections are resolved.
+The Chairs will determine the list of eligible voting participants as of the record date. The Chairs will make the list available to the Community Group two weeks before every election that requires voting participants to be carefully identified, and the list will be verified by a third party such as a member of W3C staff or a neutral community member for which there are no strong objections. If the voting list is not ready, then the election date will be moved until two weeks after it is ready.  If the third party has reasonable objections, the election will be delayed until two weeks after such objections are resolved.
 
 ### Chairs
 
 The [role of the Chair](https://www.w3.org/Guide/chair/role.html) is described in the [Art of Consensus](https://www.w3.org/Guide/).
 
-The Community Group members appoints (and re-appoints) Chairs for the group.
+The Community Group participants appoints (and re-appoints) Chairs for the group.
 
 The chair and the W3C Team Contact of the group SHOULD NOT be the same individual.
 
@@ -169,21 +170,21 @@ For most Chair nominees, the primary affiliation is their employer and will matc
 #### Removing a Chair
 
 * Chairs may be removed from their duties through a no-confidence vote.
-* If a member of the community group wishes to call for the recall of a chair–for any reason–that member must first privately communicate with the other chairs their desire and reason for doing so. Those chairs must give the member an opportunity to discuss their concerns with a goal of resolving them. If, after 30 days, the member feels their issues are not addressed, they may then escalate to a public call for a no confidence vote. If after 60 days, the member has not made that call for a no confidence vote, the matter is dropped; any further attempts to remove the chair in question must begin with a new round of private communication.
-* A public call for no confidence must be announced to the group email list stating the name of the chair subject to the recall and the names and emails of at least 3 members of the group who thereby call for a recall. This announcement must come from the member who initiated the private communication with the chairs to discuss their concerns. The other two supporting members MUST reply to that email on the public list within 48 hours to confirm their support for a no-confidence vote of the chair in question.
-* The other chairs must acknowledge the call for no confidence within 7 days of all three members declaring their support.
-* Within 30 days of a call for no confidence, the other chairs must hold a conference call at which the parties seeking no confidence will have an opportunity to present their case and members of the group will be able to ask clarifying questions. The chair in question shall not moderate this call. They will, however, have equal time to respond during that same call to the case made against them.
-* During the week following this conference call, members may cast votes in favor or against the recall by posting to the email list. If affirmative votes cast that week (in favor of recall) comprise greater than two-thirds of the total votes cast, then the chair in question is removed and the seat shall be treated as an interim vacancy.
-* Members are not required to vote. Abstentions may be recorded; such abstentions shall not count towards the total number of votes when calculating the two-thirds majority.
+* If a participant of the community group wishes to call for the recall of a chair–for any reason–that participant must first privately communicate with the other chairs their desire and reason for doing so. Those chairs must give the participant an opportunity to discuss their concerns with a goal of resolving them. If, after 30 days, the participant feels their issues are not addressed, they may then escalate to a public call for a no confidence vote. If after 60 days, the participant has not made that call for a no confidence vote, the matter is dropped; any further attempts to remove the chair in question must begin with a new round of private communication.
+* A public call for no confidence must be announced to the group email list stating the name of the chair subject to the recall and the names and emails of at least 3 participants of the group who thereby call for a recall. This announcement must come from the participant who initiated the private communication with the chairs to discuss their concerns. The other two supporting participants MUST reply to that email on the public list within 48 hours to confirm their support for a no-confidence vote of the chair in question.
+* The other chairs must acknowledge the call for no confidence within 7 days of all three participants declaring their support.
+* Within 30 days of a call for no confidence, the other chairs must hold a conference call at which the parties seeking no confidence will have an opportunity to present their case and participants of the group will be able to ask clarifying questions. The chair in question shall not moderate this call. They will, however, have equal time to respond during that same call to the case made against them.
+* During the week following this conference call, participants may cast votes in favor or against the recall by posting to the email list. If affirmative votes cast that week (in favor of recall) comprise greater than two-thirds of the total votes cast, then the chair in question is removed and the seat shall be treated as an interim vacancy.
+* Participants are not required to vote. Abstentions may be recorded; such abstentions shall not count towards the total number of votes when calculating the two-thirds majority.
 * A Chair who has been removed may stand for re-election.
 * Only one call for no-confidence, for one chair, may be in process at any given time. Priority shall be given to the first such vote to be publicly called. Any subsequent public calls must wait until any previous recalls are resolved, then must start with private communication as described above.
 
 ## Amendments to this Charter
 
-* Chairs may propose amendments to the charter by asking for a call for principled objections to the new charter. If, after a period of two weeks, no principled objections have been presented by a current member of the group, the new charter is approved.
+* Chairs may propose amendments to the charter by asking for a call for principled objections to the new charter. If, after a period of two weeks, no principled objections have been presented by a current participant of the group, the new charter is approved.
 * If a principled objection is posted to the mailing list or expressed in a regular call, then the chairs may either drop the amendment or proceed with a public vote.
 * A public vote for a new charter must be called by the chairs within two weeks of the principled objection.
-* Such a vote will be open for two weeks, with ballots cast via the group’s public mailing list. Each member of the group may cast one ballot, “yea” or “nay”. A new charter must receive “yea” on two-thirds of the votes cast in the ranked choice vote, and the total votes cast must represent 5% or greater of the group membership, to pass.
+* Such a vote will be open for two weeks, with ballots cast via the group’s public mailing list. Each participant of the group may cast one ballot, “yea” or “nay”. A new charter must receive “yea” on two-thirds of the votes cast in the ranked choice vote, and the total votes cast must represent 5% or greater of the group participants, to pass.
 * The group will use the amendment process for any substantive changes to the goals, scope, deliverables, decision process or rules for amending the charter.
 * Changes to the Coordination does not constitute an amendment to the charter that requires a rechartering vote.
 
