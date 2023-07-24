@@ -102,7 +102,7 @@ The [Solid Technical Reports Contributing Guide](https://github.com/solid/specif
 
 ## Communication
 
-Technical discussions for this Community Group are conducted in public: the meeting minutes from teleconference and face-to-face meetings will be archived for public review, and technical discussions and issue tracking will be conducted in a manner that can be both read and written to by the general public. Drafts of specifications will be developed in public repositories and may permit direct public contribution requests. The meetings themselves are open to public participation.
+Technical discussions for this Community Group are conducted in public: the meeting minutes from teleconference and face-to-face meetings will be archived for public review, and technical discussions and issue tracking will be conducted in a manner that can be both read and written to by the general public. Work items will be developed in public repositories and may permit direct public contribution requests. The meetings themselves are open to public participation.
 
 Most Solid Community Group teleconferences will focus on discussion of particular specifications and QA work, and will be conducted on an as-needed basis.
 
