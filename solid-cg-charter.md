@@ -10,9 +10,7 @@ The mission of the [Solid Community Group](https://www.w3.org/groups/cg/solid/) 
 
 The group will aim to give authors of technical reports and software implementers confidence that they can rely on the Solid ecosystem to deliver on the promise of interoperability based on open standards. Towards that end, the group will operate with a mutual understanding between contributors to technical reports, test suite software maintainers, and software implementers by following a cooperation process for the advancement of the Solid platform based on the [Solid QA](https://solidproject.org/ED/qa) initiative.
 
-The task of the group includes drafting and incubating proposed technical specifications for further standardization and prototyping and testing implementations.
-
-As per W3C [structures for groups](https://www.w3.org/groups/) and [W3C Process](https://www.w3.org/Consortium/Process/), the Community Group will maintain its focus on incubating technical reports and software implementations within the [Scope](#Scope) of the charter, with the aim to transfer mature works to be further worked on under W3C Recommendation Tracks.
+As per W3C [structures for groups](https://www.w3.org/groups/) and [W3C Process](https://www.w3.org/Consortium/Process/), the Community Group will maintain its focus on [incubating](https://www.w3.org/Guide/incubation) technical reports, prototyping software, and testing implementations within the [Scope](#Scope) of the charter, with the aim to advance mature works to the W3C Recommendation track in a Working Group.
 
 The Solid community with various stakeholders comes together under the umbrella of the [Solid Project](https://solidproject.org/), and thus the W3C Solid Community Group interacts and coordinates with the Project's organisation as a whole to help inform the work with the needs of the wider community. 
 
