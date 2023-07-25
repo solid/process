@@ -11,3 +11,4 @@ Below is a record of the Creators who are appointed by the Solid Director.
 | [Virginia Balseiro](https://github.com/VirginiaBalseiro) | https://virginia.solidcommunity.net/profile/card#me |
 | [Michiel de Jong](https://github.com/michielbdejong) | https://michielbdejong.solidcommunity.net/profile/card#me |
 | [Hadrian Zbarcea](https://github.com/hzbarcea) | https://hadrian.solidcommunity.net/profile/card#me |
+| [Giselle Wenban](https://github.com/gisellewenban) | https://id.inrupt.com/gisellewenban |
