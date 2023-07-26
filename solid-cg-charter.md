@@ -50,17 +50,7 @@ The Community Group current work items are listed at [Solid Technical Reports](h
 
 In general, all documents in scope of the group are welcome. If there are individuals who will commit to being editors for a document, the group should agree to accept it as a work item even if it conflicts with previous work adopted by the community. Newly-accepted work items that extend beyond the scope of this Community Group Charter will lead to a reconsideration of the Charter. The Community Group may vote to revise the Charter in order to include new work, or to determine that the proposed work is unrelated.
 
-### New Work Item Proposal
-
-* Propose topic to the group in a meeting.
-* Include publicly access link to abstract or draft.
-* List and link to owners (at least 1 person for advancing the work item and 1 other person).
-* Answer the following questions in order to document how you are meeting the requirements for a new work item at the W3C Solid Community Group. Please note if this work item supports certain programs or another government or private sector project.
-  1. Explain what you are trying to do using no jargon or acronyms.
-  2. How is it done today, and what are the limits of the current practice?
-  3. What is new in your approach and why do you think it will be successful?
-  4. How are you involving participants from multiple skill sets and global locations in this work item? (Skill sets: technical, design, product, marketing, anthropological, and UX. Global locations: Africa, the Americas, APAC, Europe, Middle East.)
-  5. What actions are you taking to make this work item accessible to a non-technical audience?
+[The work item process is outlined here](https://github.com/solid/specification/blob/main/CONTRIBUTING.md#work-items).
 
 
 ## Coordination
