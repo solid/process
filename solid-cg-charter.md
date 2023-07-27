@@ -147,7 +147,7 @@ For most Chair nominees, the primary affiliation is their employer and will matc
 * At any given time there may be up to three co-chairs, each holding one seat. Each seat defines a 2 year cycle of service.
 * In the first election after ratification of this charter, all seats will be up for election. Thereafter, in each year, a single election will be held to fill any vacant seats.
 * In the case of interim vacancy, the remaining chairs may appoint a co-chair for each open seat, hold an election for the same, or wait until the next election, at their discretion. If the chairs do not take any action, the seat will automatically be up for election in any cycle. Any such interim appointments or elections shall hold the seat until the end of its natural cycle.
-* There may be up to three Chairs at any given time. Reelection is restricted to two consecutive terms, with the possibility of being reelected after sitting out one election cycle.
+* Reelection is restricted to two consecutive terms, with the possibility of being reelected after sitting out one election cycle.
 * In an election year, current chairs will select a date for elections, which will set a nomination period of two weeks, starting 4 weeks prior to the election.
 * For an individual to run for election, they must self-nominate and make a statement regarding their background and why they are running, on the group mailing list.
 * The current chairs will host a conference call during the nomination period, during which candidates may make a statement and answer questions from the community.
