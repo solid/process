@@ -25,7 +25,7 @@ In general, topics that are “in scope” include anything related to enabling 
 * Data models that can be used in storages, e.g., policies, data privacy and rights, provenance records and auditing, error messages.
 * Profile descriptions for social and software agents.
 * Registering and finding data.
-* Data shapes.
+* Vocabularies and data shapes.
 * Access requests and grants.
 * Signing messages.
 * Federation.
