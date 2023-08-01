@@ -22,10 +22,12 @@ In general, topics that are “in scope” include anything related to enabling 
 * Authentication and authorization mechanisms.
 * Notifications.
 * Query interfaces.
-* Data models that can be used in storages, e.g., policies, data privacy and rights, provenance records and auditing, error messages.
+* (Meta)data models that can be used in storages, e.g., policies, data privacy and rights, provenance records and auditing, error messages.
 * Profile descriptions for social and software agents.
-* Registering and finding data.
-* Vocabularies and data shapes.
+* Data interoperability: sharing semantics of the content of resources, e.g., data shapes, data portability. 
+* Service interoperability: sharing semantics on the discovery of actions and access to resources, e.g, web service descriptions, provisioning, portability.
+* User interface affordances: the display of data and services in a view.
+* Vocabularies providing the necessary semantics for the mechanisms defined within the scope of this group.
 * Signing messages.
 * Federation, e.g., message passing, trust, data cascading.
 * Evaluation tools (software programs or online services) that help determine implementation conformance.
