@@ -28,7 +28,7 @@ In general, topics that are “in scope” include anything related to enabling 
 * Vocabularies and data shapes.
 * Access requests and grants.
 * Signing messages.
-* Federation.
+* Federation, e.g., message passing, trust, data cascading.
 * Evaluation tools (software programs or online services) that help determine implementation conformance.
 * Publishing test reports and communicating the level of adoption of technical reports.
 
