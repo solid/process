@@ -141,6 +141,10 @@ Participation as Chair afforded to the specific individuals elected or appointed
 
 For most Chair nominees, the primary affiliation is their employer and will match their affiliation in the W3C database. For contractors and independents, this will normally be their contracting company or their independent status; in some cases (e.g. where a consultant is consulting for only one organization) this may be the organization for whom the nominee is consulting.
 
+Chair nominees and elected chairs per term MUST have unique affiliations.
+
+An affiliation MAY submit one ballot that ranks candidates in their preferred order.
+
 #### Choosing a Chair
 
 * At any given time there may be up to three co-chairs, each holding one seat. Each seat defines a 2 year cycle of service.
