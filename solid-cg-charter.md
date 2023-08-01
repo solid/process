@@ -1,7 +1,7 @@
 # W3C Solid Community Group Charter
 
 * Created: 2023-07-04
-* Modified: 2023-07-10
+* Modified: 2023-08-01
 * Version: 1.0
 
 The aims of the [Solid project](https://solidproject.org/) are in line with those of the Web itself: empowerment towards "an equitable, informed and interconnected society" [[ethical-web-principles](https://www.w3.org/TR/ethical-web-principles/)]. Solid adds to existing Web standards to realise a space where individuals and communities can maintain their autonomy, control their data and privacy, and choose applications and services to fulfill their needs.
