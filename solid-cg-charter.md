@@ -26,7 +26,6 @@ In general, topics that are “in scope” include anything related to enabling 
 * Profile descriptions for social and software agents.
 * Registering and finding data.
 * Vocabularies and data shapes.
-* Access requests and grants.
 * Signing messages.
 * Federation, e.g., message passing, trust, data cascading.
 * Evaluation tools (software programs or online services) that help determine implementation conformance.
