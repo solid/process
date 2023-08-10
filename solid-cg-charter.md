@@ -115,7 +115,21 @@ This charter is written in accordance with the [W3C Process Document (Section 5.
 
 ## License
 
-The group will use the MIT license for all its work items.
+The group will use [W3C copyright licenses](https://www.w3.org/copyright/) for all its work items except any software code artifacts, for which the group will use the [MIT license](https://opensource.org/license/mit/).
+
+- Per W3C Process, all contributions to the group fall under the [W3C Community Contributor License Agreement](https://www.w3.org/community/about/process/cla/) (CLA). 
+
+- When finalizing a W3C Community Group Draft Report towards a W3C Community Group Final Report, e.g., to transition the report to a Working Group, the group will contact all actual contributors to the report to secure their commitment to the [W3C Final Specification Agreement](https://www.w3.org/community/about/process/final/) (FSA). 
+
+  Note that per W3C Process, all Technical Reports a Working Group publishes will fall under the [W3C Document License](https://www.w3.org/copyright/document-license-2023/).
+
+- In accordance with the CLA, the group licenses all its software artifacts under the [MIT license](https://opensource.org/license/mit/). 
+
+  Note that per W3C Process, all software artifacts that become part of a Working Group's Technical Reports will fall under the [W3C Software License](https://www.w3.org/copyright/software-license-2023/), and any W3C Authoritative Test Suite a Working Group publishes will fall under a [dual license](https://www.w3.org/copyright/test-suites-licenses/) combining the [W3C Test Suite License](https://www.w3.org/copyright/test-suite-license-2023/) and the [W3C's 3-clause BSD license](https://www.w3.org/copyright/3-clause-bsd-license-2008/).
+
+The group strongly encourages its participants, as well as other stakeholders in the Solid ecosystem, to use the [MIT license](https://opensource.org/license/mit/), or another [OSI approved license](https://opensource.org/license/), for any open source software conforming to Solid specifications.
+
+Derivations from the clauses in this section can still be added to this charter, pending the discussion under [issue 327](https://github.com/solid/process/issues/327) of the [solid/process](https://github.com/solid/process) repository on GitHub, until at the latest the day before this charter goes into effect, viz. 2023-08-31. After the last amendment, or at the end of that day, this paragraph will be removed from the charter.
 
 
 ## Community Group Process
