@@ -129,7 +129,6 @@ The group will use [W3C copyright licenses](https://www.w3.org/copyright/) for a
 
 The group strongly encourages its participants, as well as other stakeholders in the Solid ecosystem, to use the [MIT license](https://opensource.org/license/mit/), or another [OSI approved license](https://opensource.org/license/), for any open source software conforming to Solid specifications.
 
-Deviations from the clauses in this section can still be added to this charter, pending the discussion under [issue 327](https://github.com/solid/process/issues/327) of the [solid/process](https://github.com/solid/process) repository on GitHub, until at the latest the day before this charter goes into effect, viz. 2023-08-31. After the last amendment, or at the end of that day, this paragraph will be removed from the charter.
 
 
 ## Community Group Process
