@@ -1,7 +1,7 @@
 # W3C Solid Community Group Charter
 
 * Created: 2023-07-04
-* Modified: 2023-08-01
+* Modified: 2023-09-06
 * Effective: 2023-09-01
 * Version: 1.0
 
