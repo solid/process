@@ -121,11 +121,11 @@ The group will use [W3C copyright licenses](https://www.w3.org/copyright/) for a
 
 - When finalizing a W3C Community Group Draft Report towards a W3C Community Group Final Report, e.g., to transition the report to a Working Group, the group will contact all actual contributors to the report to secure their commitment to the [W3C Final Specification Agreement](https://www.w3.org/community/about/process/final/) (FSA). 
 
-  Note that per W3C Process, all Technical Reports a Working Group publishes will fall under the [W3C Document License](https://www.w3.org/copyright/document-license-2023/).
+  Note that the intention of this group is to propose its documents as Technical Reports to a Working Group, where the published documents will fall under the [W3C Document License](https://www.w3.org/copyright/document-license-2023/).
 
-- In accordance with the CLA, the group licenses all its software artifacts under the [MIT license](https://opensource.org/license/mit/). 
+- In accordance with the CLA, the group licenses all its software artifacts under the [W3C Software license](https://www.w3.org/copyright/software-license-2023/), but without the notification obligation. 
 
-  Note that per W3C Process, all software artifacts that become part of a Working Group's Technical Reports will fall under the [W3C Software License](https://www.w3.org/copyright/software-license-2023/), and any W3C Authoritative Test Suite a Working Group publishes will fall under a [dual license](https://www.w3.org/copyright/test-suites-licenses/) combining the [W3C Test Suite License](https://www.w3.org/copyright/test-suite-license-2023/) and the [W3C's 3-clause BSD license](https://www.w3.org/copyright/3-clause-bsd-license-2008/).
+  Note that the intention of this group is to propose its software artifacts and code snippets included in documents to be part of a Working Group's Technical Reports, where they will fall under the [W3C Software License](https://www.w3.org/copyright/software-license-2023/), but without notification obligation; any W3C Authoritative Test Suite a Working Group publishes will fall under a [dual license](https://www.w3.org/copyright/test-suites-licenses/) combining the [W3C Test Suite License](https://www.w3.org/copyright/test-suite-license-2023/) and the [W3C's 3-clause BSD license](https://www.w3.org/copyright/3-clause-bsd-license-2008/).
 
 The group strongly encourages its participants, as well as other stakeholders in the Solid ecosystem, to use the [MIT license](https://opensource.org/license/mit/), or another [OSI approved license](https://opensource.org/license/), for any open source software conforming to Solid specifications.
 
