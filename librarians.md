@@ -5,7 +5,6 @@
 | Ruben T | @rubensworks |
 | Pieter Hayvaer | @pheyvaer |
 | --------- | @mielvds |
-| --------- | @RubenVerborgh |
 
 
 

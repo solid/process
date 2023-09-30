@@ -98,7 +98,6 @@ Ensuring the interoperability of data as it is read and written by different use
 - [Max Dor](https://github.com/maxidorius) <[max@dorius.io](mailto:max@dorius.io)> (@maxidorius)
 - [James Schoening](https://github.com/jimschoening) <[james.r.schoening.civ@mail.mil](mailto:james.r.schoening.civ@mail.mil)> (@jimschoening)
 - [Jose Emilio Labra Gayo](http://labra.weso.es) <[jelabra@gmail.com](mailto:jelabra@gmail.com)> (@labra)
-- [Ruben Verborgh](https://github.com/RubenVerborgh) <[Ruben.Verborgh@UGent.be](mailto:Ruben.Verborgh@UGent.be)>(@RubenVerborgh)
 - [Kjetil Kjernsmo](https://github.com/orgs/solid/people/kjetilk) <[kjetil@inrupt.com](mailto:kjetil@inrupt.com)> (@kjetilk)
 - [Jason Reynolds](https://github.com/orgs/solid/people/JKReynolds) <[jason.reynolds@polarisalpha.com](mailto:jason.reynolds@polarisalpha.com)> (@JKReynolds)
 - [Simon Shapiro](https://github.com/SimonShapiro) <[simon.m.shapiro@gmail.com](mailto:simon.m.shapiro@gmail.com)> (@SimonShapiro)
