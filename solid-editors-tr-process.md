@@ -1,4 +1,16 @@
-﻿# Solid Editors’ Technical Report Development Process
+﻿<details open="">
+  <summary>Document Status</summary>
+  <dl>
+    <dt>Modified</dt>
+    <dd>2023-11-14</dd>
+    <dt>Reason</dt>
+    <dd>This document is no longer effective and is no longer being updated here. For the latest information on the <a href="https://www.w3.org/groups/cg/solid/">W3C Solid Community Group</a>, please refer to its <a href="https://github.com/w3c-cg/solid/">repository</a>, <a href="https://www.w3.org/community/solid/charter/">charter</a>, and <a href="https://github.com/w3c-cg/solid/blob/main/CONTRIBUTING.md">contributing guidelines</a>.</dd>
+  </dl>
+</details>
+
+---
+
+# Solid Editors’ Technical Report Development Process
 
 ## Introduction
 
@@ -75,7 +87,7 @@ set; in such case, the Editors may decide to group them.
 Produce a GitHub Pull Request to incorporate a formal text into a
 specification.
 
-##### Entry 
+##### Entry
 
 An issue can enter the drafting phase if either of the following is met:
 
