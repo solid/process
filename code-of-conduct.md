@@ -115,9 +115,9 @@ All reports of violations will be reviewed and investigated promptly and fairly.
 All community members are obligated to respect the privacy and security of the
 reporter of any incident. Reports will be handled under confidentiality.
 
-To join the committee, individuals can initiate the process by reaching out to
-the committee. Upon receiving initial approval, they can proceed by submitting
-a pull request to be included in the committee's member list.
+Individuals who wish to join the committee can initiate the process by reaching
+out to any existing member. Upon initial approval, they can submit a pull request
+to be included in the committee's member list.
 
 To leave the committee, individuals can submit a pull request to be removed
 from the committee's member list.
