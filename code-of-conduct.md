@@ -106,6 +106,8 @@ reported to the Code of Conduct Committee by contacting any of its members:
   &lt;alain.bourgeois10@gmail.com&gt;
 * [Sarven Capadisli](https://github.com/csarven)
   &lt;info+solid+coc@csarven.ca&gt;
+* [April Daly](https://github.com/LabObjects)
+  &lt;adaly@labobjects.com&gt;
 
 Committee members will recuse themselves if they are the alleged harasser or the
 victim of a private harassment incident.
