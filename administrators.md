@@ -5,8 +5,4 @@ Below is a listing of [Solid Administrators](README.md#administration). Administ
 | Name      | WebID      |
 | --------- | ---------- |
 | [Tim Berners-Lee](https://github.com/timbl) | [WebID](https://www.w3.org/People/Berners-Lee/card#i) |
-| [Justin Bingham](https://github.com/justinwb) | [WebID](https://justin.inrupt.net/profile/card#me) | 
-| [Jackson Morgan](https://github.com/jaxoncreed) | [WebId](https://jackson.solidcommunity.net/profile/card#me) |
 | [Alain Bourgeois](https://github.com/bourgeoa) | [WebId](https://bourgeoa.solidcommunity.net/profile/card#me) |
-| [Barath Raghavan (Release Manager)](https://github.com/barath) | [WebId](https://barath.solidcommunity.net/profile/card#me) |
-| [Kelly O'Brien (Solid World Coordination Administrator)](https://github.com/InruptKelly) | [WebID](https://kellyo.inrupt.net/profile/card#me) |
