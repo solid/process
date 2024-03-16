@@ -136,7 +136,7 @@ This charter is written in accordance with Section 3.4, Votes of the W3C Process
 
 ## Licensing
 
-The panel will use the MIT license for all its deliverables.
+The panel will use the MIT license or a suitable W3C License for its deliverables.
 
 ## Patent Policy
 
