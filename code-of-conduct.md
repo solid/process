@@ -12,25 +12,21 @@ sexual identity and orientation.
 We pledge to act and interact in ways that contribute to an open, welcoming,
 diverse, inclusive, and healthy community.
 
-In addition to this Code of Conduct, we adhere to the [Positive Work Environment
+We adhere to the [Positive Work Environment
 at W3C: Code of Ethics and Professional
-Conduct](https://www.w3.org/Consortium/cepc/).
+Conduct](https://www.w3.org/Consortium/cepc/). As stated [here]([)](https://forum.solidproject.org/t/code-of-conduct-committee/8150/2?u=jeswr)
 
 ## About this Code of Conduct
 
-This Code of Conduct is maintained by the Code of Conduct Committee.
+The Positive Work Environment Community Group maintains the Code of Conduct under delegation from the Advisory Board.
 
-Changes to this document need to be approved by the Code of Conduct Committee
-and the Solid Director.
+If you have any concerns or issues with the Code of Conduct, they can be logged at any time in the [PWE GitHub repository](https://github.com/w3c/PWETF/)).
 
-If you have any questions about this document, please direct them to the Code of
-Conduct Committee.
-
-If you experience a situation that is not covered by this Code of Conduct,
-please get in touch with the Code of Conduct Committee.
+If you experience a situation that this Code of Conduct does not cover,
+Please get in touch with the Code of Conduct Committee.
 
 If you would like to propose changes or improvements to this document, please
-create an issue and explain the changes you would like to see for consideration
+Create an issue and explain the changes you would like to see for consideration
 of the Code of Conduct Committee.
 
 ## Standards of Behavior
@@ -76,8 +72,8 @@ Instances of Code of Conduct violations will be handled by the Code of Conduct
 Committee.
 
 The Code of Conduct Committee are responsible for clarifying and enforcing our
-standards of acceptable behavior and will take appropriate and fair corrective
-action in response to any behavior that they deem inappropriate, threatening,
+standards of acceptable behavior and will take appropriate and fair corrective action
+action in response to any behaviour that they deem inappropriate, threatening,
 offensive, or harmful.
 
 The Code of Conduct Committee have the right and responsibility to remove, edit,
@@ -94,20 +90,69 @@ spaces. Examples of representing our community include using an official e-mail
 address, posting via an official social media account, or acting as an appointed
 representative at an online or offline event.
 
+**Channels in scope:**
+**solid-odi**
+Sharing updates, ideas, and questions directly relevant to the ODI's work on Solid. Collaborating on projects, initiatives, and research that further the ODI’s mission in the Solid ecosystem.
+
+**solid/solidos**
+For conversation directly relating to the development of, or questions about, the Solid Operating System (https://github.com/SolidOS/solidos).
+
+**solid/app-development**
+Topics related to application development for Solid. If this channel appeals to you, you may also be interested in joining the “Solid Practitioners” group.
+
+**solid/specification**
+For work developing the Solid Community Group Specification(s). Applicable topics include:
+Work on the specification
+Application developers providing feedback on the specification
+Application developers are asking questions about the specification
+
+**Solid Practitioners**
+A communication channel for the Solid Practitioners group https://github.com/solid-contrib/practitioners
+
+**solid/solidcommunity.net**
+Topics related to the solidcommunity.net server - a hosted Solid Server now maintained by the Open Data Institute. Outages should be reported to:
+[Solid technical support](https://service.theodi.org/help/1476250723)
+
+**CommunitySolidServer/community**
+Discussion related to the Community Solid Server. Questions for maintainers should be directed to the GitHub discussions page.
+
+**linkeddata/chat**
+General conversations about linked data topics and tooling that do not specifically relate to Solid.
+
+**linkeddata/rdflib.js**
+Topics related to (https://github.com/linkeddata/rdflib.js)
+
+**solid/test-suite**
+Discussion related to the test suites for the Solid Community Group specification. The current test suites are 
+
+**solid/node-solid-server**
+Discussion related to the Node Solid Server.
+
+**Activitypub-interop**
+Discussion for interoperability between Solid and the ActivityPub specification.
+
+**Solid**
+General discussion related to the Solid project.
+
+**The following channels are deprecated and should not be used:**
+
+solid/team
+
+solid/community-server
+
+solid/ux-research
+
+solid/solid-spec
+
+solid/authorization-panel
+
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
+Instances of abusive, harassing, or otherwise unacceptable behaviour may be
 reported to the Code of Conduct Committee by contacting any of its members:
 
-* [Osmar Olivo](https://github.com/oolivo) &lt;oz@inrupt.com&gt;
-* [Virginia Balseiro](https://github.com/VirginiaBalseiro)
-  &lt;info@virginiabalseiro.com&gt;
-* [Alain Bourgeois](https://github.com/bourgeoa)
-  &lt;alain.bourgeois10@gmail.com&gt;
-* [Sarven Capadisli](https://github.com/csarven)
-  &lt;info+solid+coc@csarven.ca&gt;
-* [April Daly](https://github.com/LabObjects)
-  &lt;adaly@labobjects.com&gt;
+* [Kwaku Kuffour]() &lt;solid-ombuds@theodi.org&gt;
+
 
 Committee members will recuse themselves if they are the alleged harasser or the
 victim of a private harassment incident.
@@ -167,14 +212,14 @@ lead to a temporary or permanent ban.
 sustained inappropriate behavior.
 
 **Consequence**: A temporary ban from any sort of interaction or public
-communication with the community for a specified period of time. No public or
+communication with the community for a specified period. No public or
 private interaction with the people involved, including unsolicited interaction
 with those enforcing the Code of Conduct, is allowed during this period.
 Violating these terms will lead to a permanent ban.
 
 ### 4. Permanent Ban
 
-**Community Impact**: Demonstrating a pattern of violation of community
+**Community Impact**: Demonstrating a pattern of violation of the community
 standards, including sustained inappropriate behavior, harassment of an
 individual, or aggression toward or disparagement of classes of individuals.
 
@@ -182,24 +227,10 @@ individual, or aggression toward or disparagement of classes of individuals.
 community.
 
 ## Attribution
+Large portions of the text for this policy: [Positive Work Environment at W3C: Code of Ethics and ProfessionalConduct](https://www.w3.org/Consortium/cepc/) are taken from the following resources:
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 2.1, available at
-[https://www.contributor-covenant.org/version/2/1/code_of_conduct.html][v2.1].
+[W3C Code of Ethics and Professional Conduct 2014](https://www.w3.org/Consortium/cepc/cepc-20141022/Overview.html).
 
-Community Impact Guidelines were inspired by [Mozilla's code of conduct
-enforcement ladder][mozilla coc].
+[Geek Feminism Community anti-harassment/Policy](https://geekfeminism.wikia.org/wiki/Community_anti-harassment/Policy).
 
-For guidelines on how to give constructive and positive feedback, please see
-[How to give better
-feedback](https://www.virginiabalseiro.com/blog/feedback.html).
-
-For answers to common questions about this code of conduct, see the FAQ at
-[https://www.contributor-covenant.org/faq][faq]. Translations are available at
-[https://www.contributor-covenant.org/translations][translations].
-
-[homepage]: https://www.contributor-covenant.org
-[v2.1]: https://www.contributor-covenant.org/version/2/1/code_of_conduct.html
-[mozilla coc]: https://github.com/mozilla/diversity
-[faq]: https://www.contributor-covenant.org/faq
-[translations]: https://www.contributor-covenant.org/translations
+For guidelines on how to give constructive and positive feedback, please see [How to give better feedback](https://www.virginiabalseiro.com/blog/feedback.html).
