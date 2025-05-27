@@ -63,13 +63,13 @@ Discussion related to the Community Solid Server. Questions for maintainers shou
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behaviour should be reported to the [ODI Ombuds](mailto:solid-ombuds@theodi.org). 
+Instances of abusive, harassing, or otherwise unacceptable behaviour as defined in the [W3C Code of Conduct]([https://](https://www.w3.org/policies/code-of-conduct/)) should be reported to the [ODI Ombuds](mailto:solid-ombuds@theodi.org). 
 
 All reports of violations will be reviewed and investigated promptly and fairly and handled under confidentiality.
 
 ## Enforcement Guidelines
 
-The Code of Conduct Committee will follow these Community Impact Guidelines in
+The Code of Conduct Committee, made up of one or more ODI Solid Ombuds, will follow these Community Impact Guidelines in
 determining the consequences for any action they deem in violation of this Code
 of Conduct:
 
@@ -121,6 +121,19 @@ standards, including sustained inappropriate behavior, harassment of an
 individual, or aggression toward or disparagement of classes of individuals.
 
 **Consequence**: A permanent ban from any sort of public interaction within then community.
+
+## Three Strike System
+To promote accountability and allow community members to correct behaviour before facing serious consequences.
+
+### Strike 1: Warning
+For the first time or a minor violation of a code of conduct.
+
+### Strike 2: Final warning
+Repeated violation or a more serious infraction.
+
+### Strike 3: Consequences / Removal
+Final action due to repeated or severe misconduct.
+
 
 ## Attribution
 Large portions of the text for this policy: [Positive Work Environment at W3C: Code of Ethics and ProfessionalConduct](https://www.w3.org/Consortium/cepc/) are taken from the following resources:
